@@ -1,0 +1,1507 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus>
+  <series id="HGB_1_009" name="St. Alban-Teich / St. Albanteich">
+    <collection id="HGB_1_009_001">
+      <metadata>
+        <dossiertype>Teich</dossiertype>
+        <location>POINT(2611721.366300899 1267284.028083209)</location>
+        <address>St. Alban-Teich</address>
+        <dossier_history>
+          <phase iteration="1">
+            <validity_period from="1450" to="1780"/>
+          </phase>
+        </dossier_history>
+      </metadata>
+      <document id="3a5c67ac-e793-41a4-9ab1-a8c467733705_20260528">
+        <metadata>
+          <street_id>HGB_1_009</street_id>
+          <dossier_id>HGB_1_009_001</dossier_id>
+          <year>1450</year>
+          <source>St. Alban</source>
+          <language>german</language>
+          <checked_by_gpt>true</checked_by_gpt>
+          <text>Raths Urkunde. Der Probst und die Müllere zu sant Alban und Hanns Rot Ritter, uff dise Zyt Burgermeister zu Albanter Basel, schliessen einen Vertrag betreffend den Wasser, fluss der Birse by sant Jacob, der in uff dise Zyt als gestanden ist, dz den benanten Mülleren und andern, die dem Lehen uff dem Liche zu St. Alban, hand, dem Wasser durch den Siche harin in die Stat komen mag, es were denn, dz das obendig der Gibsgruben by Brüglingen den alten Surt abe geErichtet wurde, dawider sich aber Herr Hanns Rote gewidert.</text>
+          <pages>
+            <page nr="3">https://files.transkribus.eu/Get?fileType=view&amp;id=ARJBXMIDQVFEJDZSRFRELVVS</page>
+          </pages>
+        </metadata>
+        <text>
+          <token token_id="0">Raths</token>
+          <token token_id="1">Urkunde</token>
+          <token token_id="2">.</token>
+          <token token_id="3">Der</token>
+          <token token_id="4">Probst</token>
+          <token token_id="5">und</token>
+          <token token_id="6">die</token>
+          <token token_id="7">Müllere</token>
+          <token token_id="8">zu</token>
+          <token token_id="9">sant</token>
+          <token token_id="10">Alban</token>
+          <token token_id="11">und</token>
+          <token token_id="12">Hanns</token>
+          <token token_id="13">Rot</token>
+          <token token_id="14">Ritter</token>
+          <token token_id="15">,</token>
+          <token token_id="16">uff</token>
+          <token token_id="17">dise</token>
+          <token token_id="18">Zyt</token>
+          <token token_id="19">Burgermeister</token>
+          <token token_id="20">zu</token>
+          <token token_id="21">Albanter</token>
+          <token token_id="22">Basel</token>
+          <token token_id="23">,</token>
+          <token token_id="24">schliessen</token>
+          <token token_id="25">einen</token>
+          <token token_id="26">Vertrag</token>
+          <token token_id="27">betreffend</token>
+          <token token_id="28">den</token>
+          <token token_id="29">Wasser</token>
+          <token token_id="30">,</token>
+          <token token_id="31">fluss</token>
+          <token token_id="32">der</token>
+          <token token_id="33">Birse</token>
+          <token token_id="34">by</token>
+          <token token_id="35">sant</token>
+          <token token_id="36">Jacob</token>
+          <token token_id="37">,</token>
+          <token token_id="38">der</token>
+          <token token_id="39">in</token>
+          <token token_id="40">uff</token>
+          <token token_id="41">dise</token>
+          <token token_id="42">Zyt</token>
+          <token token_id="43">als</token>
+          <token token_id="44">gestanden</token>
+          <token token_id="45">ist</token>
+          <token token_id="46">,</token>
+          <token token_id="47">dz</token>
+          <token token_id="48">den</token>
+          <token token_id="49">benanten</token>
+          <token token_id="50">Mülleren</token>
+          <token token_id="51">und</token>
+          <token token_id="52">andern</token>
+          <token token_id="53">,</token>
+          <token token_id="54">die</token>
+          <token token_id="55">dem</token>
+          <token token_id="56">Lehen</token>
+          <token token_id="57">uff</token>
+          <token token_id="58">dem</token>
+          <token token_id="59">Liche</token>
+          <token token_id="60">zu</token>
+          <token token_id="61">St</token>
+          <token token_id="62">.</token>
+          <token token_id="63">Alban</token>
+          <token token_id="64">,</token>
+          <token token_id="65">hand</token>
+          <token token_id="66">,</token>
+          <token token_id="67">dem</token>
+          <token token_id="68">Wasser</token>
+          <token token_id="69">durch</token>
+          <token token_id="70">den</token>
+          <token token_id="71">Siche</token>
+          <token token_id="72">harin</token>
+          <token token_id="73">in</token>
+          <token token_id="74">die</token>
+          <token token_id="75">Stat</token>
+          <token token_id="76">komen</token>
+          <token token_id="77">mag</token>
+          <token token_id="78">,</token>
+          <token token_id="79">es</token>
+          <token token_id="80">were</token>
+          <token token_id="81">denn</token>
+          <token token_id="82">,</token>
+          <token token_id="83">dz</token>
+          <token token_id="84">das</token>
+          <token token_id="85">obendig</token>
+          <token token_id="86">der</token>
+          <token token_id="87">Gibsgruben</token>
+          <token token_id="88">by</token>
+          <token token_id="89">Brüglingen</token>
+          <token token_id="90">den</token>
+          <token token_id="91">alten</token>
+          <token token_id="92">Surt</token>
+          <token token_id="93">abe</token>
+          <token token_id="94">geErichtet</token>
+          <token token_id="95">wurde</token>
+          <token token_id="96">,</token>
+          <token token_id="97">dawider</token>
+          <token token_id="98">sich</token>
+          <token token_id="99">aber</token>
+          <token token_id="100">Herr</token>
+          <token token_id="101">Hanns</token>
+          <token token_id="102">Rote</token>
+          <token token_id="103">gewidert</token>
+          <token token_id="104">.</token>
+        </text>
+        <spans>
+          <span id="0" start="3" end="4" element="reference" class="per" confidence="0.8" text="Der Probst" numerus="sgl" specificity="spc" subclass="">
+            <span id="11" start="4" end="4" element="head" class="occ" confidence="0.98" text="Probst" norm="probst" OhdAB="https://database.factgrid.de/wiki/Item:Q694926"/>
+          </span>
+          <span id="1" start="6" end="10" element="reference" class="org" confidence="0.93" text="die Müllere zu sant Alban" numerus="sgl" specificity="spc" subclass="">
+            <span id="12" start="7" end="10" element="head" class="nam" confidence="0.77" text="Müllere zu sant Alban" norm="St. Alban"/>
+          </span>
+          <span id="2" start="12" end="14" element="reference" class="per" confidence="1.0" text="Hanns Rot Ritter" numerus="sgl" specificity="spc" subclass="">
+            <span id="13" start="12" end="13" element="head" class="nam" confidence="1.0" text="Hanns Rot"/>
+            <span id="14" start="14" end="14" element="appo" class="title" confidence="0.99" text="Ritter">
+              <span id="15" start="14" end="14" element="head" class="title" confidence="1.0" text="Ritter"/>
+            </span>
+          </span>
+          <span id="3" start="17" end="22" element="reference" class="per" confidence="0.85" text="dise Zyt Burgermeister zu Albanter Basel" numerus="sgl" specificity="spc" subclass="">
+            <span id="16" start="19" end="19" element="head" class="occ" confidence="0.54" text="Burgermeister" norm="bürgermeister" OhdAB="https://database.factgrid.de/wiki/Item:Q686058"/>
+            <span id="17" start="20" end="22" element="attr" class="loc" confidence="0.61" text="zu Albanter Basel">
+              <span id="18" start="21" end="22" element="reference" class="gpe-loc" confidence="0.96" text="Albanter Basel" numerus="sgl" specificity="spc" subclass="">
+                <span id="19" start="21" end="22" element="head" class="nam" confidence="1.0" text="Albanter Basel"/>
+              </span>
+            </span>
+          </span>
+          <span id="4" start="24" end="24" element="trigger" class="other" confidence="0.88" text="schliessen"/>
+          <span id="5" start="28" end="45" element="reference" class="fac" confidence="0.71" text="den Wasser , fluss der Birse by sant Jacob , der in uff dise Zyt als gestanden ist" numerus="sgl" specificity="spc" subclass="">
+            <span id="20" start="29" end="29" element="head" class="type" confidence="1.0" text="Wasser" norm="Wasser"/>
+            <span id="21" start="31" end="45" element="attr" class="loc" confidence="0.73" text="fluss der Birse by sant Jacob , der in uff dise Zyt als gestanden ist">
+              <span id="22" start="32" end="33" element="reference" class="loc" confidence="0.73" text="der Birse" numerus="sgl" specificity="spc" subclass="">
+                <span id="24" start="33" end="33" element="head" class="nam" confidence="0.98" text="Birse"/>
+              </span>
+              <span id="23" start="35" end="36" element="reference" class="fac" confidence="0.67" text="sant Jacob" numerus="sgl" specificity="spc" subclass="">
+                <span id="25" start="35" end="36" element="head" class="nam" confidence="1.0" text="sant Jacob"/>
+              </span>
+            </span>
+          </span>
+          <span id="6" start="48" end="50" element="reference" class="org" confidence="0.48" text="den benanten Mülleren" numerus="sgl" specificity="spc" subclass="">
+            <span id="26" start="50" end="50" element="head" class="nam" confidence="0.95" text="Mülleren"/>
+          </span>
+          <span id="7" start="55" end="63" element="reference" class="fac" confidence="0.58" text="dem Lehen uff dem Liche zu St . Alban" numerus="sgl" specificity="spc" subclass="">
+            <span id="27" start="56" end="56" element="head" class="type" confidence="1.0" text="Lehen" norm="Lehen"/>
+            <span id="28" start="57" end="63" element="attr" class="loc" confidence="0.95" text="uff dem Liche zu St . Alban">
+              <span id="29" start="58" end="59" element="reference" class="loc" confidence="0.95" text="dem Liche" numerus="sgl" specificity="spc" subclass="">
+                <span id="31" start="59" end="59" element="head" class="type" confidence="0.85" text="Liche"/>
+              </span>
+              <span id="30" start="61" end="63" element="reference" class="fac" confidence="0.74" text="St . Alban" numerus="sgl" specificity="spc" subclass="vorstadt">
+                <span id="32" start="61" end="63" element="head" class="nam" confidence="0.98" text="St . Alban"/>
+              </span>
+            </span>
+          </span>
+          <span id="8" start="67" end="95" element="other" class="other" confidence="0.72" text="dem Wasser durch den Siche harin in die Stat komen mag , es were denn , dz das obendig der Gibsgruben by Brüglingen den alten Surt abe geErichtet wurde"/>
+          <span id="9" start="100" end="102" element="reference" class="per" confidence="0.98" text="Herr Hanns Rote" numerus="sgl" specificity="spc" subclass="">
+            <span id="33" start="101" end="102" element="head" class="nam" confidence="1.0" text="Hanns Rote"/>
+          </span>
+          <span id="10" start="103" end="103" element="trigger" class="other" confidence="0.88" text="gewidert"/>
+        </spans>
+        <relations>
+          <relation from="6" to="1" class="coref"/>
+          <relation from="9" to="2" class="coref"/>
+        </relations>
+        <eventGroups>
+          <eventGroup event_id="0" class="settlement" start="3" end="95" ref="" type="event" tense="unk" polarity="unk" modality="unk">
+            <trigger ref="4" text="schliessen" start="24" end="24"/>
+            <event event_id="0.0">
+              <role role="party2" confidence="0.75" ref="2" text="Hanns Rot Ritter"/>
+              <role role="party2" confidence="0.34" ref="3" text="dise Zyt Burgermeister zu Albanter Basel"/>
+              <role role="subject" confidence="0.77" ref="5" text="den Wasser , fluss der Birse by sant Jacob , der in uff dise Zyt als gestanden ist"/>
+              <role role="subject" confidence="0.49" ref="8" text="dem Wasser durch den Siche harin in die Stat komen mag , es were denn , dz das obendig der Gibsgruben by Brüglingen den alten Surt abe geErichtet wurde"/>
+              <role role="party1" ref="0" confidence="gpt-5.5" text="Der Probst"/>
+              <role role="party1" ref="1" confidence="gpt-5.5" text="die Müllere zu sant Alban"/>
+            </event>
+          </eventGroup>
+          <eventGroup event_id="1" class="litigation" start="67" end="103" ref="" type="event" tense="unk" polarity="unk" modality="unk">
+            <trigger ref="10" text="gewidert" start="103" end="103"/>
+            <event event_id="1.0">
+              <role role="party1" ref="9" confidence="gpt-5.5" text="Herr Hanns Rote"/>
+              <role role="subject" ref="8" confidence="gpt-5.5" text="dem Wasser durch den Siche harin in die Stat komen mag , es were denn , dz das obendig der Gibsgruben by Brüglingen den alten Surt abe geErichtet wurde"/>
+            </event>
+          </eventGroup>
+          <eventGroup event_id="2" class="topological" start="17" end="22" ref="17" type="state" tense="unk" polarity="unk" modality="unk">
+            <event event_id="2.0">
+              <role role="location-a" ref="3" text="dise Zyt Burgermeister zu Albanter Basel"/>
+              <role role="location-b" ref="18" text="Albanter Basel"/>
+            </event>
+          </eventGroup>
+          <eventGroup event_id="3" class="topological" start="28" end="45" ref="21" type="state" tense="unk" polarity="unk" modality="unk">
+            <event event_id="3.0">
+              <role role="location-a" ref="5" text="den Wasser , fluss der Birse by sant Jacob , der in uff dise Zyt als gestanden ist"/>
+              <role role="location-b" ref="22" text="der Birse"/>
+              <role role="location-b" ref="23" text="sant Jacob"/>
+            </event>
+          </eventGroup>
+          <eventGroup event_id="4" class="topological" start="55" end="63" ref="28" type="state" tense="unk" polarity="unk" modality="unk">
+            <event event_id="4.0">
+              <role role="location-a" ref="7" text="dem Lehen uff dem Liche zu St . Alban"/>
+              <role role="location-b" ref="29" text="dem Liche"/>
+              <role role="location-b" ref="30" text="St . Alban"/>
+            </event>
+          </eventGroup>
+        </eventGroups>
+      </document>
+      <document id="b4587b8c-6bc3-4477-b169-1d32940de5f9_20260528">
+        <metadata>
+          <street_id>HGB_1_009</street_id>
+          <dossier_id>HGB_1_009_001</dossier_id>
+          <year>1477</year>
+          <source>Basler Urkundenbuch</source>
+          <language>german</language>
+          <checked_by_gpt>true</checked_by_gpt>
+          <text>uns und unseren nachhommen ganz on schaden sin und theins wegs behumbern sel. Er sollen ouch underhaft desselben sich ouch ten von der schwellen biss an den phosten, so enmitten in dem ten statt und hinder sich gegen Ulin Zossen Tanntvesti gesetzt werden, als das mess und zeichen darum geben ist. Dessglich sol der ander teil uff dem sch gegen der Sanntvestin ouch harinsetzen, so vil das mess und die stang, so darumb geben ist, eigentlich usswiset, also de es glich gehalten werde, wie dan solichs hievor durch die wasserfünft erkannt gemessen und inen das mes übergeben ist von der Tanntrest, und der brucken wegen gegen WiZossen huss, da da die lantrestin derselben bruch gegen dem berg recht und wol gemacht e doch alse: Wenn die scheidschwellen, der Scheidshelund die Scheidtten gemacht und vollturt werden, als denn sel dieselb tant vestin mit irem Spitz dem mess nach, wie obstat, gespitzt und daran geburtwerden und aldenne bliben über von der brucken wegen, das ze sich derselben Zing hievor uff einen gemeinen, so der wirdig geistlich herre der prior des gotshus zu sant Alban dargeben, dem rettlich teil einen zusatz mann zugetzen sol die et darum mit recht entscheiden sollen, verwalturt und vereint haben, also wie ze es darumb entscheiden, das es von inen gehalten werden sol de es ouch dabr blibe, und das solher bun und all und jettlich obgemelt abel vollegen und ussgericht werden sollen hiezwuschen und sant Johannstag ze sunnwenden nechsthunftig br zeen tant phunt pfenningen an enad zu bezalen, all geverd und argelist harina genEich vermitten. und wann die obgenanten hinft dis, als vorstat, erhannt hand, harum so wollen wir ouch und gebieten, dz man das stett und verEklich hatte und dawider niemand tüge in Ihein wise. Des alles zu warem urkunde hand wir unser statt gross ingesiget ottennlich lassen hencken an disen brieft, der geben ist uff mitwuchen nach sant Martinstag des heiligen Bischoffs des jars, als man zalt von Thesu Crist unsers herren geburt thusent vierhundert Siebennzig und oben jare. Basler Urkundenbuch Bd 8 165 ß beide in Privatbesitz. Das Siegel hängt. Wir Hanns von Berenfels sitter burgermeister und der rate der statt Basel und kunt menglich mit disem brieft, das tur uns komen sind die erbern Hans Gilgenberg, Heinrich Giger, Heinrich Weger, Hanns Amberg und Jacob Tabahurlin unser Burger, die Zunft, so von unser stett wegen über die buw gesetzt sind, und hand uns Fürbracht und erzalt, wie dann nach verhorung ettlicher spenn und zwentracht, so zwuschent den erberg meistern den millern trotziecher und schittern uff dem vordern techen den eim und den müllern papirmachern und schlittern uff dem hindern techenuft dem th zu sannt Alban am andern teil ufferstanden und erwachssen, darürend von der ussern bruck an Ullin Zossen stossende und der scherg schwellen des steins an Ullin dossen huss und der landvestin an der ob gemelten brucken, darumb vor unserm Schultheissen und stattgericht erhannt were, de sy mitsampt den erbern meistern den wasserhuntten zu sestehend irsal zan, den beschen und die obgemelten teil umb seh spenn mit rechentscheiden selint, wie sy im kratt solher erkantauss, ouch uff anruften und Beger beider tein mitsampt den obgestimpten wassertüntten die ding eigentlich beschen, er ouch in allem tüwenden durch dagen antwürtten nachreden widerreden kuntschafft brieft und anderm grugsam verhort und einhellig erkant hettint, das beide teil obgemelt gemeintich einen zimmer man Bestellen sollen, der die scheidschwellen mit einem tächsset ze gelen ortten glich in die Ehwage Schouwe und an jedem ortt derselben Schwellen einen verhettten phel machen in die alten Tocher, wenn e doch nach der wite glich geteilt sin sellen. Derselben phel set jettlicher ein mutt haben über sich und die annder under sich und sellent da der schaur nach zeich zu beden siten biss an den phesten, da die stattgattern ingend, semliche Tantvestin machen, doch also de er für sich selbs ander grosten hinder der gattern glosten setzen, daran dieselb teilung gehellt werden, also das es</text>
+          <pages>
+            <page nr="4">https://files.transkribus.eu/Get?fileType=view&amp;id=LQTTODUWWKFHUCIZEJSINAZW</page>
+            <page nr="5">https://files.transkribus.eu/Get?fileType=view&amp;id=VAIIYTCNSLBDDDSCGIVYJSOO</page>
+          </pages>
+        </metadata>
+        <text>
+          <token token_id="0">uns</token>
+          <token token_id="1">und</token>
+          <token token_id="2">unseren</token>
+          <token token_id="3">nachhommen</token>
+          <token token_id="4">ganz</token>
+          <token token_id="5">on</token>
+          <token token_id="6">schaden</token>
+          <token token_id="7">sin</token>
+          <token token_id="8">und</token>
+          <token token_id="9">theins</token>
+          <token token_id="10">wegs</token>
+          <token token_id="11">behumbern</token>
+          <token token_id="12">sel</token>
+          <token token_id="13">.</token>
+          <token token_id="14">Er</token>
+          <token token_id="15">sollen</token>
+          <token token_id="16">ouch</token>
+          <token token_id="17">underhaft</token>
+          <token token_id="18">desselben</token>
+          <token token_id="19">sich</token>
+          <token token_id="20">ouch</token>
+          <token token_id="21">ten</token>
+          <token token_id="22">von</token>
+          <token token_id="23">der</token>
+          <token token_id="24">schwellen</token>
+          <token token_id="25">biss</token>
+          <token token_id="26">an</token>
+          <token token_id="27">den</token>
+          <token token_id="28">phosten</token>
+          <token token_id="29">,</token>
+          <token token_id="30">so</token>
+          <token token_id="31">enmitten</token>
+          <token token_id="32">in</token>
+          <token token_id="33">dem</token>
+          <token token_id="34">ten</token>
+          <token token_id="35">statt</token>
+          <token token_id="36">und</token>
+          <token token_id="37">hinder</token>
+          <token token_id="38">sich</token>
+          <token token_id="39">gegen</token>
+          <token token_id="40">Ulin</token>
+          <token token_id="41">Zossen</token>
+          <token token_id="42">Tanntvesti</token>
+          <token token_id="43">gesetzt</token>
+          <token token_id="44">werden</token>
+          <token token_id="45">,</token>
+          <token token_id="46">als</token>
+          <token token_id="47">das</token>
+          <token token_id="48">mess</token>
+          <token token_id="49">und</token>
+          <token token_id="50">zeichen</token>
+          <token token_id="51">darum</token>
+          <token token_id="52">geben</token>
+          <token token_id="53">ist</token>
+          <token token_id="54">.</token>
+          <token token_id="55">Dessglich</token>
+          <token token_id="56">sol</token>
+          <token token_id="57">der</token>
+          <token token_id="58">ander</token>
+          <token token_id="59">teil</token>
+          <token token_id="60">uff</token>
+          <token token_id="61">dem</token>
+          <token token_id="62">sch</token>
+          <token token_id="63">gegen</token>
+          <token token_id="64">der</token>
+          <token token_id="65">Sanntvestin</token>
+          <token token_id="66">ouch</token>
+          <token token_id="67">harinsetzen</token>
+          <token token_id="68">,</token>
+          <token token_id="69">so</token>
+          <token token_id="70">vil</token>
+          <token token_id="71">das</token>
+          <token token_id="72">mess</token>
+          <token token_id="73">und</token>
+          <token token_id="74">die</token>
+          <token token_id="75">stang</token>
+          <token token_id="76">,</token>
+          <token token_id="77">so</token>
+          <token token_id="78">darumb</token>
+          <token token_id="79">geben</token>
+          <token token_id="80">ist</token>
+          <token token_id="81">,</token>
+          <token token_id="82">eigentlich</token>
+          <token token_id="83">usswiset</token>
+          <token token_id="84">,</token>
+          <token token_id="85">also</token>
+          <token token_id="86">de</token>
+          <token token_id="87">es</token>
+          <token token_id="88">glich</token>
+          <token token_id="89">gehalten</token>
+          <token token_id="90">werde</token>
+          <token token_id="91">,</token>
+          <token token_id="92">wie</token>
+          <token token_id="93">dan</token>
+          <token token_id="94">solichs</token>
+          <token token_id="95">hievor</token>
+          <token token_id="96">durch</token>
+          <token token_id="97">die</token>
+          <token token_id="98">wasserfünft</token>
+          <token token_id="99">erkannt</token>
+          <token token_id="100">gemessen</token>
+          <token token_id="101">und</token>
+          <token token_id="102">inen</token>
+          <token token_id="103">das</token>
+          <token token_id="104">mes</token>
+          <token token_id="105">übergeben</token>
+          <token token_id="106">ist</token>
+          <token token_id="107">von</token>
+          <token token_id="108">der</token>
+          <token token_id="109">Tanntrest</token>
+          <token token_id="110">,</token>
+          <token token_id="111">und</token>
+          <token token_id="112">der</token>
+          <token token_id="113">brucken</token>
+          <token token_id="114">wegen</token>
+          <token token_id="115">gegen</token>
+          <token token_id="116">WiZossen</token>
+          <token token_id="117">huss</token>
+          <token token_id="118">,</token>
+          <token token_id="119">da</token>
+          <token token_id="120">da</token>
+          <token token_id="121">die</token>
+          <token token_id="122">lantrestin</token>
+          <token token_id="123">derselben</token>
+          <token token_id="124">bruch</token>
+          <token token_id="125">gegen</token>
+          <token token_id="126">dem</token>
+          <token token_id="127">berg</token>
+          <token token_id="128">recht</token>
+          <token token_id="129">und</token>
+          <token token_id="130">wol</token>
+          <token token_id="131">gemacht</token>
+          <token token_id="132">e</token>
+          <token token_id="133">doch</token>
+          <token token_id="134">alse</token>
+          <token token_id="135">:</token>
+          <token token_id="136">Wenn</token>
+          <token token_id="137">die</token>
+          <token token_id="138">scheidschwellen</token>
+          <token token_id="139">,</token>
+          <token token_id="140">der</token>
+          <token token_id="141">Scheidshelund</token>
+          <token token_id="142">die</token>
+          <token token_id="143">Scheidtten</token>
+          <token token_id="144">gemacht</token>
+          <token token_id="145">und</token>
+          <token token_id="146">vollturt</token>
+          <token token_id="147">werden</token>
+          <token token_id="148">,</token>
+          <token token_id="149">als</token>
+          <token token_id="150">denn</token>
+          <token token_id="151">sel</token>
+          <token token_id="152">dieselb</token>
+          <token token_id="153">tant</token>
+          <token token_id="154">vestin</token>
+          <token token_id="155">mit</token>
+          <token token_id="156">irem</token>
+          <token token_id="157">Spitz</token>
+          <token token_id="158">dem</token>
+          <token token_id="159">mess</token>
+          <token token_id="160">nach</token>
+          <token token_id="161">,</token>
+          <token token_id="162">wie</token>
+          <token token_id="163">obstat</token>
+          <token token_id="164">,</token>
+          <token token_id="165">gespitzt</token>
+          <token token_id="166">und</token>
+          <token token_id="167">daran</token>
+          <token token_id="168">geburtwerden</token>
+          <token token_id="169">und</token>
+          <token token_id="170">aldenne</token>
+          <token token_id="171">bliben</token>
+          <token token_id="172">über</token>
+          <token token_id="173">von</token>
+          <token token_id="174">der</token>
+          <token token_id="175">brucken</token>
+          <token token_id="176">wegen</token>
+          <token token_id="177">,</token>
+          <token token_id="178">das</token>
+          <token token_id="179">ze</token>
+          <token token_id="180">sich</token>
+          <token token_id="181">derselben</token>
+          <token token_id="182">Zing</token>
+          <token token_id="183">hievor</token>
+          <token token_id="184">uff</token>
+          <token token_id="185">einen</token>
+          <token token_id="186">gemeinen</token>
+          <token token_id="187">,</token>
+          <token token_id="188">so</token>
+          <token token_id="189">der</token>
+          <token token_id="190">wirdig</token>
+          <token token_id="191">geistlich</token>
+          <token token_id="192">herre</token>
+          <token token_id="193">der</token>
+          <token token_id="194">prior</token>
+          <token token_id="195">des</token>
+          <token token_id="196">gotshus</token>
+          <token token_id="197">zu</token>
+          <token token_id="198">sant</token>
+          <token token_id="199">Alban</token>
+          <token token_id="200">dargeben</token>
+          <token token_id="201">,</token>
+          <token token_id="202">dem</token>
+          <token token_id="203">rettlich</token>
+          <token token_id="204">teil</token>
+          <token token_id="205">einen</token>
+          <token token_id="206">zusatz</token>
+          <token token_id="207">mann</token>
+          <token token_id="208">zugetzen</token>
+          <token token_id="209">sol</token>
+          <token token_id="210">die</token>
+          <token token_id="211">et</token>
+          <token token_id="212">darum</token>
+          <token token_id="213">mit</token>
+          <token token_id="214">recht</token>
+          <token token_id="215">entscheiden</token>
+          <token token_id="216">sollen</token>
+          <token token_id="217">,</token>
+          <token token_id="218">verwalturt</token>
+          <token token_id="219">und</token>
+          <token token_id="220">vereint</token>
+          <token token_id="221">haben</token>
+          <token token_id="222">,</token>
+          <token token_id="223">also</token>
+          <token token_id="224">wie</token>
+          <token token_id="225">ze</token>
+          <token token_id="226">es</token>
+          <token token_id="227">darumb</token>
+          <token token_id="228">entscheiden</token>
+          <token token_id="229">,</token>
+          <token token_id="230">das</token>
+          <token token_id="231">es</token>
+          <token token_id="232">von</token>
+          <token token_id="233">inen</token>
+          <token token_id="234">gehalten</token>
+          <token token_id="235">werden</token>
+          <token token_id="236">sol</token>
+          <token token_id="237">de</token>
+          <token token_id="238">es</token>
+          <token token_id="239">ouch</token>
+          <token token_id="240">dabr</token>
+          <token token_id="241">blibe</token>
+          <token token_id="242">,</token>
+          <token token_id="243">und</token>
+          <token token_id="244">das</token>
+          <token token_id="245">solher</token>
+          <token token_id="246">bun</token>
+          <token token_id="247">und</token>
+          <token token_id="248">all</token>
+          <token token_id="249">und</token>
+          <token token_id="250">jettlich</token>
+          <token token_id="251">obgemelt</token>
+          <token token_id="252">abel</token>
+          <token token_id="253">vollegen</token>
+          <token token_id="254">und</token>
+          <token token_id="255">ussgericht</token>
+          <token token_id="256">werden</token>
+          <token token_id="257">sollen</token>
+          <token token_id="258">hiezwuschen</token>
+          <token token_id="259">und</token>
+          <token token_id="260">sant</token>
+          <token token_id="261">Johannstag</token>
+          <token token_id="262">ze</token>
+          <token token_id="263">sunnwenden</token>
+          <token token_id="264">nechsthunftig</token>
+          <token token_id="265">br</token>
+          <token token_id="266">zeen</token>
+          <token token_id="267">tant</token>
+          <token token_id="268">phunt</token>
+          <token token_id="269">pfenningen</token>
+          <token token_id="270">an</token>
+          <token token_id="271">enad</token>
+          <token token_id="272">zu</token>
+          <token token_id="273">bezalen</token>
+          <token token_id="274">,</token>
+          <token token_id="275">all</token>
+          <token token_id="276">geverd</token>
+          <token token_id="277">und</token>
+          <token token_id="278">argelist</token>
+          <token token_id="279">harina</token>
+          <token token_id="280">genEich</token>
+          <token token_id="281">vermitten</token>
+          <token token_id="282">.</token>
+          <token token_id="283">und</token>
+          <token token_id="284">wann</token>
+          <token token_id="285">die</token>
+          <token token_id="286">obgenanten</token>
+          <token token_id="287">hinft</token>
+          <token token_id="288">dis</token>
+          <token token_id="289">,</token>
+          <token token_id="290">als</token>
+          <token token_id="291">vorstat</token>
+          <token token_id="292">,</token>
+          <token token_id="293">erhannt</token>
+          <token token_id="294">hand</token>
+          <token token_id="295">,</token>
+          <token token_id="296">harum</token>
+          <token token_id="297">so</token>
+          <token token_id="298">wollen</token>
+          <token token_id="299">wir</token>
+          <token token_id="300">ouch</token>
+          <token token_id="301">und</token>
+          <token token_id="302">gebieten</token>
+          <token token_id="303">,</token>
+          <token token_id="304">dz</token>
+          <token token_id="305">man</token>
+          <token token_id="306">das</token>
+          <token token_id="307">stett</token>
+          <token token_id="308">und</token>
+          <token token_id="309">verEklich</token>
+          <token token_id="310">hatte</token>
+          <token token_id="311">und</token>
+          <token token_id="312">dawider</token>
+          <token token_id="313">niemand</token>
+          <token token_id="314">tüge</token>
+          <token token_id="315">in</token>
+          <token token_id="316">Ihein</token>
+          <token token_id="317">wise</token>
+          <token token_id="318">.</token>
+          <token token_id="319">Des</token>
+          <token token_id="320">alles</token>
+          <token token_id="321">zu</token>
+          <token token_id="322">warem</token>
+          <token token_id="323">urkunde</token>
+          <token token_id="324">hand</token>
+          <token token_id="325">wir</token>
+          <token token_id="326">unser</token>
+          <token token_id="327">statt</token>
+          <token token_id="328">gross</token>
+          <token token_id="329">ingesiget</token>
+          <token token_id="330">ottennlich</token>
+          <token token_id="331">lassen</token>
+          <token token_id="332">hencken</token>
+          <token token_id="333">an</token>
+          <token token_id="334">disen</token>
+          <token token_id="335">brieft</token>
+          <token token_id="336">,</token>
+          <token token_id="337">der</token>
+          <token token_id="338">geben</token>
+          <token token_id="339">ist</token>
+          <token token_id="340">uff</token>
+          <token token_id="341">mitwuchen</token>
+          <token token_id="342">nach</token>
+          <token token_id="343">sant</token>
+          <token token_id="344">Martinstag</token>
+          <token token_id="345">des</token>
+          <token token_id="346">heiligen</token>
+          <token token_id="347">Bischoffs</token>
+          <token token_id="348">des</token>
+          <token token_id="349">jars</token>
+          <token token_id="350">,</token>
+          <token token_id="351">als</token>
+          <token token_id="352">man</token>
+          <token token_id="353">zalt</token>
+          <token token_id="354">von</token>
+          <token token_id="355">Thesu</token>
+          <token token_id="356">Crist</token>
+          <token token_id="357">unsers</token>
+          <token token_id="358">herren</token>
+          <token token_id="359">geburt</token>
+          <token token_id="360">thusent</token>
+          <token token_id="361">vierhundert</token>
+          <token token_id="362">Siebennzig</token>
+          <token token_id="363">und</token>
+          <token token_id="364">oben</token>
+          <token token_id="365">jare</token>
+          <token token_id="366">.</token>
+          <token token_id="367">Basler</token>
+          <token token_id="368">Urkundenbuch</token>
+          <token token_id="369">Bd</token>
+          <token token_id="370">8</token>
+          <token token_id="371">165</token>
+          <token token_id="372">ß</token>
+          <token token_id="373">beide</token>
+          <token token_id="374">in</token>
+          <token token_id="375">Privatbesitz</token>
+          <token token_id="376">.</token>
+          <token token_id="377">Das</token>
+          <token token_id="378">Siegel</token>
+          <token token_id="379">hängt</token>
+          <token token_id="380">.</token>
+          <token token_id="381">Wir</token>
+          <token token_id="382">Hanns</token>
+          <token token_id="383">von</token>
+          <token token_id="384">Berenfels</token>
+          <token token_id="385">sitter</token>
+          <token token_id="386">burgermeister</token>
+          <token token_id="387">und</token>
+          <token token_id="388">der</token>
+          <token token_id="389">rate</token>
+          <token token_id="390">der</token>
+          <token token_id="391">statt</token>
+          <token token_id="392">Basel</token>
+          <token token_id="393">und</token>
+          <token token_id="394">kunt</token>
+          <token token_id="395">menglich</token>
+          <token token_id="396">mit</token>
+          <token token_id="397">disem</token>
+          <token token_id="398">brieft</token>
+          <token token_id="399">,</token>
+          <token token_id="400">das</token>
+          <token token_id="401">tur</token>
+          <token token_id="402">uns</token>
+          <token token_id="403">komen</token>
+          <token token_id="404">sind</token>
+          <token token_id="405">die</token>
+          <token token_id="406">erbern</token>
+          <token token_id="407">Hans</token>
+          <token token_id="408">Gilgenberg</token>
+          <token token_id="409">,</token>
+          <token token_id="410">Heinrich</token>
+          <token token_id="411">Giger</token>
+          <token token_id="412">,</token>
+          <token token_id="413">Heinrich</token>
+          <token token_id="414">Weger</token>
+          <token token_id="415">,</token>
+          <token token_id="416">Hanns</token>
+          <token token_id="417">Amberg</token>
+          <token token_id="418">und</token>
+          <token token_id="419">Jacob</token>
+          <token token_id="420">Tabahurlin</token>
+          <token token_id="421">unser</token>
+          <token token_id="422">Burger</token>
+          <token token_id="423">,</token>
+          <token token_id="424">die</token>
+          <token token_id="425">Zunft</token>
+          <token token_id="426">,</token>
+          <token token_id="427">so</token>
+          <token token_id="428">von</token>
+          <token token_id="429">unser</token>
+          <token token_id="430">stett</token>
+          <token token_id="431">wegen</token>
+          <token token_id="432">über</token>
+          <token token_id="433">die</token>
+          <token token_id="434">buw</token>
+          <token token_id="435">gesetzt</token>
+          <token token_id="436">sind</token>
+          <token token_id="437">,</token>
+          <token token_id="438">und</token>
+          <token token_id="439">hand</token>
+          <token token_id="440">uns</token>
+          <token token_id="441">Fürbracht</token>
+          <token token_id="442">und</token>
+          <token token_id="443">erzalt</token>
+          <token token_id="444">,</token>
+          <token token_id="445">wie</token>
+          <token token_id="446">dann</token>
+          <token token_id="447">nach</token>
+          <token token_id="448">verhorung</token>
+          <token token_id="449">ettlicher</token>
+          <token token_id="450">spenn</token>
+          <token token_id="451">und</token>
+          <token token_id="452">zwentracht</token>
+          <token token_id="453">,</token>
+          <token token_id="454">so</token>
+          <token token_id="455">zwuschent</token>
+          <token token_id="456">den</token>
+          <token token_id="457">erberg</token>
+          <token token_id="458">meistern</token>
+          <token token_id="459">den</token>
+          <token token_id="460">millern</token>
+          <token token_id="461">trotziecher</token>
+          <token token_id="462">und</token>
+          <token token_id="463">schittern</token>
+          <token token_id="464">uff</token>
+          <token token_id="465">dem</token>
+          <token token_id="466">vordern</token>
+          <token token_id="467">techen</token>
+          <token token_id="468">den</token>
+          <token token_id="469">eim</token>
+          <token token_id="470">und</token>
+          <token token_id="471">den</token>
+          <token token_id="472">müllern</token>
+          <token token_id="473">papirmachern</token>
+          <token token_id="474">und</token>
+          <token token_id="475">schlittern</token>
+          <token token_id="476">uff</token>
+          <token token_id="477">dem</token>
+          <token token_id="478">hindern</token>
+          <token token_id="479">techenuft</token>
+          <token token_id="480">dem</token>
+          <token token_id="481">th</token>
+          <token token_id="482">zu</token>
+          <token token_id="483">sannt</token>
+          <token token_id="484">Alban</token>
+          <token token_id="485">am</token>
+          <token token_id="486">andern</token>
+          <token token_id="487">teil</token>
+          <token token_id="488">ufferstanden</token>
+          <token token_id="489">und</token>
+          <token token_id="490">erwachssen</token>
+          <token token_id="491">,</token>
+          <token token_id="492">darürend</token>
+          <token token_id="493">von</token>
+          <token token_id="494">der</token>
+          <token token_id="495">ussern</token>
+          <token token_id="496">bruck</token>
+          <token token_id="497">an</token>
+          <token token_id="498">Ullin</token>
+          <token token_id="499">Zossen</token>
+          <token token_id="500">stossende</token>
+          <token token_id="501">und</token>
+          <token token_id="502">der</token>
+          <token token_id="503">scherg</token>
+          <token token_id="504">schwellen</token>
+          <token token_id="505">des</token>
+          <token token_id="506">steins</token>
+          <token token_id="507">an</token>
+          <token token_id="508">Ullin</token>
+          <token token_id="509">dossen</token>
+          <token token_id="510">huss</token>
+          <token token_id="511">und</token>
+          <token token_id="512">der</token>
+          <token token_id="513">landvestin</token>
+          <token token_id="514">an</token>
+          <token token_id="515">der</token>
+          <token token_id="516">ob</token>
+          <token token_id="517">gemelten</token>
+          <token token_id="518">brucken</token>
+          <token token_id="519">,</token>
+          <token token_id="520">darumb</token>
+          <token token_id="521">vor</token>
+          <token token_id="522">unserm</token>
+          <token token_id="523">Schultheissen</token>
+          <token token_id="524">und</token>
+          <token token_id="525">stattgericht</token>
+          <token token_id="526">erhannt</token>
+          <token token_id="527">were</token>
+          <token token_id="528">,</token>
+          <token token_id="529">de</token>
+          <token token_id="530">sy</token>
+          <token token_id="531">mitsampt</token>
+          <token token_id="532">den</token>
+          <token token_id="533">erbern</token>
+          <token token_id="534">meistern</token>
+          <token token_id="535">den</token>
+          <token token_id="536">wasserhuntten</token>
+          <token token_id="537">zu</token>
+          <token token_id="538">sestehend</token>
+          <token token_id="539">irsal</token>
+          <token token_id="540">zan</token>
+          <token token_id="541">,</token>
+          <token token_id="542">den</token>
+          <token token_id="543">beschen</token>
+          <token token_id="544">und</token>
+          <token token_id="545">die</token>
+          <token token_id="546">obgemelten</token>
+          <token token_id="547">teil</token>
+          <token token_id="548">umb</token>
+          <token token_id="549">seh</token>
+          <token token_id="550">spenn</token>
+          <token token_id="551">mit</token>
+          <token token_id="552">rechentscheiden</token>
+          <token token_id="553">selint</token>
+          <token token_id="554">,</token>
+          <token token_id="555">wie</token>
+          <token token_id="556">sy</token>
+          <token token_id="557">im</token>
+          <token token_id="558">kratt</token>
+          <token token_id="559">solher</token>
+          <token token_id="560">erkantauss</token>
+          <token token_id="561">,</token>
+          <token token_id="562">ouch</token>
+          <token token_id="563">uff</token>
+          <token token_id="564">anruften</token>
+          <token token_id="565">und</token>
+          <token token_id="566">Beger</token>
+          <token token_id="567">beider</token>
+          <token token_id="568">tein</token>
+          <token token_id="569">mitsampt</token>
+          <token token_id="570">den</token>
+          <token token_id="571">obgestimpten</token>
+          <token token_id="572">wassertüntten</token>
+          <token token_id="573">die</token>
+          <token token_id="574">ding</token>
+          <token token_id="575">eigentlich</token>
+          <token token_id="576">beschen</token>
+          <token token_id="577">,</token>
+          <token token_id="578">er</token>
+          <token token_id="579">ouch</token>
+          <token token_id="580">in</token>
+          <token token_id="581">allem</token>
+          <token token_id="582">tüwenden</token>
+          <token token_id="583">durch</token>
+          <token token_id="584">dagen</token>
+          <token token_id="585">antwürtten</token>
+          <token token_id="586">nachreden</token>
+          <token token_id="587">widerreden</token>
+          <token token_id="588">kuntschafft</token>
+          <token token_id="589">brieft</token>
+          <token token_id="590">und</token>
+          <token token_id="591">anderm</token>
+          <token token_id="592">grugsam</token>
+          <token token_id="593">verhort</token>
+          <token token_id="594">und</token>
+          <token token_id="595">einhellig</token>
+          <token token_id="596">erkant</token>
+          <token token_id="597">hettint</token>
+          <token token_id="598">,</token>
+          <token token_id="599">das</token>
+          <token token_id="600">beide</token>
+          <token token_id="601">teil</token>
+          <token token_id="602">obgemelt</token>
+          <token token_id="603">gemeintich</token>
+          <token token_id="604">einen</token>
+          <token token_id="605">zimmer</token>
+          <token token_id="606">man</token>
+          <token token_id="607">Bestellen</token>
+          <token token_id="608">sollen</token>
+          <token token_id="609">,</token>
+          <token token_id="610">der</token>
+          <token token_id="611">die</token>
+          <token token_id="612">scheidschwellen</token>
+          <token token_id="613">mit</token>
+          <token token_id="614">einem</token>
+          <token token_id="615">tächsset</token>
+          <token token_id="616">ze</token>
+          <token token_id="617">gelen</token>
+          <token token_id="618">ortten</token>
+          <token token_id="619">glich</token>
+          <token token_id="620">in</token>
+          <token token_id="621">die</token>
+          <token token_id="622">Ehwage</token>
+          <token token_id="623">Schouwe</token>
+          <token token_id="624">und</token>
+          <token token_id="625">an</token>
+          <token token_id="626">jedem</token>
+          <token token_id="627">ortt</token>
+          <token token_id="628">derselben</token>
+          <token token_id="629">Schwellen</token>
+          <token token_id="630">einen</token>
+          <token token_id="631">verhettten</token>
+          <token token_id="632">phel</token>
+          <token token_id="633">machen</token>
+          <token token_id="634">in</token>
+          <token token_id="635">die</token>
+          <token token_id="636">alten</token>
+          <token token_id="637">Tocher</token>
+          <token token_id="638">,</token>
+          <token token_id="639">wenn</token>
+          <token token_id="640">e</token>
+          <token token_id="641">doch</token>
+          <token token_id="642">nach</token>
+          <token token_id="643">der</token>
+          <token token_id="644">wite</token>
+          <token token_id="645">glich</token>
+          <token token_id="646">geteilt</token>
+          <token token_id="647">sin</token>
+          <token token_id="648">sellen</token>
+          <token token_id="649">.</token>
+          <token token_id="650">Derselben</token>
+          <token token_id="651">phel</token>
+          <token token_id="652">set</token>
+          <token token_id="653">jettlicher</token>
+          <token token_id="654">ein</token>
+          <token token_id="655">mutt</token>
+          <token token_id="656">haben</token>
+          <token token_id="657">über</token>
+          <token token_id="658">sich</token>
+          <token token_id="659">und</token>
+          <token token_id="660">die</token>
+          <token token_id="661">annder</token>
+          <token token_id="662">under</token>
+          <token token_id="663">sich</token>
+          <token token_id="664">und</token>
+          <token token_id="665">sellent</token>
+          <token token_id="666">da</token>
+          <token token_id="667">der</token>
+          <token token_id="668">schaur</token>
+          <token token_id="669">nach</token>
+          <token token_id="670">zeich</token>
+          <token token_id="671">zu</token>
+          <token token_id="672">beden</token>
+          <token token_id="673">siten</token>
+          <token token_id="674">biss</token>
+          <token token_id="675">an</token>
+          <token token_id="676">den</token>
+          <token token_id="677">phesten</token>
+          <token token_id="678">,</token>
+          <token token_id="679">da</token>
+          <token token_id="680">die</token>
+          <token token_id="681">stattgattern</token>
+          <token token_id="682">ingend</token>
+          <token token_id="683">,</token>
+          <token token_id="684">semliche</token>
+          <token token_id="685">Tantvestin</token>
+          <token token_id="686">machen</token>
+          <token token_id="687">,</token>
+          <token token_id="688">doch</token>
+          <token token_id="689">also</token>
+          <token token_id="690">de</token>
+          <token token_id="691">er</token>
+          <token token_id="692">für</token>
+          <token token_id="693">sich</token>
+          <token token_id="694">selbs</token>
+          <token token_id="695">ander</token>
+          <token token_id="696">grosten</token>
+          <token token_id="697">hinder</token>
+          <token token_id="698">der</token>
+          <token token_id="699">gattern</token>
+          <token token_id="700">glosten</token>
+          <token token_id="701">setzen</token>
+          <token token_id="702">,</token>
+          <token token_id="703">daran</token>
+          <token token_id="704">dieselb</token>
+          <token token_id="705">teilung</token>
+          <token token_id="706">gehellt</token>
+          <token token_id="707">werden</token>
+          <token token_id="708">,</token>
+          <token token_id="709">also</token>
+          <token token_id="710">das</token>
+          <token token_id="711">es</token>
+        </text>
+        <spans>
+          <span id="0" start="2" end="3" element="reference" class="per" confidence="0.6" text="unseren nachhommen" numerus="grp" specificity="spc" subclass="">
+            <span id="45" start="2" end="2" element="reference" class="unk" confidence="0.93" text="unseren" numerus="sgl" specificity="spc" subclass="">
+              <span id="45_head" start="2" end="2" element="head" class="pro" confidence="0.93" text="unseren"/>
+            </span>
+            <span id="46" start="3" end="3" element="head" class="heir" confidence="0.73" text="nachhommen"/>
+          </span>
+          <span id="1" start="18" end="18" element="reference" class="unk" confidence="0.72" text="desselben" numerus="sgl" specificity="spc" subclass="">
+            <span id="1_head" start="18" end="18" element="head" class="pro" confidence="0.72" text="desselben"/>
+          </span>
+          <span id="2" start="23" end="42" element="reference" class="fac" confidence="0.73" text="der schwellen biss an den phosten , so enmitten in dem ten statt und hinder sich gegen Ulin Zossen Tanntvesti" numerus="sgl" specificity="spc" subclass="">
+            <span id="47" start="24" end="24" element="head" class="type" confidence="0.99" text="schwellen" norm="unk"/>
+            <span id="48" start="25" end="42" element="attr" class="loc" confidence="0.93" text="biss an den phosten , so enmitten in dem ten statt und hinder sich gegen Ulin Zossen Tanntvesti">
+              <span id="49" start="27" end="28" element="reference" class="loc" confidence="0.85" text="den phosten" numerus="sgl" specificity="spc" subclass="">
+                <span id="52" start="28" end="28" element="head" class="type" confidence="0.93" text="phosten"/>
+              </span>
+              <span id="50" start="33" end="35" element="reference" class="fac" confidence="0.59" text="dem ten statt" numerus="sgl" specificity="spc" subclass="">
+                <span id="53" start="33" end="35" element="head" class="type" confidence="0.86" text="dem ten statt" norm="unk"/>
+              </span>
+              <span id="51" start="40" end="42" element="reference" class="fac" confidence="0.76" text="Ulin Zossen Tanntvesti" numerus="sgl" specificity="spc" subclass="">
+                <span id="54" start="40" end="41" element="attr" class="owner" confidence="1.0" text="Ulin Zossen">
+                  <span id="56" start="40" end="41" element="reference" class="per" confidence="1.0" text="Ulin Zossen" numerus="sgl" specificity="spc" subclass="">
+                    <span id="57" start="40" end="41" element="head" class="nam" confidence="1.0" text="Ulin Zossen"/>
+                  </span>
+                </span>
+                <span id="55" start="42" end="42" element="head" class="type" confidence="1.0" text="Tanntvesti" norm="unk"/>
+              </span>
+            </span>
+          </span>
+          <span id="3" start="57" end="59" element="reference" class="per" confidence="0.82" text="der ander teil" numerus="sgl" specificity="spc" subclass="">
+            <span id="58" start="59" end="59" element="head" class="type" confidence="0.71" text="teil"/>
+          </span>
+          <span id="4" start="61" end="65" element="reference" class="fac" confidence="0.54" text="dem sch gegen der Sanntvestin" numerus="sgl" specificity="spc" subclass="">
+            <span id="59" start="62" end="62" element="head" class="type" confidence="0.97" text="sch" norm="unk"/>
+            <span id="60" start="63" end="65" element="attr" class="loc" confidence="0.73" text="gegen der Sanntvestin">
+              <span id="61" start="64" end="65" element="reference" class="fac" confidence="0.4" text="der Sanntvestin" numerus="sgl" specificity="spc" subclass="">
+                <span id="62" start="65" end="65" element="head" class="nam" confidence="0.89" text="Sanntvestin"/>
+              </span>
+            </span>
+          </span>
+          <span id="5" start="87" end="87" element="reference" class="unk" confidence="0.85" text="es" numerus="sgl" specificity="spc" subclass="">
+            <span id="5_head" start="87" end="87" element="head" class="pro" confidence="0.85" text="es"/>
+          </span>
+          <span id="6" start="94" end="94" element="reference" class="unk" confidence="0.88" text="solichs" numerus="sgl" specificity="spc" subclass="">
+            <span id="6_head" start="94" end="94" element="head" class="pro" confidence="0.88" text="solichs"/>
+          </span>
+          <span id="7" start="116" end="127" element="reference" class="fac" confidence="0.68" text="WiZossen huss , da da die lantrestin derselben bruch gegen dem berg" numerus="sgl" specificity="spc" subclass="">
+            <span id="63" start="116" end="116" element="attr" class="owner" confidence="0.99" text="WiZossen">
+              <span id="66" start="116" end="116" element="reference" class="per" confidence="0.99" text="WiZossen" numerus="sgl" specificity="spc" subclass="">
+                <span id="67" start="116" end="116" element="head" class="nam" confidence="1.0" text="WiZossen"/>
+              </span>
+            </span>
+            <span id="64" start="117" end="117" element="head" class="type" confidence="1.0" text="huss" norm="Haus"/>
+            <span id="65" start="119" end="127" element="attr" class="loc" confidence="0.68" text="da da die lantrestin derselben bruch gegen dem berg">
+              <span id="68" start="126" end="127" element="reference" class="loc" confidence="0.97" text="dem berg" numerus="sgl" specificity="spc" subclass="">
+                <span id="69" start="127" end="127" element="head" class="type" confidence="0.87" text="berg"/>
+              </span>
+            </span>
+          </span>
+          <span id="8" start="156" end="157" element="reference" class="per" confidence="0.6" text="irem Spitz" numerus="sgl" specificity="spc" subclass="">
+            <span id="70" start="156" end="156" element="reference" class="fac" confidence="0.98" text="irem" numerus="sgl" specificity="spc" subclass="">
+              <span id="70_head" start="156" end="156" element="head" class="pro" confidence="0.98" text="irem"/>
+            </span>
+            <span id="71" start="157" end="157" element="head" class="type" confidence="0.42" text="Spitz"/>
+          </span>
+          <span id="9" start="189" end="199" element="reference" class="per" confidence="0.88" text="der wirdig geistlich herre der prior des gotshus zu sant Alban" numerus="sgl" specificity="spc" subclass="rel">
+            <span id="74" start="191" end="192" element="head" class="title" confidence="0.96" text="geistlich herre"/>
+            <span id="73" start="193" end="199" element="appo" class="occ" confidence="0.81" text="der prior des gotshus zu sant Alban">
+              <span id="75" start="194" end="194" element="head" class="occ" confidence="1.0" text="prior" norm="prior" OhdAB="https://database.factgrid.de/wiki/Item:Q694587"/>
+              <span id="76" start="195" end="199" element="reference" class="org" confidence="0.91" text="des gotshus zu sant Alban" numerus="sgl" specificity="spc" subclass="rel">
+                <span id="77" start="196" end="199" element="head" class="nam" confidence="0.93" text="gotshus zu sant Alban" norm="St. Alban"/>
+              </span>
+            </span>
+          </span>
+          <span id="10" start="226" end="226" element="reference" class="unk" confidence="0.93" text="es" numerus="sgl" specificity="spc" subclass="">
+            <span id="10_head" start="226" end="226" element="head" class="pro" confidence="0.93" text="es"/>
+          </span>
+          <span id="11" start="231" end="231" element="reference" class="unk" confidence="0.98" text="es" numerus="sgl" specificity="spc" subclass="">
+            <span id="11_head" start="231" end="231" element="head" class="pro" confidence="0.98" text="es"/>
+          </span>
+          <span id="12" start="238" end="238" element="reference" class="unk" confidence="0.96" text="es" numerus="sgl" specificity="spc" subclass="">
+            <span id="12_head" start="238" end="238" element="head" class="pro" confidence="0.96" text="es"/>
+          </span>
+          <span id="13" start="260" end="263" element="value" class="date" confidence="0.7" text="sant Johannstag ze sunnwenden"/>
+          <span id="14" start="268" end="269" element="value" class="money" confidence="0.76" text="phunt pfenningen" norm="unk unk"/>
+          <span id="15" start="285" end="287" element="reference" class="per" confidence="0.63" text="die obgenanten hinft" numerus="sgl" specificity="spc" subclass="">
+            <span id="78" start="287" end="287" element="head" class="type" confidence="0.73" text="hinft"/>
+          </span>
+          <span id="16" start="299" end="299" element="reference" class="org" confidence="0.89" text="wir" numerus="sgl" specificity="spc" subclass="">
+            <span id="16_head" start="299" end="299" element="head" class="pro" confidence="0.89" text="wir"/>
+          </span>
+          <span id="17" start="325" end="325" element="reference" class="org" confidence="0.85" text="wir" numerus="sgl" specificity="spc" subclass="">
+            <span id="17_head" start="325" end="325" element="head" class="pro" confidence="0.85" text="wir"/>
+          </span>
+          <span id="18" start="326" end="327" element="reference" class="gpe-org" confidence="0.49" text="unser statt" numerus="sgl" specificity="spc" subclass="">
+            <span id="79" start="327" end="327" element="head" class="type" confidence="0.8" text="statt" norm="unk"/>
+          </span>
+          <span id="19" start="340" end="349" element="value" class="date" confidence="0.75" text="uff mitwuchen nach sant Martinstag des heiligen Bischoffs des jars"/>
+          <span id="20" start="355" end="359" element="reference" class="per" confidence="0.63" text="Thesu Crist unsers herren geburt" numerus="sgl" specificity="spc" subclass="">
+            <span id="80" start="355" end="356" element="head" class="nam" confidence="0.99" text="Thesu Crist"/>
+            <span id="81" start="357" end="359" element="appo" class="occ" confidence="0.49" text="unsers herren geburt">
+              <span id="82" start="357" end="358" element="reference" class="org" confidence="0.76" text="unsers herren" numerus="sgl" specificity="spc" subclass="rel">
+                <span id="84" start="358" end="358" element="head" class="type" confidence="0.77" text="herren" norm="unk"/>
+              </span>
+              <span id="83" start="359" end="359" element="head" class="occ" confidence="0.62" text="geburt" norm="unk"/>
+            </span>
+          </span>
+          <span id="21" start="361" end="365" element="other" class="other" confidence="0.42" text="vierhundert Siebennzig und oben jare"/>
+          <span id="22" start="382" end="392" element="reference" class="per" confidence="0.88" text="Hanns von Berenfels sitter burgermeister und der rate der statt Basel" numerus="sgl" specificity="spc" subclass="">
+            <span id="85" start="382" end="384" element="head" class="nam" confidence="0.82" text="Hanns von Berenfels"/>
+            <span id="86" start="385" end="392" element="appo" class="occ" confidence="0.76" text="sitter burgermeister und der rate der statt Basel">
+              <span id="87" start="385" end="385" element="head" class="occ" confidence="1.0" text="sitter" norm="no_occ" OhdAB=""/>
+              <span id="88" start="386" end="386" element="head" class="occ" confidence="0.94" text="burgermeister" norm="bürgermeister" OhdAB="https://database.factgrid.de/wiki/Item:Q686058"/>
+              <span id="89" start="388" end="392" element="reference" class="org" confidence="0.74" text="der rate der statt Basel" numerus="sgl" specificity="spc" subclass="gov">
+                <span id="90" start="389" end="389" element="head" class="type" confidence="0.97" text="rate" norm="Stadtrat Basel"/>
+                <span id="91" start="390" end="392" element="attr" class="other" confidence="0.79" text="der statt Basel">
+                  <span id="92" start="390" end="392" element="reference" class="gpe-org" confidence="0.98" text="der statt Basel" numerus="sgl" specificity="spc" subclass="">
+                    <span id="93" start="391" end="392" element="head" class="nam" confidence="0.74" text="statt Basel"/>
+                  </span>
+                </span>
+              </span>
+            </span>
+          </span>
+          <span id="23" start="405" end="408" element="reference" class="per" confidence="0.95" text="die erbern Hans Gilgenberg" numerus="sgl" specificity="spc" subclass="">
+            <span id="94" start="407" end="408" element="head" class="nam" confidence="0.94" text="Hans Gilgenberg"/>
+          </span>
+          <span id="24" start="410" end="411" element="reference" class="per" confidence="1.0" text="Heinrich Giger" numerus="sgl" specificity="spc" subclass="">
+            <span id="95" start="410" end="411" element="head" class="nam" confidence="1.0" text="Heinrich Giger"/>
+          </span>
+          <span id="25" start="413" end="414" element="reference" class="per" confidence="1.0" text="Heinrich Weger" numerus="sgl" specificity="spc" subclass="">
+            <span id="96" start="413" end="414" element="head" class="nam" confidence="1.0" text="Heinrich Weger"/>
+          </span>
+          <span id="26" start="416" end="417" element="reference" class="per" confidence="1.0" text="Hanns Amberg" numerus="sgl" specificity="spc" subclass="">
+            <span id="97" start="416" end="417" element="head" class="nam" confidence="1.0" text="Hanns Amberg"/>
+          </span>
+          <span id="27" start="419" end="430" element="reference" class="per" confidence="0.76" text="Jacob Tabahurlin unser Burger , die Zunft , so von unser stett" numerus="sgl" specificity="spc" subclass="">
+            <span id="98" start="419" end="420" element="head" class="nam" confidence="1.0" text="Jacob Tabahurlin"/>
+            <span id="99" start="421" end="422" element="appo" class="occ" confidence="0.68" text="unser Burger">
+              <span id="101" start="421" end="421" element="reference" class="per" confidence="0.87" text="unser" numerus="sgl" specificity="spc" subclass="">
+                <span id="101_head" start="421" end="421" element="head" class="pro" confidence="0.87" text="unser"/>
+              </span>
+              <span id="102" start="422" end="422" element="head" class="occ" confidence="0.91" text="Burger" norm="bürger" OhdAB=""/>
+            </span>
+            <span id="100" start="424" end="430" element="appo" class="occ" confidence="0.54" text="die Zunft , so von unser stett">
+              <span id="103" start="425" end="425" element="head" class="occ" confidence="0.94" text="Zunft" norm="unk"/>
+              <span id="104" start="429" end="430" element="reference" class="org" confidence="0.8" text="unser stett" numerus="sgl" specificity="spc" subclass="">
+                <span id="105" start="430" end="430" element="head" class="type" confidence="0.92" text="stett" norm="unk"/>
+              </span>
+            </span>
+          </span>
+          <span id="28" start="440" end="440" element="reference" class="per" confidence="0.9" text="uns" numerus="sgl" specificity="spc" subclass="">
+            <span id="28_head" start="440" end="440" element="head" class="pro" confidence="0.9" text="uns"/>
+          </span>
+          <span id="29" start="443" end="443" element="trigger" class="other" confidence="0.84" text="erzalt"/>
+          <span id="30" start="456" end="463" element="reference" class="per" confidence="0.72" text="den erberg meistern den millern trotziecher und schittern" numerus="grp" specificity="spc" subclass="">
+            <span id="106" start="457" end="458" element="appo" class="title" confidence="0.3" text="erberg meistern">
+              <span id="109" start="457" end="458" element="head" class="title" confidence="0.98" text="erberg meistern"/>
+            </span>
+            <span id="107" start="459" end="461" element="appo" class="occ" confidence="0.47" text="den millern trotziecher">
+              <span id="110" start="460" end="460" element="head" class="occ" confidence="0.99" text="millern" norm="unk" OhdAB=""/>
+              <span id="111" start="461" end="461" element="head" class="occ" confidence="0.67" text="trotziecher" norm="drahtzieher" OhdAB="https://database.factgrid.de/wiki/Item:Q663512"/>
+            </span>
+            <span id="108" start="463" end="463" element="head" class="other" confidence="0.64" text="schittern"/>
+          </span>
+          <span id="31" start="465" end="484" element="reference" class="fac" confidence="0.66" text="dem vordern techen den eim und den müllern papirmachern und schlittern uff dem hindern techenuft dem th zu sannt Alban" numerus="grp" specificity="spc" subclass="">
+            <span id="112" start="466" end="466" element="head" class="type" confidence="0.96" text="vordern" norm="Vorderhaus"/>
+            <span id="113" start="471" end="473" element="attr" class="owner" confidence="0.78" text="den müllern papirmachern">
+              <span id="115" start="471" end="473" element="reference" class="per" confidence="0.89" text="den müllern papirmachern" numerus="sgl" specificity="spc" subclass="">
+                <span id="116" start="472" end="473" element="head" class="occ" confidence="0.77" text="müllern papirmachern" norm="unk" OhdAB=""/>
+              </span>
+            </span>
+            <span id="114" start="476" end="484" element="attr" class="loc" confidence="0.85" text="uff dem hindern techenuft dem th zu sannt Alban">
+              <span id="117" start="477" end="479" element="reference" class="fac" confidence="0.69" text="dem hindern techenuft" numerus="sgl" specificity="spc" subclass="">
+                <span id="119" start="478" end="479" element="head" class="type" confidence="0.89" text="hindern techenuft" norm="unk"/>
+              </span>
+              <span id="118" start="480" end="484" element="reference" class="org" confidence="0.82" text="dem th zu sannt Alban" numerus="sgl" specificity="spc" subclass="">
+                <span id="120" start="481" end="481" element="head" class="type" confidence="0.98" text="th" norm="St. Alban"/>
+                <span id="121" start="482" end="484" element="attr" class="loc" confidence="0.49" text="zu sannt Alban">
+                  <span id="122" start="483" end="484" element="reference" class="fac" confidence="0.65" text="sannt Alban" numerus="sgl" specificity="spc" subclass="rel">
+                    <span id="123" start="483" end="484" element="head" class="nam" confidence="1.0" text="sannt Alban"/>
+                  </span>
+                </span>
+              </span>
+            </span>
+          </span>
+          <span id="32" start="494" end="518" element="reference" class="fac" confidence="0.76" text="der ussern bruck an Ullin Zossen stossende und der scherg schwellen des steins an Ullin dossen huss und der landvestin an der ob gemelten brucken" numerus="sgl" specificity="spc" subclass="">
+            <span id="124" start="496" end="496" element="head" class="type" confidence="0.58" text="bruck" norm="Brücke"/>
+            <span id="125" start="497" end="518" element="attr" class="loc" confidence="0.93" text="an Ullin Zossen stossende und der scherg schwellen des steins an Ullin dossen huss und der landvestin an der ob gemelten brucken">
+              <span id="126" start="498" end="499" element="reference" class="per" confidence="0.94" text="Ullin Zossen" numerus="sgl" specificity="spc" subclass="">
+                <span id="130" start="498" end="499" element="head" class="nam" confidence="1.0" text="Ullin Zossen"/>
+              </span>
+              <span id="127" start="502" end="506" element="reference" class="fac" confidence="0.81" text="der scherg schwellen des steins" numerus="sgl" specificity="spc" subclass="">
+                <span id="131" start="503" end="506" element="head" class="type" confidence="0.67" text="scherg schwellen des steins" norm="unk"/>
+              </span>
+              <span id="128" start="508" end="510" element="reference" class="fac" confidence="0.98" text="Ullin dossen huss" numerus="sgl" specificity="spc" subclass="">
+                <span id="132" start="508" end="509" element="attr" class="owner" confidence="1.0" text="Ullin dossen">
+                  <span id="134" start="508" end="509" element="reference" class="per" confidence="1.0" text="Ullin dossen" numerus="sgl" specificity="spc" subclass="">
+                    <span id="135" start="508" end="509" element="head" class="nam" confidence="1.0" text="Ullin dossen"/>
+                  </span>
+                </span>
+                <span id="133" start="510" end="510" element="head" class="type" confidence="1.0" text="huss" norm="Haus"/>
+              </span>
+              <span id="129" start="512" end="518" element="reference" class="fac" confidence="0.76" text="der landvestin an der ob gemelten brucken" numerus="sgl" specificity="spc" subclass="">
+                <span id="136" start="513" end="513" element="head" class="type" confidence="0.99" text="landvestin" norm="unk"/>
+                <span id="137" start="514" end="518" element="attr" class="loc" confidence="0.98" text="an der ob gemelten brucken">
+                  <span id="138" start="515" end="518" element="reference" class="fac" confidence="0.81" text="der ob gemelten brucken" numerus="sgl" specificity="spc" subclass="">
+                    <span id="139" start="518" end="518" element="head" class="type" confidence="0.93" text="brucken" norm="unk"/>
+                  </span>
+                </span>
+              </span>
+            </span>
+          </span>
+          <span id="33" start="522" end="525" element="reference" class="org" confidence="0.64" text="unserm Schultheissen und stattgericht" numerus="sgl" specificity="spc" subclass="gov">
+            <span id="140" start="523" end="525" element="head" class="type" confidence="0.88" text="Schultheissen und stattgericht" norm="unk"/>
+          </span>
+          <span id="34" start="530" end="530" element="reference" class="unk" confidence="1.0" text="sy" numerus="sgl" specificity="spc" subclass="">
+            <span id="34_head" start="530" end="530" element="head" class="pro" confidence="1.0" text="sy"/>
+          </span>
+          <span id="35" start="532" end="534" element="reference" class="per" confidence="0.71" text="den erbern meistern" numerus="grp" specificity="spc" subclass="">
+            <span id="141" start="533" end="534" element="head" class="role" confidence="0.41" text="erbern meistern"/>
+          </span>
+          <span id="36" start="556" end="556" element="reference" class="unk" confidence="1.0" text="sy" numerus="sgl" specificity="spc" subclass="">
+            <span id="36_head" start="556" end="556" element="head" class="pro" confidence="1.0" text="sy"/>
+          </span>
+          <span id="37" start="557" end="557" element="reference" class="unk" confidence="0.78" text="im" numerus="sgl" specificity="spc" subclass="">
+            <span id="37_head" start="557" end="557" element="head" class="pro" confidence="0.78" text="im"/>
+          </span>
+          <span id="38" start="578" end="578" element="reference" class="unk" confidence="0.98" text="er" numerus="sgl" specificity="spc" subclass="">
+            <span id="38_head" start="578" end="578" element="head" class="pro" confidence="0.98" text="er"/>
+          </span>
+          <span id="39" start="653" end="653" element="reference" class="unk" confidence="0.58" text="jettlicher" numerus="sgl" specificity="spc" subclass="">
+            <span id="39_head" start="653" end="653" element="head" class="pro" confidence="0.58" text="jettlicher"/>
+          </span>
+          <span id="40" start="667" end="668" element="reference" class="fac" confidence="0.55" text="der schaur" numerus="sgl" specificity="spc" subclass="">
+            <span id="142" start="668" end="668" element="head" class="type" confidence="1.0" text="schaur" norm="unk"/>
+          </span>
+          <span id="41" start="691" end="691" element="reference" class="unk" confidence="0.98" text="er" numerus="sgl" specificity="spc" subclass="">
+            <span id="41_head" start="691" end="691" element="head" class="pro" confidence="0.98" text="er"/>
+          </span>
+          <span id="42" start="693" end="693" element="reference" class="unk" confidence="0.83" text="sich" numerus="sgl" specificity="spc" subclass="">
+            <span id="42_head" start="693" end="693" element="head" class="pro" confidence="0.83" text="sich"/>
+          </span>
+          <span id="43" start="698" end="700" element="reference" class="fac" confidence="0.54" text="der gattern glosten" numerus="sgl" specificity="spc" subclass="">
+            <span id="143" start="698" end="699" element="attr" class="owner" confidence="0.53" text="der gattern">
+              <span id="145" start="698" end="699" element="reference" class="per" confidence="0.82" text="der gattern" numerus="sgl" specificity="spc" subclass="">
+                <span id="146" start="699" end="699" element="head" class="type" confidence="0.57" text="gattern"/>
+              </span>
+            </span>
+            <span id="144" start="700" end="700" element="head" class="type" confidence="0.99" text="glosten" norm="unk"/>
+          </span>
+          <span id="44" start="711" end="711" element="reference" class="unk" confidence="0.9" text="es" numerus="sgl" specificity="spc" subclass="">
+            <span id="44_head" start="711" end="711" element="head" class="pro" confidence="0.9" text="es"/>
+          </span>
+        </spans>
+        <relations>
+          <relation id="1" from="6" to="5" class="coref"/>
+          <relation id="2" from="11" to="10" class="coref"/>
+          <relation id="3" from="12" to="11" class="coref"/>
+          <relation id="4" from="101" to="26" class="coref"/>
+          <relation id="5" from="28" to="23" class="coref"/>
+          <relation id="6" from="28" to="26" class="coref"/>
+          <relation id="7" from="36" to="34" class="coref"/>
+          <relation id="8" from="37" to="34" class="coref"/>
+          <relation id="9" from="38" to="36" class="coref"/>
+          <relation id="10" from="42" to="41" class="coref"/>
+          <relation from="70" to="51" class="coref"/>
+          <relation from="16" to="89" class="coref"/>
+          <relation from="17" to="89" class="coref"/>
+          <relation from="18" to="92" class="coref"/>
+        </relations>
+        <eventGroups>
+          <eventGroup event_id="0" class="declaration" start="388" end="443" ref="" type="event" tense="unk" polarity="unk" modality="unk">
+            <trigger ref="29" text="erzalt" start="443" end="443"/>
+            <event event_id="0.0">
+              <role role="proclaimer" ref="23" confidence="gpt-5.5" text="die erbern Hans Gilgenberg"/>
+              <role role="proclaimer" ref="24" confidence="gpt-5.5" text="Heinrich Giger"/>
+              <role role="proclaimer" ref="25" confidence="gpt-5.5" text="Heinrich Weger"/>
+              <role role="proclaimer" ref="26" confidence="gpt-5.5" text="Hanns Amberg"/>
+              <role role="proclaimer" ref="27" confidence="gpt-5.5" text="Jacob Tabahurlin unser Burger , die Zunft , so von unser stett"/>
+              <role role="addressee" ref="89" confidence="gpt-5.5" text="der rate der statt Basel"/>
+              <role role="content" ref="E_litigation_1" confidence="gpt-5.5"/>
+            </event>
+          </eventGroup>
+          <eventGroup event_id="1" class="inheritance" start="2" end="3" ref="0" type="event" tense="unk" polarity="unk" modality="unk">
+            <trigger start="3" end="3" text="nachhommen" ref="46"/>
+            <event event_id="1.0">
+              <role role="heir" ref="0" text="unseren nachhommen"/>
+              <role role="decedent" ref="45" text="unseren"/>
+            </event>
+          </eventGroup>
+          <eventGroup event_id="3" class="employment" start="189" end="199" ref="73" type="state" tense="unk" polarity="unk" modality="unk">
+            <trigger start="194" end="194" text="prior" ref="75"/>
+            <event event_id="3.0">
+              <role role="employee" ref="9" text="der wirdig geistlich herre der prior des gotshus zu sant Alban"/>
+              <role role="employer" ref="76" text="des gotshus zu sant Alban"/>
+            </event>
+          </eventGroup>
+          <eventGroup event_id="4" class="employment" start="355" end="359" ref="81" type="state" tense="unk" polarity="unk" modality="unk">
+            <trigger start="359" end="359" text="geburt" ref="83"/>
+            <event event_id="4.0">
+              <role role="employee" ref="20" text="Thesu Crist unsers herren geburt"/>
+              <role role="employer" ref="82" text="unsers herren"/>
+            </event>
+          </eventGroup>
+          <eventGroup event_id="5" class="employment" start="382" end="392" ref="86" type="state" tense="unk" polarity="unk" modality="unk">
+            <trigger start="385" end="385" text="sitter" ref="87"/>
+            <event event_id="5.0">
+              <role role="employee" ref="22" text="Hanns von Berenfels sitter burgermeister und der rate der statt Basel"/>
+              <role role="employer" ref="89" text="der rate der statt Basel"/>
+            </event>
+          </eventGroup>
+          <eventGroup event_id="6" class="employment" start="419" end="430" ref="99" type="state" tense="unk" polarity="unk" modality="unk">
+            <trigger start="422" end="422" text="Burger" ref="102"/>
+            <event event_id="6.0">
+              <role role="employee" ref="27" text="Jacob Tabahurlin unser Burger , die Zunft , so von unser stett"/>
+              <role role="employer" ref="101" text="unser"/>
+            </event>
+          </eventGroup>
+          <eventGroup event_id="7" class="employment" start="419" end="430" ref="100" type="state" tense="unk" polarity="unk" modality="unk">
+            <trigger start="425" end="425" text="Zunft" ref="103"/>
+            <event event_id="7.0">
+              <role role="employee" ref="27" text="Jacob Tabahurlin unser Burger , die Zunft , so von unser stett"/>
+              <role role="employer" ref="104" text="unser stett"/>
+            </event>
+          </eventGroup>
+          <eventGroup event_id="8" class="topological" start="23" end="42" ref="48" type="state" tense="unk" polarity="unk" modality="unk">
+            <event event_id="8.0">
+              <role role="location-a" ref="2" text="der schwellen biss an den phosten , so enmitten in dem ten statt und hinder sich gegen Ulin Zossen Tanntvesti"/>
+              <role role="location-b" ref="49" text="den phosten"/>
+              <role role="location-b" ref="50" text="dem ten statt"/>
+              <role role="location-b" ref="51" text="Ulin Zossen Tanntvesti"/>
+            </event>
+          </eventGroup>
+          <eventGroup event_id="9" class="ownership" start="40" end="42" ref="54" type="state" tense="unk" polarity="unk" modality="unk">
+            <event event_id="9.0">
+              <role role="property" ref="51" text="Ulin Zossen Tanntvesti"/>
+              <role role="owner" ref="56" text="Ulin Zossen"/>
+            </event>
+          </eventGroup>
+          <eventGroup event_id="10" class="topological" start="61" end="65" ref="60" type="state" tense="unk" polarity="unk" modality="unk">
+            <event event_id="10.0">
+              <role role="location-a" ref="4" text="dem sch gegen der Sanntvestin"/>
+              <role role="location-b" ref="61" text="der Sanntvestin"/>
+            </event>
+          </eventGroup>
+          <eventGroup event_id="11" class="ownership" start="116" end="127" ref="63" type="state" tense="unk" polarity="unk" modality="unk">
+            <event event_id="11.0">
+              <role role="property" ref="7" text="WiZossen huss , da da die lantrestin derselben bruch gegen dem berg"/>
+              <role role="owner" ref="66" text="WiZossen"/>
+            </event>
+          </eventGroup>
+          <eventGroup event_id="12" class="topological" start="116" end="127" ref="65" type="state" tense="unk" polarity="unk" modality="unk">
+            <event event_id="12.0">
+              <role role="location-a" ref="7" text="WiZossen huss , da da die lantrestin derselben bruch gegen dem berg"/>
+              <role role="location-b" ref="68" text="dem berg"/>
+            </event>
+          </eventGroup>
+          <eventGroup event_id="14" class="ownership" start="465" end="484" ref="113" type="state" tense="unk" polarity="unk" modality="unk">
+            <event event_id="14.0">
+              <role role="property" ref="31" text="dem vordern techen den eim und den müllern papirmachern und schlittern uff dem hindern techenuft dem th zu sannt Alban"/>
+              <role role="owner" ref="115" text="den müllern papirmachern"/>
+            </event>
+          </eventGroup>
+          <eventGroup event_id="15" class="topological" start="465" end="484" ref="114" type="state" tense="unk" polarity="unk" modality="unk">
+            <event event_id="15.0">
+              <role role="location-a" ref="31" text="dem vordern techen den eim und den müllern papirmachern und schlittern uff dem hindern techenuft dem th zu sannt Alban"/>
+              <role role="location-b" ref="117" text="dem hindern techenuft"/>
+              <role role="location-b" ref="118" text="dem th zu sannt Alban"/>
+            </event>
+          </eventGroup>
+          <eventGroup event_id="16" class="topological" start="480" end="484" ref="121" type="state" tense="unk" polarity="unk" modality="unk">
+            <event event_id="16.0">
+              <role role="location-a" ref="118" text="dem th zu sannt Alban"/>
+              <role role="location-b" ref="122" text="sannt Alban"/>
+            </event>
+          </eventGroup>
+          <eventGroup event_id="17" class="topological" start="494" end="518" ref="125" type="state" tense="unk" polarity="unk" modality="unk">
+            <event event_id="17.0">
+              <role role="location-a" ref="32" text="der ussern bruck an Ullin Zossen stossende und der scherg schwellen des steins an Ullin dossen huss und der landvestin an der ob gemelten brucken"/>
+              <role role="location-b" ref="126" text="Ullin Zossen"/>
+              <role role="location-b" ref="127" text="der scherg schwellen des steins"/>
+              <role role="location-b" ref="128" text="Ullin dossen huss"/>
+              <role role="location-b" ref="129" text="der landvestin an der ob gemelten brucken"/>
+            </event>
+          </eventGroup>
+          <eventGroup event_id="18" class="ownership" start="508" end="510" ref="132" type="state" tense="unk" polarity="unk" modality="unk">
+            <event event_id="18.0">
+              <role role="property" ref="128" text="Ullin dossen huss"/>
+              <role role="owner" ref="134" text="Ullin dossen"/>
+            </event>
+          </eventGroup>
+          <eventGroup event_id="19" class="topological" start="512" end="518" ref="137" type="state" tense="unk" polarity="unk" modality="unk">
+            <event event_id="19.0">
+              <role role="location-a" ref="129" text="der landvestin an der ob gemelten brucken"/>
+              <role role="location-b" ref="138" text="der ob gemelten brucken"/>
+            </event>
+          </eventGroup>
+          <eventGroup event_id="20" class="ownership" start="698" end="700" ref="143" type="state" tense="unk" polarity="unk" modality="unk">
+            <event event_id="20.0">
+              <role role="property" ref="43" text="der gattern glosten"/>
+              <role role="owner" ref="145" text="der gattern"/>
+            </event>
+          </eventGroup>
+          <eventGroup event_id="E_litigation_1" type="event" polarity="pos" tense="pres" modality="ass" ref="" class="litigation" start="285" end="534">
+            <event event_id="E_litigation_1.0">
+              <role role="court" ref="33" confidence="gpt-5.5" text="unserm Schultheissen und stattgericht"/>
+              <role role="court" ref="35" confidence="gpt-5.5" text="den erbern meistern"/>
+              <role role="court" ref="15" confidence="gpt-5.5" text="die obgenanten hinft"/>
+              <role role="party1" ref="30" confidence="gpt-5.5" text="den erberg meistern den millern trotziecher und schittern"/>
+              <role role="party2" ref="115" confidence="gpt-5.5" text="den müllern papirmachern"/>
+              <role role="subject" ref="32" confidence="gpt-5.5" text="der ussern bruck an Ullin Zossen stossende und der scherg schwellen des steins an Ullin dossen huss und der landvestin an der ob gemelten brucken"/>
+            </event>
+          </eventGroup>
+          <eventGroup event_id="E_payment_1" type="event" polarity="pos" tense="pres" modality="ass" ref="" class="payment" start="260" end="269">
+            <event event_id="E_payment_1.0">
+              <role role="due-date" ref="13" confidence="gpt-5.5" text="sant Johannstag ze sunnwenden"/>
+              <role role="sum" ref="14" confidence="gpt-5.5" text="phunt pfenningen"/>
+            </event>
+          </eventGroup>
+        </eventGroups>
+      </document>
+      <document id="00dc97c5-ef36-4079-a1ec-0c80ad102fee_20260528">
+        <metadata>
+          <street_id>HGB_1_009</street_id>
+          <dossier_id>HGB_1_009_001</dossier_id>
+          <year>1477</year>
+          <source>St.-Alban-Teicharchiv</source>
+          <language>german</language>
+          <checked_by_gpt>false</checked_by_gpt>
+          <text>Die 5 über das Stadt Bas entscheiden zwischen den Müllern auf den vordem Lehen und denen auf der hindern Lehen uff den Tych zu S. Albans über eine Seitigkeis betz der usseren Bruck an Ulin Zossen stossende und der Scheydschwellen der Stein an Ullin Zossen hus.</text>
+          <pages>
+            <page nr="6">https://files.transkribus.eu/Get?fileType=view&amp;id=BKVFFGOPWIACQRTCWWGWHIMA</page>
+          </pages>
+        </metadata>
+        <text>
+          <token token_id="0">Die</token>
+          <token token_id="1">5</token>
+          <token token_id="2">über</token>
+          <token token_id="3">das</token>
+          <token token_id="4">Stadt</token>
+          <token token_id="5">Bas</token>
+          <token token_id="6">entscheiden</token>
+          <token token_id="7">zwischen</token>
+          <token token_id="8">den</token>
+          <token token_id="9">Müllern</token>
+          <token token_id="10">auf</token>
+          <token token_id="11">den</token>
+          <token token_id="12">vordem</token>
+          <token token_id="13">Lehen</token>
+          <token token_id="14">und</token>
+          <token token_id="15">denen</token>
+          <token token_id="16">auf</token>
+          <token token_id="17">der</token>
+          <token token_id="18">hindern</token>
+          <token token_id="19">Lehen</token>
+          <token token_id="20">uff</token>
+          <token token_id="21">den</token>
+          <token token_id="22">Tych</token>
+          <token token_id="23">zu</token>
+          <token token_id="24">S</token>
+          <token token_id="25">.</token>
+          <token token_id="26">Albans</token>
+          <token token_id="27">über</token>
+          <token token_id="28">eine</token>
+          <token token_id="29">Seitigkeis</token>
+          <token token_id="30">betz</token>
+          <token token_id="31">der</token>
+          <token token_id="32">usseren</token>
+          <token token_id="33">Bruck</token>
+          <token token_id="34">an</token>
+          <token token_id="35">Ulin</token>
+          <token token_id="36">Zossen</token>
+          <token token_id="37">stossende</token>
+          <token token_id="38">und</token>
+          <token token_id="39">der</token>
+          <token token_id="40">Scheydschwellen</token>
+          <token token_id="41">der</token>
+          <token token_id="42">Stein</token>
+          <token token_id="43">an</token>
+          <token token_id="44">Ullin</token>
+          <token token_id="45">Zossen</token>
+          <token token_id="46">hus</token>
+          <token token_id="47">.</token>
+        </text>
+        <spans>
+          <span id="0" start="1" end="5" element="reference" class="org" confidence="0.71" text="5 über das Stadt Bas" numerus="sgl" specificity="spc" subclass="gov">
+            <span id="4" start="1" end="5" element="head" class="type" confidence="0.71" text="5 über das Stadt Bas" norm="Fünfergericht"/>
+          </span>
+          <span id="1" start="8" end="9" element="reference" class="org" confidence="0.83" text="den Müllern" numerus="sgl" specificity="spc" subclass="">
+            <span id="5" start="9" end="9" element="head" class="nam" confidence="0.51" text="Müllern" norm="unk"/>
+          </span>
+          <span id="2" start="11" end="13" element="reference" class="fac" confidence="0.7" text="den vordem Lehen" numerus="sgl" specificity="spc" subclass="">
+            <span id="6" start="13" end="13" element="head" class="type" confidence="0.98" text="Lehen" norm="Lehen"/>
+          </span>
+          <span id="3" start="17" end="46" element="reference" class="fac" confidence="0.76" text="der hindern Lehen uff den Tych zu S . Albans über eine Seitigkeis betz der usseren Bruck an Ulin Zossen stossende und der Scheydschwellen der Stein an Ullin Zossen hus" numerus="sgl" specificity="spc" subclass="">
+            <span id="7" start="19" end="19" element="head" class="type" confidence="0.7" text="Lehen" norm="Lehen"/>
+            <span id="8" start="20" end="46" element="attr" class="loc" confidence="0.96" text="uff den Tych zu S . Albans über eine Seitigkeis betz der usseren Bruck an Ulin Zossen stossende und der Scheydschwellen der Stein an Ullin Zossen hus">
+              <span id="9" start="21" end="22" element="reference" class="loc" confidence="0.98" text="den Tych" numerus="sgl" specificity="spc" subclass="">
+                <span id="15" start="22" end="22" element="head" class="nam" confidence="0.62" text="Tych"/>
+              </span>
+              <span id="10" start="24" end="26" element="reference" class="fac" confidence="0.55" text="S . Albans" numerus="sgl" specificity="spc" subclass="rel">
+                <span id="16" start="24" end="26" element="head" class="nam" confidence="0.82" text="S . Albans"/>
+              </span>
+              <span id="11" start="31" end="33" element="reference" class="fac" confidence="0.75" text="der usseren Bruck" numerus="sgl" specificity="spc" subclass="">
+                <span id="17" start="32" end="33" element="head" class="type" confidence="0.77" text="usseren Bruck" norm="unk"/>
+              </span>
+              <span id="12" start="35" end="36" element="reference" class="fac" confidence="0.71" text="Ulin Zossen" numerus="sgl" specificity="spc" subclass="">
+                <span id="18" start="35" end="36" element="head" class="nam" confidence="0.94" text="Ulin Zossen"/>
+              </span>
+              <span id="13" start="39" end="42" element="reference" class="fac" confidence="0.72" text="der Scheydschwellen der Stein" numerus="sgl" specificity="spc" subclass="">
+                <span id="19" start="40" end="42" element="head" class="type" confidence="0.69" text="Scheydschwellen der Stein" norm="unk"/>
+              </span>
+              <span id="14" start="44" end="46" element="reference" class="fac" confidence="0.84" text="Ullin Zossen hus" numerus="sgl" specificity="spc" subclass="">
+                <span id="20" start="44" end="45" element="attr" class="owner" confidence="1.0" text="Ullin Zossen">
+                  <span id="22" start="44" end="45" element="reference" class="per" confidence="1.0" text="Ullin Zossen" numerus="sgl" specificity="spc" subclass="">
+                    <span id="23" start="44" end="45" element="head" class="nam" confidence="1.0" text="Ullin Zossen"/>
+                  </span>
+                </span>
+                <span id="21" start="46" end="46" element="head" class="type" confidence="1.0" text="hus" norm="Haus"/>
+              </span>
+            </span>
+          </span>
+        </spans>
+        <relations/>
+        <eventGroups>
+          <eventGroup event_id="0" class="topological" start="20" end="46" ref="8" type="state" tense="unk" polarity="unk" modality="unk">
+            <event event_id="0.0">
+              <role role="location-a" ref="3" text="der hindern Lehen uff den Tych zu S . Albans über eine Seitigkeis betz der usseren Bruck an Ulin Zossen stossende und der Scheydschwellen der Stein an Ullin Zossen hus"/>
+              <role role="location-b" ref="9" text="den Tych"/>
+              <role role="location-b" ref="10" text="S . Albans"/>
+              <role role="location-b" ref="11" text="der usseren Bruck"/>
+              <role role="location-b" ref="12" text="Ulin Zossen"/>
+              <role role="location-b" ref="13" text="der Scheydschwellen der Stein"/>
+              <role role="location-b" ref="14" text="Ullin Zossen hus"/>
+            </event>
+          </eventGroup>
+          <eventGroup event_id="1" class="ownership" start="44" end="45" ref="20" type="state" tense="unk" polarity="unk" modality="unk">
+            <event event_id="1.0">
+              <role role="property" ref="14" text="Ullin Zossen hus"/>
+              <role role="owner" ref="22" text="Ullin Zossen"/>
+            </event>
+          </eventGroup>
+        </eventGroups>
+      </document>
+    </collection>
+  </series>
+</corpus>

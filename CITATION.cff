@@ -1,0 +1,11 @@
+```yaml
+cff-version: 1.2.0
+message: "If you use this dataset, we recommend the citation below."
+authors:
+  - family-names: "Prada Ziegler"
+    given-names: "Ismail"
+    orcid: "https://orcid.org/0000-0003-4229-8688"
+title: "Economies of Space: Full Annotated Dataset"
+version: 1.0.0
+date-released: 2026-07-26
+url: "https://github.com/DHBern/economies-of-space-automatically-annotated-data"

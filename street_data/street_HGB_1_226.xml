@@ -1,0 +1,328 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus>
+  <series id="HGB_1_226" name="Wallstrasse">
+    <collection id="HGB_1_226_001" variant_names="Hus zu Rechtenberg">
+      <metadata>
+        <dossiertype>Liegenschaft</dossiertype>
+        <location>POINT(2611340.926185879 1266642.4135432409)</location>
+        <address>Wallstrasse</address>
+        <dossier_history>
+          <phase iteration="1">
+            <validity_period from="1425" to="1425"/>
+          </phase>
+        </dossier_history>
+      </metadata>
+      <document id="90f2e9cc-6817-40f2-aec9-a4bb2cbb28d6_20260528">
+        <metadata>
+          <street_id>HGB_1_226</street_id>
+          <dossier_id>HGB_1_226_001</dossier_id>
+          <year>1425</year>
+          <source>Spital</source>
+          <language>german</language>
+          <checked_by_gpt>false</checked_by_gpt>
+          <text>Os ist ze wissent daz dis vorgeschribenen personen die in disem nüwen zinssbuch zem ersten in den fronvasten zinsen ge - schriben stant, des ersten so ist es Peter Knobeloch, der Probst von sant Lienhart, Juncker Cunrat Syntz, Schülers Hus, aber Schülers Hus, das Hus zer Megde, das Hus zu Rechtenberg, die von Strassburg, das Hus nebent dem Stritt, das Hus zer Jugenweide, aber das Hus zer Sugenweide, die habent in langer zit nützit dem Spital verzinnset, prestenhalb des Brantz nachdern als die Hofstetten zem teil de und ungebuwen sint und ouch Hofstetten die gebuwen sint essige vor oder damach denne das si sich heut verwandlet ab einem an den anderen nach dem als hie nach geschriben stat item ze dem ersten dis vorgeschriebenen Hüsere und Hofstet. ten. gibt 4ß 9ȡ and Tring wisung, dem 8ß thun an werden</text>
+          <mentioned_houses>
+            <house span_ref="36">Hus zu Rechtenberg</house>
+          </mentioned_houses>
+          <pages>
+            <page nr="24">https://files.transkribus.eu/Get?fileType=view&amp;id=GDHWWLXEJWCELIHRPUCYEXFD</page>
+          </pages>
+        </metadata>
+        <text>
+          <token token_id="0">Os</token>
+          <token token_id="1">ist</token>
+          <token token_id="2">ze</token>
+          <token token_id="3">wissent</token>
+          <token token_id="4">daz</token>
+          <token token_id="5">dis</token>
+          <token token_id="6">vorgeschribenen</token>
+          <token token_id="7">personen</token>
+          <token token_id="8">die</token>
+          <token token_id="9">in</token>
+          <token token_id="10">disem</token>
+          <token token_id="11">nüwen</token>
+          <token token_id="12">zinssbuch</token>
+          <token token_id="13">zem</token>
+          <token token_id="14">ersten</token>
+          <token token_id="15">in</token>
+          <token token_id="16">den</token>
+          <token token_id="17">fronvasten</token>
+          <token token_id="18">zinsen</token>
+          <token token_id="19">ge</token>
+          <token token_id="20">-</token>
+          <token token_id="21">schriben</token>
+          <token token_id="22">stant</token>
+          <token token_id="23">,</token>
+          <token token_id="24">des</token>
+          <token token_id="25">ersten</token>
+          <token token_id="26">so</token>
+          <token token_id="27">ist</token>
+          <token token_id="28">es</token>
+          <token token_id="29">Peter</token>
+          <token token_id="30">Knobeloch</token>
+          <token token_id="31">,</token>
+          <token token_id="32">der</token>
+          <token token_id="33">Probst</token>
+          <token token_id="34">von</token>
+          <token token_id="35">sant</token>
+          <token token_id="36">Lienhart</token>
+          <token token_id="37">,</token>
+          <token token_id="38">Juncker</token>
+          <token token_id="39">Cunrat</token>
+          <token token_id="40">Syntz</token>
+          <token token_id="41">,</token>
+          <token token_id="42">Schülers</token>
+          <token token_id="43">Hus</token>
+          <token token_id="44">,</token>
+          <token token_id="45">aber</token>
+          <token token_id="46">Schülers</token>
+          <token token_id="47">Hus</token>
+          <token token_id="48">,</token>
+          <token token_id="49">das</token>
+          <token token_id="50">Hus</token>
+          <token token_id="51">zer</token>
+          <token token_id="52">Megde</token>
+          <token token_id="53">,</token>
+          <token token_id="54">das</token>
+          <token token_id="55">Hus</token>
+          <token token_id="56">zu</token>
+          <token token_id="57">Rechtenberg</token>
+          <token token_id="58">,</token>
+          <token token_id="59">die</token>
+          <token token_id="60">von</token>
+          <token token_id="61">Strassburg</token>
+          <token token_id="62">,</token>
+          <token token_id="63">das</token>
+          <token token_id="64">Hus</token>
+          <token token_id="65">nebent</token>
+          <token token_id="66">dem</token>
+          <token token_id="67">Stritt</token>
+          <token token_id="68">,</token>
+          <token token_id="69">das</token>
+          <token token_id="70">Hus</token>
+          <token token_id="71">zer</token>
+          <token token_id="72">Jugenweide</token>
+          <token token_id="73">,</token>
+          <token token_id="74">aber</token>
+          <token token_id="75">das</token>
+          <token token_id="76">Hus</token>
+          <token token_id="77">zer</token>
+          <token token_id="78">Sugenweide</token>
+          <token token_id="79">,</token>
+          <token token_id="80">die</token>
+          <token token_id="81">habent</token>
+          <token token_id="82">in</token>
+          <token token_id="83">langer</token>
+          <token token_id="84">zit</token>
+          <token token_id="85">nützit</token>
+          <token token_id="86">dem</token>
+          <token token_id="87">Spital</token>
+          <token token_id="88">verzinnset</token>
+          <token token_id="89">,</token>
+          <token token_id="90">prestenhalb</token>
+          <token token_id="91">des</token>
+          <token token_id="92">Brantz</token>
+          <token token_id="93">nachdern</token>
+          <token token_id="94">als</token>
+          <token token_id="95">die</token>
+          <token token_id="96">Hofstetten</token>
+          <token token_id="97">zem</token>
+          <token token_id="98">teil</token>
+          <token token_id="99">de</token>
+          <token token_id="100">und</token>
+          <token token_id="101">ungebuwen</token>
+          <token token_id="102">sint</token>
+          <token token_id="103">und</token>
+          <token token_id="104">ouch</token>
+          <token token_id="105">Hofstetten</token>
+          <token token_id="106">die</token>
+          <token token_id="107">gebuwen</token>
+          <token token_id="108">sint</token>
+          <token token_id="109">essige</token>
+          <token token_id="110">vor</token>
+          <token token_id="111">oder</token>
+          <token token_id="112">damach</token>
+          <token token_id="113">denne</token>
+          <token token_id="114">das</token>
+          <token token_id="115">si</token>
+          <token token_id="116">sich</token>
+          <token token_id="117">heut</token>
+          <token token_id="118">verwandlet</token>
+          <token token_id="119">ab</token>
+          <token token_id="120">einem</token>
+          <token token_id="121">an</token>
+          <token token_id="122">den</token>
+          <token token_id="123">anderen</token>
+          <token token_id="124">nach</token>
+          <token token_id="125">dem</token>
+          <token token_id="126">als</token>
+          <token token_id="127">hie</token>
+          <token token_id="128">nach</token>
+          <token token_id="129">geschriben</token>
+          <token token_id="130">stat</token>
+          <token token_id="131">item</token>
+          <token token_id="132">ze</token>
+          <token token_id="133">dem</token>
+          <token token_id="134">ersten</token>
+          <token token_id="135">dis</token>
+          <token token_id="136">vorgeschriebenen</token>
+          <token token_id="137">Hüsere</token>
+          <token token_id="138">und</token>
+          <token token_id="139">Hofstet</token>
+          <token token_id="140">.</token>
+          <token token_id="141">ten</token>
+          <token token_id="142">.</token>
+          <token token_id="143">gibt</token>
+          <token token_id="144">4ß</token>
+          <token token_id="145">9ȡ</token>
+          <token token_id="146">and</token>
+          <token token_id="147">Tring</token>
+          <token token_id="148">wisung</token>
+          <token token_id="149">,</token>
+          <token token_id="150">dem</token>
+          <token token_id="151">8ß</token>
+          <token token_id="152">thun</token>
+          <token token_id="153">an</token>
+          <token token_id="154">werden</token>
+        </text>
+        <spans>
+          <span id="0" start="5" end="7" element="reference" class="per" confidence="0.58" text="dis vorgeschribenen personen" numerus="grp" specificity="spc" subclass="">
+            <span id="18" start="7" end="7" element="head" class="type" confidence="0.32" text="personen"/>
+          </span>
+          <span id="1" start="29" end="36" element="reference" class="per" confidence="0.97" text="Peter Knobeloch , der Probst von sant Lienhart" numerus="sgl" specificity="spc" subclass="">
+            <span id="19" start="29" end="30" element="head" class="nam" confidence="1.0" text="Peter Knobeloch"/>
+            <span id="20" start="32" end="36" element="appo" class="occ" confidence="0.98" text="der Probst von sant Lienhart">
+              <span id="21" start="33" end="33" element="head" class="occ" confidence="1.0" text="Probst" norm="probst" OhdAB="https://database.factgrid.de/wiki/Item:Q694926"/>
+              <span id="22" start="35" end="36" element="reference" class="org" confidence="0.91" text="sant Lienhart" numerus="sgl" specificity="spc" subclass="rel">
+                <span id="23" start="35" end="36" element="head" class="nam" confidence="1.0" text="sant Lienhart" norm="Kirche St. Leonhard"/>
+              </span>
+            </span>
+          </span>
+          <span id="2" start="38" end="40" element="reference" class="per" confidence="0.98" text="Juncker Cunrat Syntz" numerus="sgl" specificity="spc" subclass="">
+            <span id="24" start="38" end="38" element="appo" class="title" confidence="1.0" text="Juncker">
+              <span id="26" start="38" end="38" element="head" class="title" confidence="1.0" text="Juncker"/>
+            </span>
+            <span id="25" start="39" end="40" element="head" class="nam" confidence="1.0" text="Cunrat Syntz"/>
+          </span>
+          <span id="3" start="42" end="47" element="reference" class="fac" confidence="0.84" text="Schülers Hus , aber Schülers Hus" numerus="sgl" specificity="spc" subclass="">
+            <span id="27" start="42" end="42" element="attr" class="owner" confidence="1.0" text="Schülers">
+              <span id="31" start="42" end="42" element="reference" class="per" confidence="1.0" text="Schülers" numerus="sgl" specificity="spc" subclass="">
+                <span id="32" start="42" end="42" element="head" class="nam" confidence="1.0" text="Schülers"/>
+              </span>
+            </span>
+            <span id="28" start="43" end="43" element="head" class="type" confidence="1.0" text="Hus" norm="Haus"/>
+            <span id="29" start="45" end="46" element="attr" class="owner" confidence="0.72" text="aber Schülers">
+              <span id="33" start="46" end="46" element="reference" class="per" confidence="0.91" text="Schülers" numerus="sgl" specificity="spc" subclass="">
+                <span id="34" start="46" end="46" element="head" class="nam" confidence="1.0" text="Schülers"/>
+              </span>
+            </span>
+            <span id="30" start="47" end="47" element="unk" class="type" confidence="0.85" text="Hus" norm="Haus"/>
+          </span>
+          <span id="4" start="49" end="52" element="reference" class="fac" confidence="0.9" text="das Hus zer Megde" numerus="sgl" specificity="spc" subclass="">
+            <span id="35" start="50" end="52" element="head" class="nam" confidence="0.96" text="Hus zer Megde"/>
+          </span>
+          <span id="5" start="54" end="61" element="reference" class="fac" confidence="0.72" text="das Hus zu Rechtenberg , die von Strassburg" numerus="sgl" specificity="spc" subclass="">
+            <span id="36" start="55" end="57" element="head" class="nam" confidence="0.8" text="Hus zu Rechtenberg"/>
+            <span id="37" start="59" end="61" element="attr" class="owner" confidence="0.72" text="die von Strassburg">
+              <span id="38" start="59" end="61" element="reference" class="org" confidence="0.56" text="die von Strassburg" numerus="sgl" specificity="spc" subclass="">
+                <span id="39" start="59" end="61" element="head" class="nam" confidence="0.76" text="die von Strassburg" norm="Kloster Olsberg"/>
+              </span>
+            </span>
+          </span>
+          <span id="6" start="63" end="67" element="reference" class="fac" confidence="0.86" text="das Hus nebent dem Stritt" numerus="sgl" specificity="spc" subclass="">
+            <span id="40" start="64" end="64" element="head" class="type" confidence="1.0" text="Hus" norm="Haus"/>
+            <span id="41" start="65" end="67" element="attr" class="loc" confidence="0.99" text="nebent dem Stritt">
+              <span id="42" start="66" end="67" element="reference" class="fac" confidence="0.8" text="dem Stritt" numerus="sgl" specificity="spc" subclass="">
+                <span id="43" start="67" end="67" element="head" class="type" confidence="0.49" text="Stritt" norm="unk"/>
+              </span>
+            </span>
+          </span>
+          <span id="7" start="69" end="72" element="reference" class="fac" confidence="0.84" text="das Hus zer Jugenweide" numerus="sgl" specificity="spc" subclass="">
+            <span id="44" start="70" end="72" element="head" class="nam" confidence="0.92" text="Hus zer Jugenweide"/>
+          </span>
+          <span id="8" start="75" end="78" element="reference" class="fac" confidence="0.85" text="das Hus zer Sugenweide" numerus="sgl" specificity="spc" subclass="">
+            <span id="45" start="76" end="78" element="head" class="nam" confidence="0.94" text="Hus zer Sugenweide"/>
+          </span>
+          <span id="9" start="86" end="87" element="reference" class="org" confidence="0.96" text="dem Spital" numerus="sgl" specificity="spc" subclass="">
+            <span id="46" start="87" end="87" element="head" class="type" confidence="0.99" text="Spital" norm="Heiliggeist-Spital"/>
+          </span>
+          <span id="10" start="91" end="108" element="reference" class="fac" confidence="0.76" text="des Brantz nachdern als die Hofstetten zem teil de und ungebuwen sint und ouch Hofstetten die gebuwen sint" numerus="grp" specificity="spc" subclass="">
+            <span id="47" start="92" end="92" element="head" class="type" confidence="0.78" text="Brantz" norm="unk"/>
+            <span id="48" start="95" end="108" element="attr" class="includes" confidence="0.62" text="die Hofstetten zem teil de und ungebuwen sint und ouch Hofstetten die gebuwen sint">
+              <span id="49" start="95" end="99" element="reference" class="fac" confidence="0.77" text="die Hofstetten zem teil de" numerus="grp" specificity="spc" subclass="">
+                <span id="51" start="96" end="96" element="head" class="type" confidence="0.99" text="Hofstetten" norm="Hofstetten"/>
+                <span id="52" start="97" end="99" element="attr" class="loc" confidence="0.32" text="zem teil de"/>
+              </span>
+              <span id="50" start="105" end="105" element="reference" class="fac" confidence="0.94" text="Hofstetten" numerus="sgl" specificity="spc" subclass="">
+                <span id="53" start="105" end="105" element="head" class="type" confidence="0.99" text="Hofstetten" norm="Hofstetten"/>
+              </span>
+            </span>
+          </span>
+          <span id="11" start="115" end="115" element="reference" class="unk" confidence="1.0" text="si" numerus="sgl" specificity="spc" subclass="">
+            <span id="11_head" start="115" end="115" element="head" class="pro" confidence="1.0" text="si"/>
+          </span>
+          <span id="12" start="135" end="141" element="reference" class="fac" confidence="0.8" text="dis vorgeschriebenen Hüsere und Hofstet . ten" numerus="grp" specificity="spc" subclass="">
+            <span id="54" start="137" end="141" element="head" class="type" confidence="0.97" text="Hüsere und Hofstet . ten" norm="unk"/>
+          </span>
+          <span id="13" start="143" end="143" element="trigger" class="due" confidence="1.0" text="gibt"/>
+          <span id="14" start="144" end="145" element="value" class="money" confidence="0.98" text="4ß 9ȡ" norm="4.0 Schilling|9.0 Denare"/>
+          <span id="15" start="147" end="147" element="value" class="money" confidence="0.99" text="Tring" norm="0.0 UNKNOWN"/>
+          <span id="16" start="148" end="148" element="other" class="other" confidence="0.97" text="wisung"/>
+          <span id="17" start="151" end="151" element="value" class="money" confidence="0.98" text="8ß" norm="8.0 Schilling"/>
+        </spans>
+        <relations/>
+        <eventGroups>
+          <eventGroup event_id="0" class="due-obligation" start="135" end="151" ref="" type="state" tense="unk" polarity="unk" modality="unk">
+            <trigger ref="13" text="gibt"/>
+            <event event_id="0.0">
+              <role role="interest" confidence="0.99" ref="14" text="4ß 9ȡ"/>
+              <role role="interest" confidence="0.99" ref="17" text="8ß"/>
+            </event>
+            <event event_id="0.1">
+              <role role="interest" confidence="0.98" ref="15" text="Tring"/>
+              <role role="cause" confidence="1.0" ref="16" text="wisung"/>
+            </event>
+          </eventGroup>
+          <eventGroup event_id="1" class="employment" start="32" end="36" ref="20" type="state" tense="unk" polarity="unk" modality="unk">
+            <trigger start="33" end="33" text="Probst" ref="21"/>
+            <event event_id="1.0">
+              <role role="employee" ref="1" text="Peter Knobeloch , der Probst von sant Lienhart"/>
+              <role role="employer" ref="22" text="sant Lienhart"/>
+            </event>
+          </eventGroup>
+          <eventGroup event_id="2" class="ownership" start="42" end="42" ref="27" type="state" tense="unk" polarity="unk" modality="unk">
+            <event event_id="2.0">
+              <role role="property" ref="3" text="Schülers Hus , aber Schülers Hus"/>
+              <role role="owner" ref="31" text="Schülers"/>
+            </event>
+          </eventGroup>
+          <eventGroup event_id="3" class="ownership" start="45" end="46" ref="29" type="state" tense="unk" polarity="unk" modality="unk">
+            <event event_id="3.0">
+              <role role="property" ref="3" text="Schülers Hus , aber Schülers Hus"/>
+              <role role="owner" ref="33" text="Schülers"/>
+            </event>
+          </eventGroup>
+          <eventGroup event_id="4" class="ownership" start="59" end="61" ref="37" type="state" tense="unk" polarity="unk" modality="unk">
+            <event event_id="4.0">
+              <role role="property" ref="5" text="das Hus zu Rechtenberg , die von Strassburg"/>
+              <role role="owner" ref="38" text="die von Strassburg"/>
+            </event>
+          </eventGroup>
+          <eventGroup event_id="5" class="topological" start="65" end="67" ref="41" type="state" tense="unk" polarity="unk" modality="unk">
+            <event event_id="5.0">
+              <role role="location-a" ref="6" text="das Hus nebent dem Stritt"/>
+              <role role="location-b" ref="42" text="dem Stritt"/>
+            </event>
+          </eventGroup>
+          <eventGroup event_id="6" class="part_whole" start="95" end="108" ref="48" type="state" tense="unk" polarity="unk" modality="unk">
+            <event event_id="6.0">
+              <role role="whole" ref="10" text="des Brantz nachdern als die Hofstetten zem teil de und ungebuwen sint und ouch Hofstetten die gebuwen sint"/>
+              <role role="part" ref="49" text="die Hofstetten zem teil de"/>
+              <role role="part" ref="50" text="Hofstetten"/>
+            </event>
+          </eventGroup>
+        </eventGroups>
+      </document>
+    </collection>
+  </series>
+</corpus>
