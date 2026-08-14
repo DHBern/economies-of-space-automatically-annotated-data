@@ -1,0 +1,49 @@
+{
+    "creators": [
+        {
+            "name": "Prada Ziegler, Ismail",
+            "orcid": "0000-0003-4229-8688",
+            "affiliation": "University of Basel",
+            "affiliation": "University of Bern",
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Aeby, Jonas",
+            "orcid": "0009-0008-9865-8949"
+            "affiliation": "University of Basel",
+            "type": "Researcher"
+        },
+        {
+            "name": "Vonwiller, Aline",
+            "orcid": "0009-0001-2098-9237",
+            "affiliation": "University of Basel",
+            "type": "Researcher"
+        },
+        {
+            "name": "Hitz, Benjamin",
+            "orcid": "0000-0002-3208-4881",
+            "affiliation": "University of Basel",
+            "type": "Researcher"
+        },
+    ],
+    "title": "Economies Of Space: Full Annotated Dataset",
+    "version": "0.1.1",
+    "access_right": "open",
+    "related_identifiers": [
+    ],
+    "keywords": [
+        "digital history",
+        "dataset",
+        "annotated data"
+    ],
+    "license": "cc-by-4.0",
+    "upload_type": "software",
+    "language": "eng",
+    "grants": [
+        {"id": "10.13039/501100001711::100011_208093"}
+    ],
+    "communities": [
+        {"identifier": "eos"}
+    ]
+}
