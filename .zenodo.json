@@ -1,9 +1,14 @@
 {
+    "title": "Economies Of Space: Full Annotated Dataset",
+    "upload_type": "dataset",
+    "access_right": "open",
+    "license": "cc-by-4.0",
+    "language": "eng",
     "creators": [
         {
             "name": "Prada Ziegler, Ismail",
             "orcid": "0000-0003-4229-8688",
-            "affiliation": "University of Basel, University of Bern",
+            "affiliation": "University of Basel and University of Bern"
         }
     ],
     "contributors": [
@@ -26,20 +31,9 @@
             "type": "Researcher"
         }
     ],
-    "title": "Economies Of Space: Full Annotated Dataset",
-    "access_right": "open",
     "keywords": [
         "digital history",
         "dataset",
         "annotated data"
-    ],
-    "license": "cc-by-4.0",
-    "upload_type": "dataset",
-    "language": "eng",
-    "grants": [
-        {"id": "10.13039/501100001711::100011_208093"}
-    ],
-    "communities": [
-        {"identifier": "eos"}
     ]
 }
