@@ -126,7 +126,7 @@
           </eventGroup>
         </eventGroups>
       </document>
-      <document id="2cfac5c9-7c89-443e-b476-467d41677462_20260528">
+      <document id="6a5dc6eb-6cdb-456c-8864-6b2564ec2650_20260615">
         <metadata>
           <street_id>HGB_1_149</street_id>
           <dossier_id>HGB_1_149_006</dossier_id>
@@ -134,146 +134,142 @@
           <source>Gerichtsarchiv</source>
           <language>german</language>
           <checked_by_gpt>false</checked_by_gpt>
-          <text>15 15 Melchior Hertenstein, Pfarrer bey St. Theodoren, contra Rüedin den Motarius, betr. C. v. Dohle bey St. Peter, bey ihren Hansern &amp; prod. Urteil v. 17 Juli 1675. Georg Salathe ist auch Nachbar, ebenso Schneider. Fünfergerichtsprot. 15. 54. 15.</text>
+          <text>Melchior Hertenstein, Pfarrer bey St. Theodoren, contra Rüedin den Motarius, betr. C. v. Dohle bey St. Peter, bey ihren Hansern &amp; prod. Urteil v. 17 Juli 1675. Georg Salathe ist auch Nachbar, ebenso Schneider. Fünfergerichtsprot. 15. 54. 15. 15 15</text>
           <pages>
-            <page nr="4">https://files.transkribus.eu/Get?fileType=view&amp;id=LZENDPJUDKZZHJQIIQLJJOZN</page>
+            <page nr="4"><![CDATA[https://files.transkribus.eu/Get?fileType=view&id=LZENDPJUDKZZHJQIIQLJJOZN]]></page>
           </pages>
         </metadata>
         <text>
-          <token token_id="0">15</token>
-          <token token_id="1">15</token>
-          <token token_id="2">Melchior</token>
-          <token token_id="3">Hertenstein</token>
-          <token token_id="4">,</token>
-          <token token_id="5">Pfarrer</token>
-          <token token_id="6">bey</token>
-          <token token_id="7">St</token>
-          <token token_id="8">.</token>
-          <token token_id="9">Theodoren</token>
-          <token token_id="10">,</token>
-          <token token_id="11">contra</token>
-          <token token_id="12">Rüedin</token>
-          <token token_id="13">den</token>
-          <token token_id="14">Motarius</token>
-          <token token_id="15">,</token>
-          <token token_id="16">betr</token>
+          <token token_id="0">Melchior</token>
+          <token token_id="1">Hertenstein</token>
+          <token token_id="2">,</token>
+          <token token_id="3">Pfarrer</token>
+          <token token_id="4">bey</token>
+          <token token_id="5">St</token>
+          <token token_id="6">.</token>
+          <token token_id="7">Theodoren</token>
+          <token token_id="8">,</token>
+          <token token_id="9">contra</token>
+          <token token_id="10">Rüedin</token>
+          <token token_id="11">den</token>
+          <token token_id="12">Motarius</token>
+          <token token_id="13">,</token>
+          <token token_id="14">betr</token>
+          <token token_id="15">.</token>
+          <token token_id="16">C</token>
           <token token_id="17">.</token>
-          <token token_id="18">C</token>
+          <token token_id="18">v</token>
           <token token_id="19">.</token>
-          <token token_id="20">v</token>
-          <token token_id="21">.</token>
-          <token token_id="22">Dohle</token>
-          <token token_id="23">bey</token>
-          <token token_id="24">St</token>
-          <token token_id="25">.</token>
-          <token token_id="26">Peter</token>
-          <token token_id="27">,</token>
-          <token token_id="28">bey</token>
-          <token token_id="29">ihren</token>
-          <token token_id="30">Hansern</token>
-          <token token_id="31">&amp;</token>
-          <token token_id="32">prod</token>
-          <token token_id="33">.</token>
-          <token token_id="34">Urteil</token>
-          <token token_id="35">v</token>
-          <token token_id="36">.</token>
-          <token token_id="37">17</token>
-          <token token_id="38">Juli</token>
-          <token token_id="39">1675</token>
-          <token token_id="40">.</token>
-          <token token_id="41">Georg</token>
-          <token token_id="42">Salathe</token>
-          <token token_id="43">ist</token>
-          <token token_id="44">auch</token>
-          <token token_id="45">Nachbar</token>
-          <token token_id="46">,</token>
-          <token token_id="47">ebenso</token>
-          <token token_id="48">Schneider</token>
+          <token token_id="20">Dohle</token>
+          <token token_id="21">bey</token>
+          <token token_id="22">St</token>
+          <token token_id="23">.</token>
+          <token token_id="24">Peter</token>
+          <token token_id="25">,</token>
+          <token token_id="26">bey</token>
+          <token token_id="27">ihren</token>
+          <token token_id="28">Hansern</token>
+          <token token_id="29">&amp;</token>
+          <token token_id="30">prod</token>
+          <token token_id="31">.</token>
+          <token token_id="32">Urteil</token>
+          <token token_id="33">v</token>
+          <token token_id="34">.</token>
+          <token token_id="35">17</token>
+          <token token_id="36">Juli</token>
+          <token token_id="37">1675</token>
+          <token token_id="38">.</token>
+          <token token_id="39">Georg</token>
+          <token token_id="40">Salathe</token>
+          <token token_id="41">ist</token>
+          <token token_id="42">auch</token>
+          <token token_id="43">Nachbar</token>
+          <token token_id="44">,</token>
+          <token token_id="45">ebenso</token>
+          <token token_id="46">Schneider</token>
+          <token token_id="47">.</token>
+          <token token_id="48">Fünfergerichtsprot</token>
           <token token_id="49">.</token>
-          <token token_id="50">Fünfergerichtsprot</token>
+          <token token_id="50">15</token>
           <token token_id="51">.</token>
-          <token token_id="52">15</token>
+          <token token_id="52">54</token>
           <token token_id="53">.</token>
-          <token token_id="54">54</token>
+          <token token_id="54">15</token>
           <token token_id="55">.</token>
           <token token_id="56">15</token>
-          <token token_id="57">.</token>
+          <token token_id="57">15</token>
         </text>
         <spans>
-          <span id="0" start="2" end="9" element="reference" class="per" confidence="0.99" text="Melchior Hertenstein , Pfarrer bey St . Theodoren" numerus="sgl" specificity="spc" subclass="">
-            <span id="10" start="2" end="3" element="head" class="nam" confidence="1.0" text="Melchior Hertenstein"/>
-            <span id="11" start="5" end="9" element="appo" class="occ" confidence="1.0" text="Pfarrer bey St . Theodoren">
-              <span id="12" start="5" end="5" element="head" class="occ" confidence="1.0" text="Pfarrer" norm="pfarrer" OhdAB="https://database.factgrid.de/wiki/Item:Q694308"/>
-              <span id="13" start="7" end="9" element="reference" class="org" confidence="0.91" text="St . Theodoren" numerus="sgl" specificity="spc" subclass="rel">
-                <span id="14" start="7" end="9" element="head" class="nam" confidence="0.99" text="St . Theodoren" norm="Kirche St. Theodor"/>
+          <span id="0" start="0" end="7" element="reference" class="per" confidence="0.98" text="Melchior Hertenstein , Pfarrer bey St . Theodoren" numerus="sgl" specificity="spc" subclass="">
+            <span id="9" start="0" end="1" element="head" class="nam" confidence="1.0" text="Melchior Hertenstein"/>
+            <span id="10" start="3" end="7" element="appo" class="occ" confidence="1.0" text="Pfarrer bey St . Theodoren">
+              <span id="11" start="3" end="3" element="head" class="occ" confidence="1.0" text="Pfarrer" norm="pfarrer" OhdAB="https://database.factgrid.de/wiki/Item:Q694308"/>
+              <span id="12" start="5" end="7" element="reference" class="org" confidence="0.93" text="St . Theodoren" numerus="sgl" specificity="spc" subclass="rel">
+                <span id="13" start="5" end="7" element="head" class="nam" confidence="0.99" text="St . Theodoren" norm="Kirche St. Theodor"/>
               </span>
             </span>
           </span>
-          <span id="1" start="11" end="11" element="trigger" class="litigation" confidence="0.99" text="contra"/>
-          <span id="2" start="12" end="14" element="reference" class="per" confidence="0.99" text="Rüedin den Motarius" numerus="sgl" specificity="spc" subclass="">
-            <span id="15" start="12" end="12" element="head" class="nam" confidence="1.0" text="Rüedin"/>
-            <span id="16" start="13" end="14" element="appo" class="occ" confidence="0.97" text="den Motarius">
-              <span id="17" start="14" end="14" element="head" class="occ" confidence="1.0" text="Motarius" norm="notar" OhdAB="https://database.factgrid.de/wiki/Item:Q689064"/>
+          <span id="1" start="9" end="9" element="trigger" class="litigation" confidence="0.99" text="contra"/>
+          <span id="2" start="10" end="12" element="reference" class="per" confidence="0.99" text="Rüedin den Motarius" numerus="sgl" specificity="spc" subclass="">
+            <span id="14" start="10" end="10" element="head" class="nam" confidence="1.0" text="Rüedin"/>
+            <span id="15" start="11" end="12" element="appo" class="occ" confidence="0.97" text="den Motarius">
+              <span id="16" start="12" end="12" element="head" class="occ" confidence="1.0" text="Motarius" norm="notar" OhdAB="https://database.factgrid.de/wiki/Item:Q689064"/>
             </span>
           </span>
-          <span id="3" start="22" end="26" element="reference" class="fac" confidence="0.63" text="Dohle bey St . Peter" numerus="sgl" specificity="spc" subclass="">
-            <span id="18" start="22" end="22" element="head" class="type" confidence="0.98" text="Dohle" norm="unk"/>
-            <span id="19" start="23" end="26" element="attr" class="loc" confidence="0.98" text="bey St . Peter">
-              <span id="20" start="24" end="26" element="reference" class="fac" confidence="0.86" text="St . Peter" numerus="sgl" specificity="spc" subclass="rel">
-                <span id="21" start="24" end="26" element="head" class="nam" confidence="0.91" text="St . Peter"/>
+          <span id="3" start="20" end="24" element="reference" class="fac" confidence="0.63" text="Dohle bey St . Peter" numerus="sgl" specificity="spc" subclass="">
+            <span id="17" start="20" end="20" element="head" class="type" confidence="0.98" text="Dohle" norm="unk"/>
+            <span id="18" start="21" end="24" element="attr" class="loc" confidence="0.98" text="bey St . Peter">
+              <span id="19" start="22" end="24" element="reference" class="fac" confidence="0.86" text="St . Peter" numerus="sgl" specificity="spc" subclass="rel">
+                <span id="20" start="22" end="24" element="head" class="nam" confidence="0.91" text="St . Peter"/>
               </span>
             </span>
           </span>
-          <span id="4" start="29" end="30" element="reference" class="fac" confidence="0.78" text="ihren Hansern" numerus="sgl" specificity="spc" subclass="">
-            <span id="22" start="29" end="29" element="attr" class="owner" confidence="1.0" text="ihren">
-              <span id="24" start="29" end="29" element="reference" class="per" confidence="1.0" text="ihren" numerus="sgl" specificity="spc" subclass="">
-                <span id="24_head" start="29" end="29" element="head" class="pro" confidence="1.0" text="ihren"/>
+          <span id="4" start="27" end="28" element="reference" class="fac" confidence="0.78" text="ihren Hansern" numerus="sgl" specificity="spc" subclass="">
+            <span id="21" start="27" end="27" element="attr" class="owner" confidence="1.0" text="ihren">
+              <span id="23" start="27" end="27" element="reference" class="unk" confidence="1.0" text="ihren" numerus="sgl" specificity="spc" subclass="">
+                <span id="23_head" start="27" end="27" element="head" class="pro" confidence="1.0" text="ihren"/>
               </span>
             </span>
-            <span id="23" start="30" end="30" element="head" class="type" confidence="1.0" text="Hansern" norm="unk"/>
+            <span id="22" start="28" end="28" element="head" class="type" confidence="1.0" text="Hansern" norm="unk"/>
           </span>
-          <span id="5" start="37" end="39" element="value" class="date" confidence="0.99" text="17 Juli 1675"/>
-          <span id="6" start="41" end="42" element="reference" class="per" confidence="1.0" text="Georg Salathe" numerus="sgl" specificity="spc" subclass="">
-            <span id="25" start="41" end="42" element="head" class="nam" confidence="1.0" text="Georg Salathe"/>
+          <span id="5" start="35" end="37" element="value" class="date" confidence="0.99" text="17 Juli 1675"/>
+          <span id="6" start="39" end="40" element="reference" class="per" confidence="1.0" text="Georg Salathe" numerus="sgl" specificity="spc" subclass="">
+            <span id="24" start="39" end="40" element="head" class="nam" confidence="1.0" text="Georg Salathe"/>
           </span>
-          <span id="7" start="48" end="48" element="reference" class="per" confidence="0.94" text="Schneider" numerus="sgl" specificity="spc" subclass="occ">
-            <span id="26" start="48" end="48" element="head" class="nam" confidence="0.94" text="Schneider"/>
+          <span id="7" start="46" end="46" element="reference" class="per" confidence="0.94" text="Schneider" numerus="sgl" specificity="spc" subclass="occ">
+            <span id="25" start="46" end="46" element="head" class="nam" confidence="0.94" text="Schneider"/>
           </span>
-          <span id="8" start="54" end="54" element="value" class="date" confidence="0.56" text="54"/>
-          <span id="9" start="56" end="57" element="value" class="date" confidence="0.79" text="15 ."/>
+          <span id="8" start="52" end="57" element="value" class="date" confidence="0.8" text="54 . 15 . 15 15"/>
         </spans>
-        <relations>
-          <relation id="1" from="24" to="0" class="coref"/>
-        </relations>
+        <relations/>
         <eventGroups>
-          <eventGroup event_id="0" class="litigation" start="2" end="57" ref="" type="event" tense="unk" polarity="unk" modality="unk">
+          <eventGroup event_id="0" class="litigation" start="0" end="57" ref="" type="event" tense="unk" polarity="unk" modality="unk">
             <trigger ref="1" text="contra"/>
             <event event_id="0.0">
-              <role role="party1" confidence="0.97" ref="0" text="Melchior Hertenstein , Pfarrer bey St . Theodoren"/>
+              <role role="party1" confidence="0.94" ref="0" text="Melchior Hertenstein , Pfarrer bey St . Theodoren"/>
               <role role="party2" confidence="1.0" ref="2" text="Rüedin den Motarius"/>
-              <role role="subject" confidence="0.31" ref="4" text="ihren Hansern"/>
-              <role role="date" confidence="0.86" ref="5" text="17 Juli 1675"/>
-              <role role="date" confidence="0.99" ref="8" text="54"/>
-              <role role="date" confidence="0.99" ref="9" text="15 ."/>
+              <role role="subject" confidence="0.34" ref="4" text="ihren Hansern"/>
+              <role role="date" confidence="0.85" ref="5" text="17 Juli 1675"/>
+              <role role="date" confidence="0.98" ref="8" text="54 . 15 . 15 15"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="1" class="employment" start="5" end="9" ref="11" type="state" tense="unk" polarity="unk" modality="unk">
-            <trigger start="5" end="5" text="Pfarrer" ref="12"/>
+          <eventGroup event_id="1" class="employment" start="3" end="7" ref="10" type="state" tense="unk" polarity="unk" modality="unk">
+            <trigger start="3" end="3" text="Pfarrer" ref="11"/>
             <event event_id="1.0">
               <role role="employee" ref="0" text="Melchior Hertenstein , Pfarrer bey St . Theodoren"/>
-              <role role="employer" ref="13" text="St . Theodoren"/>
+              <role role="employer" ref="12" text="St . Theodoren"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="2" class="topological" start="23" end="26" ref="19" type="state" tense="unk" polarity="unk" modality="unk">
+          <eventGroup event_id="2" class="topological" start="21" end="24" ref="18" type="state" tense="unk" polarity="unk" modality="unk">
             <event event_id="2.0">
               <role role="location-a" ref="3" text="Dohle bey St . Peter"/>
-              <role role="location-b" ref="20" text="St . Peter"/>
+              <role role="location-b" ref="19" text="St . Peter"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="3" class="ownership" start="29" end="29" ref="22" type="state" tense="unk" polarity="unk" modality="unk">
+          <eventGroup event_id="3" class="ownership" start="27" end="27" ref="21" type="state" tense="unk" polarity="unk" modality="unk">
             <event event_id="3.0">
               <role role="property" ref="4" text="ihren Hansern"/>
-              <role role="owner" ref="24" text="ihren"/>
+              <role role="owner" ref="23" text="ihren"/>
             </event>
           </eventGroup>
         </eventGroups>
@@ -391,7 +387,7 @@
           </eventGroup>
         </eventGroups>
       </document>
-      <document id="d5751612-0884-42d3-9fd6-c8167d4a732f_20260528">
+      <document id="6ce4924a-e105-4b9a-be2a-bc3a090c5b05_20260615">
         <metadata>
           <street_id>HGB_1_149</street_id>
           <dossier_id>HGB_1_149_007</dossier_id>
@@ -399,56 +395,61 @@
           <source>St. Peter</source>
           <language>mixed</language>
           <checked_by_gpt>false</checked_by_gpt>
-          <text>item cappellanus guondam zer glocken de reddibus quondam sue 4ß, Johannes Werchers caupauaris. St. Peter S. fol. 59 v.</text>
+          <text>St. Peter S. fol. 59 v. item cappellanus guondam zer glocken de reddibus quondam sue 4ß, Johannes Werchers caupauaris.</text>
           <pages>
-            <page nr="24">https://files.transkribus.eu/Get?fileType=view&amp;id=NAYHREUEWABUODLEFHJWKRND</page>
+            <page nr="24"><![CDATA[https://files.transkribus.eu/Get?fileType=view&id=NAYHREUEWABUODLEFHJWKRND]]></page>
           </pages>
         </metadata>
         <text>
-          <token token_id="0">item</token>
-          <token token_id="1">cappellanus</token>
-          <token token_id="2">guondam</token>
-          <token token_id="3">zer</token>
-          <token token_id="4">glocken</token>
-          <token token_id="5">de</token>
-          <token token_id="6">reddibus</token>
-          <token token_id="7">quondam</token>
-          <token token_id="8">sue</token>
-          <token token_id="9">4ß</token>
-          <token token_id="10">,</token>
-          <token token_id="11">Johannes</token>
-          <token token_id="12">Werchers</token>
-          <token token_id="13">caupauaris</token>
-          <token token_id="14">.</token>
-          <token token_id="15">St</token>
-          <token token_id="16">.</token>
-          <token token_id="17">Peter</token>
-          <token token_id="18">S</token>
-          <token token_id="19">.</token>
-          <token token_id="20">fol</token>
-          <token token_id="21">.</token>
-          <token token_id="22">59</token>
-          <token token_id="23">v</token>
+          <token token_id="0">St</token>
+          <token token_id="1">.</token>
+          <token token_id="2">Peter</token>
+          <token token_id="3">S</token>
+          <token token_id="4">.</token>
+          <token token_id="5">fol</token>
+          <token token_id="6">.</token>
+          <token token_id="7">59</token>
+          <token token_id="8">v</token>
+          <token token_id="9">.</token>
+          <token token_id="10">item</token>
+          <token token_id="11">cappellanus</token>
+          <token token_id="12">guondam</token>
+          <token token_id="13">zer</token>
+          <token token_id="14">glocken</token>
+          <token token_id="15">de</token>
+          <token token_id="16">reddibus</token>
+          <token token_id="17">quondam</token>
+          <token token_id="18">sue</token>
+          <token token_id="19">4ß</token>
+          <token token_id="20">,</token>
+          <token token_id="21">Johannes</token>
+          <token token_id="22">Werchers</token>
+          <token token_id="23">caupauaris</token>
           <token token_id="24">.</token>
         </text>
         <spans>
-          <span id="0" start="1" end="8" element="reference" class="per" confidence="0.81" text="cappellanus guondam zer glocken de reddibus quondam sue" numerus="sgl" specificity="spc" subclass="">
-            <span id="5" start="3" end="4" element="head" class="nam" confidence="1.0" text="zer glocken"/>
-            <span id="4" start="6" end="8" element="appo" class="occ" confidence="0.52" text="reddibus quondam sue">
-              <span id="6" start="8" end="8" element="reference" class="unk" confidence="0.58" text="sue" numerus="sgl" specificity="spc" subclass="">
-                <span id="6_head" start="8" end="8" element="head" class="pro" confidence="0.58" text="sue"/>
+          <span id="0" start="0" end="2" element="reference" class="fac" confidence="0.75" text="St . Peter" numerus="sgl" specificity="spc" subclass="rel">
+            <span id="4" start="0" end="2" element="head" class="nam" confidence="0.96" text="St . Peter"/>
+          </span>
+          <span id="1" start="12" end="18" element="reference" class="per" confidence="0.82" text="guondam zer glocken de reddibus quondam sue" numerus="sgl" specificity="spc" subclass="">
+            <span id="5" start="12" end="14" element="head" class="nam" confidence="0.93" text="guondam zer glocken"/>
+            <span id="6" start="16" end="18" element="appo" class="occ" confidence="0.52" text="reddibus quondam sue">
+              <span id="7" start="18" end="18" element="reference" class="per" confidence="0.58" text="sue" numerus="sgl" specificity="spc" subclass="">
+                <span id="7_head" start="18" end="18" element="head" class="pro" confidence="0.58" text="sue"/>
               </span>
             </span>
           </span>
-          <span id="1" start="9" end="9" element="value" class="money" confidence="0.93" text="4ß" norm="4.0 Schilling"/>
-          <span id="2" start="11" end="13" element="reference" class="per" confidence="0.98" text="Johannes Werchers caupauaris" numerus="sgl" specificity="spc" subclass="">
-            <span id="7" start="11" end="12" element="head" class="nam" confidence="1.0" text="Johannes Werchers"/>
-            <span id="8" start="13" end="13" element="appo" class="occ" confidence="0.98" text="caupauaris">
-              <span id="9" start="13" end="13" element="head" class="occ" confidence="1.0" text="caupauaris" norm="unk"/>
+          <span id="2" start="19" end="19" element="value" class="money" confidence="0.99" text="4ß" norm="4.0 Schilling"/>
+          <span id="3" start="21" end="23" element="reference" class="per" confidence="0.99" text="Johannes Werchers caupauaris" numerus="sgl" specificity="spc" subclass="">
+            <span id="8" start="21" end="22" element="head" class="nam" confidence="1.0" text="Johannes Werchers"/>
+            <span id="9" start="23" end="23" element="appo" class="occ" confidence="0.99" text="caupauaris">
+              <span id="10" start="23" end="23" element="head" class="occ" confidence="1.0" text="caupauaris" norm="unk"/>
             </span>
           </span>
         </spans>
-        <relations/>
+        <relations>
+          <relation id="1" from="7" to="1" class="coref"/>
+        </relations>
         <eventGroups/>
       </document>
       <document id="2c9dbf95-624c-44e2-9bc8-e7cbf74903e3_20260528">
@@ -6001,221 +6002,240 @@
           </eventGroup>
         </eventGroups>
       </document>
-      <document id="7788b99f-8685-4aab-b250-96801423411b_20260528">
+      <document id="f2a4a687-2b28-4827-a8b1-b8583605c535_20260615">
         <metadata>
           <street_id>HGB_1_149</street_id>
           <dossier_id>HGB_1_149_010</dossier_id>
           <year>1536</year>
           <source>Johanniter</source>
           <language>german</language>
-          <checked_by_gpt>false</checked_by_gpt>
-          <text>BEnso: 1538 15 sh. her Petter Kessler vom hus an s. Petters kilchhoff gegen Hiltpranndts hof de item 15 sh. die Herren sant Petter vom Hus an sant Petters Kilchhoff gegenn Docter Ludwig Berrem Hoff über.</text>
+          <checked_by_gpt>true</checked_by_gpt>
+          <text>item 15 sh. die Herren sant Petter vom Hus an sant Petters Kilchhoff gegenn Docter Ludwig Berrem Hoff über. BEnso: 1538 15 sh. her Petter Kessler vom hus an s. Petters kilchhoff gegen Hiltpranndts hof de</text>
           <pages>
-            <page nr="12">https://files.transkribus.eu/Get?fileType=view&amp;id=FTZHSRLWHUHBRRGNRHQZJYAL</page>
+            <page nr="12"><![CDATA[https://files.transkribus.eu/Get?fileType=view&id=FTZHSRLWHUHBRRGNRHQZJYAL]]></page>
           </pages>
         </metadata>
         <text>
-          <token token_id="0">BEnso</token>
-          <token token_id="1">:</token>
-          <token token_id="2">1538</token>
-          <token token_id="3">15</token>
-          <token token_id="4">sh</token>
-          <token token_id="5">.</token>
-          <token token_id="6">her</token>
+          <token token_id="0">item</token>
+          <token token_id="1">15</token>
+          <token token_id="2">sh</token>
+          <token token_id="3">.</token>
+          <token token_id="4">die</token>
+          <token token_id="5">Herren</token>
+          <token token_id="6">sant</token>
           <token token_id="7">Petter</token>
-          <token token_id="8">Kessler</token>
-          <token token_id="9">vom</token>
-          <token token_id="10">hus</token>
-          <token token_id="11">an</token>
-          <token token_id="12">s</token>
-          <token token_id="13">.</token>
-          <token token_id="14">Petters</token>
-          <token token_id="15">kilchhoff</token>
-          <token token_id="16">gegen</token>
-          <token token_id="17">Hiltpranndts</token>
-          <token token_id="18">hof</token>
-          <token token_id="19">de</token>
-          <token token_id="20">item</token>
-          <token token_id="21">15</token>
-          <token token_id="22">sh</token>
-          <token token_id="23">.</token>
-          <token token_id="24">die</token>
-          <token token_id="25">Herren</token>
-          <token token_id="26">sant</token>
-          <token token_id="27">Petter</token>
-          <token token_id="28">vom</token>
-          <token token_id="29">Hus</token>
-          <token token_id="30">an</token>
-          <token token_id="31">sant</token>
-          <token token_id="32">Petters</token>
-          <token token_id="33">Kilchhoff</token>
-          <token token_id="34">gegenn</token>
-          <token token_id="35">Docter</token>
-          <token token_id="36">Ludwig</token>
-          <token token_id="37">Berrem</token>
-          <token token_id="38">Hoff</token>
-          <token token_id="39">über</token>
-          <token token_id="40">.</token>
+          <token token_id="8">vom</token>
+          <token token_id="9">Hus</token>
+          <token token_id="10">an</token>
+          <token token_id="11">sant</token>
+          <token token_id="12">Petters</token>
+          <token token_id="13">Kilchhoff</token>
+          <token token_id="14">gegenn</token>
+          <token token_id="15">Docter</token>
+          <token token_id="16">Ludwig</token>
+          <token token_id="17">Berrem</token>
+          <token token_id="18">Hoff</token>
+          <token token_id="19">über</token>
+          <token token_id="20">.</token>
+          <token token_id="21">BEnso</token>
+          <token token_id="22">:</token>
+          <token token_id="23">1538</token>
+          <token token_id="24">15</token>
+          <token token_id="25">sh</token>
+          <token token_id="26">.</token>
+          <token token_id="27">her</token>
+          <token token_id="28">Petter</token>
+          <token token_id="29">Kessler</token>
+          <token token_id="30">vom</token>
+          <token token_id="31">hus</token>
+          <token token_id="32">an</token>
+          <token token_id="33">s</token>
+          <token token_id="34">.</token>
+          <token token_id="35">Petters</token>
+          <token token_id="36">kilchhoff</token>
+          <token token_id="37">gegen</token>
+          <token token_id="38">Hiltpranndts</token>
+          <token token_id="39">hof</token>
+          <token token_id="40">de</token>
         </text>
         <spans>
-          <span id="0" start="2" end="2" element="value" class="date" confidence="1.0" text="1538"/>
-          <span id="1" start="3" end="5" element="value" class="money" confidence="0.96" text="15 sh ." norm="15.0 Schilling"/>
-          <span id="2" start="6" end="8" element="reference" class="per" confidence="0.89" text="her Petter Kessler" numerus="sgl" specificity="spc" subclass="">
-            <span id="7" start="7" end="8" element="head" class="nam" confidence="1.0" text="Petter Kessler"/>
+          <span id="0" start="1" end="3" element="value" class="money" confidence="0.95" text="15 sh ." norm="15.0 Schilling"/>
+          <span id="1" start="4" end="7" element="reference" class="org" confidence="0.99" text="die Herren sant Petter" numerus="sgl" specificity="spc" subclass="rel">
+            <span id="7" start="5" end="7" element="head" class="nam" confidence="0.94" text="Herren sant Petter" norm="Kirche St. Peter"/>
           </span>
-          <span id="3" start="9" end="18" element="reference" class="fac" confidence="0.93" text="vom hus an s . Petters kilchhoff gegen Hiltpranndts hof" numerus="sgl" specificity="spc" subclass="">
-            <span id="8" start="10" end="10" element="head" class="type" confidence="1.0" text="hus" norm="Haus"/>
-            <span id="9" start="11" end="18" element="attr" class="loc" confidence="0.97" text="an s . Petters kilchhoff gegen Hiltpranndts hof">
-              <span id="10" start="12" end="15" element="reference" class="fac" confidence="0.74" text="s . Petters kilchhoff" numerus="sgl" specificity="spc" subclass="rel">
-                <span id="12" start="12" end="15" element="head" class="nam" confidence="0.94" text="s . Petters kilchhoff"/>
+          <span id="2" start="8" end="19" element="reference" class="fac" confidence="0.88" text="vom Hus an sant Petters Kilchhoff gegenn Docter Ludwig Berrem Hoff über" numerus="sgl" specificity="spc" subclass="">
+            <span id="8" start="9" end="9" element="head" class="type" confidence="0.99" text="Hus" norm="Haus"/>
+            <span id="9" start="10" end="19" element="attr" class="loc" confidence="0.98" text="an sant Petters Kilchhoff gegenn Docter Ludwig Berrem Hoff über">
+              <span id="10" start="11" end="13" element="reference" class="fac" confidence="0.7" text="sant Petters Kilchhoff" numerus="sgl" specificity="spc" subclass="">
+                <span id="12" start="11" end="13" element="head" class="nam" confidence="1.0" text="sant Petters Kilchhoff"/>
               </span>
-              <span id="11" start="17" end="18" element="reference" class="fac" confidence="1.0" text="Hiltpranndts hof" numerus="sgl" specificity="spc" subclass="">
-                <span id="13" start="17" end="18" element="head" class="nam" confidence="0.98" text="Hiltpranndts hof"/>
+              <span id="11" start="15" end="18" element="reference" class="fac" confidence="0.77" text="Docter Ludwig Berrem Hoff" numerus="sgl" specificity="spc" subclass="">
+                <span id="13" start="15" end="17" element="attr" class="owner" confidence="1.0" text="Docter Ludwig Berrem">
+                  <span id="15" start="15" end="17" element="reference" class="per" confidence="1.0" text="Docter Ludwig Berrem" numerus="sgl" specificity="spc" subclass="">
+                    <span id="16" start="15" end="15" element="appo" class="title" confidence="1.0" text="Docter">
+                      <span id="18" start="15" end="15" element="head" class="title" confidence="1.0" text="Docter"/>
+                    </span>
+                    <span id="17" start="16" end="17" element="head" class="nam" confidence="1.0" text="Ludwig Berrem"/>
+                  </span>
+                </span>
+                <span id="14" start="18" end="18" element="head" class="type" confidence="1.0" text="Hoff" norm="Hof"/>
               </span>
             </span>
           </span>
-          <span id="4" start="21" end="23" element="value" class="money" confidence="1.0" text="15 sh ." norm="15.0 Schilling"/>
-          <span id="5" start="24" end="27" element="reference" class="org" confidence="0.97" text="die Herren sant Petter" numerus="sgl" specificity="spc" subclass="rel">
-            <span id="14" start="25" end="27" element="head" class="nam" confidence="0.93" text="Herren sant Petter" norm="Kirche St. Peter"/>
+          <span id="3" start="23" end="23" element="value" class="date" confidence="1.0" text="1538"/>
+          <span id="4" start="24" end="26" element="value" class="money" confidence="0.95" text="15 sh ." norm="15.0 Schilling"/>
+          <span id="5" start="27" end="29" element="reference" class="per" confidence="0.88" text="her Petter Kessler" numerus="sgl" specificity="spc" subclass="">
+            <span id="19" start="28" end="29" element="head" class="nam" confidence="1.0" text="Petter Kessler"/>
           </span>
-          <span id="6" start="28" end="39" element="reference" class="fac" confidence="0.91" text="vom Hus an sant Petters Kilchhoff gegenn Docter Ludwig Berrem Hoff über" numerus="sgl" specificity="spc" subclass="">
-            <span id="15" start="29" end="29" element="head" class="type" confidence="1.0" text="Hus" norm="Haus"/>
-            <span id="16" start="30" end="39" element="attr" class="loc" confidence="0.97" text="an sant Petters Kilchhoff gegenn Docter Ludwig Berrem Hoff über">
-              <span id="17" start="31" end="33" element="reference" class="fac" confidence="0.75" text="sant Petters Kilchhoff" numerus="sgl" specificity="spc" subclass="">
-                <span id="19" start="31" end="33" element="head" class="nam" confidence="1.0" text="sant Petters Kilchhoff"/>
+          <span id="6" start="30" end="39" element="reference" class="fac" confidence="0.91" text="vom hus an s . Petters kilchhoff gegen Hiltpranndts hof" numerus="sgl" specificity="spc" subclass="">
+            <span id="20" start="31" end="31" element="head" class="type" confidence="1.0" text="hus" norm="Haus"/>
+            <span id="21" start="32" end="39" element="attr" class="loc" confidence="0.97" text="an s . Petters kilchhoff gegen Hiltpranndts hof">
+              <span id="22" start="33" end="36" element="reference" class="fac" confidence="0.8" text="s . Petters kilchhoff" numerus="sgl" specificity="spc" subclass="rel">
+                <span id="24" start="33" end="36" element="head" class="nam" confidence="0.93" text="s . Petters kilchhoff"/>
               </span>
-              <span id="18" start="35" end="38" element="reference" class="fac" confidence="0.78" text="Docter Ludwig Berrem Hoff" numerus="sgl" specificity="spc" subclass="">
-                <span id="20" start="35" end="37" element="attr" class="owner" confidence="1.0" text="Docter Ludwig Berrem">
-                  <span id="22" start="35" end="37" element="reference" class="per" confidence="1.0" text="Docter Ludwig Berrem" numerus="sgl" specificity="spc" subclass="">
-                    <span id="23" start="35" end="35" element="appo" class="title" confidence="1.0" text="Docter">
-                      <span id="25" start="35" end="35" element="head" class="title" confidence="1.0" text="Docter"/>
-                    </span>
-                    <span id="24" start="36" end="37" element="head" class="nam" confidence="0.99" text="Ludwig Berrem"/>
-                  </span>
-                </span>
-                <span id="21" start="38" end="38" element="head" class="type" confidence="1.0" text="Hoff" norm="Hof"/>
+              <span id="23" start="38" end="39" element="reference" class="fac" confidence="1.0" text="Hiltpranndts hof" numerus="sgl" specificity="spc" subclass="">
+                <span id="25" start="38" end="39" element="head" class="nam" confidence="0.99" text="Hiltpranndts hof"/>
               </span>
             </span>
           </span>
         </spans>
         <relations/>
         <eventGroups>
-          <eventGroup event_id="0" class="topological" start="11" end="18" ref="9" type="state" tense="unk" polarity="unk" modality="unk">
+          <eventGroup event_id="0" class="topological" start="8" end="19" ref="9" type="state" tense="unk" polarity="unk" modality="unk">
             <event event_id="0.0">
-              <role role="location-a" ref="3" text="vom hus an s . Petters kilchhoff gegen Hiltpranndts hof"/>
-              <role role="location-b" ref="10" text="s . Petters kilchhoff"/>
-              <role role="location-b" ref="11" text="Hiltpranndts hof"/>
+              <role role="location-a" ref="2" text="vom Hus an sant Petters Kilchhoff gegenn Docter Ludwig Berrem Hoff über"/>
+              <role role="location-b" ref="10" text="sant Petters Kilchhoff"/>
+              <role role="location-b" ref="11" text="Docter Ludwig Berrem Hoff"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="1" class="topological" start="30" end="39" ref="16" type="state" tense="unk" polarity="unk" modality="unk">
+          <eventGroup event_id="1" class="ownership" start="15" end="18" ref="13" type="state" tense="unk" polarity="unk" modality="unk">
             <event event_id="1.0">
-              <role role="location-a" ref="6" text="vom Hus an sant Petters Kilchhoff gegenn Docter Ludwig Berrem Hoff über"/>
-              <role role="location-b" ref="17" text="sant Petters Kilchhoff"/>
-              <role role="location-b" ref="18" text="Docter Ludwig Berrem Hoff"/>
+              <role role="property" ref="11" text="Docter Ludwig Berrem Hoff"/>
+              <role role="owner" ref="15" text="Docter Ludwig Berrem"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="2" class="ownership" start="35" end="37" ref="20" type="state" tense="unk" polarity="unk" modality="unk">
+          <eventGroup event_id="2" class="topological" start="30" end="39" ref="21" type="state" tense="unk" polarity="unk" modality="unk">
             <event event_id="2.0">
-              <role role="property" ref="18" text="Docter Ludwig Berrem Hoff"/>
-              <role role="owner" ref="22" text="Docter Ludwig Berrem"/>
+              <role role="location-a" ref="6" text="vom hus an s . Petters kilchhoff gegen Hiltpranndts hof"/>
+              <role role="location-b" ref="22" text="s . Petters kilchhoff"/>
+              <role role="location-b" ref="23" text="Hiltpranndts hof"/>
+            </event>
+          </eventGroup>
+          <eventGroup event_id="3" type="state" polarity="pos" tense="pres" modality="ass" ref="" class="due-obligation" start="1" end="19">
+            <event event_id="3.0">
+              <role role="interest" ref="0" confidence="gpt-5.5" text="15 sh ."/>
+              <role role="beneficiary" ref="1" confidence="gpt-5.5" text="die Herren sant Petter"/>
+              <role role="property" ref="2" confidence="gpt-5.5" text="vom Hus an sant Petters Kilchhoff gegenn Docter Ludwig Berrem Hoff über"/>
+            </event>
+          </eventGroup>
+          <eventGroup event_id="4" type="event" polarity="pos" tense="pres" modality="ass" ref="" class="due-payment" start="23" end="39">
+            <event event_id="4.0">
+              <role role="date" ref="3" confidence="gpt-5.5" text="1538"/>
+              <role role="interest" ref="4" confidence="gpt-5.5" text="15 sh ."/>
+              <role role="beneficiary" ref="5" confidence="gpt-5.5" text="her Petter Kessler"/>
+              <role role="property" ref="6" confidence="gpt-5.5" text="vom hus an s . Petters kilchhoff gegen Hiltpranndts hof"/>
             </event>
           </eventGroup>
         </eventGroups>
       </document>
-      <document id="fb266832-52e6-4e5e-b54e-2e65003b4f34_20260528">
+      <document id="f37baad0-10dc-4bb3-8888-a394ddef0943_20260615">
         <metadata>
           <street_id>HGB_1_149</street_id>
           <dossier_id>HGB_1_149_010</dossier_id>
           <year>1559</year>
           <source>Johanniter</source>
           <language>german</language>
-          <checked_by_gpt>false</checked_by_gpt>
-          <text>1532 FEHLEN 15sh. die stifft s. Petter vom haus gegen Hiltprands hoff über item 15sh. Hanns Wyss vonn siner Caplany. Hus.</text>
+          <checked_by_gpt>true</checked_by_gpt>
+          <text>item 15sh. Hanns Wyss vonn siner Caplany. Hus. 1532 FEHLEN 15sh. die stifft s. Petter vom haus gegen Hiltprands hoff über</text>
           <pages>
-            <page nr="13">https://files.transkribus.eu/Get?fileType=view&amp;id=PBMRPNGIXCBXBUOKIKABRSPN</page>
+            <page nr="13"><![CDATA[https://files.transkribus.eu/Get?fileType=view&id=PBMRPNGIXCBXBUOKIKABRSPN]]></page>
           </pages>
         </metadata>
         <text>
-          <token token_id="0">1532</token>
-          <token token_id="1">FEHLEN</token>
-          <token token_id="2">15sh</token>
-          <token token_id="3">.</token>
-          <token token_id="4">die</token>
-          <token token_id="5">stifft</token>
-          <token token_id="6">s</token>
-          <token token_id="7">.</token>
-          <token token_id="8">Petter</token>
-          <token token_id="9">vom</token>
-          <token token_id="10">haus</token>
-          <token token_id="11">gegen</token>
-          <token token_id="12">Hiltprands</token>
-          <token token_id="13">hoff</token>
-          <token token_id="14">über</token>
-          <token token_id="15">item</token>
-          <token token_id="16">15sh</token>
-          <token token_id="17">.</token>
-          <token token_id="18">Hanns</token>
-          <token token_id="19">Wyss</token>
-          <token token_id="20">vonn</token>
-          <token token_id="21">siner</token>
-          <token token_id="22">Caplany</token>
-          <token token_id="23">.</token>
-          <token token_id="24">Hus</token>
-          <token token_id="25">.</token>
+          <token token_id="0">item</token>
+          <token token_id="1">15sh</token>
+          <token token_id="2">.</token>
+          <token token_id="3">Hanns</token>
+          <token token_id="4">Wyss</token>
+          <token token_id="5">vonn</token>
+          <token token_id="6">siner</token>
+          <token token_id="7">Caplany</token>
+          <token token_id="8">.</token>
+          <token token_id="9">Hus</token>
+          <token token_id="10">.</token>
+          <token token_id="11">1532</token>
+          <token token_id="12">FEHLEN</token>
+          <token token_id="13">15sh</token>
+          <token token_id="14">.</token>
+          <token token_id="15">die</token>
+          <token token_id="16">stifft</token>
+          <token token_id="17">s</token>
+          <token token_id="18">.</token>
+          <token token_id="19">Petter</token>
+          <token token_id="20">vom</token>
+          <token token_id="21">haus</token>
+          <token token_id="22">gegen</token>
+          <token token_id="23">Hiltprands</token>
+          <token token_id="24">hoff</token>
+          <token token_id="25">über</token>
         </text>
         <spans>
-          <span id="0" start="0" end="0" element="value" class="date" confidence="1.0" text="1532"/>
-          <span id="1" start="2" end="3" element="value" class="money" confidence="0.89" text="15sh ." norm="15.0 Schilling"/>
-          <span id="2" start="4" end="8" element="reference" class="org" confidence="0.99" text="die stifft s . Petter" numerus="sgl" specificity="spc" subclass="rel">
-            <span id="7" start="5" end="8" element="head" class="nam" confidence="0.99" text="stifft s . Petter" norm="Kirche St. Peter"/>
+          <span id="0" start="1" end="2" element="value" class="money" confidence="0.96" text="15sh ." norm="15.0 Schilling"/>
+          <span id="1" start="3" end="4" element="reference" class="per" confidence="0.93" text="Hanns Wyss" numerus="sgl" specificity="spc" subclass="">
+            <span id="7" start="3" end="4" element="head" class="nam" confidence="1.0" text="Hanns Wyss"/>
           </span>
-          <span id="3" start="9" end="14" element="reference" class="fac" confidence="0.93" text="vom haus gegen Hiltprands hoff über" numerus="sgl" specificity="spc" subclass="">
-            <span id="8" start="10" end="10" element="head" class="type" confidence="1.0" text="haus" norm="Haus"/>
-            <span id="9" start="11" end="14" element="attr" class="loc" confidence="0.97" text="gegen Hiltprands hoff über">
-              <span id="10" start="12" end="13" element="reference" class="fac" confidence="1.0" text="Hiltprands hoff" numerus="sgl" specificity="spc" subclass="">
-                <span id="11" start="12" end="12" element="attr" class="owner" confidence="0.85" text="Hiltprands">
-                  <span id="13" start="12" end="12" element="reference" class="per" confidence="1.0" text="Hiltprands" numerus="sgl" specificity="spc" subclass="">
-                    <span id="14" start="12" end="12" element="head" class="nam" confidence="1.0" text="Hiltprands"/>
-                  </span>
-                </span>
-                <span id="12" start="13" end="13" element="head" class="type" confidence="0.57" text="hoff" norm="Hof"/>
+          <span id="2" start="6" end="9" element="reference" class="fac" confidence="0.89" text="siner Caplany . Hus" numerus="sgl" specificity="spc" subclass="">
+            <span id="8" start="6" end="6" element="attr" class="owner" confidence="1.0" text="siner">
+              <span id="11" start="6" end="6" element="reference" class="per" confidence="1.0" text="siner" numerus="sgl" specificity="spc" subclass="">
+                <span id="11_head" start="6" end="6" element="head" class="pro" confidence="1.0" text="siner"/>
               </span>
             </span>
+            <span id="9" start="7" end="7" element="unk" class="type" confidence="0.73" text="Caplany" norm="unk"/>
+            <span id="10" start="9" end="9" element="head" class="type" confidence="0.96" text="Hus" norm="Haus"/>
           </span>
-          <span id="4" start="16" end="17" element="value" class="money" confidence="1.0" text="15sh ." norm="15.0 Schilling"/>
-          <span id="5" start="18" end="19" element="reference" class="per" confidence="0.76" text="Hanns Wyss" numerus="sgl" specificity="spc" subclass="">
-            <span id="15" start="18" end="19" element="head" class="nam" confidence="1.0" text="Hanns Wyss"/>
+          <span id="3" start="11" end="11" element="value" class="date" confidence="1.0" text="1532"/>
+          <span id="4" start="13" end="14" element="value" class="money" confidence="0.74" text="15sh ." norm="15.0 Schilling"/>
+          <span id="5" start="15" end="19" element="reference" class="org" confidence="0.98" text="die stifft s . Petter" numerus="sgl" specificity="spc" subclass="rel">
+            <span id="12" start="16" end="19" element="head" class="nam" confidence="0.99" text="stifft s . Petter" norm="Kirche St. Peter"/>
           </span>
-          <span id="6" start="21" end="24" element="reference" class="fac" confidence="0.98" text="siner Caplany . Hus" numerus="sgl" specificity="spc" subclass="">
-            <span id="16" start="21" end="21" element="attr" class="owner" confidence="1.0" text="siner">
-              <span id="19" start="21" end="21" element="reference" class="per" confidence="1.0" text="siner" numerus="sgl" specificity="spc" subclass="">
-                <span id="19_head" start="21" end="21" element="head" class="pro" confidence="1.0" text="siner"/>
+          <span id="6" start="20" end="25" element="reference" class="fac" confidence="0.91" text="vom haus gegen Hiltprands hoff über" numerus="sgl" specificity="spc" subclass="">
+            <span id="13" start="21" end="21" element="head" class="type" confidence="1.0" text="haus" norm="Haus"/>
+            <span id="14" start="22" end="25" element="attr" class="loc" confidence="0.98" text="gegen Hiltprands hoff über">
+              <span id="15" start="23" end="24" element="reference" class="fac" confidence="1.0" text="Hiltprands hoff" numerus="sgl" specificity="spc" subclass="">
+                <span id="16" start="23" end="24" element="head" class="nam" confidence="0.77" text="Hiltprands hoff"/>
               </span>
             </span>
-            <span id="17" start="22" end="22" element="unk" class="type" confidence="0.51" text="Caplany" norm="unk"/>
-            <span id="18" start="24" end="24" element="head" class="type" confidence="0.94" text="Hus" norm="Haus"/>
           </span>
         </spans>
         <relations>
-          <relation id="1" from="19" to="5" class="coref"/>
+          <relation from="11" to="1" class="coref"/>
         </relations>
         <eventGroups>
-          <eventGroup event_id="0" class="topological" start="11" end="14" ref="9" type="state" tense="unk" polarity="unk" modality="unk">
+          <eventGroup event_id="0" class="ownership" start="6" end="9" ref="8" type="state" tense="unk" polarity="unk" modality="unk">
             <event event_id="0.0">
-              <role role="location-a" ref="3" text="vom haus gegen Hiltprands hoff über"/>
-              <role role="location-b" ref="10" text="Hiltprands hoff"/>
+              <role role="property" ref="2" text="siner Caplany . Hus"/>
+              <role role="owner" ref="11" text="siner"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="1" class="ownership" start="12" end="12" ref="11" type="state" tense="unk" polarity="unk" modality="unk">
+          <eventGroup event_id="1" class="topological" start="20" end="25" ref="14" type="state" tense="unk" polarity="unk" modality="unk">
             <event event_id="1.0">
-              <role role="property" ref="10" text="Hiltprands hoff"/>
-              <role role="owner" ref="13" text="Hiltprands"/>
+              <role role="location-a" ref="6" text="vom haus gegen Hiltprands hoff über"/>
+              <role role="location-b" ref="15" text="Hiltprands hoff"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="2" class="ownership" start="21" end="21" ref="16" type="state" tense="unk" polarity="unk" modality="unk">
+          <eventGroup event_id="2" type="state" polarity="pos" tense="pres" modality="ass" ref="" class="due-obligation" start="1" end="9">
             <event event_id="2.0">
-              <role role="property" ref="6" text="siner Caplany . Hus"/>
-              <role role="owner" ref="19" text="siner"/>
+              <role role="interest" ref="0" confidence="gpt-5.5" text="15sh ."/>
+              <role role="payer" ref="1" confidence="gpt-5.5" text="Hanns Wyss"/>
+              <role role="property" ref="2" confidence="gpt-5.5" text="siner Caplany . Hus"/>
+            </event>
+          </eventGroup>
+          <eventGroup event_id="3" type="event" polarity="pos" tense="pres" modality="ass" ref="" class="due-payment" start="11" end="25">
+            <event event_id="3.0">
+              <role role="date" ref="3" confidence="gpt-5.5" text="1532"/>
+              <role role="interest" ref="4" confidence="gpt-5.5" text="15sh ."/>
+              <role role="beneficiary" ref="5" confidence="gpt-5.5" text="die stifft s . Petter"/>
+              <role role="property" ref="6" confidence="gpt-5.5" text="vom haus gegen Hiltprands hoff über"/>
             </event>
           </eventGroup>
         </eventGroups>

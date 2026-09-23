@@ -2080,226 +2080,255 @@
           </eventGroup>
         </eventGroups>
       </document>
-      <document id="9d018fa4-5097-4656-8ec0-97520fc25f9f_20260528">
+      <document id="7772ec4b-9461-43f1-b802-fd5d1a2e69a1_20260615">
         <metadata>
           <street_id>HGB_1_201</street_id>
           <dossier_id>HGB_1_201_010</dossier_id>
           <year>1697</year>
           <source>Bauakten</source>
           <language>german</language>
-          <checked_by_gpt>false</checked_by_gpt>
-          <text>Boden eim einen jährlichen zins von 2 ℔ 10ß auf 22 Sept. zahlbar, zu überlassen. zu Solge Beschlüsses von 1692, anhässlich der Rediction der Schaffneyen, ist denen Müns Fres der französischen Kirche eins Wohnung in Predigercloster eingerannt worden. Gleich damals wurde von dieser Wohnung ein Platz, allers etwelche Stallungen und die Gefängust waren, hinden an der Lotter gassen, neben Herrn Andreas Burckhardt des gehr. Raths und Dreierherrn Gartten hans Liegend, abgesondert, und seither Wus de das Gebande der Schlecht unterhalten Nachdem in Herr Dreierherr Andreas Burckhardt sich um diesen Platz beworbn haben u. gr. Herren beschlossen, ihm denselben in dem Zustande, wie er sich jetzt befindet,</text>
+          <checked_by_gpt>true</checked_by_gpt>
+          <text>zu Solge Beschlüsses von 1692, anhässlich der Rediction der Schaffneyen, ist denen Müns Fres der französischen Kirche eins Wohnung in Predigercloster eingerannt worden. Gleich damals wurde von dieser Wohnung ein Platz, allers etwelche Stallungen und die Gefängust waren, hinden an der Lotter gassen, neben Herrn Andreas Burckhardt des gehr. Raths und Dreierherrn Gartten hans Liegend, abgesondert, und seither Wus de das Gebande der Schlecht unterhalten Nachdem in Herr Dreierherr Andreas Burckhardt sich um diesen Platz beworbn haben u. gr. Herren beschlossen, ihm denselben in dem Zustande, wie er sich jetzt befindet, Boden eim einen jährlichen zins von 2 ℔ 10ß auf 22 Sept. zahlbar, zu überlassen.</text>
           <pages>
-            <page nr="3">https://files.transkribus.eu/Get?fileType=view&amp;id=VSCSBPTMVGNQZDJLKQZSAVJN</page>
-            <page nr="4">https://files.transkribus.eu/Get?fileType=view&amp;id=VRTGTBXYPMIYGQPUPJDWPJCQ</page>
+            <page nr="3"><![CDATA[https://files.transkribus.eu/Get?fileType=view&id=VSCSBPTMVGNQZDJLKQZSAVJN]]></page>
+            <page nr="4"><![CDATA[https://files.transkribus.eu/Get?fileType=view&id=VRTGTBXYPMIYGQPUPJDWPJCQ]]></page>
           </pages>
         </metadata>
         <text>
-          <token token_id="0">Boden</token>
-          <token token_id="1">eim</token>
-          <token token_id="2">einen</token>
-          <token token_id="3">jährlichen</token>
-          <token token_id="4">zins</token>
-          <token token_id="5">von</token>
-          <token token_id="6">2</token>
-          <token token_id="7">℔</token>
-          <token token_id="8">10ß</token>
-          <token token_id="9">auf</token>
-          <token token_id="10">22</token>
-          <token token_id="11">Sept</token>
-          <token token_id="12">.</token>
-          <token token_id="13">zahlbar</token>
-          <token token_id="14">,</token>
-          <token token_id="15">zu</token>
-          <token token_id="16">überlassen</token>
-          <token token_id="17">.</token>
-          <token token_id="18">zu</token>
-          <token token_id="19">Solge</token>
-          <token token_id="20">Beschlüsses</token>
-          <token token_id="21">von</token>
-          <token token_id="22">1692</token>
-          <token token_id="23">,</token>
-          <token token_id="24">anhässlich</token>
-          <token token_id="25">der</token>
-          <token token_id="26">Rediction</token>
-          <token token_id="27">der</token>
-          <token token_id="28">Schaffneyen</token>
-          <token token_id="29">,</token>
-          <token token_id="30">ist</token>
-          <token token_id="31">denen</token>
-          <token token_id="32">Müns</token>
-          <token token_id="33">Fres</token>
-          <token token_id="34">der</token>
-          <token token_id="35">französischen</token>
-          <token token_id="36">Kirche</token>
-          <token token_id="37">eins</token>
-          <token token_id="38">Wohnung</token>
-          <token token_id="39">in</token>
-          <token token_id="40">Predigercloster</token>
-          <token token_id="41">eingerannt</token>
-          <token token_id="42">worden</token>
-          <token token_id="43">.</token>
-          <token token_id="44">Gleich</token>
-          <token token_id="45">damals</token>
-          <token token_id="46">wurde</token>
-          <token token_id="47">von</token>
-          <token token_id="48">dieser</token>
-          <token token_id="49">Wohnung</token>
-          <token token_id="50">ein</token>
-          <token token_id="51">Platz</token>
-          <token token_id="52">,</token>
-          <token token_id="53">allers</token>
-          <token token_id="54">etwelche</token>
-          <token token_id="55">Stallungen</token>
-          <token token_id="56">und</token>
-          <token token_id="57">die</token>
-          <token token_id="58">Gefängust</token>
-          <token token_id="59">waren</token>
-          <token token_id="60">,</token>
-          <token token_id="61">hinden</token>
-          <token token_id="62">an</token>
-          <token token_id="63">der</token>
-          <token token_id="64">Lotter</token>
-          <token token_id="65">gassen</token>
-          <token token_id="66">,</token>
-          <token token_id="67">neben</token>
-          <token token_id="68">Herrn</token>
-          <token token_id="69">Andreas</token>
-          <token token_id="70">Burckhardt</token>
-          <token token_id="71">des</token>
-          <token token_id="72">gehr</token>
-          <token token_id="73">.</token>
-          <token token_id="74">Raths</token>
-          <token token_id="75">und</token>
-          <token token_id="76">Dreierherrn</token>
-          <token token_id="77">Gartten</token>
-          <token token_id="78">hans</token>
-          <token token_id="79">Liegend</token>
-          <token token_id="80">,</token>
-          <token token_id="81">abgesondert</token>
-          <token token_id="82">,</token>
-          <token token_id="83">und</token>
-          <token token_id="84">seither</token>
-          <token token_id="85">Wus</token>
-          <token token_id="86">de</token>
-          <token token_id="87">das</token>
-          <token token_id="88">Gebande</token>
-          <token token_id="89">der</token>
-          <token token_id="90">Schlecht</token>
-          <token token_id="91">unterhalten</token>
-          <token token_id="92">Nachdem</token>
-          <token token_id="93">in</token>
-          <token token_id="94">Herr</token>
-          <token token_id="95">Dreierherr</token>
-          <token token_id="96">Andreas</token>
-          <token token_id="97">Burckhardt</token>
-          <token token_id="98">sich</token>
-          <token token_id="99">um</token>
-          <token token_id="100">diesen</token>
-          <token token_id="101">Platz</token>
-          <token token_id="102">beworbn</token>
-          <token token_id="103">haben</token>
-          <token token_id="104">u</token>
-          <token token_id="105">.</token>
-          <token token_id="106">gr</token>
-          <token token_id="107">.</token>
-          <token token_id="108">Herren</token>
-          <token token_id="109">beschlossen</token>
-          <token token_id="110">,</token>
-          <token token_id="111">ihm</token>
-          <token token_id="112">denselben</token>
-          <token token_id="113">in</token>
-          <token token_id="114">dem</token>
-          <token token_id="115">Zustande</token>
-          <token token_id="116">,</token>
-          <token token_id="117">wie</token>
-          <token token_id="118">er</token>
-          <token token_id="119">sich</token>
-          <token token_id="120">jetzt</token>
-          <token token_id="121">befindet</token>
-          <token token_id="122">,</token>
+          <token token_id="0">zu</token>
+          <token token_id="1">Solge</token>
+          <token token_id="2">Beschlüsses</token>
+          <token token_id="3">von</token>
+          <token token_id="4">1692</token>
+          <token token_id="5">,</token>
+          <token token_id="6">anhässlich</token>
+          <token token_id="7">der</token>
+          <token token_id="8">Rediction</token>
+          <token token_id="9">der</token>
+          <token token_id="10">Schaffneyen</token>
+          <token token_id="11">,</token>
+          <token token_id="12">ist</token>
+          <token token_id="13">denen</token>
+          <token token_id="14">Müns</token>
+          <token token_id="15">Fres</token>
+          <token token_id="16">der</token>
+          <token token_id="17">französischen</token>
+          <token token_id="18">Kirche</token>
+          <token token_id="19">eins</token>
+          <token token_id="20">Wohnung</token>
+          <token token_id="21">in</token>
+          <token token_id="22">Predigercloster</token>
+          <token token_id="23">eingerannt</token>
+          <token token_id="24">worden</token>
+          <token token_id="25">.</token>
+          <token token_id="26">Gleich</token>
+          <token token_id="27">damals</token>
+          <token token_id="28">wurde</token>
+          <token token_id="29">von</token>
+          <token token_id="30">dieser</token>
+          <token token_id="31">Wohnung</token>
+          <token token_id="32">ein</token>
+          <token token_id="33">Platz</token>
+          <token token_id="34">,</token>
+          <token token_id="35">allers</token>
+          <token token_id="36">etwelche</token>
+          <token token_id="37">Stallungen</token>
+          <token token_id="38">und</token>
+          <token token_id="39">die</token>
+          <token token_id="40">Gefängust</token>
+          <token token_id="41">waren</token>
+          <token token_id="42">,</token>
+          <token token_id="43">hinden</token>
+          <token token_id="44">an</token>
+          <token token_id="45">der</token>
+          <token token_id="46">Lotter</token>
+          <token token_id="47">gassen</token>
+          <token token_id="48">,</token>
+          <token token_id="49">neben</token>
+          <token token_id="50">Herrn</token>
+          <token token_id="51">Andreas</token>
+          <token token_id="52">Burckhardt</token>
+          <token token_id="53">des</token>
+          <token token_id="54">gehr</token>
+          <token token_id="55">.</token>
+          <token token_id="56">Raths</token>
+          <token token_id="57">und</token>
+          <token token_id="58">Dreierherrn</token>
+          <token token_id="59">Gartten</token>
+          <token token_id="60">hans</token>
+          <token token_id="61">Liegend</token>
+          <token token_id="62">,</token>
+          <token token_id="63">abgesondert</token>
+          <token token_id="64">,</token>
+          <token token_id="65">und</token>
+          <token token_id="66">seither</token>
+          <token token_id="67">Wus</token>
+          <token token_id="68">de</token>
+          <token token_id="69">das</token>
+          <token token_id="70">Gebande</token>
+          <token token_id="71">der</token>
+          <token token_id="72">Schlecht</token>
+          <token token_id="73">unterhalten</token>
+          <token token_id="74">Nachdem</token>
+          <token token_id="75">in</token>
+          <token token_id="76">Herr</token>
+          <token token_id="77">Dreierherr</token>
+          <token token_id="78">Andreas</token>
+          <token token_id="79">Burckhardt</token>
+          <token token_id="80">sich</token>
+          <token token_id="81">um</token>
+          <token token_id="82">diesen</token>
+          <token token_id="83">Platz</token>
+          <token token_id="84">beworbn</token>
+          <token token_id="85">haben</token>
+          <token token_id="86">u</token>
+          <token token_id="87">.</token>
+          <token token_id="88">gr</token>
+          <token token_id="89">.</token>
+          <token token_id="90">Herren</token>
+          <token token_id="91">beschlossen</token>
+          <token token_id="92">,</token>
+          <token token_id="93">ihm</token>
+          <token token_id="94">denselben</token>
+          <token token_id="95">in</token>
+          <token token_id="96">dem</token>
+          <token token_id="97">Zustande</token>
+          <token token_id="98">,</token>
+          <token token_id="99">wie</token>
+          <token token_id="100">er</token>
+          <token token_id="101">sich</token>
+          <token token_id="102">jetzt</token>
+          <token token_id="103">befindet</token>
+          <token token_id="104">,</token>
+          <token token_id="105">Boden</token>
+          <token token_id="106">eim</token>
+          <token token_id="107">einen</token>
+          <token token_id="108">jährlichen</token>
+          <token token_id="109">zins</token>
+          <token token_id="110">von</token>
+          <token token_id="111">2</token>
+          <token token_id="112">℔</token>
+          <token token_id="113">10ß</token>
+          <token token_id="114">auf</token>
+          <token token_id="115">22</token>
+          <token token_id="116">Sept</token>
+          <token token_id="117">.</token>
+          <token token_id="118">zahlbar</token>
+          <token token_id="119">,</token>
+          <token token_id="120">zu</token>
+          <token token_id="121">überlassen</token>
+          <token token_id="122">.</token>
         </text>
         <spans>
-          <span id="0" start="3" end="3" element="value" class="time" confidence="0.91" text="jährlichen"/>
-          <span id="1" start="6" end="8" element="value" class="money" confidence="1.0" text="2 ℔ 10ß" norm="2.0 Pfund|10.0 Schilling"/>
-          <span id="2" start="9" end="12" element="value" class="date" confidence="0.95" text="auf 22 Sept ."/>
-          <span id="3" start="22" end="22" element="value" class="date" confidence="0.91" text="1692"/>
-          <span id="4" start="25" end="28" element="reference" class="org" confidence="0.71" text="der Rediction der Schaffneyen" numerus="sgl" specificity="spc" subclass="">
-            <span id="12" start="26" end="28" element="head" class="type" confidence="0.72" text="Rediction der Schaffneyen" norm="Schaffneien"/>
+          <span id="0" start="4" end="4" element="value" class="date" confidence="0.95" text="1692"/>
+          <span id="1" start="7" end="10" element="reference" class="org" confidence="0.82" text="der Rediction der Schaffneyen" numerus="sgl" specificity="spc" subclass="">
+            <span id="11" start="8" end="10" element="head" class="type" confidence="0.72" text="Rediction der Schaffneyen" norm="Schaffneien"/>
           </span>
-          <span id="5" start="31" end="36" element="reference" class="org" confidence="0.81" text="denen Müns Fres der französischen Kirche" numerus="sgl" specificity="spc" subclass="rel">
-            <span id="13" start="32" end="36" element="head" class="nam" confidence="0.72" text="Müns Fres der französischen Kirche" norm="unk"/>
+          <span id="2" start="13" end="18" element="reference" class="org" confidence="0.84" text="denen Müns Fres der französischen Kirche" numerus="sgl" specificity="spc" subclass="rel">
+            <span id="12" start="14" end="18" element="head" class="nam" confidence="0.72" text="Müns Fres der französischen Kirche" norm="unk"/>
           </span>
-          <span id="6" start="37" end="40" element="reference" class="fac" confidence="0.65" text="eins Wohnung in Predigercloster" numerus="sgl" specificity="spc" subclass="">
-            <span id="14" start="38" end="38" element="head" class="type" confidence="1.0" text="Wohnung" norm="unk"/>
-            <span id="15" start="39" end="40" element="attr" class="loc" confidence="0.83" text="in Predigercloster">
-              <span id="16" start="40" end="40" element="reference" class="fac" confidence="0.94" text="Predigercloster" numerus="sgl" specificity="spc" subclass="rel">
-                <span id="17" start="40" end="40" element="head" class="nam" confidence="0.93" text="Predigercloster"/>
+          <span id="3" start="19" end="22" element="reference" class="fac" confidence="0.73" text="eins Wohnung in Predigercloster" numerus="sgl" specificity="spc" subclass="">
+            <span id="13" start="20" end="20" element="head" class="type" confidence="1.0" text="Wohnung" norm="unk"/>
+            <span id="14" start="21" end="22" element="attr" class="loc" confidence="0.83" text="in Predigercloster">
+              <span id="15" start="22" end="22" element="reference" class="fac" confidence="0.94" text="Predigercloster" numerus="sgl" specificity="spc" subclass="rel">
+                <span id="16" start="22" end="22" element="head" class="nam" confidence="0.93" text="Predigercloster"/>
               </span>
             </span>
           </span>
-          <span id="7" start="63" end="78" element="reference" class="fac" confidence="0.8" text="der Lotter gassen , neben Herrn Andreas Burckhardt des gehr . Raths und Dreierherrn Gartten hans" numerus="sgl" specificity="spc" subclass="">
-            <span id="18" start="64" end="65" element="head" class="nam" confidence="0.72" text="Lotter gassen"/>
-            <span id="19" start="67" end="78" element="attr" class="loc" confidence="0.92" text="neben Herrn Andreas Burckhardt des gehr . Raths und Dreierherrn Gartten hans">
-              <span id="20" start="68" end="74" element="reference" class="per" confidence="0.98" text="Herrn Andreas Burckhardt des gehr . Raths" numerus="sgl" specificity="spc" subclass="">
-                <span id="22" start="69" end="70" element="head" class="nam" confidence="1.0" text="Andreas Burckhardt"/>
-                <span id="23" start="71" end="74" element="attr" class="org-aff" confidence="0.95" text="des gehr . Raths">
-                  <span id="24" start="71" end="74" element="reference" class="org" confidence="0.67" text="des gehr . Raths" numerus="sgl" specificity="spc" subclass="gov">
-                    <span id="25" start="72" end="74" element="head" class="type" confidence="0.95" text="gehr . Raths" norm="Stadtrat Basel"/>
+          <span id="4" start="45" end="60" element="reference" class="fac" confidence="0.78" text="der Lotter gassen , neben Herrn Andreas Burckhardt des gehr . Raths und Dreierherrn Gartten hans" numerus="sgl" specificity="spc" subclass="">
+            <span id="17" start="46" end="47" element="head" class="nam" confidence="0.72" text="Lotter gassen"/>
+            <span id="18" start="49" end="60" element="attr" class="loc" confidence="0.92" text="neben Herrn Andreas Burckhardt des gehr . Raths und Dreierherrn Gartten hans">
+              <span id="19" start="50" end="56" element="reference" class="per" confidence="0.98" text="Herrn Andreas Burckhardt des gehr . Raths" numerus="sgl" specificity="spc" subclass="">
+                <span id="21" start="51" end="52" element="head" class="nam" confidence="1.0" text="Andreas Burckhardt"/>
+                <span id="22" start="53" end="56" element="attr" class="org-aff" confidence="0.95" text="des gehr . Raths">
+                  <span id="23" start="53" end="56" element="reference" class="org" confidence="0.67" text="des gehr . Raths" numerus="sgl" specificity="spc" subclass="gov">
+                    <span id="24" start="54" end="56" element="head" class="type" confidence="0.95" text="gehr . Raths" norm="Stadtrat Basel"/>
                   </span>
                 </span>
               </span>
-              <span id="21" start="76" end="78" element="reference" class="fac" confidence="0.95" text="Dreierherrn Gartten hans" numerus="sgl" specificity="spc" subclass="">
-                <span id="26" start="76" end="76" element="attr" class="owner" confidence="0.99" text="Dreierherrn">
-                  <span id="28" start="76" end="76" element="reference" class="per" confidence="0.92" text="Dreierherrn" numerus="sgl" specificity="spc" subclass="">
-                    <span id="29" start="76" end="76" element="head" class="occ" confidence="0.3" text="Dreierherrn" norm="unk"/>
+              <span id="20" start="58" end="60" element="reference" class="fac" confidence="0.95" text="Dreierherrn Gartten hans" numerus="sgl" specificity="spc" subclass="">
+                <span id="25" start="58" end="58" element="attr" class="owner" confidence="0.99" text="Dreierherrn">
+                  <span id="27" start="58" end="58" element="reference" class="per" confidence="0.92" text="Dreierherrn" numerus="sgl" specificity="spc" subclass="">
+                    <span id="28" start="58" end="58" element="head" class="occ" confidence="0.3" text="Dreierherrn" norm="unk"/>
                   </span>
                 </span>
-                <span id="27" start="77" end="78" element="head" class="type" confidence="0.96" text="Gartten hans" norm="unk"/>
+                <span id="26" start="59" end="60" element="head" class="type" confidence="0.96" text="Gartten hans" norm="unk"/>
               </span>
             </span>
           </span>
-          <span id="8" start="87" end="88" element="reference" class="fac" confidence="0.86" text="das Gebande" numerus="sgl" specificity="spc" subclass="">
-            <span id="30" start="88" end="88" element="head" class="type" confidence="0.87" text="Gebande" norm="unk"/>
+          <span id="5" start="69" end="70" element="reference" class="fac" confidence="0.87" text="das Gebande" numerus="sgl" specificity="spc" subclass="">
+            <span id="29" start="70" end="70" element="head" class="type" confidence="0.87" text="Gebande" norm="unk"/>
           </span>
-          <span id="9" start="94" end="97" element="reference" class="per" confidence="1.0" text="Herr Dreierherr Andreas Burckhardt" numerus="sgl" specificity="spc" subclass="">
-            <span id="31" start="95" end="95" element="appo" class="title" confidence="0.59" text="Dreierherr">
-              <span id="33" start="95" end="95" element="head" class="title" confidence="1.0" text="Dreierherr"/>
+          <span id="6" start="76" end="79" element="reference" class="per" confidence="1.0" text="Herr Dreierherr Andreas Burckhardt" numerus="sgl" specificity="spc" subclass="">
+            <span id="30" start="77" end="77" element="appo" class="title" confidence="0.59" text="Dreierherr">
+              <span id="32" start="77" end="77" element="head" class="title" confidence="1.0" text="Dreierherr"/>
             </span>
-            <span id="32" start="96" end="97" element="head" class="nam" confidence="0.98" text="Andreas Burckhardt"/>
+            <span id="31" start="78" end="79" element="head" class="nam" confidence="0.98" text="Andreas Burckhardt"/>
           </span>
-          <span id="10" start="111" end="111" element="reference" class="unk" confidence="0.99" text="ihm" numerus="sgl" specificity="spc" subclass="">
-            <span id="10_head" start="111" end="111" element="head" class="pro" confidence="0.99" text="ihm"/>
+          <span id="7" start="93" end="93" element="reference" class="per" confidence="1.0" text="ihm" numerus="sgl" specificity="spc" subclass="">
+            <span id="7_head" start="93" end="93" element="head" class="pro" confidence="1.0" text="ihm"/>
           </span>
-          <span id="11" start="118" end="118" element="reference" class="unk" confidence="0.99" text="er" numerus="sgl" specificity="spc" subclass="">
-            <span id="11_head" start="118" end="118" element="head" class="pro" confidence="0.99" text="er"/>
+          <span id="8" start="100" end="100" element="reference" class="unk" confidence="1.0" text="er" numerus="sgl" specificity="spc" subclass="">
+            <span id="8_head" start="100" end="100" element="head" class="pro" confidence="1.0" text="er"/>
           </span>
+          <span id="9" start="111" end="113" element="value" class="money" confidence="0.98" text="2 ℔ 10ß" norm="2.0 Pfund|10.0 Schilling"/>
+          <span id="10" start="115" end="117" element="value" class="money" confidence="0.64" text="22 Sept ." norm="unk unk"/>
         </spans>
-        <relations/>
+        <relations>
+          <relation from="7" to="6" class="coref"/>
+          <relation from="6" to="19" class="coref"/>
+        </relations>
         <eventGroups>
-          <eventGroup event_id="0" class="topological" start="39" end="40" ref="15" type="state" tense="unk" polarity="unk" modality="unk">
+          <eventGroup event_id="0" class="topological" start="19" end="22" ref="14" type="state" tense="unk" polarity="unk" modality="unk">
             <event event_id="0.0">
-              <role role="location-a" ref="6" text="eins Wohnung in Predigercloster"/>
-              <role role="location-b" ref="16" text="Predigercloster"/>
+              <role role="location-a" ref="3" text="eins Wohnung in Predigercloster"/>
+              <role role="location-b" ref="15" text="Predigercloster"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="1" class="topological" start="67" end="78" ref="19" type="state" tense="unk" polarity="unk" modality="unk">
+          <eventGroup event_id="1" class="topological" start="45" end="60" ref="18" type="state" tense="unk" polarity="unk" modality="unk">
             <event event_id="1.0">
-              <role role="location-a" ref="7" text="der Lotter gassen , neben Herrn Andreas Burckhardt des gehr . Raths und Dreierherrn Gartten hans"/>
-              <role role="location-b" ref="20" text="Herrn Andreas Burckhardt des gehr . Raths"/>
-              <role role="location-b" ref="21" text="Dreierherrn Gartten hans"/>
+              <role role="location-a" ref="4" text="der Lotter gassen , neben Herrn Andreas Burckhardt des gehr . Raths und Dreierherrn Gartten hans"/>
+              <role role="location-b" ref="19" text="Herrn Andreas Burckhardt des gehr . Raths"/>
+              <role role="location-b" ref="20" text="Dreierherrn Gartten hans"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="2" class="membership" start="71" end="74" ref="23" type="state" tense="unk" polarity="unk" modality="unk">
+          <eventGroup event_id="2" class="membership" start="50" end="56" ref="22" type="state" tense="unk" polarity="unk" modality="unk">
             <event event_id="2.0">
-              <role role="member" ref="20" text="Herrn Andreas Burckhardt des gehr . Raths"/>
-              <role role="organization" ref="24" text="des gehr . Raths"/>
+              <role role="member" ref="19" text="Herrn Andreas Burckhardt des gehr . Raths"/>
+              <role role="organization" ref="23" text="des gehr . Raths"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="3" class="ownership" start="76" end="76" ref="26" type="state" tense="unk" polarity="unk" modality="unk">
+          <eventGroup event_id="3" class="ownership" start="58" end="60" ref="25" type="state" tense="unk" polarity="unk" modality="unk">
             <event event_id="3.0">
-              <role role="property" ref="21" text="Dreierherrn Gartten hans"/>
-              <role role="owner" ref="28" text="Dreierherrn"/>
+              <role role="property" ref="20" text="Dreierherrn Gartten hans"/>
+              <role role="owner" ref="27" text="Dreierherrn"/>
+            </event>
+          </eventGroup>
+          <eventGroup event_id="4" type="event" polarity="pos" tense="pres" modality="ass" ref="" class="property-purchase" start="4" end="22">
+            <event event_id="4.0">
+              <role role="date" ref="0" confidence="gpt-5.5" text="1692"/>
+              <role role="buyer" ref="2" confidence="gpt-5.5" text="denen Müns Fres der französischen Kirche"/>
+              <role role="property" ref="3" confidence="gpt-5.5" text="eins Wohnung in Predigercloster"/>
+            </event>
+          </eventGroup>
+          <eventGroup event_id="31" type="event" polarity="pos" tense="pres" modality="ass" ref="" class="heritable-lease-grant" start="69" end="113">
+            <event event_id="31.0">
+              <role role="lessee" ref="7" confidence="gpt-5.5" text="ihm"/>
+              <role role="property" ref="5" confidence="gpt-5.5" text="das Gebande"/>
+              <role role="interest" ref="9" confidence="gpt-5.5" text="2 ℔ 10ß"/>
+            </event>
+          </eventGroup>
+          <eventGroup event_id="32" type="state" polarity="pos" tense="pres" modality="ass" ref="" class="due-obligation" start="69" end="117">
+            <event event_id="32.0">
+              <role role="payer" ref="7" confidence="gpt-5.5" text="ihm"/>
+              <role role="property" ref="5" confidence="gpt-5.5" text="das Gebande"/>
+              <role role="interest" ref="9" confidence="gpt-5.5" text="2 ℔ 10ß"/>
+              <role role="due-date" ref="10" confidence="gpt-5.5" text="22 Sept ."/>
+            </event>
+          </eventGroup>
+          <eventGroup event_id="30" type="event" polarity="pos" tense="pres" modality="ass" ref="" class="consent" start="78" end="93">
+            <event event_id="30.0">
+              <role role="addressee" ref="7" confidence="gpt-5.5" text="ihm"/>
             </event>
           </eventGroup>
         </eventGroups>
@@ -2560,7 +2589,7 @@
           </eventGroup>
         </eventGroups>
       </document>
-      <document id="f7116562-8357-4b9b-ab42-2bedbeb0d78c_20260528">
+      <document id="a919810b-e0f9-4732-bc35-bc18c44aba22_20260615">
         <metadata>
           <street_id>HGB_1_201</street_id>
           <dossier_id>HGB_1_201_011</dossier_id>
@@ -2568,312 +2597,319 @@
           <source>Bauakten</source>
           <language>german</language>
           <checked_by_gpt>false</checked_by_gpt>
-          <text>frei ledig eigen, mit der Gerechtigkeit der Brunnen um 2050 ℔. und 12 Reichsthalern Trinkgelt, 13 baas zahlber, Reft à 30ß verzinsslich nach 4 Jahren hinbar Grüttingen über Zahlin des Resser, No 2 Herr Samuel Burckhardt, beider Rechten Dun Hof und Frau Elisabetha Herrwagen, Ehegatten Hanns Rudolpf und Anna Maria Herrwagen, vorgenanten Geschwister J Ehe der Begorien, verkaufen Herrn Johann Antons Winckhelblech, Burger und Handelsmann Eine Behaussung in St. Johanns Vorstatt an der so genanten Lottergassen sammt Matten, Garten und Räbackher, zwischen Herrn Dr. Johann Caspar Bauhino und dem Prediger Closter gelegen, dessgleichen noch einem andern kleinen Räbacherlin hinden daram und zwey en Wohnheusslen darbey, einseiths neben Herrn Johann Rudolph Burckhardten des Gerichtes, anderseiths an Meister Joachum Stutz dem Schmeider ligendt, vornen an die Mewe Vorstadt stossen</text>
+          <text>No 2 Herr Samuel Burckhardt, beider Rechten Dun Hof und Frau Elisabetha Herrwagen, Ehegatten Hanns Rudolpf und Anna Maria Herrwagen, vorgenanten Geschwister J Ehe der Begorien, verkaufen Herrn Johann Antons Winckhelblech, Burger und Handelsmann Eine Behaussung in St. Johanns Vorstatt an der so genanten Lottergassen sammt Matten, Garten und Räbackher, zwischen Herrn Dr. Johann Caspar Bauhino und dem Prediger Closter gelegen, dessgleichen noch einem andern kleinen Räbacherlin hinden daram und zwey en Wohnheusslen darbey, einseiths neben Herrn Johann Rudolph Burckhardten des Gerichtes, anderseiths an Meister Joachum Stutz dem Schmeider ligendt, vornen an die Mewe Vorstadt stossen frei ledig eigen, mit der Gerechtigkeit der Brunnen um 2050 ℔. und 12 Reichsthalern Trinkgelt, 13 baas zahlber, Reft à 30ß verzinsslich nach 4 Jahren hinbar Grüttingen über Zahlin des Resser,</text>
           <pages>
-            <page nr="5">https://files.transkribus.eu/Get?fileType=view&amp;id=ESIIZKUVMAGHAQQINYTAFVGT</page>
-            <page nr="6">https://files.transkribus.eu/Get?fileType=view&amp;id=VVEYRASHUYAKBYDHLYKUXKWE</page>
+            <page nr="5"><![CDATA[https://files.transkribus.eu/Get?fileType=view&id=ESIIZKUVMAGHAQQINYTAFVGT]]></page>
+            <page nr="6"><![CDATA[https://files.transkribus.eu/Get?fileType=view&id=VVEYRASHUYAKBYDHLYKUXKWE]]></page>
           </pages>
         </metadata>
         <text>
-          <token token_id="0">frei</token>
-          <token token_id="1">ledig</token>
-          <token token_id="2">eigen</token>
-          <token token_id="3">,</token>
-          <token token_id="4">mit</token>
-          <token token_id="5">der</token>
-          <token token_id="6">Gerechtigkeit</token>
-          <token token_id="7">der</token>
-          <token token_id="8">Brunnen</token>
-          <token token_id="9">um</token>
-          <token token_id="10">2050</token>
-          <token token_id="11">℔</token>
-          <token token_id="12">.</token>
-          <token token_id="13">und</token>
-          <token token_id="14">12</token>
-          <token token_id="15">Reichsthalern</token>
-          <token token_id="16">Trinkgelt</token>
-          <token token_id="17">,</token>
-          <token token_id="18">13</token>
-          <token token_id="19">baas</token>
-          <token token_id="20">zahlber</token>
-          <token token_id="21">,</token>
-          <token token_id="22">Reft</token>
-          <token token_id="23">à</token>
-          <token token_id="24">30ß</token>
-          <token token_id="25">verzinsslich</token>
-          <token token_id="26">nach</token>
-          <token token_id="27">4</token>
-          <token token_id="28">Jahren</token>
-          <token token_id="29">hinbar</token>
-          <token token_id="30">Grüttingen</token>
-          <token token_id="31">über</token>
-          <token token_id="32">Zahlin</token>
-          <token token_id="33">des</token>
-          <token token_id="34">Resser</token>
+          <token token_id="0">No</token>
+          <token token_id="1">2</token>
+          <token token_id="2">Herr</token>
+          <token token_id="3">Samuel</token>
+          <token token_id="4">Burckhardt</token>
+          <token token_id="5">,</token>
+          <token token_id="6">beider</token>
+          <token token_id="7">Rechten</token>
+          <token token_id="8">Dun</token>
+          <token token_id="9">Hof</token>
+          <token token_id="10">und</token>
+          <token token_id="11">Frau</token>
+          <token token_id="12">Elisabetha</token>
+          <token token_id="13">Herrwagen</token>
+          <token token_id="14">,</token>
+          <token token_id="15">Ehegatten</token>
+          <token token_id="16">Hanns</token>
+          <token token_id="17">Rudolpf</token>
+          <token token_id="18">und</token>
+          <token token_id="19">Anna</token>
+          <token token_id="20">Maria</token>
+          <token token_id="21">Herrwagen</token>
+          <token token_id="22">,</token>
+          <token token_id="23">vorgenanten</token>
+          <token token_id="24">Geschwister</token>
+          <token token_id="25">J</token>
+          <token token_id="26">Ehe</token>
+          <token token_id="27">der</token>
+          <token token_id="28">Begorien</token>
+          <token token_id="29">,</token>
+          <token token_id="30">verkaufen</token>
+          <token token_id="31">Herrn</token>
+          <token token_id="32">Johann</token>
+          <token token_id="33">Antons</token>
+          <token token_id="34">Winckhelblech</token>
           <token token_id="35">,</token>
-          <token token_id="36">No</token>
-          <token token_id="37">2</token>
-          <token token_id="38">Herr</token>
-          <token token_id="39">Samuel</token>
-          <token token_id="40">Burckhardt</token>
-          <token token_id="41">,</token>
-          <token token_id="42">beider</token>
-          <token token_id="43">Rechten</token>
-          <token token_id="44">Dun</token>
-          <token token_id="45">Hof</token>
-          <token token_id="46">und</token>
-          <token token_id="47">Frau</token>
-          <token token_id="48">Elisabetha</token>
-          <token token_id="49">Herrwagen</token>
-          <token token_id="50">,</token>
-          <token token_id="51">Ehegatten</token>
-          <token token_id="52">Hanns</token>
-          <token token_id="53">Rudolpf</token>
-          <token token_id="54">und</token>
-          <token token_id="55">Anna</token>
-          <token token_id="56">Maria</token>
-          <token token_id="57">Herrwagen</token>
-          <token token_id="58">,</token>
-          <token token_id="59">vorgenanten</token>
-          <token token_id="60">Geschwister</token>
-          <token token_id="61">J</token>
-          <token token_id="62">Ehe</token>
-          <token token_id="63">der</token>
-          <token token_id="64">Begorien</token>
-          <token token_id="65">,</token>
-          <token token_id="66">verkaufen</token>
-          <token token_id="67">Herrn</token>
-          <token token_id="68">Johann</token>
-          <token token_id="69">Antons</token>
-          <token token_id="70">Winckhelblech</token>
-          <token token_id="71">,</token>
-          <token token_id="72">Burger</token>
-          <token token_id="73">und</token>
-          <token token_id="74">Handelsmann</token>
-          <token token_id="75">Eine</token>
-          <token token_id="76">Behaussung</token>
-          <token token_id="77">in</token>
-          <token token_id="78">St</token>
-          <token token_id="79">.</token>
-          <token token_id="80">Johanns</token>
-          <token token_id="81">Vorstatt</token>
-          <token token_id="82">an</token>
-          <token token_id="83">der</token>
-          <token token_id="84">so</token>
-          <token token_id="85">genanten</token>
-          <token token_id="86">Lottergassen</token>
-          <token token_id="87">sammt</token>
-          <token token_id="88">Matten</token>
-          <token token_id="89">,</token>
-          <token token_id="90">Garten</token>
-          <token token_id="91">und</token>
-          <token token_id="92">Räbackher</token>
+          <token token_id="36">Burger</token>
+          <token token_id="37">und</token>
+          <token token_id="38">Handelsmann</token>
+          <token token_id="39">Eine</token>
+          <token token_id="40">Behaussung</token>
+          <token token_id="41">in</token>
+          <token token_id="42">St</token>
+          <token token_id="43">.</token>
+          <token token_id="44">Johanns</token>
+          <token token_id="45">Vorstatt</token>
+          <token token_id="46">an</token>
+          <token token_id="47">der</token>
+          <token token_id="48">so</token>
+          <token token_id="49">genanten</token>
+          <token token_id="50">Lottergassen</token>
+          <token token_id="51">sammt</token>
+          <token token_id="52">Matten</token>
+          <token token_id="53">,</token>
+          <token token_id="54">Garten</token>
+          <token token_id="55">und</token>
+          <token token_id="56">Räbackher</token>
+          <token token_id="57">,</token>
+          <token token_id="58">zwischen</token>
+          <token token_id="59">Herrn</token>
+          <token token_id="60">Dr</token>
+          <token token_id="61">.</token>
+          <token token_id="62">Johann</token>
+          <token token_id="63">Caspar</token>
+          <token token_id="64">Bauhino</token>
+          <token token_id="65">und</token>
+          <token token_id="66">dem</token>
+          <token token_id="67">Prediger</token>
+          <token token_id="68">Closter</token>
+          <token token_id="69">gelegen</token>
+          <token token_id="70">,</token>
+          <token token_id="71">dessgleichen</token>
+          <token token_id="72">noch</token>
+          <token token_id="73">einem</token>
+          <token token_id="74">andern</token>
+          <token token_id="75">kleinen</token>
+          <token token_id="76">Räbacherlin</token>
+          <token token_id="77">hinden</token>
+          <token token_id="78">daram</token>
+          <token token_id="79">und</token>
+          <token token_id="80">zwey</token>
+          <token token_id="81">en</token>
+          <token token_id="82">Wohnheusslen</token>
+          <token token_id="83">darbey</token>
+          <token token_id="84">,</token>
+          <token token_id="85">einseiths</token>
+          <token token_id="86">neben</token>
+          <token token_id="87">Herrn</token>
+          <token token_id="88">Johann</token>
+          <token token_id="89">Rudolph</token>
+          <token token_id="90">Burckhardten</token>
+          <token token_id="91">des</token>
+          <token token_id="92">Gerichtes</token>
           <token token_id="93">,</token>
-          <token token_id="94">zwischen</token>
-          <token token_id="95">Herrn</token>
-          <token token_id="96">Dr</token>
-          <token token_id="97">.</token>
-          <token token_id="98">Johann</token>
-          <token token_id="99">Caspar</token>
-          <token token_id="100">Bauhino</token>
-          <token token_id="101">und</token>
-          <token token_id="102">dem</token>
-          <token token_id="103">Prediger</token>
-          <token token_id="104">Closter</token>
-          <token token_id="105">gelegen</token>
-          <token token_id="106">,</token>
-          <token token_id="107">dessgleichen</token>
-          <token token_id="108">noch</token>
-          <token token_id="109">einem</token>
-          <token token_id="110">andern</token>
-          <token token_id="111">kleinen</token>
-          <token token_id="112">Räbacherlin</token>
-          <token token_id="113">hinden</token>
-          <token token_id="114">daram</token>
-          <token token_id="115">und</token>
-          <token token_id="116">zwey</token>
-          <token token_id="117">en</token>
-          <token token_id="118">Wohnheusslen</token>
-          <token token_id="119">darbey</token>
-          <token token_id="120">,</token>
-          <token token_id="121">einseiths</token>
-          <token token_id="122">neben</token>
-          <token token_id="123">Herrn</token>
-          <token token_id="124">Johann</token>
-          <token token_id="125">Rudolph</token>
-          <token token_id="126">Burckhardten</token>
-          <token token_id="127">des</token>
-          <token token_id="128">Gerichtes</token>
-          <token token_id="129">,</token>
-          <token token_id="130">anderseiths</token>
-          <token token_id="131">an</token>
-          <token token_id="132">Meister</token>
-          <token token_id="133">Joachum</token>
-          <token token_id="134">Stutz</token>
-          <token token_id="135">dem</token>
-          <token token_id="136">Schmeider</token>
-          <token token_id="137">ligendt</token>
-          <token token_id="138">,</token>
-          <token token_id="139">vornen</token>
-          <token token_id="140">an</token>
-          <token token_id="141">die</token>
-          <token token_id="142">Mewe</token>
-          <token token_id="143">Vorstadt</token>
-          <token token_id="144">stossen</token>
+          <token token_id="94">anderseiths</token>
+          <token token_id="95">an</token>
+          <token token_id="96">Meister</token>
+          <token token_id="97">Joachum</token>
+          <token token_id="98">Stutz</token>
+          <token token_id="99">dem</token>
+          <token token_id="100">Schmeider</token>
+          <token token_id="101">ligendt</token>
+          <token token_id="102">,</token>
+          <token token_id="103">vornen</token>
+          <token token_id="104">an</token>
+          <token token_id="105">die</token>
+          <token token_id="106">Mewe</token>
+          <token token_id="107">Vorstadt</token>
+          <token token_id="108">stossen</token>
+          <token token_id="109">frei</token>
+          <token token_id="110">ledig</token>
+          <token token_id="111">eigen</token>
+          <token token_id="112">,</token>
+          <token token_id="113">mit</token>
+          <token token_id="114">der</token>
+          <token token_id="115">Gerechtigkeit</token>
+          <token token_id="116">der</token>
+          <token token_id="117">Brunnen</token>
+          <token token_id="118">um</token>
+          <token token_id="119">2050</token>
+          <token token_id="120">℔</token>
+          <token token_id="121">.</token>
+          <token token_id="122">und</token>
+          <token token_id="123">12</token>
+          <token token_id="124">Reichsthalern</token>
+          <token token_id="125">Trinkgelt</token>
+          <token token_id="126">,</token>
+          <token token_id="127">13</token>
+          <token token_id="128">baas</token>
+          <token token_id="129">zahlber</token>
+          <token token_id="130">,</token>
+          <token token_id="131">Reft</token>
+          <token token_id="132">à</token>
+          <token token_id="133">30ß</token>
+          <token token_id="134">verzinsslich</token>
+          <token token_id="135">nach</token>
+          <token token_id="136">4</token>
+          <token token_id="137">Jahren</token>
+          <token token_id="138">hinbar</token>
+          <token token_id="139">Grüttingen</token>
+          <token token_id="140">über</token>
+          <token token_id="141">Zahlin</token>
+          <token token_id="142">des</token>
+          <token token_id="143">Resser</token>
+          <token token_id="144">,</token>
         </text>
         <spans>
-          <span id="0" start="10" end="12" element="value" class="money" confidence="0.99" text="2050 ℔ ." norm="2050.0 Pfund"/>
-          <span id="1" start="14" end="15" element="value" class="money" confidence="0.92" text="12 Reichsthalern" norm="12.0 Taler"/>
-          <span id="2" start="24" end="24" element="value" class="money" confidence="0.84" text="30ß" norm="30.0 Schilling"/>
-          <span id="3" start="27" end="28" element="value" class="date" confidence="0.73" text="4 Jahren"/>
-          <span id="4" start="33" end="34" element="reference" class="per" confidence="0.73" text="des Resser" numerus="sgl" specificity="spc" subclass="">
-            <span id="12" start="34" end="34" element="head" class="occ" confidence="0.26" text="Resser" norm="unk"/>
-          </span>
-          <span id="5" start="38" end="45" element="reference" class="per" confidence="0.95" text="Herr Samuel Burckhardt , beider Rechten Dun Hof" numerus="sgl" specificity="spc" subclass="">
-            <span id="13" start="39" end="40" element="head" class="nam" confidence="1.0" text="Samuel Burckhardt"/>
-            <span id="14" start="42" end="43" element="appo" class="title" confidence="0.96" text="beider Rechten">
-              <span id="16" start="42" end="43" element="head" class="title" confidence="1.0" text="beider Rechten"/>
+          <span id="0" start="2" end="9" element="reference" class="per" confidence="0.97" text="Herr Samuel Burckhardt , beider Rechten Dun Hof" numerus="sgl" specificity="spc" subclass="">
+            <span id="11" start="3" end="4" element="head" class="nam" confidence="1.0" text="Samuel Burckhardt"/>
+            <span id="12" start="6" end="7" element="appo" class="title" confidence="0.95" text="beider Rechten">
+              <span id="14" start="6" end="7" element="head" class="title" confidence="1.0" text="beider Rechten"/>
             </span>
-            <span id="15" start="44" end="45" element="appo" class="occ" confidence="0.83" text="Dun Hof">
-              <span id="17" start="44" end="45" element="head" class="occ" confidence="0.82" text="Dun Hof" norm="unk"/>
+            <span id="13" start="8" end="9" element="appo" class="occ" confidence="0.88" text="Dun Hof">
+              <span id="15" start="8" end="9" element="head" class="occ" confidence="0.82" text="Dun Hof" norm="unk"/>
             </span>
           </span>
-          <span id="6" start="47" end="53" element="reference" class="per" confidence="0.97" text="Frau Elisabetha Herrwagen , Ehegatten Hanns Rudolpf" numerus="sgl" specificity="spc" subclass="">
-            <span id="18" start="48" end="49" element="head" class="nam" confidence="1.0" text="Elisabetha Herrwagen"/>
-            <span id="19" start="51" end="53" element="appo" class="fam" confidence="0.86" text="Ehegatten Hanns Rudolpf">
-              <span id="20" start="52" end="53" element="reference" class="per" confidence="0.87" text="Hanns Rudolpf" numerus="sgl" specificity="spc" subclass="">
-                <span id="21" start="52" end="53" element="head" class="nam" confidence="1.0" text="Hanns Rudolpf"/>
+          <span id="1" start="11" end="17" element="reference" class="per" confidence="0.96" text="Frau Elisabetha Herrwagen , Ehegatten Hanns Rudolpf" numerus="sgl" specificity="spc" subclass="">
+            <span id="16" start="12" end="13" element="head" class="nam" confidence="1.0" text="Elisabetha Herrwagen"/>
+            <span id="17" start="15" end="17" element="appo" class="fam" confidence="0.86" text="Ehegatten Hanns Rudolpf">
+              <span id="18" start="16" end="17" element="reference" class="per" confidence="0.87" text="Hanns Rudolpf" numerus="sgl" specificity="spc" subclass="">
+                <span id="19" start="16" end="17" element="head" class="nam" confidence="1.0" text="Hanns Rudolpf"/>
               </span>
             </span>
           </span>
-          <span id="7" start="55" end="64" element="reference" class="per" confidence="0.81" text="Anna Maria Herrwagen , vorgenanten Geschwister J Ehe der Begorien" numerus="sgl" specificity="spc" subclass="">
-            <span id="22" start="55" end="57" element="head" class="nam" confidence="1.0" text="Anna Maria Herrwagen"/>
-            <span id="23" start="59" end="64" element="appo" class="fam" confidence="0.73" text="vorgenanten Geschwister J Ehe der Begorien">
-              <span id="24" start="60" end="60" element="head" class="fam" confidence="0.46" text="Geschwister"/>
-              <span id="25" start="64" end="64" element="head" class="fam" confidence="0.74" text="Begorien"/>
+          <span id="2" start="19" end="28" element="reference" class="per" confidence="0.85" text="Anna Maria Herrwagen , vorgenanten Geschwister J Ehe der Begorien" numerus="sgl" specificity="spc" subclass="">
+            <span id="20" start="19" end="21" element="head" class="nam" confidence="1.0" text="Anna Maria Herrwagen"/>
+            <span id="21" start="23" end="28" element="appo" class="fam" confidence="0.73" text="vorgenanten Geschwister J Ehe der Begorien">
+              <span id="22" start="24" end="24" element="head" class="fam" confidence="0.46" text="Geschwister"/>
+              <span id="23" start="28" end="28" element="head" class="fam" confidence="0.74" text="Begorien"/>
             </span>
           </span>
-          <span id="8" start="66" end="66" element="trigger" class="sale" confidence="0.96" text="verkaufen"/>
-          <span id="9" start="67" end="74" element="reference" class="per" confidence="0.97" text="Herrn Johann Antons Winckhelblech , Burger und Handelsmann" numerus="sgl" specificity="spc" subclass="">
-            <span id="26" start="68" end="70" element="head" class="nam" confidence="1.0" text="Johann Antons Winckhelblech"/>
-            <span id="27" start="72" end="72" element="appo" class="org-aff" confidence="1.0" text="Burger">
-              <span id="29" start="72" end="72" element="head" class="org-aff" confidence="1.0" text="Burger"/>
+          <span id="3" start="30" end="30" element="trigger" class="sale" confidence="0.95" text="verkaufen"/>
+          <span id="4" start="31" end="38" element="reference" class="per" confidence="0.97" text="Herrn Johann Antons Winckhelblech , Burger und Handelsmann" numerus="sgl" specificity="spc" subclass="">
+            <span id="24" start="32" end="34" element="head" class="nam" confidence="1.0" text="Johann Antons Winckhelblech"/>
+            <span id="25" start="36" end="36" element="appo" class="org-aff" confidence="1.0" text="Burger">
+              <span id="27" start="36" end="36" element="head" class="org-aff" confidence="1.0" text="Burger"/>
             </span>
-            <span id="28" start="74" end="74" element="appo" class="occ" confidence="0.99" text="Handelsmann">
-              <span id="30" start="74" end="74" element="head" class="occ" confidence="1.0" text="Handelsmann" norm="handelsmann" OhdAB="https://database.factgrid.de/wiki/Item:Q683545"/>
+            <span id="26" start="38" end="38" element="appo" class="occ" confidence="0.99" text="Handelsmann">
+              <span id="28" start="38" end="38" element="head" class="occ" confidence="1.0" text="Handelsmann" norm="handelsmann" OhdAB="https://database.factgrid.de/wiki/Item:Q683545"/>
             </span>
           </span>
-          <span id="10" start="75" end="105" element="reference" class="fac" confidence="0.96" text="Eine Behaussung in St . Johanns Vorstatt an der so genanten Lottergassen sammt Matten , Garten und Räbackher , zwischen Herrn Dr . Johann Caspar Bauhino und dem Prediger Closter gelegen" numerus="sgl" specificity="spc" subclass="">
-            <span id="31" start="76" end="76" element="head" class="type" confidence="1.0" text="Behaussung" norm="Behausung"/>
-            <span id="32" start="77" end="86" element="attr" class="loc" confidence="1.0" text="in St . Johanns Vorstatt an der so genanten Lottergassen">
-              <span id="35" start="78" end="81" element="reference" class="fac" confidence="0.99" text="St . Johanns Vorstatt" numerus="sgl" specificity="spc" subclass="vorstadt">
-                <span id="37" start="78" end="81" element="head" class="nam" confidence="1.0" text="St . Johanns Vorstatt"/>
+          <span id="5" start="39" end="69" element="reference" class="fac" confidence="0.96" text="Eine Behaussung in St . Johanns Vorstatt an der so genanten Lottergassen sammt Matten , Garten und Räbackher , zwischen Herrn Dr . Johann Caspar Bauhino und dem Prediger Closter gelegen" numerus="sgl" specificity="spc" subclass="">
+            <span id="29" start="40" end="40" element="head" class="type" confidence="1.0" text="Behaussung" norm="Behausung"/>
+            <span id="30" start="41" end="50" element="attr" class="loc" confidence="1.0" text="in St . Johanns Vorstatt an der so genanten Lottergassen">
+              <span id="33" start="42" end="45" element="reference" class="fac" confidence="0.99" text="St . Johanns Vorstatt" numerus="sgl" specificity="spc" subclass="vorstadt">
+                <span id="35" start="42" end="45" element="head" class="nam" confidence="1.0" text="St . Johanns Vorstatt"/>
               </span>
-              <span id="36" start="83" end="86" element="reference" class="fac" confidence="0.95" text="der so genanten Lottergassen" numerus="sgl" specificity="spc" subclass="">
-                <span id="38" start="86" end="86" element="head" class="nam" confidence="0.85" text="Lottergassen"/>
-              </span>
-            </span>
-            <span id="33" start="87" end="92" element="attr" class="includes" confidence="0.8" text="sammt Matten , Garten und Räbackher">
-              <span id="39" start="88" end="88" element="reference" class="fac" confidence="1.0" text="Matten" numerus="sgl" specificity="spc" subclass="">
-                <span id="42" start="88" end="88" element="head" class="type" confidence="1.0" text="Matten" norm="Matten"/>
-              </span>
-              <span id="40" start="90" end="90" element="reference" class="fac" confidence="1.0" text="Garten" numerus="sgl" specificity="spc" subclass="">
-                <span id="43" start="90" end="90" element="head" class="type" confidence="1.0" text="Garten" norm="Garten"/>
-              </span>
-              <span id="41" start="92" end="92" element="reference" class="fac" confidence="0.99" text="Räbackher" numerus="sgl" specificity="spc" subclass="">
-                <span id="44" start="92" end="92" element="head" class="type" confidence="1.0" text="Räbackher" norm="unk"/>
+              <span id="34" start="47" end="50" element="reference" class="fac" confidence="0.95" text="der so genanten Lottergassen" numerus="sgl" specificity="spc" subclass="">
+                <span id="36" start="50" end="50" element="head" class="nam" confidence="0.85" text="Lottergassen"/>
               </span>
             </span>
-            <span id="34" start="94" end="105" element="attr" class="loc" confidence="0.91" text="zwischen Herrn Dr . Johann Caspar Bauhino und dem Prediger Closter gelegen">
-              <span id="45" start="95" end="100" element="reference" class="per" confidence="0.99" text="Herrn Dr . Johann Caspar Bauhino" numerus="sgl" specificity="spc" subclass="">
-                <span id="47" start="96" end="97" element="appo" class="title" confidence="0.91" text="Dr .">
-                  <span id="49" start="96" end="97" element="head" class="title" confidence="1.0" text="Dr ."/>
+            <span id="31" start="51" end="56" element="attr" class="includes" confidence="0.8" text="sammt Matten , Garten und Räbackher">
+              <span id="37" start="52" end="52" element="reference" class="fac" confidence="1.0" text="Matten" numerus="sgl" specificity="spc" subclass="">
+                <span id="40" start="52" end="52" element="head" class="type" confidence="1.0" text="Matten" norm="Matten"/>
+              </span>
+              <span id="38" start="54" end="54" element="reference" class="fac" confidence="1.0" text="Garten" numerus="sgl" specificity="spc" subclass="">
+                <span id="41" start="54" end="54" element="head" class="type" confidence="1.0" text="Garten" norm="Garten"/>
+              </span>
+              <span id="39" start="56" end="56" element="reference" class="fac" confidence="0.99" text="Räbackher" numerus="sgl" specificity="spc" subclass="">
+                <span id="42" start="56" end="56" element="head" class="type" confidence="1.0" text="Räbackher" norm="unk"/>
+              </span>
+            </span>
+            <span id="32" start="58" end="69" element="attr" class="loc" confidence="0.91" text="zwischen Herrn Dr . Johann Caspar Bauhino und dem Prediger Closter gelegen">
+              <span id="43" start="59" end="64" element="reference" class="per" confidence="0.99" text="Herrn Dr . Johann Caspar Bauhino" numerus="sgl" specificity="spc" subclass="">
+                <span id="45" start="60" end="61" element="appo" class="title" confidence="0.91" text="Dr .">
+                  <span id="47" start="60" end="61" element="head" class="title" confidence="1.0" text="Dr ."/>
                 </span>
-                <span id="48" start="98" end="100" element="head" class="nam" confidence="0.99" text="Johann Caspar Bauhino"/>
+                <span id="46" start="62" end="64" element="head" class="nam" confidence="0.99" text="Johann Caspar Bauhino"/>
               </span>
-              <span id="46" start="102" end="104" element="reference" class="fac" confidence="0.74" text="dem Prediger Closter" numerus="sgl" specificity="spc" subclass="rel">
-                <span id="50" start="103" end="104" element="head" class="nam" confidence="0.86" text="Prediger Closter"/>
+              <span id="44" start="66" end="68" element="reference" class="fac" confidence="0.74" text="dem Prediger Closter" numerus="sgl" specificity="spc" subclass="rel">
+                <span id="48" start="67" end="68" element="head" class="nam" confidence="0.86" text="Prediger Closter"/>
               </span>
             </span>
           </span>
-          <span id="11" start="109" end="144" element="reference" class="fac" confidence="0.94" text="einem andern kleinen Räbacherlin hinden daram und zwey en Wohnheusslen darbey , einseiths neben Herrn Johann Rudolph Burckhardten des Gerichtes , anderseiths an Meister Joachum Stutz dem Schmeider ligendt , vornen an die Mewe Vorstadt stossen" numerus="sgl" specificity="spc" subclass="">
-            <span id="51" start="112" end="112" element="head" class="type" confidence="0.99" text="Räbacherlin" norm="Rebacker"/>
-            <span id="52" start="113" end="144" element="attr" class="loc" confidence="0.87" text="hinden daram und zwey en Wohnheusslen darbey , einseiths neben Herrn Johann Rudolph Burckhardten des Gerichtes , anderseiths an Meister Joachum Stutz dem Schmeider ligendt , vornen an die Mewe Vorstadt stossen">
-              <span id="53" start="116" end="118" element="reference" class="fac" confidence="0.97" text="zwey en Wohnheusslen" numerus="grp" specificity="spc" subclass="">
-                <span id="57" start="118" end="118" element="head" class="type" confidence="1.0" text="Wohnheusslen" norm="unk"/>
+          <span id="6" start="73" end="111" element="reference" class="fac" confidence="0.95" text="einem andern kleinen Räbacherlin hinden daram und zwey en Wohnheusslen darbey , einseiths neben Herrn Johann Rudolph Burckhardten des Gerichtes , anderseiths an Meister Joachum Stutz dem Schmeider ligendt , vornen an die Mewe Vorstadt stossen frei ledig eigen" numerus="sgl" specificity="spc" subclass="">
+            <span id="49" start="76" end="76" element="head" class="type" confidence="0.98" text="Räbacherlin" norm="Rebacker"/>
+            <span id="50" start="77" end="83" element="attr" class="includes" confidence="0.73" text="hinden daram und zwey en Wohnheusslen darbey">
+              <span id="53" start="80" end="82" element="reference" class="fac" confidence="0.96" text="zwey en Wohnheusslen" numerus="grp" specificity="spc" subclass="">
+                <span id="54" start="82" end="82" element="head" class="type" confidence="1.0" text="Wohnheusslen" norm="unk"/>
               </span>
-              <span id="54" start="123" end="128" element="reference" class="per" confidence="0.98" text="Herrn Johann Rudolph Burckhardten des Gerichtes" numerus="sgl" specificity="spc" subclass="">
-                <span id="58" start="124" end="126" element="head" class="nam" confidence="1.0" text="Johann Rudolph Burckhardten"/>
-                <span id="59" start="127" end="128" element="attr" class="org-aff" confidence="0.92" text="des Gerichtes">
-                  <span id="60" start="127" end="128" element="reference" class="org" confidence="0.96" text="des Gerichtes" numerus="sgl" specificity="spc" subclass="gov">
-                    <span id="61" start="128" end="128" element="head" class="type" confidence="1.0" text="Gerichtes" norm="Stadtgericht Grossbasel"/>
+            </span>
+            <span id="51" start="84" end="108" element="attr" class="loc" confidence="0.92" text=", einseiths neben Herrn Johann Rudolph Burckhardten des Gerichtes , anderseiths an Meister Joachum Stutz dem Schmeider ligendt , vornen an die Mewe Vorstadt stossen">
+              <span id="55" start="87" end="92" element="reference" class="per" confidence="0.99" text="Herrn Johann Rudolph Burckhardten des Gerichtes" numerus="sgl" specificity="spc" subclass="">
+                <span id="58" start="88" end="90" element="head" class="nam" confidence="1.0" text="Johann Rudolph Burckhardten"/>
+                <span id="59" start="91" end="92" element="attr" class="org-aff" confidence="0.92" text="des Gerichtes">
+                  <span id="60" start="91" end="92" element="reference" class="org" confidence="0.96" text="des Gerichtes" numerus="sgl" specificity="spc" subclass="gov">
+                    <span id="61" start="92" end="92" element="head" class="type" confidence="1.0" text="Gerichtes" norm="Stadtgericht Grossbasel"/>
                   </span>
                 </span>
               </span>
-              <span id="55" start="132" end="136" element="reference" class="per" confidence="0.99" text="Meister Joachum Stutz dem Schmeider" numerus="sgl" specificity="spc" subclass="">
-                <span id="62" start="132" end="132" element="appo" class="title" confidence="1.0" text="Meister">
-                  <span id="65" start="132" end="132" element="head" class="title" confidence="1.0" text="Meister"/>
+              <span id="56" start="96" end="100" element="reference" class="per" confidence="1.0" text="Meister Joachum Stutz dem Schmeider" numerus="sgl" specificity="spc" subclass="">
+                <span id="62" start="96" end="96" element="appo" class="title" confidence="1.0" text="Meister">
+                  <span id="65" start="96" end="96" element="head" class="title" confidence="1.0" text="Meister"/>
                 </span>
-                <span id="63" start="133" end="134" element="head" class="nam" confidence="1.0" text="Joachum Stutz"/>
-                <span id="64" start="135" end="136" element="appo" class="occ" confidence="1.0" text="dem Schmeider">
-                  <span id="66" start="136" end="136" element="head" class="occ" confidence="1.0" text="Schmeider" norm="schindler" OhdAB="https://database.factgrid.de/wiki/Item:Q661708"/>
+                <span id="63" start="97" end="98" element="head" class="nam" confidence="1.0" text="Joachum Stutz"/>
+                <span id="64" start="99" end="100" element="appo" class="occ" confidence="1.0" text="dem Schmeider">
+                  <span id="66" start="100" end="100" element="head" class="occ" confidence="1.0" text="Schmeider" norm="schindler" OhdAB="https://database.factgrid.de/wiki/Item:Q661708"/>
                 </span>
               </span>
-              <span id="56" start="141" end="143" element="reference" class="fac" confidence="0.93" text="die Mewe Vorstadt" numerus="sgl" specificity="spc" subclass="">
-                <span id="67" start="142" end="143" element="head" class="nam" confidence="1.0" text="Mewe Vorstadt"/>
+              <span id="57" start="105" end="107" element="reference" class="fac" confidence="0.97" text="die Mewe Vorstadt" numerus="sgl" specificity="spc" subclass="">
+                <span id="67" start="106" end="107" element="head" class="nam" confidence="1.0" text="Mewe Vorstadt"/>
               </span>
             </span>
+            <span id="52" start="109" end="111" element="attr" class="dues" confidence="0.99" text="frei ledig eigen"/>
           </span>
+          <span id="7" start="119" end="121" element="value" class="money" confidence="1.0" text="2050 ℔ ." norm="2050.0 Pfund"/>
+          <span id="8" start="123" end="124" element="value" class="money" confidence="0.96" text="12 Reichsthalern" norm="12.0 Taler"/>
+          <span id="9" start="133" end="133" element="value" class="money" confidence="0.91" text="30ß" norm="30.0 Schilling"/>
+          <span id="10" start="134" end="143" element="other" class="other" confidence="0.64" text="verzinsslich nach 4 Jahren hinbar Grüttingen über Zahlin des Resser"/>
         </spans>
         <relations/>
         <eventGroups>
-          <eventGroup event_id="0" class="property-purchase" start="10" end="144" ref="" type="event" tense="unk" polarity="unk" modality="unk">
-            <trigger ref="8" text="verkaufen"/>
+          <eventGroup event_id="0" class="property-purchase" start="2" end="143" ref="" type="event" tense="unk" polarity="unk" modality="unk">
+            <trigger ref="3" text="verkaufen"/>
             <event event_id="0.0">
-              <role role="capital" confidence="0.52" ref="0" text="2050 ℔ ."/>
-              <role role="detail_other" confidence="0.64" ref="2" text="30ß"/>
-              <role role="seller" confidence="0.7" ref="5" text="Herr Samuel Burckhardt , beider Rechten Dun Hof"/>
-              <role role="seller" confidence="0.98" ref="6" text="Frau Elisabetha Herrwagen , Ehegatten Hanns Rudolpf"/>
-              <role role="seller" confidence="0.99" ref="7" text="Anna Maria Herrwagen , vorgenanten Geschwister J Ehe der Begorien"/>
-              <role role="buyer" confidence="1.0" ref="9" text="Herrn Johann Antons Winckhelblech , Burger und Handelsmann"/>
-              <role role="property" confidence="1.0" ref="10" text="Eine Behaussung in St . Johanns Vorstatt an der so genanten Lottergassen sammt Matten , Garten und Räbackher , zwischen Herrn Dr . Johann Caspar Bauhino und dem Prediger Closter gelegen"/>
-              <role role="property" confidence="0.99" ref="11" text="einem andern kleinen Räbacherlin hinden daram und zwey en Wohnheusslen darbey , einseiths neben Herrn Johann Rudolph Burckhardten des Gerichtes , anderseiths an Meister Joachum Stutz dem Schmeider ligendt , vornen an die Mewe Vorstadt stossen"/>
+              <role role="seller" confidence="0.99" ref="0" text="Herr Samuel Burckhardt , beider Rechten Dun Hof"/>
+              <role role="seller" confidence="0.99" ref="1" text="Frau Elisabetha Herrwagen , Ehegatten Hanns Rudolpf"/>
+              <role role="seller" confidence="1.0" ref="2" text="Anna Maria Herrwagen , vorgenanten Geschwister J Ehe der Begorien"/>
+              <role role="buyer" confidence="1.0" ref="4" text="Herrn Johann Antons Winckhelblech , Burger und Handelsmann"/>
+              <role role="property" confidence="1.0" ref="5" text="Eine Behaussung in St . Johanns Vorstatt an der so genanten Lottergassen sammt Matten , Garten und Räbackher , zwischen Herrn Dr . Johann Caspar Bauhino und dem Prediger Closter gelegen"/>
+              <role role="property" confidence="0.99" ref="6" text="einem andern kleinen Räbacherlin hinden daram und zwey en Wohnheusslen darbey , einseiths neben Herrn Johann Rudolph Burckhardten des Gerichtes , anderseiths an Meister Joachum Stutz dem Schmeider ligendt , vornen an die Mewe Vorstadt stossen frei ledig eigen"/>
+              <role role="price" confidence="0.99" ref="7" text="2050 ℔ ."/>
+              <role role="interest" confidence="0.58" ref="8" text="12 Reichsthalern"/>
+              <role role="price" confidence="0.79" ref="9" text="30ß"/>
+              <role role="detail_other" confidence="0.98" ref="10" text="verzinsslich nach 4 Jahren hinbar Grüttingen über Zahlin des Resser"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="1" class="topological" start="77" end="86" ref="32" type="state" tense="unk" polarity="unk" modality="unk">
+          <eventGroup event_id="1" class="topological" start="41" end="50" ref="30" type="state" tense="unk" polarity="unk" modality="unk">
             <event event_id="1.0">
-              <role role="location-a" ref="10" text="Eine Behaussung in St . Johanns Vorstatt an der so genanten Lottergassen sammt Matten , Garten und Räbackher , zwischen Herrn Dr . Johann Caspar Bauhino und dem Prediger Closter gelegen"/>
-              <role role="location-b" ref="35" text="St . Johanns Vorstatt"/>
-              <role role="location-b" ref="36" text="der so genanten Lottergassen"/>
+              <role role="location-a" ref="5" text="Eine Behaussung in St . Johanns Vorstatt an der so genanten Lottergassen sammt Matten , Garten und Räbackher , zwischen Herrn Dr . Johann Caspar Bauhino und dem Prediger Closter gelegen"/>
+              <role role="location-b" ref="33" text="St . Johanns Vorstatt"/>
+              <role role="location-b" ref="34" text="der so genanten Lottergassen"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="2" class="part_whole" start="87" end="92" ref="33" type="state" tense="unk" polarity="unk" modality="unk">
+          <eventGroup event_id="2" class="part_whole" start="51" end="56" ref="31" type="state" tense="unk" polarity="unk" modality="unk">
             <event event_id="2.0">
-              <role role="whole" ref="10" text="Eine Behaussung in St . Johanns Vorstatt an der so genanten Lottergassen sammt Matten , Garten und Räbackher , zwischen Herrn Dr . Johann Caspar Bauhino und dem Prediger Closter gelegen"/>
-              <role role="part" ref="39" text="Matten"/>
-              <role role="part" ref="40" text="Garten"/>
-              <role role="part" ref="41" text="Räbackher"/>
+              <role role="whole" ref="5" text="Eine Behaussung in St . Johanns Vorstatt an der so genanten Lottergassen sammt Matten , Garten und Räbackher , zwischen Herrn Dr . Johann Caspar Bauhino und dem Prediger Closter gelegen"/>
+              <role role="part" ref="37" text="Matten"/>
+              <role role="part" ref="38" text="Garten"/>
+              <role role="part" ref="39" text="Räbackher"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="3" class="topological" start="94" end="105" ref="34" type="state" tense="unk" polarity="unk" modality="unk">
+          <eventGroup event_id="3" class="topological" start="58" end="69" ref="32" type="state" tense="unk" polarity="unk" modality="unk">
             <event event_id="3.0">
-              <role role="location-a" ref="10" text="Eine Behaussung in St . Johanns Vorstatt an der so genanten Lottergassen sammt Matten , Garten und Räbackher , zwischen Herrn Dr . Johann Caspar Bauhino und dem Prediger Closter gelegen"/>
-              <role role="location-b" ref="45" text="Herrn Dr . Johann Caspar Bauhino"/>
-              <role role="location-b" ref="46" text="dem Prediger Closter"/>
+              <role role="location-a" ref="5" text="Eine Behaussung in St . Johanns Vorstatt an der so genanten Lottergassen sammt Matten , Garten und Räbackher , zwischen Herrn Dr . Johann Caspar Bauhino und dem Prediger Closter gelegen"/>
+              <role role="location-b" ref="43" text="Herrn Dr . Johann Caspar Bauhino"/>
+              <role role="location-b" ref="44" text="dem Prediger Closter"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="4" class="topological" start="113" end="144" ref="52" type="state" tense="unk" polarity="unk" modality="unk">
+          <eventGroup event_id="4" class="part_whole" start="77" end="83" ref="50" type="state" tense="unk" polarity="unk" modality="unk">
             <event event_id="4.0">
-              <role role="location-a" ref="11" text="einem andern kleinen Räbacherlin hinden daram und zwey en Wohnheusslen darbey , einseiths neben Herrn Johann Rudolph Burckhardten des Gerichtes , anderseiths an Meister Joachum Stutz dem Schmeider ligendt , vornen an die Mewe Vorstadt stossen"/>
-              <role role="location-b" ref="53" text="zwey en Wohnheusslen"/>
-              <role role="location-b" ref="54" text="Herrn Johann Rudolph Burckhardten des Gerichtes"/>
-              <role role="location-b" ref="55" text="Meister Joachum Stutz dem Schmeider"/>
-              <role role="location-b" ref="56" text="die Mewe Vorstadt"/>
+              <role role="whole" ref="6" text="einem andern kleinen Räbacherlin hinden daram und zwey en Wohnheusslen darbey , einseiths neben Herrn Johann Rudolph Burckhardten des Gerichtes , anderseiths an Meister Joachum Stutz dem Schmeider ligendt , vornen an die Mewe Vorstadt stossen frei ledig eigen"/>
+              <role role="part" ref="53" text="zwey en Wohnheusslen"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="5" class="membership" start="127" end="128" ref="59" type="state" tense="unk" polarity="unk" modality="unk">
+          <eventGroup event_id="5" class="topological" start="84" end="108" ref="51" type="state" tense="unk" polarity="unk" modality="unk">
             <event event_id="5.0">
-              <role role="member" ref="54" text="Herrn Johann Rudolph Burckhardten des Gerichtes"/>
+              <role role="location-a" ref="6" text="einem andern kleinen Räbacherlin hinden daram und zwey en Wohnheusslen darbey , einseiths neben Herrn Johann Rudolph Burckhardten des Gerichtes , anderseiths an Meister Joachum Stutz dem Schmeider ligendt , vornen an die Mewe Vorstadt stossen frei ledig eigen"/>
+              <role role="location-b" ref="55" text="Herrn Johann Rudolph Burckhardten des Gerichtes"/>
+              <role role="location-b" ref="56" text="Meister Joachum Stutz dem Schmeider"/>
+              <role role="location-b" ref="57" text="die Mewe Vorstadt"/>
+            </event>
+          </eventGroup>
+          <eventGroup event_id="6" class="membership" start="91" end="92" ref="59" type="state" tense="unk" polarity="unk" modality="unk">
+            <event event_id="6.0">
+              <role role="member" ref="55" text="Herrn Johann Rudolph Burckhardten des Gerichtes"/>
               <role role="organization" ref="60" text="des Gerichtes"/>
             </event>
           </eventGroup>

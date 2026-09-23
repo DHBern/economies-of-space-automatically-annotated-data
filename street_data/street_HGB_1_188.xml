@@ -545,147 +545,160 @@
           </phase>
         </dossier_history>
       </metadata>
-      <document id="68341a10-e7dd-4766-85db-a194e48b0f99_20260528">
+      <document id="79bd27d7-bf9d-4f3a-8234-459885db5750_20260615">
         <metadata>
           <street_id>HGB_1_188</street_id>
           <dossier_id>HGB_1_188_027</dossier_id>
           <year>1622</year>
           <source>Erklärung betr. Abtretung zu den Schanzen Politisches </source>
           <language>german</language>
-          <checked_by_gpt>false</checked_by_gpt>
-          <text>Wirth zem Engel = Spalenvorstad alt 353 ( = 3 des zem Engel Scheuren = 353 Ao 1660 König Ludw. neben Th v 8 neben 10 Ao 1632 Merian Cuophrian, Erben neben Th. v. 8 neben 10 Ao 1632, neben 12 auf S. v. 10 Ao 1631 S. 93. Spahlen. Würthein zum Engel her Ludwig Küng, verchts geschwillig. Offrion Merians Wittib.</text>
+          <checked_by_gpt>true</checked_by_gpt>
+          <text>S. 93. Spahlen. Würthein zum Engel her Ludwig Küng, verchts geschwillig. Offrion Merians Wittib. Wirth zem Engel = Spalenvorstad alt 353 ( = 3 des zem Engel Scheuren = 353 Ao 1660 König Ludw. neben Th v 8 neben 10 Ao 1632 Merian Cuophrian, Erben neben Th. v. 8 neben 10 Ao 1632, neben 12 auf S. v. 10 Ao 1631</text>
           <pages>
-            <page nr="3">https://files.transkribus.eu/Get?fileType=view&amp;id=TPMSFXQOMEJPEIIJPJYUKJBL</page>
+            <page nr="3"><![CDATA[https://files.transkribus.eu/Get?fileType=view&id=TPMSFXQOMEJPEIIJPJYUKJBL]]></page>
           </pages>
         </metadata>
         <text>
-          <token token_id="0">Wirth</token>
-          <token token_id="1">zem</token>
-          <token token_id="2">Engel</token>
-          <token token_id="3">=</token>
-          <token token_id="4">Spalenvorstad</token>
-          <token token_id="5">alt</token>
-          <token token_id="6">353</token>
-          <token token_id="7">(</token>
-          <token token_id="8">=</token>
-          <token token_id="9">3</token>
-          <token token_id="10">des</token>
-          <token token_id="11">zem</token>
-          <token token_id="12">Engel</token>
-          <token token_id="13">Scheuren</token>
-          <token token_id="14">=</token>
-          <token token_id="15">353</token>
-          <token token_id="16">Ao</token>
-          <token token_id="17">1660</token>
-          <token token_id="18">König</token>
-          <token token_id="19">Ludw</token>
-          <token token_id="20">.</token>
-          <token token_id="21">neben</token>
-          <token token_id="22">Th</token>
-          <token token_id="23">v</token>
-          <token token_id="24">8</token>
-          <token token_id="25">neben</token>
-          <token token_id="26">10</token>
-          <token token_id="27">Ao</token>
-          <token token_id="28">1632</token>
-          <token token_id="29">Merian</token>
-          <token token_id="30">Cuophrian</token>
-          <token token_id="31">,</token>
-          <token token_id="32">Erben</token>
-          <token token_id="33">neben</token>
-          <token token_id="34">Th</token>
-          <token token_id="35">.</token>
-          <token token_id="36">v</token>
-          <token token_id="37">.</token>
-          <token token_id="38">8</token>
-          <token token_id="39">neben</token>
-          <token token_id="40">10</token>
-          <token token_id="41">Ao</token>
-          <token token_id="42">1632</token>
-          <token token_id="43">,</token>
-          <token token_id="44">neben</token>
-          <token token_id="45">12</token>
-          <token token_id="46">auf</token>
-          <token token_id="47">S</token>
-          <token token_id="48">.</token>
-          <token token_id="49">v</token>
-          <token token_id="50">.</token>
-          <token token_id="51">10</token>
-          <token token_id="52">Ao</token>
-          <token token_id="53">1631</token>
-          <token token_id="54">S</token>
+          <token token_id="0">S</token>
+          <token token_id="1">.</token>
+          <token token_id="2">93</token>
+          <token token_id="3">.</token>
+          <token token_id="4">Spahlen</token>
+          <token token_id="5">.</token>
+          <token token_id="6">Würthein</token>
+          <token token_id="7">zum</token>
+          <token token_id="8">Engel</token>
+          <token token_id="9">her</token>
+          <token token_id="10">Ludwig</token>
+          <token token_id="11">Küng</token>
+          <token token_id="12">,</token>
+          <token token_id="13">verchts</token>
+          <token token_id="14">geschwillig</token>
+          <token token_id="15">.</token>
+          <token token_id="16">Offrion</token>
+          <token token_id="17">Merians</token>
+          <token token_id="18">Wittib</token>
+          <token token_id="19">.</token>
+          <token token_id="20">Wirth</token>
+          <token token_id="21">zem</token>
+          <token token_id="22">Engel</token>
+          <token token_id="23">=</token>
+          <token token_id="24">Spalenvorstad</token>
+          <token token_id="25">alt</token>
+          <token token_id="26">353</token>
+          <token token_id="27">(</token>
+          <token token_id="28">=</token>
+          <token token_id="29">3</token>
+          <token token_id="30">des</token>
+          <token token_id="31">zem</token>
+          <token token_id="32">Engel</token>
+          <token token_id="33">Scheuren</token>
+          <token token_id="34">=</token>
+          <token token_id="35">353</token>
+          <token token_id="36">Ao</token>
+          <token token_id="37">1660</token>
+          <token token_id="38">König</token>
+          <token token_id="39">Ludw</token>
+          <token token_id="40">.</token>
+          <token token_id="41">neben</token>
+          <token token_id="42">Th</token>
+          <token token_id="43">v</token>
+          <token token_id="44">8</token>
+          <token token_id="45">neben</token>
+          <token token_id="46">10</token>
+          <token token_id="47">Ao</token>
+          <token token_id="48">1632</token>
+          <token token_id="49">Merian</token>
+          <token token_id="50">Cuophrian</token>
+          <token token_id="51">,</token>
+          <token token_id="52">Erben</token>
+          <token token_id="53">neben</token>
+          <token token_id="54">Th</token>
           <token token_id="55">.</token>
-          <token token_id="56">93</token>
+          <token token_id="56">v</token>
           <token token_id="57">.</token>
-          <token token_id="58">Spahlen</token>
-          <token token_id="59">.</token>
-          <token token_id="60">Würthein</token>
-          <token token_id="61">zum</token>
-          <token token_id="62">Engel</token>
-          <token token_id="63">her</token>
-          <token token_id="64">Ludwig</token>
-          <token token_id="65">Küng</token>
-          <token token_id="66">,</token>
-          <token token_id="67">verchts</token>
-          <token token_id="68">geschwillig</token>
-          <token token_id="69">.</token>
-          <token token_id="70">Offrion</token>
-          <token token_id="71">Merians</token>
-          <token token_id="72">Wittib</token>
-          <token token_id="73">.</token>
+          <token token_id="58">8</token>
+          <token token_id="59">neben</token>
+          <token token_id="60">10</token>
+          <token token_id="61">Ao</token>
+          <token token_id="62">1632</token>
+          <token token_id="63">,</token>
+          <token token_id="64">neben</token>
+          <token token_id="65">12</token>
+          <token token_id="66">auf</token>
+          <token token_id="67">S</token>
+          <token token_id="68">.</token>
+          <token token_id="69">v</token>
+          <token token_id="70">.</token>
+          <token token_id="71">10</token>
+          <token token_id="72">Ao</token>
+          <token token_id="73">1631</token>
         </text>
         <spans>
-          <span id="0" start="1" end="2" element="reference" class="fac" confidence="0.63" text="zem Engel" numerus="sgl" specificity="spc" subclass="">
-            <span id="11" start="1" end="2" element="head" class="nam" confidence="0.97" text="zem Engel"/>
+          <span id="0" start="0" end="4" element="reference" class="fac" confidence="0.51" text="S . 93 . Spahlen" numerus="sgl" specificity="spc" subclass="">
+            <span id="13" start="0" end="4" element="head" class="nam" confidence="0.79" text="S . 93 . Spahlen"/>
           </span>
-          <span id="1" start="4" end="4" element="reference" class="fac" confidence="0.94" text="Spalenvorstad" numerus="sgl" specificity="spc" subclass="">
-            <span id="12" start="4" end="4" element="head" class="nam" confidence="1.0" text="Spalenvorstad"/>
+          <span id="1" start="6" end="8" element="reference" class="per" confidence="0.76" text="Würthein zum Engel" numerus="sgl" specificity="spc" subclass="">
+            <span id="14" start="6" end="8" element="head" class="nam" confidence="0.99" text="Würthein zum Engel"/>
           </span>
-          <span id="2" start="10" end="13" element="reference" class="fac" confidence="0.76" text="des zem Engel Scheuren" numerus="sgl" specificity="spc" subclass="">
-            <span id="13" start="10" end="12" element="attr" class="owner" confidence="0.75" text="des zem Engel">
-              <span id="15" start="10" end="12" element="reference" class="per" confidence="0.62" text="des zem Engel" numerus="sgl" specificity="spc" subclass="">
-                <span id="16" start="11" end="12" element="head" class="nam" confidence="0.72" text="zem Engel"/>
+          <span id="2" start="10" end="11" element="reference" class="per" confidence="1.0" text="Ludwig Küng" numerus="sgl" specificity="spc" subclass="">
+            <span id="15" start="10" end="11" element="head" class="nam" confidence="1.0" text="Ludwig Küng"/>
+          </span>
+          <span id="3" start="16" end="18" element="reference" class="per" confidence="1.0" text="Offrion Merians Wittib" numerus="sgl" specificity="spc" subclass="">
+            <span id="16" start="16" end="17" element="reference" class="per" confidence="0.96" text="Offrion Merians" numerus="sgl" specificity="spc" subclass="">
+              <span id="18" start="16" end="17" element="head" class="nam" confidence="0.98" text="Offrion Merians"/>
+            </span>
+            <span id="17" start="18" end="18" element="head" class="fam" confidence="0.99" text="Wittib"/>
+          </span>
+          <span id="4" start="20" end="22" element="reference" class="per" confidence="0.66" text="Wirth zem Engel" numerus="sgl" specificity="spc" subclass="">
+            <span id="19" start="20" end="20" element="head" class="occ" confidence="0.85" text="Wirth" norm="wirt" OhdAB="https://database.factgrid.de/wiki/Item:Q685709"/>
+            <span id="20" start="21" end="22" element="unk" class="nam" confidence="0.73" text="zem Engel"/>
+          </span>
+          <span id="5" start="30" end="33" element="reference" class="fac" confidence="0.74" text="des zem Engel Scheuren" numerus="sgl" specificity="spc" subclass="">
+            <span id="21" start="30" end="32" element="attr" class="owner" confidence="0.75" text="des zem Engel">
+              <span id="23" start="30" end="32" element="reference" class="per" confidence="0.62" text="des zem Engel" numerus="sgl" specificity="spc" subclass="">
+                <span id="24" start="31" end="32" element="head" class="nam" confidence="0.72" text="zem Engel"/>
               </span>
             </span>
-            <span id="14" start="13" end="13" element="head" class="type" confidence="0.98" text="Scheuren" norm="Scheunen"/>
+            <span id="22" start="33" end="33" element="head" class="type" confidence="0.98" text="Scheuren" norm="Scheunen"/>
           </span>
-          <span id="3" start="17" end="17" element="value" class="date" confidence="0.88" text="1660"/>
-          <span id="4" start="18" end="19" element="reference" class="per" confidence="0.9" text="König Ludw" numerus="sgl" specificity="spc" subclass="">
-            <span id="17" start="18" end="19" element="head" class="nam" confidence="1.0" text="König Ludw"/>
+          <span id="6" start="37" end="37" element="value" class="date" confidence="0.83" text="1660"/>
+          <span id="7" start="38" end="39" element="reference" class="per" confidence="0.92" text="König Ludw" numerus="sgl" specificity="spc" subclass="">
+            <span id="25" start="38" end="39" element="head" class="nam" confidence="1.0" text="König Ludw"/>
           </span>
-          <span id="5" start="28" end="28" element="value" class="date" confidence="0.8" text="1632"/>
-          <span id="6" start="29" end="30" element="reference" class="per" confidence="0.98" text="Merian Cuophrian" numerus="sgl" specificity="spc" subclass="">
-            <span id="18" start="29" end="30" element="head" class="nam" confidence="0.99" text="Merian Cuophrian"/>
+          <span id="8" start="48" end="48" element="value" class="date" confidence="0.8" text="1632"/>
+          <span id="9" start="49" end="50" element="reference" class="per" confidence="0.99" text="Merian Cuophrian" numerus="sgl" specificity="spc" subclass="">
+            <span id="26" start="49" end="50" element="head" class="nam" confidence="0.99" text="Merian Cuophrian"/>
           </span>
-          <span id="7" start="54" end="58" element="reference" class="fac" confidence="0.56" text="S . 93 . Spahlen" numerus="sgl" specificity="spc" subclass="">
-            <span id="19" start="54" end="58" element="head" class="nam" confidence="0.91" text="S . 93 . Spahlen"/>
+          <span id="10" start="52" end="52" element="reference" class="per" confidence="0.9" text="Erben" numerus="grp" specificity="spc" subclass="">
+            <span id="27" start="52" end="52" element="head" class="heir" confidence="1.0" text="Erben"/>
           </span>
-          <span id="8" start="60" end="62" element="reference" class="per" confidence="0.78" text="Würthein zum Engel" numerus="sgl" specificity="spc" subclass="">
-            <span id="20" start="60" end="62" element="head" class="nam" confidence="0.99" text="Würthein zum Engel"/>
-          </span>
-          <span id="9" start="64" end="65" element="reference" class="per" confidence="1.0" text="Ludwig Küng" numerus="sgl" specificity="spc" subclass="">
-            <span id="21" start="64" end="65" element="head" class="nam" confidence="1.0" text="Ludwig Küng"/>
-          </span>
-          <span id="10" start="70" end="72" element="reference" class="per" confidence="0.99" text="Offrion Merians Wittib" numerus="sgl" specificity="spc" subclass="">
-            <span id="22" start="70" end="71" element="reference" class="per" confidence="0.97" text="Offrion Merians" numerus="sgl" specificity="spc" subclass="">
-              <span id="24" start="70" end="71" element="head" class="nam" confidence="0.99" text="Offrion Merians"/>
-            </span>
-            <span id="23" start="72" end="72" element="head" class="fam" confidence="0.99" text="Wittib"/>
-          </span>
+          <span id="11" start="60" end="62" element="value" class="date" confidence="0.68" text="10 Ao 1632"/>
+          <span id="12" start="73" end="73" element="value" class="date" confidence="0.72" text="1631"/>
         </spans>
-        <relations/>
+        <relations>
+          <relation from="7" to="2" class="coref"/>
+          <relation from="9" to="16" class="coref"/>
+        </relations>
         <eventGroups>
-          <eventGroup event_id="0" class="family" start="70" end="72" ref="10" type="state" tense="unk" polarity="unk" modality="unk">
-            <trigger start="72" end="72" text="Wittib" ref="23"/>
+          <eventGroup event_id="0" class="family" start="16" end="18" ref="3" type="state" tense="unk" polarity="unk" modality="unk">
+            <trigger start="18" end="18" text="Wittib" ref="17"/>
             <event event_id="0.0">
-              <role role="family-a" ref="10" text="Offrion Merians Wittib"/>
-              <role role="family-b" ref="22" text="Offrion Merians"/>
+              <role role="family-a" ref="3" text="Offrion Merians Wittib"/>
+              <role role="family-b" ref="16" text="Offrion Merians"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="1" class="ownership" start="10" end="12" ref="13" type="state" tense="unk" polarity="unk" modality="unk">
+          <eventGroup event_id="1" class="ownership" start="20" end="33" ref="21" type="state" tense="unk" polarity="unk" modality="unk">
             <event event_id="1.0">
-              <role role="property" ref="2" text="des zem Engel Scheuren"/>
-              <role role="owner" ref="15" text="des zem Engel"/>
+              <role role="property" ref="5" text="des zem Engel Scheuren"/>
+              <role role="owner" ref="23" text="des zem Engel"/>
+              <role role="owner" ref="4" confidence="gpt-5.5" text="Wirth zem Engel"/>
+            </event>
+          </eventGroup>
+          <eventGroup event_id="2" type="event" polarity="pos" tense="pres" modality="ass" ref="" class="inheritance" start="49" end="52">
+            <event event_id="2.0">
+              <role role="decedent" ref="9" confidence="gpt-5.5" text="Merian Cuophrian"/>
+              <role role="heir" ref="10" confidence="gpt-5.5" text="Erben"/>
             </event>
           </eventGroup>
         </eventGroups>
@@ -1439,7 +1452,7 @@
           </eventGroup>
         </eventGroups>
       </document>
-      <document id="10d1134a-06af-4bfd-b0e6-a317a90c7908_20260528">
+      <document id="8b1f6714-8a67-45a3-9399-fffbcbd0fc42_20260615">
         <metadata>
           <street_id>HGB_1_188</street_id>
           <dossier_id>HGB_1_188_031</dossier_id>
@@ -1447,343 +1460,351 @@
           <source>Gerichtsarchiv</source>
           <language>german</language>
           <checked_by_gpt>false</checked_by_gpt>
-          <text>Schwingdenhammer Adam hrch. hinter Schichen mattstr. 20 Ao 1662 Ao 1693, Eig v. Schützen Graben 32 Ao 1699 Rein hs. Ulr. Eig v. Schützenmachter, 22 bis 1719 hinter Schützenmachtr. 20 liegt Schützengraben 32 lach Löffels Plan. Anschlag. Herr Sebastian Spörlin der Jünger hat wegen jeniger 600 ℔ Capital, welches ihme Mr Adam Heinrich Schwingdenhamer der Hufschmid laut Obligation zu thun schuldig, desselben hierumber zum Underpfandt verschriebene Scheüren und Stallung hinder der Rinckhmauren bey dem Spalenthor, einseit neben Mr Hanns Ulrich Rein dem Metzger, anderseit neben S. Michael David sel. des Raths Erben gelegen; Sodann fünf Jauchardten ckher vor Spalen Thor hinder der Schützenmatten, einseit neben ihme Schwing, denhamer selbsten, andseits neben dem Herrengraben und Jacob Gürtler von Geschweiler gelegen, gefrönt. und wird man solche Scheüren und ackher auf Zins tag den 6. Decembris verkaufen.</text>
+          <text>Anschlag. Herr Sebastian Spörlin der Jünger hat wegen jeniger 600 ℔ Capital, welches ihme Mr Adam Heinrich Schwingdenhamer der Hufschmid laut Obligation zu thun schuldig, desselben hierumber zum Underpfandt verschriebene Scheüren und Stallung hinder der Rinckhmauren bey dem Spalenthor, einseit neben Mr Hanns Ulrich Rein dem Metzger, anderseit neben S. Michael David sel. des Raths Erben gelegen; Sodann fünf Jauchardten ckher vor Spalen Thor hinder der Schützenmatten, einseit neben ihme Schwing, denhamer selbsten, andseits neben dem Herrengraben und Jacob Gürtler von Geschweiler gelegen, gefrönt. und wird man solche Scheüren und ackher auf Zins tag den 6. Decembris verkaufen. Schwingdenhammer Adam hrch. hinter Schichen mattstr. 20 Ao 1662 Ao 1693, Eig v. Schützen Graben 32 Ao 1699 Rein hs. Ulr. Eig v. Schützenmachter, 22 bis 1719 hinter Schützenmachtr. 20 liegt Schützengraben 32 lach Löffels Plan.</text>
           <pages>
-            <page nr="6">https://files.transkribus.eu/Get?fileType=view&amp;id=JNOMXVUXDTAEAIZKYRVCCRPT</page>
-            <page nr="7">https://files.transkribus.eu/Get?fileType=view&amp;id=XDLLYZJRZJWYLXTWTYXGCDNX</page>
+            <page nr="6"><![CDATA[https://files.transkribus.eu/Get?fileType=view&id=JNOMXVUXDTAEAIZKYRVCCRPT]]></page>
+            <page nr="7"><![CDATA[https://files.transkribus.eu/Get?fileType=view&id=XDLLYZJRZJWYLXTWTYXGCDNX]]></page>
           </pages>
         </metadata>
         <text>
-          <token token_id="0">Schwingdenhammer</token>
-          <token token_id="1">Adam</token>
-          <token token_id="2">hrch</token>
-          <token token_id="3">.</token>
-          <token token_id="4">hinter</token>
-          <token token_id="5">Schichen</token>
-          <token token_id="6">mattstr</token>
-          <token token_id="7">.</token>
-          <token token_id="8">20</token>
-          <token token_id="9">Ao</token>
-          <token token_id="10">1662</token>
-          <token token_id="11">Ao</token>
-          <token token_id="12">1693</token>
+          <token token_id="0">Anschlag</token>
+          <token token_id="1">.</token>
+          <token token_id="2">Herr</token>
+          <token token_id="3">Sebastian</token>
+          <token token_id="4">Spörlin</token>
+          <token token_id="5">der</token>
+          <token token_id="6">Jünger</token>
+          <token token_id="7">hat</token>
+          <token token_id="8">wegen</token>
+          <token token_id="9">jeniger</token>
+          <token token_id="10">600</token>
+          <token token_id="11">℔</token>
+          <token token_id="12">Capital</token>
           <token token_id="13">,</token>
-          <token token_id="14">Eig</token>
-          <token token_id="15">v</token>
-          <token token_id="16">.</token>
-          <token token_id="17">Schützen</token>
-          <token token_id="18">Graben</token>
-          <token token_id="19">32</token>
-          <token token_id="20">Ao</token>
-          <token token_id="21">1699</token>
-          <token token_id="22">Rein</token>
-          <token token_id="23">hs</token>
-          <token token_id="24">.</token>
-          <token token_id="25">Ulr</token>
-          <token token_id="26">.</token>
-          <token token_id="27">Eig</token>
-          <token token_id="28">v</token>
-          <token token_id="29">.</token>
-          <token token_id="30">Schützenmachter</token>
-          <token token_id="31">,</token>
-          <token token_id="32">22</token>
-          <token token_id="33">bis</token>
-          <token token_id="34">1719</token>
-          <token token_id="35">hinter</token>
-          <token token_id="36">Schützenmachtr</token>
-          <token token_id="37">.</token>
-          <token token_id="38">20</token>
-          <token token_id="39">liegt</token>
-          <token token_id="40">Schützengraben</token>
-          <token token_id="41">32</token>
-          <token token_id="42">lach</token>
-          <token token_id="43">Löffels</token>
-          <token token_id="44">Plan</token>
-          <token token_id="45">.</token>
-          <token token_id="46">Anschlag</token>
-          <token token_id="47">.</token>
-          <token token_id="48">Herr</token>
-          <token token_id="49">Sebastian</token>
-          <token token_id="50">Spörlin</token>
-          <token token_id="51">der</token>
-          <token token_id="52">Jünger</token>
-          <token token_id="53">hat</token>
-          <token token_id="54">wegen</token>
-          <token token_id="55">jeniger</token>
-          <token token_id="56">600</token>
-          <token token_id="57">℔</token>
-          <token token_id="58">Capital</token>
-          <token token_id="59">,</token>
-          <token token_id="60">welches</token>
-          <token token_id="61">ihme</token>
-          <token token_id="62">Mr</token>
-          <token token_id="63">Adam</token>
-          <token token_id="64">Heinrich</token>
-          <token token_id="65">Schwingdenhamer</token>
-          <token token_id="66">der</token>
-          <token token_id="67">Hufschmid</token>
-          <token token_id="68">laut</token>
-          <token token_id="69">Obligation</token>
-          <token token_id="70">zu</token>
-          <token token_id="71">thun</token>
-          <token token_id="72">schuldig</token>
-          <token token_id="73">,</token>
-          <token token_id="74">desselben</token>
-          <token token_id="75">hierumber</token>
-          <token token_id="76">zum</token>
-          <token token_id="77">Underpfandt</token>
-          <token token_id="78">verschriebene</token>
-          <token token_id="79">Scheüren</token>
-          <token token_id="80">und</token>
-          <token token_id="81">Stallung</token>
-          <token token_id="82">hinder</token>
-          <token token_id="83">der</token>
-          <token token_id="84">Rinckhmauren</token>
-          <token token_id="85">bey</token>
+          <token token_id="14">welches</token>
+          <token token_id="15">ihme</token>
+          <token token_id="16">Mr</token>
+          <token token_id="17">Adam</token>
+          <token token_id="18">Heinrich</token>
+          <token token_id="19">Schwingdenhamer</token>
+          <token token_id="20">der</token>
+          <token token_id="21">Hufschmid</token>
+          <token token_id="22">laut</token>
+          <token token_id="23">Obligation</token>
+          <token token_id="24">zu</token>
+          <token token_id="25">thun</token>
+          <token token_id="26">schuldig</token>
+          <token token_id="27">,</token>
+          <token token_id="28">desselben</token>
+          <token token_id="29">hierumber</token>
+          <token token_id="30">zum</token>
+          <token token_id="31">Underpfandt</token>
+          <token token_id="32">verschriebene</token>
+          <token token_id="33">Scheüren</token>
+          <token token_id="34">und</token>
+          <token token_id="35">Stallung</token>
+          <token token_id="36">hinder</token>
+          <token token_id="37">der</token>
+          <token token_id="38">Rinckhmauren</token>
+          <token token_id="39">bey</token>
+          <token token_id="40">dem</token>
+          <token token_id="41">Spalenthor</token>
+          <token token_id="42">,</token>
+          <token token_id="43">einseit</token>
+          <token token_id="44">neben</token>
+          <token token_id="45">Mr</token>
+          <token token_id="46">Hanns</token>
+          <token token_id="47">Ulrich</token>
+          <token token_id="48">Rein</token>
+          <token token_id="49">dem</token>
+          <token token_id="50">Metzger</token>
+          <token token_id="51">,</token>
+          <token token_id="52">anderseit</token>
+          <token token_id="53">neben</token>
+          <token token_id="54">S</token>
+          <token token_id="55">.</token>
+          <token token_id="56">Michael</token>
+          <token token_id="57">David</token>
+          <token token_id="58">sel</token>
+          <token token_id="59">.</token>
+          <token token_id="60">des</token>
+          <token token_id="61">Raths</token>
+          <token token_id="62">Erben</token>
+          <token token_id="63">gelegen</token>
+          <token token_id="64">;</token>
+          <token token_id="65">Sodann</token>
+          <token token_id="66">fünf</token>
+          <token token_id="67">Jauchardten</token>
+          <token token_id="68">ckher</token>
+          <token token_id="69">vor</token>
+          <token token_id="70">Spalen</token>
+          <token token_id="71">Thor</token>
+          <token token_id="72">hinder</token>
+          <token token_id="73">der</token>
+          <token token_id="74">Schützenmatten</token>
+          <token token_id="75">,</token>
+          <token token_id="76">einseit</token>
+          <token token_id="77">neben</token>
+          <token token_id="78">ihme</token>
+          <token token_id="79">Schwing</token>
+          <token token_id="80">,</token>
+          <token token_id="81">denhamer</token>
+          <token token_id="82">selbsten</token>
+          <token token_id="83">,</token>
+          <token token_id="84">andseits</token>
+          <token token_id="85">neben</token>
           <token token_id="86">dem</token>
-          <token token_id="87">Spalenthor</token>
-          <token token_id="88">,</token>
-          <token token_id="89">einseit</token>
-          <token token_id="90">neben</token>
-          <token token_id="91">Mr</token>
-          <token token_id="92">Hanns</token>
-          <token token_id="93">Ulrich</token>
-          <token token_id="94">Rein</token>
-          <token token_id="95">dem</token>
-          <token token_id="96">Metzger</token>
-          <token token_id="97">,</token>
-          <token token_id="98">anderseit</token>
-          <token token_id="99">neben</token>
-          <token token_id="100">S</token>
-          <token token_id="101">.</token>
-          <token token_id="102">Michael</token>
-          <token token_id="103">David</token>
-          <token token_id="104">sel</token>
-          <token token_id="105">.</token>
-          <token token_id="106">des</token>
-          <token token_id="107">Raths</token>
-          <token token_id="108">Erben</token>
-          <token token_id="109">gelegen</token>
-          <token token_id="110">;</token>
-          <token token_id="111">Sodann</token>
-          <token token_id="112">fünf</token>
-          <token token_id="113">Jauchardten</token>
-          <token token_id="114">ckher</token>
-          <token token_id="115">vor</token>
-          <token token_id="116">Spalen</token>
-          <token token_id="117">Thor</token>
-          <token token_id="118">hinder</token>
-          <token token_id="119">der</token>
-          <token token_id="120">Schützenmatten</token>
-          <token token_id="121">,</token>
-          <token token_id="122">einseit</token>
-          <token token_id="123">neben</token>
-          <token token_id="124">ihme</token>
-          <token token_id="125">Schwing</token>
+          <token token_id="87">Herrengraben</token>
+          <token token_id="88">und</token>
+          <token token_id="89">Jacob</token>
+          <token token_id="90">Gürtler</token>
+          <token token_id="91">von</token>
+          <token token_id="92">Geschweiler</token>
+          <token token_id="93">gelegen</token>
+          <token token_id="94">,</token>
+          <token token_id="95">gefrönt</token>
+          <token token_id="96">.</token>
+          <token token_id="97">und</token>
+          <token token_id="98">wird</token>
+          <token token_id="99">man</token>
+          <token token_id="100">solche</token>
+          <token token_id="101">Scheüren</token>
+          <token token_id="102">und</token>
+          <token token_id="103">ackher</token>
+          <token token_id="104">auf</token>
+          <token token_id="105">Zins</token>
+          <token token_id="106">tag</token>
+          <token token_id="107">den</token>
+          <token token_id="108">6</token>
+          <token token_id="109">.</token>
+          <token token_id="110">Decembris</token>
+          <token token_id="111">verkaufen</token>
+          <token token_id="112">.</token>
+          <token token_id="113">Schwingdenhammer</token>
+          <token token_id="114">Adam</token>
+          <token token_id="115">hrch</token>
+          <token token_id="116">.</token>
+          <token token_id="117">hinter</token>
+          <token token_id="118">Schichen</token>
+          <token token_id="119">mattstr</token>
+          <token token_id="120">.</token>
+          <token token_id="121">20</token>
+          <token token_id="122">Ao</token>
+          <token token_id="123">1662</token>
+          <token token_id="124">Ao</token>
+          <token token_id="125">1693</token>
           <token token_id="126">,</token>
-          <token token_id="127">denhamer</token>
-          <token token_id="128">selbsten</token>
-          <token token_id="129">,</token>
-          <token token_id="130">andseits</token>
-          <token token_id="131">neben</token>
-          <token token_id="132">dem</token>
-          <token token_id="133">Herrengraben</token>
-          <token token_id="134">und</token>
-          <token token_id="135">Jacob</token>
-          <token token_id="136">Gürtler</token>
-          <token token_id="137">von</token>
-          <token token_id="138">Geschweiler</token>
-          <token token_id="139">gelegen</token>
-          <token token_id="140">,</token>
-          <token token_id="141">gefrönt</token>
+          <token token_id="127">Eig</token>
+          <token token_id="128">v</token>
+          <token token_id="129">.</token>
+          <token token_id="130">Schützen</token>
+          <token token_id="131">Graben</token>
+          <token token_id="132">32</token>
+          <token token_id="133">Ao</token>
+          <token token_id="134">1699</token>
+          <token token_id="135">Rein</token>
+          <token token_id="136">hs</token>
+          <token token_id="137">.</token>
+          <token token_id="138">Ulr</token>
+          <token token_id="139">.</token>
+          <token token_id="140">Eig</token>
+          <token token_id="141">v</token>
           <token token_id="142">.</token>
-          <token token_id="143">und</token>
-          <token token_id="144">wird</token>
-          <token token_id="145">man</token>
-          <token token_id="146">solche</token>
-          <token token_id="147">Scheüren</token>
-          <token token_id="148">und</token>
-          <token token_id="149">ackher</token>
-          <token token_id="150">auf</token>
-          <token token_id="151">Zins</token>
-          <token token_id="152">tag</token>
-          <token token_id="153">den</token>
-          <token token_id="154">6</token>
-          <token token_id="155">.</token>
-          <token token_id="156">Decembris</token>
-          <token token_id="157">verkaufen</token>
+          <token token_id="143">Schützenmachter</token>
+          <token token_id="144">,</token>
+          <token token_id="145">22</token>
+          <token token_id="146">bis</token>
+          <token token_id="147">1719</token>
+          <token token_id="148">hinter</token>
+          <token token_id="149">Schützenmachtr</token>
+          <token token_id="150">.</token>
+          <token token_id="151">20</token>
+          <token token_id="152">liegt</token>
+          <token token_id="153">Schützengraben</token>
+          <token token_id="154">32</token>
+          <token token_id="155">lach</token>
+          <token token_id="156">Löffels</token>
+          <token token_id="157">Plan</token>
           <token token_id="158">.</token>
         </text>
         <spans>
-          <span id="0" start="0" end="1" element="reference" class="per" confidence="0.91" text="Schwingdenhammer Adam" numerus="sgl" specificity="spc" subclass="">
-            <span id="18" start="0" end="1" element="head" class="nam" confidence="1.0" text="Schwingdenhammer Adam"/>
-          </span>
-          <span id="1" start="5" end="6" element="reference" class="fac" confidence="0.72" text="Schichen mattstr" numerus="sgl" specificity="spc" subclass="">
-            <span id="19" start="5" end="6" element="head" class="nam" confidence="0.68" text="Schichen mattstr"/>
-          </span>
-          <span id="2" start="10" end="12" element="value" class="date" confidence="0.81" text="1662 Ao 1693"/>
-          <span id="3" start="17" end="18" element="reference" class="fac" confidence="0.78" text="Schützen Graben" numerus="sgl" specificity="spc" subclass="">
-            <span id="20" start="17" end="18" element="head" class="nam" confidence="0.79" text="Schützen Graben"/>
-          </span>
-          <span id="4" start="20" end="21" element="value" class="date" confidence="0.64" text="Ao 1699"/>
-          <span id="5" start="22" end="30" element="reference" class="per" confidence="0.83" text="Rein hs . Ulr . Eig v . Schützenmachter" numerus="sgl" specificity="spc" subclass="">
-            <span id="21" start="22" end="30" element="head" class="nam" confidence="0.8" text="Rein hs . Ulr . Eig v . Schützenmachter"/>
-          </span>
-          <span id="6" start="32" end="34" element="value" class="date" confidence="0.69" text="22 bis 1719"/>
-          <span id="7" start="48" end="52" element="reference" class="per" confidence="1.0" text="Herr Sebastian Spörlin der Jünger" numerus="sgl" specificity="spc" subclass="">
-            <span id="22" start="49" end="50" element="head" class="nam" confidence="1.0" text="Sebastian Spörlin"/>
-            <span id="23" start="51" end="52" element="appo" class="gen" confidence="0.84" text="der Jünger">
-              <span id="24" start="52" end="52" element="head" class="gen" confidence="0.99" text="Jünger"/>
+          <span id="0" start="2" end="6" element="reference" class="per" confidence="1.0" text="Herr Sebastian Spörlin der Jünger" numerus="sgl" specificity="spc" subclass="">
+            <span id="19" start="3" end="4" element="head" class="nam" confidence="1.0" text="Sebastian Spörlin"/>
+            <span id="20" start="5" end="6" element="appo" class="gen" confidence="0.83" text="der Jünger">
+              <span id="21" start="6" end="6" element="head" class="gen" confidence="0.99" text="Jünger"/>
             </span>
           </span>
-          <span id="8" start="56" end="57" element="value" class="money" confidence="1.0" text="600 ℔" norm="600.0 Pfund"/>
-          <span id="9" start="61" end="61" element="reference" class="per" confidence="1.0" text="ihme" numerus="sgl" specificity="spc" subclass="">
-            <span id="9_head" start="61" end="61" element="head" class="pro" confidence="1.0" text="ihme"/>
+          <span id="1" start="10" end="11" element="value" class="money" confidence="1.0" text="600 ℔" norm="600.0 Pfund"/>
+          <span id="2" start="15" end="15" element="reference" class="per" confidence="1.0" text="ihme" numerus="sgl" specificity="spc" subclass="">
+            <span id="2_head" start="15" end="15" element="head" class="pro" confidence="1.0" text="ihme"/>
           </span>
-          <span id="10" start="62" end="67" element="reference" class="per" confidence="0.97" text="Mr Adam Heinrich Schwingdenhamer der Hufschmid" numerus="sgl" specificity="spc" subclass="">
-            <span id="25" start="63" end="65" element="head" class="nam" confidence="1.0" text="Adam Heinrich Schwingdenhamer"/>
-            <span id="26" start="66" end="67" element="appo" class="occ" confidence="0.99" text="der Hufschmid">
-              <span id="27" start="67" end="67" element="head" class="occ" confidence="1.0" text="Hufschmid" norm="hufschmied" OhdAB="https://database.factgrid.de/wiki/Item:Q657705"/>
+          <span id="3" start="16" end="21" element="reference" class="per" confidence="0.97" text="Mr Adam Heinrich Schwingdenhamer der Hufschmid" numerus="sgl" specificity="spc" subclass="">
+            <span id="22" start="17" end="19" element="head" class="nam" confidence="1.0" text="Adam Heinrich Schwingdenhamer"/>
+            <span id="23" start="20" end="21" element="appo" class="occ" confidence="0.99" text="der Hufschmid">
+              <span id="24" start="21" end="21" element="head" class="occ" confidence="1.0" text="Hufschmid" norm="hufschmied" OhdAB="https://database.factgrid.de/wiki/Item:Q657705"/>
             </span>
           </span>
-          <span id="11" start="72" end="72" element="trigger" class="due" confidence="0.79" text="schuldig"/>
-          <span id="12" start="74" end="109" element="reference" class="fac" confidence="0.98" text="desselben hierumber zum Underpfandt verschriebene Scheüren und Stallung hinder der Rinckhmauren bey dem Spalenthor , einseit neben Mr Hanns Ulrich Rein dem Metzger , anderseit neben S . Michael David sel . des Raths Erben gelegen" numerus="sgl" specificity="spc" subclass="">
-            <span id="28" start="74" end="74" element="attr" class="owner" confidence="1.0" text="desselben">
-              <span id="31" start="74" end="74" element="reference" class="per" confidence="1.0" text="desselben" numerus="sgl" specificity="spc" subclass="">
-                <span id="31_head" start="74" end="74" element="head" class="pro" confidence="1.0" text="desselben"/>
+          <span id="4" start="26" end="26" element="trigger" class="due" confidence="0.83" text="schuldig"/>
+          <span id="5" start="28" end="63" element="reference" class="fac" confidence="0.98" text="desselben hierumber zum Underpfandt verschriebene Scheüren und Stallung hinder der Rinckhmauren bey dem Spalenthor , einseit neben Mr Hanns Ulrich Rein dem Metzger , anderseit neben S . Michael David sel . des Raths Erben gelegen" numerus="sgl" specificity="spc" subclass="">
+            <span id="25" start="28" end="28" element="attr" class="owner" confidence="1.0" text="desselben">
+              <span id="28" start="28" end="28" element="reference" class="per" confidence="1.0" text="desselben" numerus="sgl" specificity="spc" subclass="">
+                <span id="28_head" start="28" end="28" element="head" class="pro" confidence="1.0" text="desselben"/>
               </span>
             </span>
-            <span id="29" start="79" end="81" element="head" class="type" confidence="1.0" text="Scheüren und Stallung" norm="Scheune|Stallung"/>
-            <span id="30" start="82" end="109" element="attr" class="loc" confidence="0.98" text="hinder der Rinckhmauren bey dem Spalenthor , einseit neben Mr Hanns Ulrich Rein dem Metzger , anderseit neben S . Michael David sel . des Raths Erben gelegen">
-              <span id="32" start="83" end="84" element="reference" class="fac" confidence="1.0" text="der Rinckhmauren" numerus="sgl" specificity="spc" subclass="">
-                <span id="36" start="84" end="84" element="head" class="nam" confidence="0.85" text="Rinckhmauren"/>
+            <span id="26" start="33" end="35" element="head" class="type" confidence="1.0" text="Scheüren und Stallung" norm="Scheune|Stallung"/>
+            <span id="27" start="36" end="63" element="attr" class="loc" confidence="0.98" text="hinder der Rinckhmauren bey dem Spalenthor , einseit neben Mr Hanns Ulrich Rein dem Metzger , anderseit neben S . Michael David sel . des Raths Erben gelegen">
+              <span id="29" start="37" end="38" element="reference" class="fac" confidence="1.0" text="der Rinckhmauren" numerus="sgl" specificity="spc" subclass="">
+                <span id="33" start="38" end="38" element="head" class="nam" confidence="0.85" text="Rinckhmauren"/>
               </span>
-              <span id="33" start="86" end="87" element="reference" class="fac" confidence="0.92" text="dem Spalenthor" numerus="sgl" specificity="spc" subclass="">
-                <span id="37" start="87" end="87" element="head" class="nam" confidence="1.0" text="Spalenthor"/>
+              <span id="30" start="40" end="41" element="reference" class="fac" confidence="0.92" text="dem Spalenthor" numerus="sgl" specificity="spc" subclass="">
+                <span id="34" start="41" end="41" element="head" class="nam" confidence="1.0" text="Spalenthor"/>
               </span>
-              <span id="34" start="91" end="96" element="reference" class="per" confidence="1.0" text="Mr Hanns Ulrich Rein dem Metzger" numerus="sgl" specificity="spc" subclass="">
-                <span id="38" start="92" end="94" element="head" class="nam" confidence="1.0" text="Hanns Ulrich Rein"/>
-                <span id="39" start="95" end="96" element="appo" class="occ" confidence="1.0" text="dem Metzger">
-                  <span id="40" start="96" end="96" element="head" class="occ" confidence="1.0" text="Metzger" norm="metzger" OhdAB="https://database.factgrid.de/wiki/Item:Q673272"/>
+              <span id="31" start="45" end="50" element="reference" class="per" confidence="1.0" text="Mr Hanns Ulrich Rein dem Metzger" numerus="sgl" specificity="spc" subclass="">
+                <span id="35" start="46" end="48" element="head" class="nam" confidence="1.0" text="Hanns Ulrich Rein"/>
+                <span id="36" start="49" end="50" element="appo" class="occ" confidence="1.0" text="dem Metzger">
+                  <span id="37" start="50" end="50" element="head" class="occ" confidence="1.0" text="Metzger" norm="metzger" OhdAB="https://database.factgrid.de/wiki/Item:Q673272"/>
                 </span>
               </span>
-              <span id="35" start="100" end="108" element="reference" class="per" confidence="0.98" text="S . Michael David sel . des Raths Erben" numerus="grp" specificity="spc" subclass="">
-                <span id="41" start="100" end="107" element="reference" class="per" confidence="0.92" text="S . Michael David sel . des Raths" numerus="sgl" specificity="spc" subclass="">
-                  <span id="43" start="102" end="103" element="head" class="nam" confidence="0.98" text="Michael David"/>
-                  <span id="44" start="104" end="105" element="attr" class="dead" confidence="0.99" text="sel ."/>
-                  <span id="45" start="106" end="107" element="attr" class="org-aff" confidence="0.98" text="des Raths">
-                    <span id="46" start="106" end="107" element="reference" class="org" confidence="0.81" text="des Raths" numerus="sgl" specificity="spc" subclass="gov">
-                      <span id="47" start="107" end="107" element="head" class="type" confidence="1.0" text="Raths" norm="Stadtrat Basel"/>
+              <span id="32" start="54" end="62" element="reference" class="per" confidence="0.98" text="S . Michael David sel . des Raths Erben" numerus="grp" specificity="spc" subclass="">
+                <span id="38" start="54" end="61" element="reference" class="per" confidence="0.92" text="S . Michael David sel . des Raths" numerus="sgl" specificity="spc" subclass="">
+                  <span id="40" start="56" end="57" element="head" class="nam" confidence="0.98" text="Michael David"/>
+                  <span id="41" start="58" end="59" element="attr" class="dead" confidence="0.99" text="sel ."/>
+                  <span id="42" start="60" end="61" element="attr" class="org-aff" confidence="0.98" text="des Raths">
+                    <span id="43" start="60" end="61" element="reference" class="org" confidence="0.81" text="des Raths" numerus="sgl" specificity="spc" subclass="gov">
+                      <span id="44" start="61" end="61" element="head" class="type" confidence="1.0" text="Raths" norm="Stadtrat Basel"/>
                     </span>
                   </span>
                 </span>
-                <span id="42" start="108" end="108" element="head" class="heir" confidence="1.0" text="Erben"/>
+                <span id="39" start="62" end="62" element="head" class="heir" confidence="1.0" text="Erben"/>
               </span>
             </span>
           </span>
-          <span id="13" start="111" end="139" element="reference" class="fac" confidence="0.94" text="Sodann fünf Jauchardten ckher vor Spalen Thor hinder der Schützenmatten , einseit neben ihme Schwing , denhamer selbsten , andseits neben dem Herrengraben und Jacob Gürtler von Geschweiler gelegen" numerus="sgl" specificity="spc" subclass="">
-            <span id="48" start="114" end="114" element="head" class="type" confidence="0.66" text="ckher" norm="unk"/>
-            <span id="49" start="115" end="139" element="attr" class="loc" confidence="0.97" text="vor Spalen Thor hinder der Schützenmatten , einseit neben ihme Schwing , denhamer selbsten , andseits neben dem Herrengraben und Jacob Gürtler von Geschweiler gelegen">
-              <span id="50" start="116" end="117" element="reference" class="fac" confidence="0.97" text="Spalen Thor" numerus="sgl" specificity="spc" subclass="">
-                <span id="55" start="116" end="117" element="head" class="nam" confidence="0.99" text="Spalen Thor"/>
+          <span id="6" start="65" end="93" element="reference" class="fac" confidence="0.94" text="Sodann fünf Jauchardten ckher vor Spalen Thor hinder der Schützenmatten , einseit neben ihme Schwing , denhamer selbsten , andseits neben dem Herrengraben und Jacob Gürtler von Geschweiler gelegen" numerus="sgl" specificity="spc" subclass="">
+            <span id="45" start="68" end="68" element="head" class="type" confidence="0.66" text="ckher" norm="unk"/>
+            <span id="46" start="69" end="93" element="attr" class="loc" confidence="0.97" text="vor Spalen Thor hinder der Schützenmatten , einseit neben ihme Schwing , denhamer selbsten , andseits neben dem Herrengraben und Jacob Gürtler von Geschweiler gelegen">
+              <span id="47" start="70" end="71" element="reference" class="fac" confidence="0.97" text="Spalen Thor" numerus="sgl" specificity="spc" subclass="">
+                <span id="52" start="70" end="71" element="head" class="nam" confidence="0.99" text="Spalen Thor"/>
               </span>
-              <span id="51" start="119" end="120" element="reference" class="fac" confidence="0.97" text="der Schützenmatten" numerus="sgl" specificity="spc" subclass="">
-                <span id="56" start="120" end="120" element="head" class="nam" confidence="1.0" text="Schützenmatten"/>
+              <span id="48" start="73" end="74" element="reference" class="fac" confidence="0.97" text="der Schützenmatten" numerus="sgl" specificity="spc" subclass="">
+                <span id="53" start="74" end="74" element="head" class="nam" confidence="1.0" text="Schützenmatten"/>
               </span>
-              <span id="52" start="124" end="127" element="reference" class="per" confidence="0.93" text="ihme Schwing , denhamer" numerus="sgl" specificity="spc" subclass="">
-                <span id="57" start="125" end="127" element="head" class="nam" confidence="0.98" text="Schwing , denhamer"/>
+              <span id="49" start="78" end="81" element="reference" class="per" confidence="0.93" text="ihme Schwing , denhamer" numerus="sgl" specificity="spc" subclass="">
+                <span id="54" start="79" end="81" element="head" class="nam" confidence="0.98" text="Schwing , denhamer"/>
               </span>
-              <span id="53" start="132" end="133" element="reference" class="fac" confidence="0.8" text="dem Herrengraben" numerus="sgl" specificity="spc" subclass="">
-                <span id="58" start="133" end="133" element="head" class="type" confidence="0.76" text="Herrengraben" norm="unk"/>
+              <span id="50" start="86" end="87" element="reference" class="fac" confidence="0.8" text="dem Herrengraben" numerus="sgl" specificity="spc" subclass="">
+                <span id="55" start="87" end="87" element="head" class="type" confidence="0.76" text="Herrengraben" norm="unk"/>
               </span>
-              <span id="54" start="135" end="138" element="reference" class="per" confidence="0.96" text="Jacob Gürtler von Geschweiler" numerus="sgl" specificity="spc" subclass="">
-                <span id="59" start="135" end="136" element="head" class="nam" confidence="1.0" text="Jacob Gürtler"/>
-                <span id="60" start="137" end="138" element="attr" class="loc" confidence="0.98" text="von Geschweiler">
-                  <span id="61" start="138" end="138" element="reference" class="gpe-loc" confidence="1.0" text="Geschweiler" numerus="sgl" specificity="spc" subclass="">
-                    <span id="62" start="138" end="138" element="head" class="nam" confidence="1.0" text="Geschweiler"/>
+              <span id="51" start="89" end="92" element="reference" class="per" confidence="0.96" text="Jacob Gürtler von Geschweiler" numerus="sgl" specificity="spc" subclass="">
+                <span id="56" start="89" end="90" element="head" class="nam" confidence="1.0" text="Jacob Gürtler"/>
+                <span id="57" start="91" end="92" element="attr" class="loc" confidence="0.98" text="von Geschweiler">
+                  <span id="58" start="92" end="92" element="reference" class="gpe-loc" confidence="1.0" text="Geschweiler" numerus="sgl" specificity="spc" subclass="">
+                    <span id="59" start="92" end="92" element="head" class="nam" confidence="1.0" text="Geschweiler"/>
                   </span>
                 </span>
               </span>
             </span>
           </span>
-          <span id="14" start="141" end="141" element="trigger" class="seizure" confidence="1.0" text="gefrönt"/>
-          <span id="15" start="146" end="149" element="reference" class="fac" confidence="0.96" text="solche Scheüren und ackher" numerus="sgl" specificity="spc" subclass="">
-            <span id="63" start="147" end="149" element="head" class="type" confidence="1.0" text="Scheüren und ackher" norm="not_normalized"/>
+          <span id="7" start="95" end="95" element="trigger" class="seizure" confidence="1.0" text="gefrönt"/>
+          <span id="8" start="100" end="103" element="reference" class="fac" confidence="0.96" text="solche Scheüren und ackher" numerus="sgl" specificity="spc" subclass="">
+            <span id="60" start="101" end="103" element="head" class="type" confidence="1.0" text="Scheüren und ackher" norm="not_normalized"/>
           </span>
-          <span id="16" start="150" end="156" element="value" class="date" confidence="1.0" text="auf Zins tag den 6 . Decembris"/>
-          <span id="17" start="157" end="157" element="trigger" class="sale" confidence="1.0" text="verkaufen"/>
+          <span id="9" start="104" end="110" element="value" class="date" confidence="1.0" text="auf Zins tag den 6 . Decembris"/>
+          <span id="10" start="111" end="111" element="trigger" class="sale" confidence="0.99" text="verkaufen"/>
+          <span id="11" start="113" end="114" element="reference" class="per" confidence="0.94" text="Schwingdenhammer Adam" numerus="sgl" specificity="spc" subclass="">
+            <span id="61" start="113" end="114" element="head" class="nam" confidence="1.0" text="Schwingdenhammer Adam"/>
+          </span>
+          <span id="12" start="118" end="119" element="reference" class="fac" confidence="0.61" text="Schichen mattstr" numerus="sgl" specificity="spc" subclass="">
+            <span id="62" start="118" end="119" element="head" class="nam" confidence="0.68" text="Schichen mattstr"/>
+          </span>
+          <span id="13" start="122" end="125" element="value" class="date" confidence="0.82" text="Ao 1662 Ao 1693"/>
+          <span id="14" start="130" end="131" element="reference" class="fac" confidence="0.83" text="Schützen Graben" numerus="sgl" specificity="spc" subclass="">
+            <span id="63" start="130" end="131" element="head" class="nam" confidence="0.79" text="Schützen Graben"/>
+          </span>
+          <span id="15" start="134" end="134" element="value" class="date" confidence="0.91" text="1699"/>
+          <span id="16" start="135" end="138" element="reference" class="per" confidence="0.75" text="Rein hs . Ulr" numerus="sgl" specificity="spc" subclass="">
+            <span id="64" start="135" end="138" element="head" class="nam" confidence="0.99" text="Rein hs . Ulr"/>
+          </span>
+          <span id="17" start="143" end="143" element="reference" class="fac" confidence="0.74" text="Schützenmachter" numerus="sgl" specificity="spc" subclass="">
+            <span id="65" start="143" end="143" element="head" class="nam" confidence="1.0" text="Schützenmachter"/>
+          </span>
+          <span id="18" start="156" end="157" element="reference" class="fac" confidence="0.68" text="Löffels Plan" numerus="sgl" specificity="spc" subclass="">
+            <span id="66" start="156" end="157" element="head" class="nam" confidence="0.97" text="Löffels Plan"/>
+          </span>
         </spans>
         <relations>
-          <relation id="1" from="9" to="7" class="coref"/>
-          <relation id="2" from="31" to="10" class="coref"/>
+          <relation id="1" from="2" to="0" class="coref"/>
+          <relation id="2" from="28" to="3" class="coref"/>
         </relations>
         <eventGroups>
-          <eventGroup event_id="0" class="due-obligation" start="56" end="72" ref="" type="state" tense="unk" polarity="unk" modality="unk">
-            <trigger ref="11" text="schuldig"/>
+          <eventGroup event_id="0" class="due-obligation" start="10" end="26" ref="" type="state" tense="unk" polarity="unk" modality="unk">
+            <trigger ref="4" text="schuldig"/>
             <event event_id="0.0">
-              <role role="capital" confidence="1.0" ref="8" text="600 ℔"/>
-              <role role="beneficiary" confidence="1.0" ref="9" text="ihme"/>
-              <role role="payer" confidence="0.99" ref="10" text="Mr Adam Heinrich Schwingdenhamer der Hufschmid"/>
+              <role role="capital" confidence="1.0" ref="1" text="600 ℔"/>
+              <role role="beneficiary" confidence="1.0" ref="2" text="ihme"/>
+              <role role="payer" confidence="1.0" ref="3" text="Mr Adam Heinrich Schwingdenhamer der Hufschmid"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="1" class="seizure" start="48" end="141" ref="" type="event" tense="unk" polarity="unk" modality="unk">
-            <trigger ref="14" text="gefrönt"/>
+          <eventGroup event_id="1" class="seizure" start="2" end="95" ref="" type="event" tense="unk" polarity="unk" modality="unk">
+            <trigger ref="7" text="gefrönt"/>
             <event event_id="1.0">
-              <role role="claimant" confidence="0.94" ref="7" text="Herr Sebastian Spörlin der Jünger"/>
-              <role role="cause" confidence="1.0" ref="11" text="schuldig"/>
-              <role role="property" confidence="1.0" ref="12" text="desselben hierumber zum Underpfandt verschriebene Scheüren und Stallung hinder der Rinckhmauren bey dem Spalenthor , einseit neben Mr Hanns Ulrich Rein dem Metzger , anderseit neben S . Michael David sel . des Raths Erben gelegen"/>
-              <role role="property" confidence="1.0" ref="13" text="Sodann fünf Jauchardten ckher vor Spalen Thor hinder der Schützenmatten , einseit neben ihme Schwing , denhamer selbsten , andseits neben dem Herrengraben und Jacob Gürtler von Geschweiler gelegen"/>
+              <role role="claimant" confidence="0.99" ref="0" text="Herr Sebastian Spörlin der Jünger"/>
+              <role role="cause" confidence="1.0" ref="4" text="schuldig"/>
+              <role role="property" confidence="1.0" ref="5" text="desselben hierumber zum Underpfandt verschriebene Scheüren und Stallung hinder der Rinckhmauren bey dem Spalenthor , einseit neben Mr Hanns Ulrich Rein dem Metzger , anderseit neben S . Michael David sel . des Raths Erben gelegen"/>
+              <role role="property" confidence="1.0" ref="6" text="Sodann fünf Jauchardten ckher vor Spalen Thor hinder der Schützenmatten , einseit neben ihme Schwing , denhamer selbsten , andseits neben dem Herrengraben und Jacob Gürtler von Geschweiler gelegen"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="2" class="property-purchase" start="146" end="157" ref="" type="event" tense="unk" polarity="unk" modality="unk">
-            <trigger ref="17" text="verkaufen"/>
+          <eventGroup event_id="2" class="property-purchase" start="100" end="134" ref="" type="event" tense="unk" polarity="unk" modality="unk">
+            <trigger ref="10" text="verkaufen"/>
             <event event_id="2.0">
-              <role role="property" confidence="1.0" ref="15" text="solche Scheüren und ackher"/>
-              <role role="date" confidence="1.0" ref="16" text="auf Zins tag den 6 . Decembris"/>
+              <role role="property" confidence="1.0" ref="8" text="solche Scheüren und ackher"/>
+              <role role="date" confidence="1.0" ref="9" text="auf Zins tag den 6 . Decembris"/>
+              <role role="buyer" confidence="0.92" ref="11" text="Schwingdenhammer Adam"/>
+              <role role="date" confidence="0.97" ref="13" text="Ao 1662 Ao 1693"/>
+              <role role="date" confidence="0.85" ref="15" text="1699"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="3" class="inheritance" start="100" end="108" ref="35" type="event" tense="unk" polarity="unk" modality="unk">
-            <trigger start="108" end="108" text="Erben" ref="42"/>
+          <eventGroup event_id="3" class="inheritance" start="54" end="62" ref="32" type="event" tense="unk" polarity="unk" modality="unk">
+            <trigger start="62" end="62" text="Erben" ref="39"/>
             <event event_id="3.0">
-              <role role="heir" ref="35" text="S . Michael David sel . des Raths Erben"/>
-              <role role="decedent" ref="41" text="S . Michael David sel . des Raths"/>
+              <role role="heir" ref="32" text="S . Michael David sel . des Raths Erben"/>
+              <role role="decedent" ref="38" text="S . Michael David sel . des Raths"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="4" class="ownership" start="74" end="74" ref="28" type="state" tense="unk" polarity="unk" modality="unk">
+          <eventGroup event_id="4" class="ownership" start="28" end="28" ref="25" type="state" tense="unk" polarity="unk" modality="unk">
             <event event_id="4.0">
-              <role role="property" ref="12" text="desselben hierumber zum Underpfandt verschriebene Scheüren und Stallung hinder der Rinckhmauren bey dem Spalenthor , einseit neben Mr Hanns Ulrich Rein dem Metzger , anderseit neben S . Michael David sel . des Raths Erben gelegen"/>
-              <role role="owner" ref="31" text="desselben"/>
+              <role role="property" ref="5" text="desselben hierumber zum Underpfandt verschriebene Scheüren und Stallung hinder der Rinckhmauren bey dem Spalenthor , einseit neben Mr Hanns Ulrich Rein dem Metzger , anderseit neben S . Michael David sel . des Raths Erben gelegen"/>
+              <role role="owner" ref="28" text="desselben"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="5" class="topological" start="82" end="109" ref="30" type="state" tense="unk" polarity="unk" modality="unk">
+          <eventGroup event_id="5" class="topological" start="36" end="63" ref="27" type="state" tense="unk" polarity="unk" modality="unk">
             <event event_id="5.0">
-              <role role="location-a" ref="12" text="desselben hierumber zum Underpfandt verschriebene Scheüren und Stallung hinder der Rinckhmauren bey dem Spalenthor , einseit neben Mr Hanns Ulrich Rein dem Metzger , anderseit neben S . Michael David sel . des Raths Erben gelegen"/>
-              <role role="location-b" ref="32" text="der Rinckhmauren"/>
-              <role role="location-b" ref="33" text="dem Spalenthor"/>
-              <role role="location-b" ref="34" text="Mr Hanns Ulrich Rein dem Metzger"/>
-              <role role="location-b" ref="35" text="S . Michael David sel . des Raths Erben"/>
+              <role role="location-a" ref="5" text="desselben hierumber zum Underpfandt verschriebene Scheüren und Stallung hinder der Rinckhmauren bey dem Spalenthor , einseit neben Mr Hanns Ulrich Rein dem Metzger , anderseit neben S . Michael David sel . des Raths Erben gelegen"/>
+              <role role="location-b" ref="29" text="der Rinckhmauren"/>
+              <role role="location-b" ref="30" text="dem Spalenthor"/>
+              <role role="location-b" ref="31" text="Mr Hanns Ulrich Rein dem Metzger"/>
+              <role role="location-b" ref="32" text="S . Michael David sel . des Raths Erben"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="6" class="membership" start="106" end="107" ref="45" type="state" tense="unk" polarity="unk" modality="unk">
+          <eventGroup event_id="6" class="membership" start="60" end="61" ref="42" type="state" tense="unk" polarity="unk" modality="unk">
             <event event_id="6.0">
-              <role role="member" ref="41" text="S . Michael David sel . des Raths"/>
-              <role role="organization" ref="46" text="des Raths"/>
+              <role role="member" ref="38" text="S . Michael David sel . des Raths"/>
+              <role role="organization" ref="43" text="des Raths"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="7" class="topological" start="115" end="139" ref="49" type="state" tense="unk" polarity="unk" modality="unk">
+          <eventGroup event_id="7" class="topological" start="69" end="93" ref="46" type="state" tense="unk" polarity="unk" modality="unk">
             <event event_id="7.0">
-              <role role="location-a" ref="13" text="Sodann fünf Jauchardten ckher vor Spalen Thor hinder der Schützenmatten , einseit neben ihme Schwing , denhamer selbsten , andseits neben dem Herrengraben und Jacob Gürtler von Geschweiler gelegen"/>
-              <role role="location-b" ref="50" text="Spalen Thor"/>
-              <role role="location-b" ref="51" text="der Schützenmatten"/>
-              <role role="location-b" ref="52" text="ihme Schwing , denhamer"/>
-              <role role="location-b" ref="53" text="dem Herrengraben"/>
-              <role role="location-b" ref="54" text="Jacob Gürtler von Geschweiler"/>
+              <role role="location-a" ref="6" text="Sodann fünf Jauchardten ckher vor Spalen Thor hinder der Schützenmatten , einseit neben ihme Schwing , denhamer selbsten , andseits neben dem Herrengraben und Jacob Gürtler von Geschweiler gelegen"/>
+              <role role="location-b" ref="47" text="Spalen Thor"/>
+              <role role="location-b" ref="48" text="der Schützenmatten"/>
+              <role role="location-b" ref="49" text="ihme Schwing , denhamer"/>
+              <role role="location-b" ref="50" text="dem Herrengraben"/>
+              <role role="location-b" ref="51" text="Jacob Gürtler von Geschweiler"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="8" class="topological" start="137" end="138" ref="60" type="state" tense="unk" polarity="unk" modality="unk">
+          <eventGroup event_id="8" class="topological" start="91" end="92" ref="57" type="state" tense="unk" polarity="unk" modality="unk">
             <event event_id="8.0">
-              <role role="location-a" ref="54" text="Jacob Gürtler von Geschweiler"/>
-              <role role="location-b" ref="61" text="Geschweiler"/>
+              <role role="location-a" ref="51" text="Jacob Gürtler von Geschweiler"/>
+              <role role="location-b" ref="58" text="Geschweiler"/>
             </event>
           </eventGroup>
         </eventGroups>

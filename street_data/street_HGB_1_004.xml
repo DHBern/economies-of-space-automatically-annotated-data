@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus>
+  <series id="HGB_1_004" name="St. Albanthorgraben (später zur St. Alban-Anlage gehörig)">
+    <collection id="HGB_1_004_005">
+      <metadata>
+        <dossiertype>Graben, Mauer</dossiertype>
+        <location>POINT(2612153.33569068 1266849.6866076484)</location>
+        <address>St. Albanthorgraben: Graben und Stadtmauer</address>
+        <dossier_history>
+          <phase iteration="1">
+            <validity_period from="1526" to="1526"/>
+          </phase>
+        </dossier_history>
+      </metadata>
+      <document id="e1559e23-ada3-4442-b244-edcdf219ab0c_20260615">
+        <metadata>
+          <street_id>HGB_1_004</street_id>
+          <dossier_id>HGB_1_004_005</dossier_id>
+          <year>1526</year>
+          <source>Basler Chronik</source>
+          <language>german</language>
+          <checked_by_gpt>false</checked_by_gpt>
+          <text>Der Bletz Schlägt in einen Thurn an der Stat Graben zwischen Eschamerthor und Sant Albanthor swaren bei 50 onnen Puloch Schlansberg darin. Der Thurn wurde vollständig wegge fegt, die Mauer von einem Thurn bis zum andern zerschlegen und alle Hauser an der Malzgasse beschädigt.</text>
+          <pages>
+            <page nr="3"><![CDATA[https://files.transkribus.eu/Get?fileType=view&id=YCAZSCJNZRKHVUWCFTZLESND]]></page>
+          </pages>
+        </metadata>
+        <text>
+          <token token_id="0">Der</token>
+          <token token_id="1">Bletz</token>
+          <token token_id="2">Schlägt</token>
+          <token token_id="3">in</token>
+          <token token_id="4">einen</token>
+          <token token_id="5">Thurn</token>
+          <token token_id="6">an</token>
+          <token token_id="7">der</token>
+          <token token_id="8">Stat</token>
+          <token token_id="9">Graben</token>
+          <token token_id="10">zwischen</token>
+          <token token_id="11">Eschamerthor</token>
+          <token token_id="12">und</token>
+          <token token_id="13">Sant</token>
+          <token token_id="14">Albanthor</token>
+          <token token_id="15">swaren</token>
+          <token token_id="16">bei</token>
+          <token token_id="17">50</token>
+          <token token_id="18">onnen</token>
+          <token token_id="19">Puloch</token>
+          <token token_id="20">Schlansberg</token>
+          <token token_id="21">darin</token>
+          <token token_id="22">.</token>
+          <token token_id="23">Der</token>
+          <token token_id="24">Thurn</token>
+          <token token_id="25">wurde</token>
+          <token token_id="26">vollständig</token>
+          <token token_id="27">wegge</token>
+          <token token_id="28">fegt</token>
+          <token token_id="29">,</token>
+          <token token_id="30">die</token>
+          <token token_id="31">Mauer</token>
+          <token token_id="32">von</token>
+          <token token_id="33">einem</token>
+          <token token_id="34">Thurn</token>
+          <token token_id="35">bis</token>
+          <token token_id="36">zum</token>
+          <token token_id="37">andern</token>
+          <token token_id="38">zerschlegen</token>
+          <token token_id="39">und</token>
+          <token token_id="40">alle</token>
+          <token token_id="41">Hauser</token>
+          <token token_id="42">an</token>
+          <token token_id="43">der</token>
+          <token token_id="44">Malzgasse</token>
+          <token token_id="45">beschädigt</token>
+          <token token_id="46">.</token>
+        </text>
+        <spans>
+          <span id="0" start="0" end="1" element="reference" class="per" confidence="0.79" text="Der Bletz" numerus="sgl" specificity="spc" subclass="">
+            <span id="5" start="1" end="1" element="head" class="nam" confidence="0.85" text="Bletz"/>
+          </span>
+          <span id="1" start="4" end="14" element="reference" class="fac" confidence="0.82" text="einen Thurn an der Stat Graben zwischen Eschamerthor und Sant Albanthor" numerus="sgl" specificity="spc" subclass="">
+            <span id="6" start="5" end="5" element="head" class="type" confidence="1.0" text="Thurn" norm="Turm"/>
+            <span id="7" start="6" end="14" element="attr" class="loc" confidence="0.99" text="an der Stat Graben zwischen Eschamerthor und Sant Albanthor">
+              <span id="8" start="7" end="9" element="reference" class="fac" confidence="0.84" text="der Stat Graben" numerus="sgl" specificity="spc" subclass="">
+                <span id="11" start="8" end="9" element="head" class="type" confidence="0.98" text="Stat Graben" norm="unk"/>
+              </span>
+              <span id="9" start="11" end="11" element="reference" class="fac" confidence="1.0" text="Eschamerthor" numerus="sgl" specificity="spc" subclass="">
+                <span id="12" start="11" end="11" element="head" class="nam" confidence="1.0" text="Eschamerthor"/>
+              </span>
+              <span id="10" start="13" end="14" element="reference" class="fac" confidence="0.96" text="Sant Albanthor" numerus="sgl" specificity="spc" subclass="">
+                <span id="13" start="13" end="14" element="head" class="nam" confidence="1.0" text="Sant Albanthor"/>
+              </span>
+            </span>
+          </span>
+          <span id="2" start="17" end="20" element="reference" class="fac" confidence="0.71" text="50 onnen Puloch Schlansberg" numerus="sgl" specificity="spc" subclass="">
+            <span id="14" start="17" end="17" element="head" class="type" confidence="0.88" text="50" norm="unk"/>
+            <span id="15" start="19" end="20" element="unk" class="nam" confidence="0.82" text="Puloch Schlansberg"/>
+          </span>
+          <span id="3" start="33" end="34" element="reference" class="fac" confidence="0.76" text="einem Thurn" numerus="sgl" specificity="spc" subclass="">
+            <span id="16" start="34" end="34" element="head" class="type" confidence="1.0" text="Thurn" norm="Turm"/>
+          </span>
+          <span id="4" start="40" end="44" element="reference" class="fac" confidence="0.83" text="alle Hauser an der Malzgasse" numerus="grp" specificity="spc" subclass="">
+            <span id="17" start="41" end="41" element="head" class="type" confidence="0.99" text="Hauser" norm="Häuser"/>
+            <span id="18" start="42" end="44" element="attr" class="loc" confidence="0.96" text="an der Malzgasse">
+              <span id="19" start="43" end="44" element="reference" class="fac" confidence="0.92" text="der Malzgasse" numerus="sgl" specificity="spc" subclass="street">
+                <span id="20" start="44" end="44" element="head" class="nam" confidence="1.0" text="Malzgasse"/>
+              </span>
+            </span>
+          </span>
+        </spans>
+        <relations/>
+        <eventGroups>
+          <eventGroup event_id="0" class="topological" start="6" end="14" ref="7" type="state" tense="unk" polarity="unk" modality="unk">
+            <event event_id="0.0">
+              <role role="location-a" ref="1" text="einen Thurn an der Stat Graben zwischen Eschamerthor und Sant Albanthor"/>
+              <role role="location-b" ref="8" text="der Stat Graben"/>
+              <role role="location-b" ref="9" text="Eschamerthor"/>
+              <role role="location-b" ref="10" text="Sant Albanthor"/>
+            </event>
+          </eventGroup>
+          <eventGroup event_id="1" class="topological" start="42" end="44" ref="18" type="state" tense="unk" polarity="unk" modality="unk">
+            <event event_id="1.0">
+              <role role="location-a" ref="4" text="alle Hauser an der Malzgasse"/>
+              <role role="location-b" ref="19" text="der Malzgasse"/>
+            </event>
+          </eventGroup>
+        </eventGroups>
+      </document>
+    </collection>
+  </series>
+</corpus>

@@ -13342,7 +13342,7 @@
           </eventGroup>
         </eventGroups>
       </document>
-      <document id="d6e6c560-50bd-4d55-97c1-3c7bce2e6f32_20260528">
+      <document id="749d0bef-72e4-4276-93cd-54f013fa58f6_20260615">
         <metadata>
           <street_id>HGB_1_106</street_id>
           <dossier_id>HGB_1_106_011</dossier_id>
@@ -13350,380 +13350,385 @@
           <source>St. Peter</source>
           <language>german</language>
           <checked_by_gpt>false</checked_by_gpt>
-          <text>Hechinger, Burger zu Zürich, verkauft der Stift zu Sannt, Peter den obigen Glden Gelds und sin Houptgutt ab dem gen. Unterpfand um 20 Gulden. Schultheissen - Urkunde. Heinrich Brichdenfrid der Schumacher, Burger zu Basel, und Brida sin Efrow verkaufen Allerio Hechinger dem Gewantman, Burgern zu Basel, und Ennelin siner Efrowen 1 Guldin Geltes von uff und ab irem Huss und Hoffstat genant Pfogels Huss, als das gelegen ist in der Statt Basel under dem Bulgen by dem Vischmerckt, zwüschent dem Huss zem Meigen ze einer und dem Huss zum hinderen Kösslin zer anderen Syten, zinset vormals 2 1 / 2 sh. einem Lütpriester zu Sant Martin zu Basel und den armen Lüten an der Buss zu Sant Jacob 1 sh. umb 20 rinscher Guldin.</text>
+          <text>Schultheissen - Urkunde. Heinrich Brichdenfrid der Schumacher, Burger zu Basel, und Brida sin Efrow verkaufen Allerio Hechinger dem Gewantman, Burgern zu Basel, und Ennelin siner Efrowen 1 Guldin Geltes von uff und ab irem Huss und Hoffstat genant Pfogels Huss, als das gelegen ist in der Statt Basel under dem Bulgen by dem Vischmerckt, zwüschent dem Huss zem Meigen ze einer und dem Huss zum hinderen Kösslin zer anderen Syten, zinset vormals 2 1 / 2 sh. einem Lütpriester zu Sant Martin zu Basel und den armen Lüten an der Buss zu Sant Jacob 1 sh. umb 20 rinscher Guldin. Hechinger, Burger zu Zürich, verkauft der Stift zu Sannt, Peter den obigen Glden Gelds und sin Houptgutt ab dem gen. Unterpfand um 20 Gulden.</text>
           <mentioned_houses>
-            <house span_ref="46">Pfogels Huss</house>
+            <house span_ref="41">Pfogels Huss</house>
           </mentioned_houses>
           <pages>
-            <page nr="7">https://files.transkribus.eu/Get?fileType=view&amp;id=QGQPDXRSRJBBVHYOAKBIQSPP</page>
-            <page nr="8">https://files.transkribus.eu/Get?fileType=view&amp;id=WPLDDVSHBDWWLYBDPQLFSZKU</page>
+            <page nr="7"><![CDATA[https://files.transkribus.eu/Get?fileType=view&id=QGQPDXRSRJBBVHYOAKBIQSPP]]></page>
+            <page nr="8"><![CDATA[https://files.transkribus.eu/Get?fileType=view&id=WPLDDVSHBDWWLYBDPQLFSZKU]]></page>
           </pages>
         </metadata>
         <text>
-          <token token_id="0">Hechinger</token>
-          <token token_id="1">,</token>
-          <token token_id="2">Burger</token>
-          <token token_id="3">zu</token>
-          <token token_id="4">Zürich</token>
-          <token token_id="5">,</token>
-          <token token_id="6">verkauft</token>
-          <token token_id="7">der</token>
-          <token token_id="8">Stift</token>
-          <token token_id="9">zu</token>
-          <token token_id="10">Sannt</token>
-          <token token_id="11">,</token>
-          <token token_id="12">Peter</token>
-          <token token_id="13">den</token>
-          <token token_id="14">obigen</token>
-          <token token_id="15">Glden</token>
-          <token token_id="16">Gelds</token>
-          <token token_id="17">und</token>
-          <token token_id="18">sin</token>
-          <token token_id="19">Houptgutt</token>
-          <token token_id="20">ab</token>
-          <token token_id="21">dem</token>
-          <token token_id="22">gen</token>
-          <token token_id="23">.</token>
-          <token token_id="24">Unterpfand</token>
-          <token token_id="25">um</token>
-          <token token_id="26">20</token>
-          <token token_id="27">Gulden</token>
-          <token token_id="28">.</token>
-          <token token_id="29">Schultheissen</token>
-          <token token_id="30">-</token>
-          <token token_id="31">Urkunde</token>
-          <token token_id="32">.</token>
-          <token token_id="33">Heinrich</token>
-          <token token_id="34">Brichdenfrid</token>
-          <token token_id="35">der</token>
-          <token token_id="36">Schumacher</token>
-          <token token_id="37">,</token>
-          <token token_id="38">Burger</token>
-          <token token_id="39">zu</token>
-          <token token_id="40">Basel</token>
-          <token token_id="41">,</token>
-          <token token_id="42">und</token>
-          <token token_id="43">Brida</token>
-          <token token_id="44">sin</token>
-          <token token_id="45">Efrow</token>
-          <token token_id="46">verkaufen</token>
-          <token token_id="47">Allerio</token>
-          <token token_id="48">Hechinger</token>
-          <token token_id="49">dem</token>
-          <token token_id="50">Gewantman</token>
-          <token token_id="51">,</token>
-          <token token_id="52">Burgern</token>
-          <token token_id="53">zu</token>
-          <token token_id="54">Basel</token>
-          <token token_id="55">,</token>
-          <token token_id="56">und</token>
-          <token token_id="57">Ennelin</token>
-          <token token_id="58">siner</token>
-          <token token_id="59">Efrowen</token>
-          <token token_id="60">1</token>
-          <token token_id="61">Guldin</token>
-          <token token_id="62">Geltes</token>
-          <token token_id="63">von</token>
-          <token token_id="64">uff</token>
-          <token token_id="65">und</token>
-          <token token_id="66">ab</token>
-          <token token_id="67">irem</token>
-          <token token_id="68">Huss</token>
-          <token token_id="69">und</token>
-          <token token_id="70">Hoffstat</token>
-          <token token_id="71">genant</token>
-          <token token_id="72">Pfogels</token>
-          <token token_id="73">Huss</token>
-          <token token_id="74">,</token>
-          <token token_id="75">als</token>
-          <token token_id="76">das</token>
-          <token token_id="77">gelegen</token>
-          <token token_id="78">ist</token>
-          <token token_id="79">in</token>
-          <token token_id="80">der</token>
-          <token token_id="81">Statt</token>
-          <token token_id="82">Basel</token>
-          <token token_id="83">under</token>
-          <token token_id="84">dem</token>
-          <token token_id="85">Bulgen</token>
-          <token token_id="86">by</token>
-          <token token_id="87">dem</token>
-          <token token_id="88">Vischmerckt</token>
-          <token token_id="89">,</token>
-          <token token_id="90">zwüschent</token>
-          <token token_id="91">dem</token>
-          <token token_id="92">Huss</token>
-          <token token_id="93">zem</token>
-          <token token_id="94">Meigen</token>
-          <token token_id="95">ze</token>
-          <token token_id="96">einer</token>
-          <token token_id="97">und</token>
-          <token token_id="98">dem</token>
-          <token token_id="99">Huss</token>
-          <token token_id="100">zum</token>
-          <token token_id="101">hinderen</token>
-          <token token_id="102">Kösslin</token>
-          <token token_id="103">zer</token>
-          <token token_id="104">anderen</token>
-          <token token_id="105">Syten</token>
-          <token token_id="106">,</token>
-          <token token_id="107">zinset</token>
-          <token token_id="108">vormals</token>
-          <token token_id="109">2</token>
-          <token token_id="110">1</token>
-          <token token_id="111">/</token>
-          <token token_id="112">2</token>
-          <token token_id="113">sh</token>
-          <token token_id="114">.</token>
-          <token token_id="115">einem</token>
-          <token token_id="116">Lütpriester</token>
-          <token token_id="117">zu</token>
-          <token token_id="118">Sant</token>
-          <token token_id="119">Martin</token>
+          <token token_id="0">Schultheissen</token>
+          <token token_id="1">-</token>
+          <token token_id="2">Urkunde</token>
+          <token token_id="3">.</token>
+          <token token_id="4">Heinrich</token>
+          <token token_id="5">Brichdenfrid</token>
+          <token token_id="6">der</token>
+          <token token_id="7">Schumacher</token>
+          <token token_id="8">,</token>
+          <token token_id="9">Burger</token>
+          <token token_id="10">zu</token>
+          <token token_id="11">Basel</token>
+          <token token_id="12">,</token>
+          <token token_id="13">und</token>
+          <token token_id="14">Brida</token>
+          <token token_id="15">sin</token>
+          <token token_id="16">Efrow</token>
+          <token token_id="17">verkaufen</token>
+          <token token_id="18">Allerio</token>
+          <token token_id="19">Hechinger</token>
+          <token token_id="20">dem</token>
+          <token token_id="21">Gewantman</token>
+          <token token_id="22">,</token>
+          <token token_id="23">Burgern</token>
+          <token token_id="24">zu</token>
+          <token token_id="25">Basel</token>
+          <token token_id="26">,</token>
+          <token token_id="27">und</token>
+          <token token_id="28">Ennelin</token>
+          <token token_id="29">siner</token>
+          <token token_id="30">Efrowen</token>
+          <token token_id="31">1</token>
+          <token token_id="32">Guldin</token>
+          <token token_id="33">Geltes</token>
+          <token token_id="34">von</token>
+          <token token_id="35">uff</token>
+          <token token_id="36">und</token>
+          <token token_id="37">ab</token>
+          <token token_id="38">irem</token>
+          <token token_id="39">Huss</token>
+          <token token_id="40">und</token>
+          <token token_id="41">Hoffstat</token>
+          <token token_id="42">genant</token>
+          <token token_id="43">Pfogels</token>
+          <token token_id="44">Huss</token>
+          <token token_id="45">,</token>
+          <token token_id="46">als</token>
+          <token token_id="47">das</token>
+          <token token_id="48">gelegen</token>
+          <token token_id="49">ist</token>
+          <token token_id="50">in</token>
+          <token token_id="51">der</token>
+          <token token_id="52">Statt</token>
+          <token token_id="53">Basel</token>
+          <token token_id="54">under</token>
+          <token token_id="55">dem</token>
+          <token token_id="56">Bulgen</token>
+          <token token_id="57">by</token>
+          <token token_id="58">dem</token>
+          <token token_id="59">Vischmerckt</token>
+          <token token_id="60">,</token>
+          <token token_id="61">zwüschent</token>
+          <token token_id="62">dem</token>
+          <token token_id="63">Huss</token>
+          <token token_id="64">zem</token>
+          <token token_id="65">Meigen</token>
+          <token token_id="66">ze</token>
+          <token token_id="67">einer</token>
+          <token token_id="68">und</token>
+          <token token_id="69">dem</token>
+          <token token_id="70">Huss</token>
+          <token token_id="71">zum</token>
+          <token token_id="72">hinderen</token>
+          <token token_id="73">Kösslin</token>
+          <token token_id="74">zer</token>
+          <token token_id="75">anderen</token>
+          <token token_id="76">Syten</token>
+          <token token_id="77">,</token>
+          <token token_id="78">zinset</token>
+          <token token_id="79">vormals</token>
+          <token token_id="80">2</token>
+          <token token_id="81">1</token>
+          <token token_id="82">/</token>
+          <token token_id="83">2</token>
+          <token token_id="84">sh</token>
+          <token token_id="85">.</token>
+          <token token_id="86">einem</token>
+          <token token_id="87">Lütpriester</token>
+          <token token_id="88">zu</token>
+          <token token_id="89">Sant</token>
+          <token token_id="90">Martin</token>
+          <token token_id="91">zu</token>
+          <token token_id="92">Basel</token>
+          <token token_id="93">und</token>
+          <token token_id="94">den</token>
+          <token token_id="95">armen</token>
+          <token token_id="96">Lüten</token>
+          <token token_id="97">an</token>
+          <token token_id="98">der</token>
+          <token token_id="99">Buss</token>
+          <token token_id="100">zu</token>
+          <token token_id="101">Sant</token>
+          <token token_id="102">Jacob</token>
+          <token token_id="103">1</token>
+          <token token_id="104">sh</token>
+          <token token_id="105">.</token>
+          <token token_id="106">umb</token>
+          <token token_id="107">20</token>
+          <token token_id="108">rinscher</token>
+          <token token_id="109">Guldin</token>
+          <token token_id="110">.</token>
+          <token token_id="111">Hechinger</token>
+          <token token_id="112">,</token>
+          <token token_id="113">Burger</token>
+          <token token_id="114">zu</token>
+          <token token_id="115">Zürich</token>
+          <token token_id="116">,</token>
+          <token token_id="117">verkauft</token>
+          <token token_id="118">der</token>
+          <token token_id="119">Stift</token>
           <token token_id="120">zu</token>
-          <token token_id="121">Basel</token>
-          <token token_id="122">und</token>
-          <token token_id="123">den</token>
-          <token token_id="124">armen</token>
-          <token token_id="125">Lüten</token>
-          <token token_id="126">an</token>
-          <token token_id="127">der</token>
-          <token token_id="128">Buss</token>
-          <token token_id="129">zu</token>
-          <token token_id="130">Sant</token>
-          <token token_id="131">Jacob</token>
-          <token token_id="132">1</token>
-          <token token_id="133">sh</token>
+          <token token_id="121">Sannt</token>
+          <token token_id="122">,</token>
+          <token token_id="123">Peter</token>
+          <token token_id="124">den</token>
+          <token token_id="125">obigen</token>
+          <token token_id="126">Glden</token>
+          <token token_id="127">Gelds</token>
+          <token token_id="128">und</token>
+          <token token_id="129">sin</token>
+          <token token_id="130">Houptgutt</token>
+          <token token_id="131">ab</token>
+          <token token_id="132">dem</token>
+          <token token_id="133">gen</token>
           <token token_id="134">.</token>
-          <token token_id="135">umb</token>
-          <token token_id="136">20</token>
-          <token token_id="137">rinscher</token>
-          <token token_id="138">Guldin</token>
+          <token token_id="135">Unterpfand</token>
+          <token token_id="136">um</token>
+          <token token_id="137">20</token>
+          <token token_id="138">Gulden</token>
           <token token_id="139">.</token>
         </text>
         <spans>
-          <span id="0" start="0" end="4" element="reference" class="per" confidence="0.9" text="Hechinger , Burger zu Zürich" numerus="sgl" specificity="spc" subclass="">
-            <span id="12" start="0" end="0" element="head" class="nam" confidence="1.0" text="Hechinger"/>
-            <span id="13" start="2" end="4" element="appo" class="org-aff" confidence="1.0" text="Burger zu Zürich">
-              <span id="14" start="2" end="2" element="head" class="org-aff" confidence="1.0" text="Burger"/>
-              <span id="15" start="4" end="4" element="reference" class="gpe-org" confidence="1.0" text="Zürich" numerus="sgl" specificity="spc" subclass="">
-                <span id="16" start="4" end="4" element="head" class="nam" confidence="1.0" text="Zürich"/>
+          <span id="0" start="4" end="11" element="reference" class="per" confidence="0.96" text="Heinrich Brichdenfrid der Schumacher , Burger zu Basel" numerus="sgl" specificity="spc" subclass="">
+            <span id="13" start="4" end="5" element="head" class="nam" confidence="1.0" text="Heinrich Brichdenfrid"/>
+            <span id="14" start="6" end="7" element="appo" class="occ" confidence="1.0" text="der Schumacher">
+              <span id="16" start="7" end="7" element="head" class="occ" confidence="1.0" text="Schumacher" norm="schuhmacher" OhdAB="https://database.factgrid.de/wiki/Item:Q672209"/>
+            </span>
+            <span id="15" start="9" end="11" element="appo" class="org-aff" confidence="1.0" text="Burger zu Basel">
+              <span id="17" start="9" end="9" element="head" class="org-aff" confidence="1.0" text="Burger"/>
+              <span id="18" start="11" end="11" element="reference" class="gpe-org" confidence="1.0" text="Basel" numerus="sgl" specificity="spc" subclass="">
+                <span id="19" start="11" end="11" element="head" class="nam" confidence="1.0" text="Basel"/>
               </span>
             </span>
           </span>
-          <span id="1" start="6" end="6" element="trigger" class="rent" confidence="1.0" text="verkauft"/>
-          <span id="2" start="7" end="12" element="reference" class="org" confidence="0.98" text="der Stift zu Sannt , Peter" numerus="sgl" specificity="spc" subclass="rel">
-            <span id="17" start="8" end="12" element="head" class="nam" confidence="0.82" text="Stift zu Sannt , Peter" norm="Kirche St. Peter"/>
-          </span>
-          <span id="3" start="26" end="27" element="value" class="money" confidence="1.0" text="20 Gulden" norm="20.0 Gulden"/>
-          <span id="4" start="33" end="40" element="reference" class="per" confidence="0.95" text="Heinrich Brichdenfrid der Schumacher , Burger zu Basel" numerus="sgl" specificity="spc" subclass="">
-            <span id="18" start="33" end="34" element="head" class="nam" confidence="1.0" text="Heinrich Brichdenfrid"/>
-            <span id="19" start="35" end="36" element="appo" class="occ" confidence="1.0" text="der Schumacher">
-              <span id="21" start="36" end="36" element="head" class="occ" confidence="1.0" text="Schumacher" norm="schuhmacher" OhdAB="https://database.factgrid.de/wiki/Item:Q672209"/>
-            </span>
-            <span id="20" start="38" end="40" element="appo" class="org-aff" confidence="1.0" text="Burger zu Basel">
-              <span id="22" start="38" end="38" element="head" class="org-aff" confidence="1.0" text="Burger"/>
-              <span id="23" start="40" end="40" element="reference" class="gpe-org" confidence="1.0" text="Basel" numerus="sgl" specificity="spc" subclass="">
-                <span id="24" start="40" end="40" element="head" class="nam" confidence="1.0" text="Basel"/>
+          <span id="1" start="14" end="16" element="reference" class="per" confidence="1.0" text="Brida sin Efrow" numerus="sgl" specificity="spc" subclass="">
+            <span id="20" start="14" end="14" element="head" class="nam" confidence="1.0" text="Brida"/>
+            <span id="21" start="15" end="16" element="appo" class="fam" confidence="1.0" text="sin Efrow">
+              <span id="22" start="15" end="15" element="reference" class="per" confidence="1.0" text="sin" numerus="sgl" specificity="spc" subclass="">
+                <span id="22_head" start="15" end="15" element="head" class="pro" confidence="1.0" text="sin"/>
               </span>
+              <span id="23" start="16" end="16" element="head" class="fam" confidence="1.0" text="Efrow"/>
             </span>
           </span>
-          <span id="5" start="43" end="45" element="reference" class="per" confidence="1.0" text="Brida sin Efrow" numerus="sgl" specificity="spc" subclass="">
-            <span id="25" start="43" end="43" element="head" class="nam" confidence="1.0" text="Brida"/>
-            <span id="26" start="44" end="45" element="appo" class="fam" confidence="1.0" text="sin Efrow">
-              <span id="27" start="44" end="44" element="reference" class="per" confidence="1.0" text="sin" numerus="sgl" specificity="spc" subclass="">
-                <span id="27_head" start="44" end="44" element="head" class="pro" confidence="1.0" text="sin"/>
-              </span>
-              <span id="28" start="45" end="45" element="head" class="fam" confidence="1.0" text="Efrow"/>
+          <span id="2" start="17" end="17" element="trigger" class="rent" confidence="0.98" text="verkaufen"/>
+          <span id="3" start="18" end="25" element="reference" class="per" confidence="0.95" text="Allerio Hechinger dem Gewantman , Burgern zu Basel" numerus="sgl" specificity="spc" subclass="">
+            <span id="24" start="18" end="19" element="head" class="nam" confidence="1.0" text="Allerio Hechinger"/>
+            <span id="25" start="20" end="21" element="appo" class="occ" confidence="1.0" text="dem Gewantman">
+              <span id="27" start="21" end="21" element="head" class="occ" confidence="1.0" text="Gewantman" norm="gewandmann" OhdAB="https://database.factgrid.de/wiki/Item:Q684040"/>
             </span>
-          </span>
-          <span id="6" start="46" end="46" element="trigger" class="rent" confidence="0.98" text="verkaufen"/>
-          <span id="7" start="47" end="54" element="reference" class="per" confidence="0.95" text="Allerio Hechinger dem Gewantman , Burgern zu Basel" numerus="sgl" specificity="spc" subclass="">
-            <span id="29" start="47" end="48" element="head" class="nam" confidence="1.0" text="Allerio Hechinger"/>
-            <span id="30" start="49" end="50" element="appo" class="occ" confidence="1.0" text="dem Gewantman">
-              <span id="32" start="50" end="50" element="head" class="occ" confidence="1.0" text="Gewantman" norm="gewandmann" OhdAB="https://database.factgrid.de/wiki/Item:Q684040"/>
-            </span>
-            <span id="31" start="52" end="54" element="appo" class="org-aff" confidence="1.0" text="Burgern zu Basel">
-              <span id="33" start="52" end="52" element="head" class="org-aff" confidence="1.0" text="Burgern"/>
-              <span id="34" start="54" end="54" element="reference" class="gpe-org" confidence="1.0" text="Basel" numerus="sgl" specificity="spc" subclass="">
-                <span id="35" start="54" end="54" element="head" class="nam" confidence="1.0" text="Basel"/>
+            <span id="26" start="23" end="25" element="appo" class="org-aff" confidence="1.0" text="Burgern zu Basel">
+              <span id="28" start="23" end="23" element="head" class="org-aff" confidence="1.0" text="Burgern"/>
+              <span id="29" start="25" end="25" element="reference" class="gpe-org" confidence="1.0" text="Basel" numerus="sgl" specificity="spc" subclass="">
+                <span id="30" start="25" end="25" element="head" class="nam" confidence="1.0" text="Basel"/>
               </span>
             </span>
           </span>
-          <span id="8" start="57" end="59" element="reference" class="per" confidence="1.0" text="Ennelin siner Efrowen" numerus="sgl" specificity="spc" subclass="">
-            <span id="36" start="57" end="57" element="head" class="nam" confidence="1.0" text="Ennelin"/>
-            <span id="37" start="58" end="59" element="appo" class="fam" confidence="1.0" text="siner Efrowen">
-              <span id="38" start="58" end="58" element="reference" class="per" confidence="1.0" text="siner" numerus="sgl" specificity="spc" subclass="">
-                <span id="38_head" start="58" end="58" element="head" class="pro" confidence="1.0" text="siner"/>
+          <span id="4" start="28" end="30" element="reference" class="per" confidence="1.0" text="Ennelin siner Efrowen" numerus="sgl" specificity="spc" subclass="">
+            <span id="31" start="28" end="28" element="head" class="nam" confidence="1.0" text="Ennelin"/>
+            <span id="32" start="29" end="30" element="appo" class="fam" confidence="1.0" text="siner Efrowen">
+              <span id="33" start="29" end="29" element="reference" class="per" confidence="1.0" text="siner" numerus="sgl" specificity="spc" subclass="">
+                <span id="33_head" start="29" end="29" element="head" class="pro" confidence="1.0" text="siner"/>
               </span>
-              <span id="39" start="59" end="59" element="head" class="fam" confidence="1.0" text="Efrowen"/>
+              <span id="34" start="30" end="30" element="head" class="fam" confidence="1.0" text="Efrowen"/>
             </span>
           </span>
-          <span id="9" start="60" end="61" element="value" class="money" confidence="1.0" text="1 Guldin" norm="1.0 Gulden"/>
-          <span id="10" start="67" end="134" element="reference" class="fac" confidence="0.97" text="irem Huss und Hoffstat genant Pfogels Huss , als das gelegen ist in der Statt Basel under dem Bulgen by dem Vischmerckt , zwüschent dem Huss zem Meigen ze einer und dem Huss zum hinderen Kösslin zer anderen Syten , zinset vormals 2 1 / 2 sh . einem Lütpriester zu Sant Martin zu Basel und den armen Lüten an der Buss zu Sant Jacob 1 sh ." numerus="sgl" specificity="spc" subclass="">
-            <span id="40" start="67" end="67" element="attr" class="owner" confidence="1.0" text="irem">
-              <span id="45" start="67" end="67" element="reference" class="per" confidence="1.0" text="irem" numerus="sgl" specificity="spc" subclass="">
-                <span id="45_head" start="67" end="67" element="head" class="pro" confidence="1.0" text="irem"/>
+          <span id="5" start="31" end="32" element="value" class="money" confidence="1.0" text="1 Guldin" norm="1.0 Gulden"/>
+          <span id="6" start="38" end="105" element="reference" class="fac" confidence="0.97" text="irem Huss und Hoffstat genant Pfogels Huss , als das gelegen ist in der Statt Basel under dem Bulgen by dem Vischmerckt , zwüschent dem Huss zem Meigen ze einer und dem Huss zum hinderen Kösslin zer anderen Syten , zinset vormals 2 1 / 2 sh . einem Lütpriester zu Sant Martin zu Basel und den armen Lüten an der Buss zu Sant Jacob 1 sh ." numerus="sgl" specificity="spc" subclass="">
+            <span id="35" start="38" end="38" element="attr" class="owner" confidence="1.0" text="irem">
+              <span id="40" start="38" end="38" element="reference" class="per" confidence="1.0" text="irem" numerus="sgl" specificity="spc" subclass="">
+                <span id="40_head" start="38" end="38" element="head" class="pro" confidence="1.0" text="irem"/>
               </span>
             </span>
-            <span id="41" start="68" end="70" element="head" class="type" confidence="1.0" text="Huss und Hoffstat" norm="Haus|Hofstatt"/>
-            <span id="42" start="72" end="73" element="appo" class="nam" confidence="1.0" text="Pfogels Huss">
-              <span id="46" start="72" end="73" element="head" class="nam" confidence="1.0" text="Pfogels Huss"/>
+            <span id="36" start="39" end="41" element="head" class="type" confidence="1.0" text="Huss und Hoffstat" norm="Haus|Hofstatt"/>
+            <span id="37" start="43" end="44" element="appo" class="nam" confidence="1.0" text="Pfogels Huss">
+              <span id="41" start="43" end="44" element="head" class="nam" confidence="1.0" text="Pfogels Huss"/>
             </span>
-            <span id="43" start="75" end="105" element="attr" class="loc" confidence="0.98" text="als das gelegen ist in der Statt Basel under dem Bulgen by dem Vischmerckt , zwüschent dem Huss zem Meigen ze einer und dem Huss zum hinderen Kösslin zer anderen Syten">
-              <span id="47" start="80" end="82" element="reference" class="gpe-loc" confidence="1.0" text="der Statt Basel" numerus="sgl" specificity="spc" subclass="">
-                <span id="52" start="81" end="82" element="head" class="nam" confidence="0.61" text="Statt Basel"/>
+            <span id="38" start="46" end="76" element="attr" class="loc" confidence="0.98" text="als das gelegen ist in der Statt Basel under dem Bulgen by dem Vischmerckt , zwüschent dem Huss zem Meigen ze einer und dem Huss zum hinderen Kösslin zer anderen Syten">
+              <span id="42" start="51" end="53" element="reference" class="gpe-loc" confidence="1.0" text="der Statt Basel" numerus="sgl" specificity="spc" subclass="">
+                <span id="47" start="52" end="53" element="head" class="nam" confidence="0.61" text="Statt Basel"/>
               </span>
-              <span id="48" start="84" end="85" element="reference" class="loc" confidence="0.98" text="dem Bulgen" numerus="sgl" specificity="spc" subclass="">
-                <span id="53" start="85" end="85" element="head" class="nam" confidence="0.99" text="Bulgen"/>
+              <span id="43" start="55" end="56" element="reference" class="loc" confidence="0.98" text="dem Bulgen" numerus="sgl" specificity="spc" subclass="">
+                <span id="48" start="56" end="56" element="head" class="nam" confidence="0.99" text="Bulgen"/>
               </span>
-              <span id="49" start="87" end="88" element="reference" class="fac" confidence="0.62" text="dem Vischmerckt" numerus="sgl" specificity="spc" subclass="square">
-                <span id="54" start="88" end="88" element="head" class="nam" confidence="1.0" text="Vischmerckt"/>
+              <span id="44" start="58" end="59" element="reference" class="fac" confidence="0.62" text="dem Vischmerckt" numerus="sgl" specificity="spc" subclass="square">
+                <span id="49" start="59" end="59" element="head" class="nam" confidence="1.0" text="Vischmerckt"/>
               </span>
-              <span id="50" start="91" end="94" element="reference" class="fac" confidence="0.93" text="dem Huss zem Meigen" numerus="sgl" specificity="spc" subclass="">
-                <span id="55" start="92" end="94" element="head" class="nam" confidence="0.9" text="Huss zem Meigen"/>
+              <span id="45" start="62" end="65" element="reference" class="fac" confidence="0.93" text="dem Huss zem Meigen" numerus="sgl" specificity="spc" subclass="">
+                <span id="50" start="63" end="65" element="head" class="nam" confidence="0.9" text="Huss zem Meigen"/>
               </span>
-              <span id="51" start="98" end="102" element="reference" class="fac" confidence="0.96" text="dem Huss zum hinderen Kösslin" numerus="sgl" specificity="spc" subclass="">
-                <span id="56" start="99" end="102" element="head" class="nam" confidence="0.93" text="Huss zum hinderen Kösslin"/>
+              <span id="46" start="69" end="73" element="reference" class="fac" confidence="0.96" text="dem Huss zum hinderen Kösslin" numerus="sgl" specificity="spc" subclass="">
+                <span id="51" start="70" end="73" element="head" class="nam" confidence="0.93" text="Huss zum hinderen Kösslin"/>
               </span>
             </span>
-            <span id="44" start="107" end="134" element="attr" class="dues" confidence="1.0" text="zinset vormals 2 1 / 2 sh . einem Lütpriester zu Sant Martin zu Basel und den armen Lüten an der Buss zu Sant Jacob 1 sh .">
-              <span id="57" start="107" end="107" element="trigger" class="due" confidence="1.0" text="zinset"/>
-              <span id="58" start="109" end="114" element="value" class="money" confidence="1.0" text="2 1 / 2 sh ." norm="2.5 Schilling"/>
-              <span id="59" start="115" end="121" element="reference" class="per" confidence="0.59" text="einem Lütpriester zu Sant Martin zu Basel" numerus="sgl" specificity="spc" subclass="">
-                <span id="62" start="116" end="116" element="head" class="occ" confidence="1.0" text="Lütpriester" norm="leuthpriester" OhdAB="https://database.factgrid.de/wiki/Item:Q694308"/>
-                <span id="63" start="118" end="119" element="reference" class="org" confidence="0.74" text="Sant Martin" numerus="sgl" specificity="spc" subclass="rel">
-                  <span id="65" start="118" end="119" element="head" class="nam" confidence="1.0" text="Sant Martin" norm="Kirche St. Martin"/>
+            <span id="39" start="78" end="105" element="attr" class="dues" confidence="1.0" text="zinset vormals 2 1 / 2 sh . einem Lütpriester zu Sant Martin zu Basel und den armen Lüten an der Buss zu Sant Jacob 1 sh .">
+              <span id="52" start="78" end="78" element="trigger" class="due" confidence="1.0" text="zinset"/>
+              <span id="53" start="80" end="85" element="value" class="money" confidence="1.0" text="2 1 / 2 sh ." norm="2.5 Schilling"/>
+              <span id="54" start="86" end="92" element="reference" class="per" confidence="0.59" text="einem Lütpriester zu Sant Martin zu Basel" numerus="sgl" specificity="spc" subclass="">
+                <span id="57" start="87" end="87" element="head" class="occ" confidence="1.0" text="Lütpriester" norm="leuthpriester" OhdAB="https://database.factgrid.de/wiki/Item:Q694308"/>
+                <span id="58" start="89" end="90" element="reference" class="org" confidence="0.74" text="Sant Martin" numerus="sgl" specificity="spc" subclass="rel">
+                  <span id="60" start="89" end="90" element="head" class="nam" confidence="1.0" text="Sant Martin" norm="Kirche St. Martin"/>
                 </span>
-                <span id="64" start="120" end="121" element="attr" class="loc" confidence="0.56" text="zu Basel">
-                  <span id="66" start="121" end="121" element="reference" class="gpe-loc" confidence="1.0" text="Basel" numerus="sgl" specificity="spc" subclass="">
-                    <span id="67" start="121" end="121" element="head" class="nam" confidence="1.0" text="Basel"/>
+                <span id="59" start="91" end="92" element="attr" class="loc" confidence="0.56" text="zu Basel">
+                  <span id="61" start="92" end="92" element="reference" class="gpe-loc" confidence="1.0" text="Basel" numerus="sgl" specificity="spc" subclass="">
+                    <span id="62" start="92" end="92" element="head" class="nam" confidence="1.0" text="Basel"/>
                   </span>
                 </span>
               </span>
-              <span id="60" start="123" end="131" element="reference" class="org" confidence="0.98" text="den armen Lüten an der Buss zu Sant Jacob" numerus="sgl" specificity="spc" subclass="">
-                <span id="68" start="125" end="125" element="head" class="type" confidence="0.4" text="Lüten" norm="Siechenhaus St. Jakob"/>
-                <span id="69" start="126" end="131" element="attr" class="loc" confidence="0.86" text="an der Buss zu Sant Jacob">
-                  <span id="70" start="127" end="128" element="reference" class="loc" confidence="0.97" text="der Buss" numerus="sgl" specificity="spc" subclass="">
-                    <span id="72" start="128" end="128" element="head" class="nam" confidence="0.93" text="Buss"/>
+              <span id="55" start="94" end="102" element="reference" class="org" confidence="0.98" text="den armen Lüten an der Buss zu Sant Jacob" numerus="sgl" specificity="spc" subclass="">
+                <span id="63" start="96" end="96" element="head" class="type" confidence="0.4" text="Lüten" norm="Siechenhaus St. Jakob"/>
+                <span id="64" start="97" end="102" element="attr" class="loc" confidence="0.86" text="an der Buss zu Sant Jacob">
+                  <span id="65" start="98" end="99" element="reference" class="loc" confidence="0.97" text="der Buss" numerus="sgl" specificity="spc" subclass="">
+                    <span id="67" start="99" end="99" element="head" class="nam" confidence="0.93" text="Buss"/>
                   </span>
-                  <span id="71" start="130" end="131" element="reference" class="fac" confidence="0.57" text="Sant Jacob" numerus="sgl" specificity="spc" subclass="">
-                    <span id="73" start="130" end="131" element="head" class="nam" confidence="1.0" text="Sant Jacob"/>
+                  <span id="66" start="101" end="102" element="reference" class="fac" confidence="0.57" text="Sant Jacob" numerus="sgl" specificity="spc" subclass="">
+                    <span id="68" start="101" end="102" element="head" class="nam" confidence="1.0" text="Sant Jacob"/>
                   </span>
                 </span>
               </span>
-              <span id="61" start="132" end="134" element="value" class="money" confidence="1.0" text="1 sh ." norm="1.0 Schilling"/>
+              <span id="56" start="103" end="105" element="value" class="money" confidence="1.0" text="1 sh ." norm="1.0 Schilling"/>
             </span>
           </span>
-          <span id="11" start="136" end="139" element="value" class="money" confidence="1.0" text="20 rinscher Guldin ." norm="20.0 Gulden"/>
+          <span id="7" start="107" end="110" element="value" class="money" confidence="0.99" text="20 rinscher Guldin ." norm="20.0 Gulden"/>
+          <span id="8" start="111" end="115" element="reference" class="per" confidence="0.89" text="Hechinger , Burger zu Zürich" numerus="sgl" specificity="spc" subclass="">
+            <span id="69" start="111" end="111" element="head" class="nam" confidence="1.0" text="Hechinger"/>
+            <span id="70" start="113" end="115" element="appo" class="org-aff" confidence="1.0" text="Burger zu Zürich">
+              <span id="71" start="113" end="113" element="head" class="org-aff" confidence="1.0" text="Burger"/>
+              <span id="72" start="115" end="115" element="reference" class="gpe-org" confidence="1.0" text="Zürich" numerus="sgl" specificity="spc" subclass="">
+                <span id="73" start="115" end="115" element="head" class="nam" confidence="1.0" text="Zürich"/>
+              </span>
+            </span>
+          </span>
+          <span id="9" start="117" end="117" element="trigger" class="rent" confidence="1.0" text="verkauft"/>
+          <span id="10" start="118" end="123" element="reference" class="org" confidence="0.98" text="der Stift zu Sannt , Peter" numerus="sgl" specificity="spc" subclass="rel">
+            <span id="74" start="119" end="123" element="head" class="nam" confidence="0.82" text="Stift zu Sannt , Peter" norm="Kirche St. Peter"/>
+          </span>
+          <span id="11" start="132" end="135" element="reference" class="fac" confidence="0.7" text="dem gen . Unterpfand" numerus="sgl" specificity="spc" subclass="">
+            <span id="75" start="135" end="135" element="head" class="type" confidence="0.94" text="Unterpfand" norm="Unterpfand"/>
+          </span>
+          <span id="12" start="137" end="139" element="value" class="money" confidence="1.0" text="20 Gulden ." norm="20.0 Gulden"/>
         </spans>
         <relations>
-          <relation id="1" from="27" to="4" class="coref"/>
-          <relation id="2" from="38" to="7" class="coref"/>
-          <relation id="3" from="45" to="4" class="coref"/>
-          <relation id="4" from="45" to="5" class="coref"/>
-          <relation id="5" from="45" to="7" class="coref"/>
-          <relation id="6" from="45" to="8" class="coref"/>
+          <relation id="1" from="22" to="0" class="coref"/>
+          <relation id="2" from="33" to="3" class="coref"/>
+          <relation id="3" from="40" to="0" class="coref"/>
+          <relation id="4" from="40" to="1" class="coref"/>
+          <relation id="5" from="40" to="3" class="coref"/>
+          <relation id="6" from="40" to="4" class="coref"/>
         </relations>
         <eventGroups>
-          <eventGroup event_id="0" class="due-obligation" start="107" end="134" ref="44" type="state" tense="unk" polarity="unk" modality="unk">
-            <trigger ref="57" text="zinset"/>
+          <eventGroup event_id="0" class="due-obligation" start="78" end="105" ref="39" type="state" tense="unk" polarity="unk" modality="unk">
+            <trigger ref="52" text="zinset"/>
             <event event_id="0.1">
-              <role role="beneficiary" confidence="1.0" ref="60" text="den armen Lüten an der Buss zu Sant Jacob"/>
-              <role role="interest" confidence="0.99" ref="61" text="1 sh ."/>
+              <role role="beneficiary" confidence="1.0" ref="55" text="den armen Lüten an der Buss zu Sant Jacob"/>
+              <role role="interest" confidence="0.99" ref="56" text="1 sh ."/>
             </event>
           </eventGroup>
-          <eventGroup event_id="1" class="rent-purchase" start="0" end="139" ref="" type="event" tense="unk" polarity="unk" modality="unk">
-            <trigger ref="1" text="verkauft"/>
+          <eventGroup event_id="1" class="rent-purchase" start="4" end="139" ref="" type="event" tense="unk" polarity="unk" modality="unk">
+            <trigger ref="2" text="verkaufen"/>
             <event event_id="1.0">
-              <role role="seller" confidence="0.96" ref="0" text="Hechinger , Burger zu Zürich"/>
-              <role role="buyer" confidence="1.0" ref="2" text="der Stift zu Sannt , Peter"/>
-              <role role="price" confidence="0.99" ref="3" text="20 Gulden"/>
-              <role role="collateral" confidence="0.8" ref="10" text="irem Huss und Hoffstat genant Pfogels Huss , als das gelegen ist in der Statt Basel under dem Bulgen by dem Vischmerckt , zwüschent dem Huss zem Meigen ze einer und dem Huss zum hinderen Kösslin zer anderen Syten , zinset vormals 2 1 / 2 sh . einem Lütpriester zu Sant Martin zu Basel und den armen Lüten an der Buss zu Sant Jacob 1 sh ."/>
-              <role role="price" confidence="1.0" ref="11" text="20 rinscher Guldin ."/>
+              <role role="seller" confidence="0.98" ref="0" text="Heinrich Brichdenfrid der Schumacher , Burger zu Basel"/>
+              <role role="seller" confidence="1.0" ref="1" text="Brida sin Efrow"/>
+              <role role="buyer" confidence="1.0" ref="3" text="Allerio Hechinger dem Gewantman , Burgern zu Basel"/>
+              <role role="buyer" confidence="1.0" ref="4" text="Ennelin siner Efrowen"/>
+              <role role="collateral" confidence="0.99" ref="6" text="irem Huss und Hoffstat genant Pfogels Huss , als das gelegen ist in der Statt Basel under dem Bulgen by dem Vischmerckt , zwüschent dem Huss zem Meigen ze einer und dem Huss zum hinderen Kösslin zer anderen Syten , zinset vormals 2 1 / 2 sh . einem Lütpriester zu Sant Martin zu Basel und den armen Lüten an der Buss zu Sant Jacob 1 sh ."/>
+              <role role="price" confidence="1.0" ref="7" text="20 rinscher Guldin ."/>
+              <role role="price" confidence="0.99" ref="12" text="20 Gulden ."/>
             </event>
           </eventGroup>
-          <eventGroup event_id="2" class="rent-purchase" start="33" end="139" ref="" type="event" tense="unk" polarity="unk" modality="unk">
-            <trigger ref="6" text="verkaufen"/>
+          <eventGroup event_id="2" class="rent-purchase" start="28" end="139" ref="" type="event" tense="unk" polarity="unk" modality="unk">
+            <trigger ref="9" text="verkauft"/>
             <event event_id="2.0">
-              <role role="seller" confidence="0.75" ref="4" text="Heinrich Brichdenfrid der Schumacher , Burger zu Basel"/>
-              <role role="seller" confidence="1.0" ref="5" text="Brida sin Efrow"/>
-              <role role="buyer" confidence="1.0" ref="7" text="Allerio Hechinger dem Gewantman , Burgern zu Basel"/>
-              <role role="buyer" confidence="1.0" ref="8" text="Ennelin siner Efrowen"/>
-              <role role="interest" confidence="0.99" ref="9" text="1 Guldin"/>
-              <role role="collateral" confidence="0.99" ref="10" text="irem Huss und Hoffstat genant Pfogels Huss , als das gelegen ist in der Statt Basel under dem Bulgen by dem Vischmerckt , zwüschent dem Huss zem Meigen ze einer und dem Huss zum hinderen Kösslin zer anderen Syten , zinset vormals 2 1 / 2 sh . einem Lütpriester zu Sant Martin zu Basel und den armen Lüten an der Buss zu Sant Jacob 1 sh ."/>
-              <role role="price" confidence="1.0" ref="11" text="20 rinscher Guldin ."/>
+              <role role="buyer" confidence="0.68" ref="4" text="Ennelin siner Efrowen"/>
+              <role role="interest" confidence="0.96" ref="5" text="1 Guldin"/>
+              <role role="price" confidence="0.97" ref="7" text="20 rinscher Guldin ."/>
+              <role role="seller" confidence="0.55" ref="8" text="Hechinger , Burger zu Zürich"/>
+              <role role="buyer" confidence="0.97" ref="10" text="der Stift zu Sannt , Peter"/>
+              <role role="collateral" confidence="0.6" ref="11" text="dem gen . Unterpfand"/>
+              <role role="price" confidence="0.99" ref="12" text="20 Gulden ."/>
             </event>
           </eventGroup>
-          <eventGroup event_id="3" class="employment" start="115" end="121" ref="59" type="state" tense="unk" polarity="unk" modality="unk">
-            <trigger start="116" end="116" text="Lütpriester" ref="62"/>
+          <eventGroup event_id="3" class="employment" start="86" end="92" ref="54" type="state" tense="unk" polarity="unk" modality="unk">
+            <trigger start="87" end="87" text="Lütpriester" ref="57"/>
             <event event_id="3.0">
-              <role role="employee" ref="59" text="einem Lütpriester zu Sant Martin zu Basel"/>
-              <role role="employer" ref="63" text="Sant Martin"/>
+              <role role="employee" ref="54" text="einem Lütpriester zu Sant Martin zu Basel"/>
+              <role role="employer" ref="58" text="Sant Martin"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="4" class="civic-affiliation" start="2" end="4" ref="13" type="state" tense="unk" polarity="unk" modality="unk">
-            <trigger start="2" end="2" text="Burger" ref="14"/>
+          <eventGroup event_id="4" class="civic-affiliation" start="9" end="11" ref="15" type="state" tense="unk" polarity="unk" modality="unk">
+            <trigger start="9" end="9" text="Burger" ref="17"/>
             <event event_id="4.0">
-              <role role="resident" ref="0" text="Hechinger , Burger zu Zürich"/>
-              <role role="geopolitical-entity" ref="15" text="Zürich"/>
+              <role role="resident" ref="0" text="Heinrich Brichdenfrid der Schumacher , Burger zu Basel"/>
+              <role role="geopolitical-entity" ref="18" text="Basel"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="5" class="civic-affiliation" start="38" end="40" ref="20" type="state" tense="unk" polarity="unk" modality="unk">
-            <trigger start="38" end="38" text="Burger" ref="22"/>
+          <eventGroup event_id="5" class="family" start="15" end="16" ref="21" type="state" tense="unk" polarity="unk" modality="unk">
+            <trigger start="16" end="16" text="Efrow" ref="23"/>
             <event event_id="5.0">
-              <role role="resident" ref="4" text="Heinrich Brichdenfrid der Schumacher , Burger zu Basel"/>
-              <role role="geopolitical-entity" ref="23" text="Basel"/>
+              <role role="family-a" ref="1" text="Brida sin Efrow"/>
+              <role role="family-b" ref="22" text="sin"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="6" class="family" start="44" end="45" ref="26" type="state" tense="unk" polarity="unk" modality="unk">
-            <trigger start="45" end="45" text="Efrow" ref="28"/>
+          <eventGroup event_id="6" class="civic-affiliation" start="23" end="25" ref="26" type="state" tense="unk" polarity="unk" modality="unk">
+            <trigger start="23" end="23" text="Burgern" ref="28"/>
             <event event_id="6.0">
-              <role role="family-a" ref="5" text="Brida sin Efrow"/>
-              <role role="family-b" ref="27" text="sin"/>
+              <role role="resident" ref="3" text="Allerio Hechinger dem Gewantman , Burgern zu Basel"/>
+              <role role="geopolitical-entity" ref="29" text="Basel"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="7" class="civic-affiliation" start="52" end="54" ref="31" type="state" tense="unk" polarity="unk" modality="unk">
-            <trigger start="52" end="52" text="Burgern" ref="33"/>
+          <eventGroup event_id="7" class="family" start="29" end="30" ref="32" type="state" tense="unk" polarity="unk" modality="unk">
+            <trigger start="30" end="30" text="Efrowen" ref="34"/>
             <event event_id="7.0">
-              <role role="resident" ref="7" text="Allerio Hechinger dem Gewantman , Burgern zu Basel"/>
-              <role role="geopolitical-entity" ref="34" text="Basel"/>
+              <role role="family-a" ref="4" text="Ennelin siner Efrowen"/>
+              <role role="family-b" ref="33" text="siner"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="8" class="family" start="58" end="59" ref="37" type="state" tense="unk" polarity="unk" modality="unk">
-            <trigger start="59" end="59" text="Efrowen" ref="39"/>
+          <eventGroup event_id="8" class="civic-affiliation" start="113" end="115" ref="70" type="state" tense="unk" polarity="unk" modality="unk">
+            <trigger start="113" end="113" text="Burger" ref="71"/>
             <event event_id="8.0">
-              <role role="family-a" ref="8" text="Ennelin siner Efrowen"/>
-              <role role="family-b" ref="38" text="siner"/>
+              <role role="resident" ref="8" text="Hechinger , Burger zu Zürich"/>
+              <role role="geopolitical-entity" ref="72" text="Zürich"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="9" class="ownership" start="67" end="67" ref="40" type="state" tense="unk" polarity="unk" modality="unk">
+          <eventGroup event_id="9" class="ownership" start="38" end="38" ref="35" type="state" tense="unk" polarity="unk" modality="unk">
             <event event_id="9.0">
-              <role role="property" ref="10" text="irem Huss und Hoffstat genant Pfogels Huss , als das gelegen ist in der Statt Basel under dem Bulgen by dem Vischmerckt , zwüschent dem Huss zem Meigen ze einer und dem Huss zum hinderen Kösslin zer anderen Syten , zinset vormals 2 1 / 2 sh . einem Lütpriester zu Sant Martin zu Basel und den armen Lüten an der Buss zu Sant Jacob 1 sh ."/>
-              <role role="owner" ref="45" text="irem"/>
+              <role role="property" ref="6" text="irem Huss und Hoffstat genant Pfogels Huss , als das gelegen ist in der Statt Basel under dem Bulgen by dem Vischmerckt , zwüschent dem Huss zem Meigen ze einer und dem Huss zum hinderen Kösslin zer anderen Syten , zinset vormals 2 1 / 2 sh . einem Lütpriester zu Sant Martin zu Basel und den armen Lüten an der Buss zu Sant Jacob 1 sh ."/>
+              <role role="owner" ref="40" text="irem"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="10" class="topological" start="75" end="105" ref="43" type="state" tense="unk" polarity="unk" modality="unk">
+          <eventGroup event_id="10" class="topological" start="46" end="76" ref="38" type="state" tense="unk" polarity="unk" modality="unk">
             <event event_id="10.0">
-              <role role="location-a" ref="10" text="irem Huss und Hoffstat genant Pfogels Huss , als das gelegen ist in der Statt Basel under dem Bulgen by dem Vischmerckt , zwüschent dem Huss zem Meigen ze einer und dem Huss zum hinderen Kösslin zer anderen Syten , zinset vormals 2 1 / 2 sh . einem Lütpriester zu Sant Martin zu Basel und den armen Lüten an der Buss zu Sant Jacob 1 sh ."/>
-              <role role="location-b" ref="47" text="der Statt Basel"/>
-              <role role="location-b" ref="48" text="dem Bulgen"/>
-              <role role="location-b" ref="49" text="dem Vischmerckt"/>
-              <role role="location-b" ref="50" text="dem Huss zem Meigen"/>
-              <role role="location-b" ref="51" text="dem Huss zum hinderen Kösslin"/>
+              <role role="location-a" ref="6" text="irem Huss und Hoffstat genant Pfogels Huss , als das gelegen ist in der Statt Basel under dem Bulgen by dem Vischmerckt , zwüschent dem Huss zem Meigen ze einer und dem Huss zum hinderen Kösslin zer anderen Syten , zinset vormals 2 1 / 2 sh . einem Lütpriester zu Sant Martin zu Basel und den armen Lüten an der Buss zu Sant Jacob 1 sh ."/>
+              <role role="location-b" ref="42" text="der Statt Basel"/>
+              <role role="location-b" ref="43" text="dem Bulgen"/>
+              <role role="location-b" ref="44" text="dem Vischmerckt"/>
+              <role role="location-b" ref="45" text="dem Huss zem Meigen"/>
+              <role role="location-b" ref="46" text="dem Huss zum hinderen Kösslin"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="11" class="topological" start="120" end="121" ref="64" type="state" tense="unk" polarity="unk" modality="unk">
+          <eventGroup event_id="11" class="topological" start="91" end="92" ref="59" type="state" tense="unk" polarity="unk" modality="unk">
             <event event_id="11.0">
-              <role role="location-a" ref="59" text="einem Lütpriester zu Sant Martin zu Basel"/>
-              <role role="location-b" ref="66" text="Basel"/>
+              <role role="location-a" ref="54" text="einem Lütpriester zu Sant Martin zu Basel"/>
+              <role role="location-b" ref="61" text="Basel"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="12" class="topological" start="126" end="131" ref="69" type="state" tense="unk" polarity="unk" modality="unk">
+          <eventGroup event_id="12" class="topological" start="97" end="102" ref="64" type="state" tense="unk" polarity="unk" modality="unk">
             <event event_id="12.0">
-              <role role="location-a" ref="60" text="den armen Lüten an der Buss zu Sant Jacob"/>
-              <role role="location-b" ref="70" text="der Buss"/>
-              <role role="location-b" ref="71" text="Sant Jacob"/>
+              <role role="location-a" ref="55" text="den armen Lüten an der Buss zu Sant Jacob"/>
+              <role role="location-b" ref="65" text="der Buss"/>
+              <role role="location-b" ref="66" text="Sant Jacob"/>
             </event>
           </eventGroup>
         </eventGroups>
@@ -22884,7 +22889,7 @@
           </eventGroup>
         </eventGroups>
       </document>
-      <document id="847b199d-54c2-4f3a-8f0a-e9478715f5e9_20260528">
+      <document id="9ce33dbe-2bd9-4c9f-8ab2-a86a3510f963_20260615">
         <metadata>
           <street_id>HGB_1_106</street_id>
           <dossier_id>HGB_1_106_012</dossier_id>
@@ -22892,335 +22897,339 @@
           <source>Domstift</source>
           <language>german</language>
           <checked_by_gpt>false</checked_by_gpt>
-          <text>1765. Dessen Tochter Jgfr. Maria Magdalena. 1785. H. Nicl. Geymüller d. R. u. Rauchhändler. Ao 1807. Losgekauft. Ein Brieff werset auf Hanns von Basell dem Schneider von 20 Gld. widerkäuffigen Haubtguts jährlichen 1 Gld. von auf und ab einer Behausung undt Hoffstatt an dem Fischmarckh gelegen, zu dem Ross genant, neben dem Hans zum Münch zu einer undt zu der anderen Seiten neben Richarts von Frankhfort sel. jerH. Jeremiae Gemusei des Raths Haus, zunst zuvor Dietrichen Murer 4 ℔, so widerkäuffig, mit 80 ℔, sonsten frey, ferners von der Eigenschafft dorab jährlichen 1 sh. Meister Georg Sixt der Sporer gibt jährlichen 1. 3 sh. 6 den. Fahlt Mr Balthasar Sigst der Sporrer 40 Gld. das Capital u. bleibt annoch Bodenzins Eden</text>
+          <text>Ein Brieff werset auf Hanns von Basell dem Schneider von 20 Gld. widerkäuffigen Haubtguts jährlichen 1 Gld. von auf und ab einer Behausung undt Hoffstatt an dem Fischmarckh gelegen, zu dem Ross genant, neben dem Hans zum Münch zu einer undt zu der anderen Seiten neben Richarts von Frankhfort sel. jerH. Jeremiae Gemusei des Raths Haus, zunst zuvor Dietrichen Murer 4 ℔, so widerkäuffig, mit 80 ℔, sonsten frey, ferners von der Eigenschafft dorab jährlichen 1 sh. Meister Georg Sixt der Sporer gibt jährlichen 1. 3 sh. 6 den. Fahlt Mr Balthasar Sigst der Sporrer 40 Gld. das Capital u. bleibt annoch Bodenzins Eden 1765. Dessen Tochter Jgfr. Maria Magdalena. 1785. H. Nicl. Geymüller d. R. u. Rauchhändler. Ao 1807. Losgekauft.</text>
           <mentioned_houses>
-            <house span_ref="41">dem Ross</house>
+            <house span_ref="28">dem Ross</house>
           </mentioned_houses>
           <pages>
-            <page nr="12">https://files.transkribus.eu/Get?fileType=view&amp;id=ENLSEAVRXUVCNLTJFLQCMHYY</page>
-            <page nr="13">https://files.transkribus.eu/Get?fileType=view&amp;id=QFGNPSAPALSQCPYGIPOTDNJZ</page>
+            <page nr="12"><![CDATA[https://files.transkribus.eu/Get?fileType=view&id=ENLSEAVRXUVCNLTJFLQCMHYY]]></page>
+            <page nr="13"><![CDATA[https://files.transkribus.eu/Get?fileType=view&id=QFGNPSAPALSQCPYGIPOTDNJZ]]></page>
           </pages>
         </metadata>
         <text>
-          <token token_id="0">1765</token>
-          <token token_id="1">.</token>
-          <token token_id="2">Dessen</token>
-          <token token_id="3">Tochter</token>
-          <token token_id="4">Jgfr</token>
-          <token token_id="5">.</token>
-          <token token_id="6">Maria</token>
-          <token token_id="7">Magdalena</token>
-          <token token_id="8">.</token>
-          <token token_id="9">1785</token>
-          <token token_id="10">.</token>
-          <token token_id="11">H</token>
+          <token token_id="0">Ein</token>
+          <token token_id="1">Brieff</token>
+          <token token_id="2">werset</token>
+          <token token_id="3">auf</token>
+          <token token_id="4">Hanns</token>
+          <token token_id="5">von</token>
+          <token token_id="6">Basell</token>
+          <token token_id="7">dem</token>
+          <token token_id="8">Schneider</token>
+          <token token_id="9">von</token>
+          <token token_id="10">20</token>
+          <token token_id="11">Gld</token>
           <token token_id="12">.</token>
-          <token token_id="13">Nicl</token>
-          <token token_id="14">.</token>
-          <token token_id="15">Geymüller</token>
-          <token token_id="16">d</token>
-          <token token_id="17">.</token>
-          <token token_id="18">R</token>
-          <token token_id="19">.</token>
-          <token token_id="20">u</token>
-          <token token_id="21">.</token>
-          <token token_id="22">Rauchhändler</token>
-          <token token_id="23">.</token>
-          <token token_id="24">Ao</token>
-          <token token_id="25">1807</token>
-          <token token_id="26">.</token>
-          <token token_id="27">Losgekauft</token>
-          <token token_id="28">.</token>
-          <token token_id="29">Ein</token>
-          <token token_id="30">Brieff</token>
-          <token token_id="31">werset</token>
-          <token token_id="32">auf</token>
-          <token token_id="33">Hanns</token>
-          <token token_id="34">von</token>
-          <token token_id="35">Basell</token>
-          <token token_id="36">dem</token>
-          <token token_id="37">Schneider</token>
-          <token token_id="38">von</token>
-          <token token_id="39">20</token>
-          <token token_id="40">Gld</token>
-          <token token_id="41">.</token>
-          <token token_id="42">widerkäuffigen</token>
-          <token token_id="43">Haubtguts</token>
-          <token token_id="44">jährlichen</token>
-          <token token_id="45">1</token>
-          <token token_id="46">Gld</token>
-          <token token_id="47">.</token>
-          <token token_id="48">von</token>
-          <token token_id="49">auf</token>
-          <token token_id="50">und</token>
-          <token token_id="51">ab</token>
-          <token token_id="52">einer</token>
-          <token token_id="53">Behausung</token>
-          <token token_id="54">undt</token>
-          <token token_id="55">Hoffstatt</token>
-          <token token_id="56">an</token>
-          <token token_id="57">dem</token>
-          <token token_id="58">Fischmarckh</token>
-          <token token_id="59">gelegen</token>
-          <token token_id="60">,</token>
-          <token token_id="61">zu</token>
-          <token token_id="62">dem</token>
-          <token token_id="63">Ross</token>
-          <token token_id="64">genant</token>
-          <token token_id="65">,</token>
-          <token token_id="66">neben</token>
-          <token token_id="67">dem</token>
-          <token token_id="68">Hans</token>
-          <token token_id="69">zum</token>
-          <token token_id="70">Münch</token>
-          <token token_id="71">zu</token>
-          <token token_id="72">einer</token>
-          <token token_id="73">undt</token>
-          <token token_id="74">zu</token>
-          <token token_id="75">der</token>
-          <token token_id="76">anderen</token>
-          <token token_id="77">Seiten</token>
-          <token token_id="78">neben</token>
-          <token token_id="79">Richarts</token>
-          <token token_id="80">von</token>
-          <token token_id="81">Frankhfort</token>
-          <token token_id="82">sel</token>
-          <token token_id="83">.</token>
-          <token token_id="84">jerH</token>
-          <token token_id="85">.</token>
-          <token token_id="86">Jeremiae</token>
-          <token token_id="87">Gemusei</token>
-          <token token_id="88">des</token>
-          <token token_id="89">Raths</token>
-          <token token_id="90">Haus</token>
-          <token token_id="91">,</token>
-          <token token_id="92">zunst</token>
-          <token token_id="93">zuvor</token>
-          <token token_id="94">Dietrichen</token>
-          <token token_id="95">Murer</token>
-          <token token_id="96">4</token>
-          <token token_id="97">℔</token>
-          <token token_id="98">,</token>
-          <token token_id="99">so</token>
-          <token token_id="100">widerkäuffig</token>
-          <token token_id="101">,</token>
-          <token token_id="102">mit</token>
-          <token token_id="103">80</token>
-          <token token_id="104">℔</token>
-          <token token_id="105">,</token>
-          <token token_id="106">sonsten</token>
-          <token token_id="107">frey</token>
-          <token token_id="108">,</token>
-          <token token_id="109">ferners</token>
-          <token token_id="110">von</token>
-          <token token_id="111">der</token>
-          <token token_id="112">Eigenschafft</token>
-          <token token_id="113">dorab</token>
-          <token token_id="114">jährlichen</token>
-          <token token_id="115">1</token>
-          <token token_id="116">sh</token>
-          <token token_id="117">.</token>
-          <token token_id="118">Meister</token>
-          <token token_id="119">Georg</token>
-          <token token_id="120">Sixt</token>
-          <token token_id="121">der</token>
-          <token token_id="122">Sporer</token>
-          <token token_id="123">gibt</token>
-          <token token_id="124">jährlichen</token>
-          <token token_id="125">1</token>
+          <token token_id="13">widerkäuffigen</token>
+          <token token_id="14">Haubtguts</token>
+          <token token_id="15">jährlichen</token>
+          <token token_id="16">1</token>
+          <token token_id="17">Gld</token>
+          <token token_id="18">.</token>
+          <token token_id="19">von</token>
+          <token token_id="20">auf</token>
+          <token token_id="21">und</token>
+          <token token_id="22">ab</token>
+          <token token_id="23">einer</token>
+          <token token_id="24">Behausung</token>
+          <token token_id="25">undt</token>
+          <token token_id="26">Hoffstatt</token>
+          <token token_id="27">an</token>
+          <token token_id="28">dem</token>
+          <token token_id="29">Fischmarckh</token>
+          <token token_id="30">gelegen</token>
+          <token token_id="31">,</token>
+          <token token_id="32">zu</token>
+          <token token_id="33">dem</token>
+          <token token_id="34">Ross</token>
+          <token token_id="35">genant</token>
+          <token token_id="36">,</token>
+          <token token_id="37">neben</token>
+          <token token_id="38">dem</token>
+          <token token_id="39">Hans</token>
+          <token token_id="40">zum</token>
+          <token token_id="41">Münch</token>
+          <token token_id="42">zu</token>
+          <token token_id="43">einer</token>
+          <token token_id="44">undt</token>
+          <token token_id="45">zu</token>
+          <token token_id="46">der</token>
+          <token token_id="47">anderen</token>
+          <token token_id="48">Seiten</token>
+          <token token_id="49">neben</token>
+          <token token_id="50">Richarts</token>
+          <token token_id="51">von</token>
+          <token token_id="52">Frankhfort</token>
+          <token token_id="53">sel</token>
+          <token token_id="54">.</token>
+          <token token_id="55">jerH</token>
+          <token token_id="56">.</token>
+          <token token_id="57">Jeremiae</token>
+          <token token_id="58">Gemusei</token>
+          <token token_id="59">des</token>
+          <token token_id="60">Raths</token>
+          <token token_id="61">Haus</token>
+          <token token_id="62">,</token>
+          <token token_id="63">zunst</token>
+          <token token_id="64">zuvor</token>
+          <token token_id="65">Dietrichen</token>
+          <token token_id="66">Murer</token>
+          <token token_id="67">4</token>
+          <token token_id="68">℔</token>
+          <token token_id="69">,</token>
+          <token token_id="70">so</token>
+          <token token_id="71">widerkäuffig</token>
+          <token token_id="72">,</token>
+          <token token_id="73">mit</token>
+          <token token_id="74">80</token>
+          <token token_id="75">℔</token>
+          <token token_id="76">,</token>
+          <token token_id="77">sonsten</token>
+          <token token_id="78">frey</token>
+          <token token_id="79">,</token>
+          <token token_id="80">ferners</token>
+          <token token_id="81">von</token>
+          <token token_id="82">der</token>
+          <token token_id="83">Eigenschafft</token>
+          <token token_id="84">dorab</token>
+          <token token_id="85">jährlichen</token>
+          <token token_id="86">1</token>
+          <token token_id="87">sh</token>
+          <token token_id="88">.</token>
+          <token token_id="89">Meister</token>
+          <token token_id="90">Georg</token>
+          <token token_id="91">Sixt</token>
+          <token token_id="92">der</token>
+          <token token_id="93">Sporer</token>
+          <token token_id="94">gibt</token>
+          <token token_id="95">jährlichen</token>
+          <token token_id="96">1</token>
+          <token token_id="97">.</token>
+          <token token_id="98">3</token>
+          <token token_id="99">sh</token>
+          <token token_id="100">.</token>
+          <token token_id="101">6</token>
+          <token token_id="102">den</token>
+          <token token_id="103">.</token>
+          <token token_id="104">Fahlt</token>
+          <token token_id="105">Mr</token>
+          <token token_id="106">Balthasar</token>
+          <token token_id="107">Sigst</token>
+          <token token_id="108">der</token>
+          <token token_id="109">Sporrer</token>
+          <token token_id="110">40</token>
+          <token token_id="111">Gld</token>
+          <token token_id="112">.</token>
+          <token token_id="113">das</token>
+          <token token_id="114">Capital</token>
+          <token token_id="115">u</token>
+          <token token_id="116">.</token>
+          <token token_id="117">bleibt</token>
+          <token token_id="118">annoch</token>
+          <token token_id="119">Bodenzins</token>
+          <token token_id="120">Eden</token>
+          <token token_id="121">1765</token>
+          <token token_id="122">.</token>
+          <token token_id="123">Dessen</token>
+          <token token_id="124">Tochter</token>
+          <token token_id="125">Jgfr</token>
           <token token_id="126">.</token>
-          <token token_id="127">3</token>
-          <token token_id="128">sh</token>
+          <token token_id="127">Maria</token>
+          <token token_id="128">Magdalena</token>
           <token token_id="129">.</token>
-          <token token_id="130">6</token>
-          <token token_id="131">den</token>
-          <token token_id="132">.</token>
-          <token token_id="133">Fahlt</token>
-          <token token_id="134">Mr</token>
-          <token token_id="135">Balthasar</token>
-          <token token_id="136">Sigst</token>
-          <token token_id="137">der</token>
-          <token token_id="138">Sporrer</token>
-          <token token_id="139">40</token>
-          <token token_id="140">Gld</token>
-          <token token_id="141">.</token>
-          <token token_id="142">das</token>
-          <token token_id="143">Capital</token>
-          <token token_id="144">u</token>
-          <token token_id="145">.</token>
-          <token token_id="146">bleibt</token>
-          <token token_id="147">annoch</token>
-          <token token_id="148">Bodenzins</token>
-          <token token_id="149">Eden</token>
+          <token token_id="130">1785</token>
+          <token token_id="131">.</token>
+          <token token_id="132">H</token>
+          <token token_id="133">.</token>
+          <token token_id="134">Nicl</token>
+          <token token_id="135">.</token>
+          <token token_id="136">Geymüller</token>
+          <token token_id="137">d</token>
+          <token token_id="138">.</token>
+          <token token_id="139">R</token>
+          <token token_id="140">.</token>
+          <token token_id="141">u</token>
+          <token token_id="142">.</token>
+          <token token_id="143">Rauchhändler</token>
+          <token token_id="144">.</token>
+          <token token_id="145">Ao</token>
+          <token token_id="146">1807</token>
+          <token token_id="147">.</token>
+          <token token_id="148">Losgekauft</token>
+          <token token_id="149">.</token>
         </text>
         <spans>
-          <span id="0" start="0" end="0" element="value" class="date" confidence="1.0" text="1765"/>
-          <span id="1" start="2" end="7" element="reference" class="per" confidence="0.95" text="Dessen Tochter Jgfr . Maria Magdalena" numerus="sgl" specificity="spc" subclass="">
-            <span id="18" start="2" end="3" element="appo" class="fam" confidence="0.76" text="Dessen Tochter">
-              <span id="21" start="2" end="2" element="reference" class="unk" confidence="0.96" text="Dessen" numerus="sgl" specificity="spc" subclass="">
-                <span id="21_head" start="2" end="2" element="head" class="pro" confidence="0.96" text="Dessen"/>
-              </span>
-              <span id="22" start="3" end="3" element="head" class="fam" confidence="1.0" text="Tochter"/>
-            </span>
-            <span id="19" start="4" end="5" element="appo" class="title" confidence="0.96" text="Jgfr .">
-              <span id="23" start="4" end="5" element="head" class="title" confidence="1.0" text="Jgfr ."/>
-            </span>
-            <span id="20" start="6" end="7" element="head" class="nam" confidence="0.95" text="Maria Magdalena"/>
-          </span>
-          <span id="2" start="9" end="9" element="value" class="date" confidence="1.0" text="1785"/>
-          <span id="3" start="11" end="22" element="reference" class="per" confidence="0.95" text="H . Nicl . Geymüller d . R . u . Rauchhändler" numerus="sgl" specificity="spc" subclass="">
-            <span id="24" start="13" end="15" element="head" class="nam" confidence="0.98" text="Nicl . Geymüller"/>
-            <span id="25" start="16" end="17" element="appo" class="occ" confidence="0.87" text="d .">
-              <span id="28" start="16" end="17" element="head" class="occ" confidence="0.42" text="d ." norm="unk"/>
-            </span>
-            <span id="26" start="18" end="18" element="appo" class="title" confidence="0.73" text="R">
-              <span id="29" start="18" end="18" element="head" class="title" confidence="1.0" text="R"/>
-            </span>
-            <span id="27" start="22" end="22" element="appo" class="occ" confidence="0.79" text="Rauchhändler">
-              <span id="30" start="22" end="22" element="head" class="occ" confidence="1.0" text="Rauchhändler" norm="buchhändler" OhdAB="https://database.factgrid.de/wiki/Item:Q684981"/>
+          <span id="0" start="4" end="8" element="reference" class="per" confidence="0.98" text="Hanns von Basell dem Schneider" numerus="sgl" specificity="spc" subclass="">
+            <span id="18" start="4" end="6" element="head" class="nam" confidence="0.79" text="Hanns von Basell"/>
+            <span id="19" start="7" end="8" element="appo" class="occ" confidence="1.0" text="dem Schneider">
+              <span id="20" start="8" end="8" element="head" class="occ" confidence="1.0" text="Schneider" norm="schneider" OhdAB="https://database.factgrid.de/wiki/Item:Q671445"/>
             </span>
           </span>
-          <span id="4" start="24" end="25" element="value" class="date" confidence="0.86" text="Ao 1807"/>
-          <span id="5" start="33" end="37" element="reference" class="per" confidence="0.98" text="Hanns von Basell dem Schneider" numerus="sgl" specificity="spc" subclass="">
-            <span id="31" start="33" end="35" element="head" class="nam" confidence="0.79" text="Hanns von Basell"/>
-            <span id="32" start="36" end="37" element="appo" class="occ" confidence="1.0" text="dem Schneider">
-              <span id="33" start="37" end="37" element="head" class="occ" confidence="1.0" text="Schneider" norm="schneider" OhdAB="https://database.factgrid.de/wiki/Item:Q671445"/>
-            </span>
-          </span>
-          <span id="6" start="39" end="41" element="value" class="money" confidence="0.99" text="20 Gld ." norm="20.0 Gulden"/>
-          <span id="7" start="44" end="44" element="value" class="time" confidence="0.99" text="jährlichen"/>
-          <span id="8" start="45" end="47" element="value" class="money" confidence="1.0" text="1 Gld ." norm="1.0 Gulden"/>
-          <span id="9" start="52" end="113" element="reference" class="fac" confidence="0.91" text="einer Behausung undt Hoffstatt an dem Fischmarckh gelegen , zu dem Ross genant , neben dem Hans zum Münch zu einer undt zu der anderen Seiten neben Richarts von Frankhfort sel . jerH . Jeremiae Gemusei des Raths Haus , zunst zuvor Dietrichen Murer 4 ℔ , so widerkäuffig , mit 80 ℔ , sonsten frey , ferners von der Eigenschafft dorab" numerus="sgl" specificity="spc" subclass="">
-            <span id="34" start="53" end="55" element="head" class="type" confidence="0.99" text="Behausung undt Hoffstatt" norm="Behausung|Hofstatt"/>
-            <span id="35" start="56" end="59" element="attr" class="loc" confidence="0.98" text="an dem Fischmarckh gelegen">
-              <span id="39" start="57" end="58" element="reference" class="fac" confidence="0.77" text="dem Fischmarckh" numerus="sgl" specificity="spc" subclass="square">
-                <span id="40" start="58" end="58" element="head" class="nam" confidence="1.0" text="Fischmarckh"/>
+          <span id="1" start="10" end="12" element="value" class="money" confidence="1.0" text="20 Gld ." norm="20.0 Gulden"/>
+          <span id="2" start="15" end="15" element="value" class="time" confidence="0.99" text="jährlichen"/>
+          <span id="3" start="16" end="18" element="value" class="money" confidence="1.0" text="1 Gld ." norm="1.0 Gulden"/>
+          <span id="4" start="23" end="84" element="reference" class="fac" confidence="0.92" text="einer Behausung undt Hoffstatt an dem Fischmarckh gelegen , zu dem Ross genant , neben dem Hans zum Münch zu einer undt zu der anderen Seiten neben Richarts von Frankhfort sel . jerH . Jeremiae Gemusei des Raths Haus , zunst zuvor Dietrichen Murer 4 ℔ , so widerkäuffig , mit 80 ℔ , sonsten frey , ferners von der Eigenschafft dorab" numerus="sgl" specificity="spc" subclass="">
+            <span id="21" start="24" end="26" element="head" class="type" confidence="0.99" text="Behausung undt Hoffstatt" norm="Behausung|Hofstatt"/>
+            <span id="22" start="27" end="30" element="attr" class="loc" confidence="0.98" text="an dem Fischmarckh gelegen">
+              <span id="26" start="28" end="29" element="reference" class="fac" confidence="0.77" text="dem Fischmarckh" numerus="sgl" specificity="spc" subclass="square">
+                <span id="27" start="29" end="29" element="head" class="nam" confidence="1.0" text="Fischmarckh"/>
               </span>
             </span>
-            <span id="36" start="62" end="63" element="appo" class="nam" confidence="0.91" text="dem Ross">
-              <span id="41" start="62" end="63" element="head" class="nam" confidence="0.58" text="dem Ross"/>
+            <span id="23" start="33" end="34" element="appo" class="nam" confidence="0.91" text="dem Ross">
+              <span id="28" start="33" end="34" element="head" class="nam" confidence="0.58" text="dem Ross"/>
             </span>
-            <span id="37" start="66" end="90" element="attr" class="loc" confidence="0.99" text="neben dem Hans zum Münch zu einer undt zu der anderen Seiten neben Richarts von Frankhfort sel . jerH . Jeremiae Gemusei des Raths Haus">
-              <span id="42" start="67" end="70" element="reference" class="fac" confidence="0.99" text="dem Hans zum Münch" numerus="sgl" specificity="spc" subclass="">
-                <span id="45" start="68" end="70" element="head" class="nam" confidence="0.98" text="Hans zum Münch"/>
+            <span id="24" start="37" end="61" element="attr" class="loc" confidence="0.99" text="neben dem Hans zum Münch zu einer undt zu der anderen Seiten neben Richarts von Frankhfort sel . jerH . Jeremiae Gemusei des Raths Haus">
+              <span id="29" start="38" end="41" element="reference" class="fac" confidence="0.99" text="dem Hans zum Münch" numerus="sgl" specificity="spc" subclass="">
+                <span id="32" start="39" end="41" element="head" class="nam" confidence="0.98" text="Hans zum Münch"/>
               </span>
-              <span id="43" start="79" end="83" element="reference" class="per" confidence="0.95" text="Richarts von Frankhfort sel ." numerus="sgl" specificity="spc" subclass="">
-                <span id="46" start="79" end="81" element="head" class="nam" confidence="1.0" text="Richarts von Frankhfort"/>
-                <span id="47" start="82" end="83" element="attr" class="dead" confidence="1.0" text="sel ."/>
+              <span id="30" start="50" end="54" element="reference" class="per" confidence="0.95" text="Richarts von Frankhfort sel ." numerus="sgl" specificity="spc" subclass="">
+                <span id="33" start="50" end="52" element="head" class="nam" confidence="1.0" text="Richarts von Frankhfort"/>
+                <span id="34" start="53" end="54" element="attr" class="dead" confidence="1.0" text="sel ."/>
               </span>
-              <span id="44" start="86" end="90" element="reference" class="fac" confidence="0.85" text="Jeremiae Gemusei des Raths Haus" numerus="sgl" specificity="spc" subclass="">
-                <span id="48" start="86" end="89" element="attr" class="owner" confidence="1.0" text="Jeremiae Gemusei des Raths">
-                  <span id="50" start="86" end="89" element="reference" class="per" confidence="0.98" text="Jeremiae Gemusei des Raths" numerus="sgl" specificity="spc" subclass="">
-                    <span id="51" start="86" end="87" element="head" class="nam" confidence="1.0" text="Jeremiae Gemusei"/>
-                    <span id="52" start="88" end="89" element="attr" class="org-aff" confidence="1.0" text="des Raths">
-                      <span id="53" start="88" end="89" element="reference" class="org" confidence="0.69" text="des Raths" numerus="sgl" specificity="spc" subclass="gov">
-                        <span id="54" start="89" end="89" element="head" class="type" confidence="0.96" text="Raths" norm="Stadtrat Basel"/>
+              <span id="31" start="57" end="61" element="reference" class="fac" confidence="0.85" text="Jeremiae Gemusei des Raths Haus" numerus="sgl" specificity="spc" subclass="">
+                <span id="35" start="57" end="60" element="attr" class="owner" confidence="1.0" text="Jeremiae Gemusei des Raths">
+                  <span id="37" start="57" end="60" element="reference" class="per" confidence="0.98" text="Jeremiae Gemusei des Raths" numerus="sgl" specificity="spc" subclass="">
+                    <span id="38" start="57" end="58" element="head" class="nam" confidence="1.0" text="Jeremiae Gemusei"/>
+                    <span id="39" start="59" end="60" element="attr" class="org-aff" confidence="1.0" text="des Raths">
+                      <span id="40" start="59" end="60" element="reference" class="org" confidence="0.69" text="des Raths" numerus="sgl" specificity="spc" subclass="gov">
+                        <span id="41" start="60" end="60" element="head" class="type" confidence="0.96" text="Raths" norm="Stadtrat Basel"/>
                       </span>
                     </span>
                   </span>
                 </span>
-                <span id="49" start="90" end="90" element="head" class="type" confidence="1.0" text="Haus" norm="Haus"/>
+                <span id="36" start="61" end="61" element="head" class="type" confidence="1.0" text="Haus" norm="Haus"/>
               </span>
             </span>
-            <span id="38" start="92" end="113" element="attr" class="dues" confidence="0.97" text="zunst zuvor Dietrichen Murer 4 ℔ , so widerkäuffig , mit 80 ℔ , sonsten frey , ferners von der Eigenschafft dorab">
-              <span id="55" start="92" end="92" element="trigger" class="due" confidence="0.82" text="zunst"/>
-              <span id="56" start="94" end="95" element="reference" class="per" confidence="1.0" text="Dietrichen Murer" numerus="sgl" specificity="spc" subclass="">
-                <span id="60" start="94" end="95" element="head" class="nam" confidence="1.0" text="Dietrichen Murer"/>
+            <span id="25" start="63" end="84" element="attr" class="dues" confidence="0.97" text="zunst zuvor Dietrichen Murer 4 ℔ , so widerkäuffig , mit 80 ℔ , sonsten frey , ferners von der Eigenschafft dorab">
+              <span id="42" start="63" end="63" element="trigger" class="due" confidence="0.82" text="zunst"/>
+              <span id="43" start="65" end="66" element="reference" class="per" confidence="1.0" text="Dietrichen Murer" numerus="sgl" specificity="spc" subclass="">
+                <span id="47" start="65" end="66" element="head" class="nam" confidence="1.0" text="Dietrichen Murer"/>
               </span>
-              <span id="57" start="96" end="97" element="value" class="money" confidence="1.0" text="4 ℔" norm="4.0 Pfund"/>
-              <span id="58" start="100" end="100" element="trigger" class="redemption" confidence="0.88" text="widerkäuffig"/>
-              <span id="59" start="103" end="104" element="value" class="money" confidence="1.0" text="80 ℔" norm="80.0 Pfund"/>
+              <span id="44" start="67" end="68" element="value" class="money" confidence="1.0" text="4 ℔" norm="4.0 Pfund"/>
+              <span id="45" start="71" end="71" element="trigger" class="redemption" confidence="0.88" text="widerkäuffig"/>
+              <span id="46" start="74" end="75" element="value" class="money" confidence="1.0" text="80 ℔" norm="80.0 Pfund"/>
             </span>
           </span>
-          <span id="10" start="114" end="114" element="value" class="time" confidence="0.98" text="jährlichen"/>
-          <span id="11" start="115" end="117" element="value" class="money" confidence="0.98" text="1 sh ." norm="1.0 Schilling"/>
-          <span id="12" start="118" end="122" element="reference" class="per" confidence="0.99" text="Meister Georg Sixt der Sporer" numerus="sgl" specificity="spc" subclass="">
-            <span id="61" start="118" end="118" element="appo" class="title" confidence="1.0" text="Meister">
-              <span id="64" start="118" end="118" element="head" class="title" confidence="1.0" text="Meister"/>
+          <span id="5" start="85" end="85" element="value" class="time" confidence="0.97" text="jährlichen"/>
+          <span id="6" start="86" end="88" element="value" class="money" confidence="0.92" text="1 sh ." norm="1.0 Schilling"/>
+          <span id="7" start="89" end="93" element="reference" class="per" confidence="0.99" text="Meister Georg Sixt der Sporer" numerus="sgl" specificity="spc" subclass="">
+            <span id="48" start="89" end="89" element="appo" class="title" confidence="1.0" text="Meister">
+              <span id="51" start="89" end="89" element="head" class="title" confidence="1.0" text="Meister"/>
             </span>
-            <span id="62" start="119" end="120" element="head" class="nam" confidence="1.0" text="Georg Sixt"/>
-            <span id="63" start="121" end="122" element="appo" class="occ" confidence="1.0" text="der Sporer">
-              <span id="65" start="122" end="122" element="head" class="occ" confidence="1.0" text="Sporer" norm="unk" OhdAB=""/>
-            </span>
-          </span>
-          <span id="13" start="123" end="123" element="trigger" class="due" confidence="1.0" text="gibt"/>
-          <span id="14" start="124" end="124" element="value" class="time" confidence="1.0" text="jährlichen"/>
-          <span id="15" start="125" end="132" element="value" class="money" confidence="0.97" text="1 . 3 sh . 6 den ." norm="unk unk|3.0 Schilling|6.0 Denare"/>
-          <span id="16" start="134" end="138" element="reference" class="per" confidence="1.0" text="Mr Balthasar Sigst der Sporrer" numerus="sgl" specificity="spc" subclass="">
-            <span id="66" start="134" end="134" element="appo" class="title" confidence="0.98" text="Mr">
-              <span id="69" start="134" end="134" element="head" class="title" confidence="1.0" text="Mr"/>
-            </span>
-            <span id="67" start="135" end="136" element="head" class="nam" confidence="1.0" text="Balthasar Sigst"/>
-            <span id="68" start="137" end="138" element="appo" class="occ" confidence="1.0" text="der Sporrer">
-              <span id="70" start="138" end="138" element="head" class="occ" confidence="1.0" text="Sporrer" norm="sporer" OhdAB="https://database.factgrid.de/wiki/Item:Q665186"/>
+            <span id="49" start="90" end="91" element="head" class="nam" confidence="1.0" text="Georg Sixt"/>
+            <span id="50" start="92" end="93" element="appo" class="occ" confidence="1.0" text="der Sporer">
+              <span id="52" start="93" end="93" element="head" class="occ" confidence="1.0" text="Sporer" norm="unk" OhdAB=""/>
             </span>
           </span>
-          <span id="17" start="139" end="141" element="value" class="money" confidence="1.0" text="40 Gld ." norm="40.0 Gulden"/>
+          <span id="8" start="94" end="94" element="trigger" class="due" confidence="1.0" text="gibt"/>
+          <span id="9" start="95" end="95" element="value" class="time" confidence="1.0" text="jährlichen"/>
+          <span id="10" start="96" end="103" element="value" class="money" confidence="0.97" text="1 . 3 sh . 6 den ." norm="unk unk|3.0 Schilling|6.0 Denare"/>
+          <span id="11" start="105" end="109" element="reference" class="per" confidence="1.0" text="Mr Balthasar Sigst der Sporrer" numerus="sgl" specificity="spc" subclass="">
+            <span id="53" start="105" end="105" element="appo" class="title" confidence="0.98" text="Mr">
+              <span id="56" start="105" end="105" element="head" class="title" confidence="1.0" text="Mr"/>
+            </span>
+            <span id="54" start="106" end="107" element="head" class="nam" confidence="1.0" text="Balthasar Sigst"/>
+            <span id="55" start="108" end="109" element="appo" class="occ" confidence="1.0" text="der Sporrer">
+              <span id="57" start="109" end="109" element="head" class="occ" confidence="1.0" text="Sporrer" norm="sporer" OhdAB="https://database.factgrid.de/wiki/Item:Q665186"/>
+            </span>
+          </span>
+          <span id="12" start="110" end="112" element="value" class="money" confidence="1.0" text="40 Gld ." norm="40.0 Gulden"/>
+          <span id="13" start="121" end="121" element="value" class="date" confidence="1.0" text="1765"/>
+          <span id="14" start="123" end="128" element="reference" class="per" confidence="0.91" text="Dessen Tochter Jgfr . Maria Magdalena" numerus="sgl" specificity="spc" subclass="">
+            <span id="58" start="123" end="124" element="appo" class="fam" confidence="0.85" text="Dessen Tochter">
+              <span id="61" start="123" end="123" element="reference" class="per" confidence="0.95" text="Dessen" numerus="sgl" specificity="spc" subclass="">
+                <span id="61_head" start="123" end="123" element="head" class="pro" confidence="0.95" text="Dessen"/>
+              </span>
+              <span id="62" start="124" end="124" element="head" class="fam" confidence="1.0" text="Tochter"/>
+            </span>
+            <span id="59" start="125" end="126" element="appo" class="title" confidence="0.97" text="Jgfr .">
+              <span id="63" start="125" end="126" element="head" class="title" confidence="1.0" text="Jgfr ."/>
+            </span>
+            <span id="60" start="127" end="128" element="head" class="nam" confidence="0.98" text="Maria Magdalena"/>
+          </span>
+          <span id="15" start="130" end="130" element="value" class="date" confidence="1.0" text="1785"/>
+          <span id="16" start="132" end="143" element="reference" class="per" confidence="0.92" text="H . Nicl . Geymüller d . R . u . Rauchhändler" numerus="sgl" specificity="spc" subclass="">
+            <span id="64" start="134" end="136" element="head" class="nam" confidence="0.98" text="Nicl . Geymüller"/>
+            <span id="65" start="137" end="138" element="appo" class="occ" confidence="0.87" text="d .">
+              <span id="68" start="137" end="138" element="head" class="occ" confidence="0.42" text="d ." norm="unk"/>
+            </span>
+            <span id="66" start="139" end="139" element="appo" class="title" confidence="0.73" text="R">
+              <span id="69" start="139" end="139" element="head" class="title" confidence="1.0" text="R"/>
+            </span>
+            <span id="67" start="143" end="143" element="appo" class="occ" confidence="0.79" text="Rauchhändler">
+              <span id="70" start="143" end="143" element="head" class="occ" confidence="1.0" text="Rauchhändler" norm="buchhändler" OhdAB="https://database.factgrid.de/wiki/Item:Q684981"/>
+            </span>
+          </span>
+          <span id="17" start="145" end="146" element="value" class="date" confidence="0.85" text="Ao 1807"/>
         </spans>
-        <relations/>
+        <relations>
+          <relation id="1" from="61" to="11" class="coref"/>
+        </relations>
         <eventGroups>
-          <eventGroup event_id="0" class="due-obligation" start="92" end="104" ref="38" type="state" tense="unk" polarity="unk" modality="unk">
-            <trigger ref="55" text="zunst"/>
+          <eventGroup event_id="0" class="due-obligation" start="63" end="75" ref="25" type="state" tense="unk" polarity="unk" modality="unk">
+            <trigger ref="42" text="zunst"/>
             <event event_id="0.0">
-              <role role="beneficiary" confidence="0.85" ref="56" text="Dietrichen Murer"/>
-              <role role="interest" confidence="0.98" ref="57" text="4 ℔"/>
-              <role role="interest-redeemable" confidence="0.91" ref="58" text="widerkäuffig"/>
-              <role role="capital" confidence="0.76" ref="59" text="80 ℔"/>
+              <role role="beneficiary" confidence="0.85" ref="43" text="Dietrichen Murer"/>
+              <role role="interest" confidence="0.98" ref="44" text="4 ℔"/>
+              <role role="interest-redeemable" confidence="0.91" ref="45" text="widerkäuffig"/>
+              <role role="capital" confidence="0.76" ref="46" text="80 ℔"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="1" class="redemption" start="100" end="104" ref="38" type="event" tense="unk" polarity="unk" modality="unk">
-            <trigger ref="58" text="widerkäuffig"/>
+          <eventGroup event_id="1" class="redemption" start="71" end="75" ref="25" type="event" tense="unk" polarity="unk" modality="unk">
+            <trigger ref="45" text="widerkäuffig"/>
             <event event_id="1.0">
-              <role role="capital" confidence="0.88" ref="59" text="80 ℔"/>
+              <role role="capital" confidence="0.88" ref="46" text="80 ℔"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="2" class="due-obligation" start="39" end="141" ref="" type="state" tense="unk" polarity="unk" modality="unk">
-            <trigger ref="13" text="gibt"/>
+          <eventGroup event_id="2" class="due-payment" start="10" end="130" ref="" type="event" tense="unk" polarity="unk" modality="unk">
+            <trigger ref="8" text="gibt"/>
             <event event_id="2.0">
-              <role role="capital" confidence="0.99" ref="6" text="20 Gld ."/>
-              <role role="interval" confidence="1.0" ref="7" text="jährlichen"/>
-              <role role="interest" confidence="0.99" ref="8" text="1 Gld ."/>
-              <role role="property" confidence="0.98" ref="9" text="einer Behausung undt Hoffstatt an dem Fischmarckh gelegen , zu dem Ross genant , neben dem Hans zum Münch zu einer undt zu der anderen Seiten neben Richarts von Frankhfort sel . jerH . Jeremiae Gemusei des Raths Haus , zunst zuvor Dietrichen Murer 4 ℔ , so widerkäuffig , mit 80 ℔ , sonsten frey , ferners von der Eigenschafft dorab"/>
-              <role role="interval" confidence="1.0" ref="10" text="jährlichen"/>
-              <role role="interest" confidence="1.0" ref="11" text="1 sh ."/>
-              <role role="payer" confidence="0.52" ref="12" text="Meister Georg Sixt der Sporer"/>
-              <role role="interval" confidence="1.0" ref="14" text="jährlichen"/>
-              <role role="interest" confidence="1.0" ref="15" text="1 . 3 sh . 6 den ."/>
-              <role role="beneficiary" confidence="1.0" ref="16" text="Mr Balthasar Sigst der Sporrer"/>
-              <role role="capital" confidence="0.78" ref="17" text="40 Gld ."/>
+              <role role="date" text="1487.0" inferred="True"/>
+              <role role="capital" confidence="0.97" ref="1" text="20 Gld ."/>
+              <role role="interval" confidence="1.0" ref="2" text="jährlichen"/>
+              <role role="interest" confidence="0.99" ref="3" text="1 Gld ."/>
+              <role role="property" confidence="0.98" ref="4" text="einer Behausung undt Hoffstatt an dem Fischmarckh gelegen , zu dem Ross genant , neben dem Hans zum Münch zu einer undt zu der anderen Seiten neben Richarts von Frankhfort sel . jerH . Jeremiae Gemusei des Raths Haus , zunst zuvor Dietrichen Murer 4 ℔ , so widerkäuffig , mit 80 ℔ , sonsten frey , ferners von der Eigenschafft dorab"/>
+              <role role="interval" confidence="1.0" ref="5" text="jährlichen"/>
+              <role role="interest" confidence="1.0" ref="6" text="1 sh ."/>
+              <role role="payer" confidence="0.51" ref="7" text="Meister Georg Sixt der Sporer"/>
+              <role role="interval" confidence="1.0" ref="9" text="jährlichen"/>
+              <role role="interest" confidence="1.0" ref="10" text="1 . 3 sh . 6 den ."/>
+              <role role="beneficiary" confidence="1.0" ref="11" text="Mr Balthasar Sigst der Sporrer"/>
+              <role role="capital" confidence="0.75" ref="12" text="40 Gld ."/>
+              <role role="date" confidence="0.87" ref="15" text="1785"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="3" class="family" start="2" end="3" ref="18" type="state" tense="unk" polarity="unk" modality="unk">
-            <trigger start="3" end="3" text="Tochter" ref="22"/>
+          <eventGroup event_id="3" class="family" start="123" end="124" ref="58" type="state" tense="unk" polarity="unk" modality="unk">
+            <trigger start="124" end="124" text="Tochter" ref="62"/>
             <event event_id="3.0">
-              <role role="family-a" ref="1" text="Dessen Tochter Jgfr . Maria Magdalena"/>
-              <role role="family-b" ref="21" text="Dessen"/>
+              <role role="family-a" ref="14" text="Dessen Tochter Jgfr . Maria Magdalena"/>
+              <role role="family-b" ref="61" text="Dessen"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="4" class="topological" start="56" end="59" ref="35" type="state" tense="unk" polarity="unk" modality="unk">
+          <eventGroup event_id="4" class="topological" start="27" end="30" ref="22" type="state" tense="unk" polarity="unk" modality="unk">
             <event event_id="4.0">
-              <role role="location-a" ref="9" text="einer Behausung undt Hoffstatt an dem Fischmarckh gelegen , zu dem Ross genant , neben dem Hans zum Münch zu einer undt zu der anderen Seiten neben Richarts von Frankhfort sel . jerH . Jeremiae Gemusei des Raths Haus , zunst zuvor Dietrichen Murer 4 ℔ , so widerkäuffig , mit 80 ℔ , sonsten frey , ferners von der Eigenschafft dorab"/>
-              <role role="location-b" ref="39" text="dem Fischmarckh"/>
+              <role role="location-a" ref="4" text="einer Behausung undt Hoffstatt an dem Fischmarckh gelegen , zu dem Ross genant , neben dem Hans zum Münch zu einer undt zu der anderen Seiten neben Richarts von Frankhfort sel . jerH . Jeremiae Gemusei des Raths Haus , zunst zuvor Dietrichen Murer 4 ℔ , so widerkäuffig , mit 80 ℔ , sonsten frey , ferners von der Eigenschafft dorab"/>
+              <role role="location-b" ref="26" text="dem Fischmarckh"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="5" class="topological" start="66" end="90" ref="37" type="state" tense="unk" polarity="unk" modality="unk">
+          <eventGroup event_id="5" class="topological" start="37" end="61" ref="24" type="state" tense="unk" polarity="unk" modality="unk">
             <event event_id="5.0">
-              <role role="location-a" ref="9" text="einer Behausung undt Hoffstatt an dem Fischmarckh gelegen , zu dem Ross genant , neben dem Hans zum Münch zu einer undt zu der anderen Seiten neben Richarts von Frankhfort sel . jerH . Jeremiae Gemusei des Raths Haus , zunst zuvor Dietrichen Murer 4 ℔ , so widerkäuffig , mit 80 ℔ , sonsten frey , ferners von der Eigenschafft dorab"/>
-              <role role="location-b" ref="42" text="dem Hans zum Münch"/>
-              <role role="location-b" ref="43" text="Richarts von Frankhfort sel ."/>
-              <role role="location-b" ref="44" text="Jeremiae Gemusei des Raths Haus"/>
+              <role role="location-a" ref="4" text="einer Behausung undt Hoffstatt an dem Fischmarckh gelegen , zu dem Ross genant , neben dem Hans zum Münch zu einer undt zu der anderen Seiten neben Richarts von Frankhfort sel . jerH . Jeremiae Gemusei des Raths Haus , zunst zuvor Dietrichen Murer 4 ℔ , so widerkäuffig , mit 80 ℔ , sonsten frey , ferners von der Eigenschafft dorab"/>
+              <role role="location-b" ref="29" text="dem Hans zum Münch"/>
+              <role role="location-b" ref="30" text="Richarts von Frankhfort sel ."/>
+              <role role="location-b" ref="31" text="Jeremiae Gemusei des Raths Haus"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="6" class="ownership" start="86" end="89" ref="48" type="state" tense="unk" polarity="unk" modality="unk">
+          <eventGroup event_id="6" class="ownership" start="57" end="60" ref="35" type="state" tense="unk" polarity="unk" modality="unk">
             <event event_id="6.0">
-              <role role="property" ref="44" text="Jeremiae Gemusei des Raths Haus"/>
-              <role role="owner" ref="50" text="Jeremiae Gemusei des Raths"/>
+              <role role="property" ref="31" text="Jeremiae Gemusei des Raths Haus"/>
+              <role role="owner" ref="37" text="Jeremiae Gemusei des Raths"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="7" class="membership" start="88" end="89" ref="52" type="state" tense="unk" polarity="unk" modality="unk">
+          <eventGroup event_id="7" class="membership" start="59" end="60" ref="39" type="state" tense="unk" polarity="unk" modality="unk">
             <event event_id="7.0">
-              <role role="member" ref="50" text="Jeremiae Gemusei des Raths"/>
-              <role role="organization" ref="53" text="des Raths"/>
+              <role role="member" ref="37" text="Jeremiae Gemusei des Raths"/>
+              <role role="organization" ref="40" text="des Raths"/>
             </event>
           </eventGroup>
         </eventGroups>
@@ -43657,7 +43666,7 @@
           </eventGroup>
         </eventGroups>
       </document>
-      <document id="9b983b1a-d61b-4950-8893-24132955d976_20260528">
+      <document id="9452045b-cceb-4d85-9131-634e0f75aa94_20260615">
         <metadata>
           <street_id>HGB_1_106</street_id>
           <dossier_id>HGB_1_106_015</dossier_id>
@@ -43665,624 +43674,625 @@
           <source>Klingental</source>
           <language>german</language>
           <checked_by_gpt>false</checked_by_gpt>
-          <text>umb 100 gulden in Muntz Basler Wehrung. ist widerkäufig samethaft mit 100 gld. in Müntz oder je 10ß gelts mit 10 ℔. Datum: Montag nach sant Peters Tag. seiner Banden Ao 1521 gibt jetz Hans Vogler, gab zuvor Hans Locher uf Letare 6 ℔ 5ß. gibt jetzt Jsaac Trer der Schlosser. Montags den 17. Augusti ao 1618. hat Jsaac Ter in seines bruders Abraham des Buchbinders bewesen das Hauptgut mit 125 ℔ abgelöst. Clingenthal F. Registratur, fol. 23 Gross Basel. Hans Meyer, der Satler burger zu Basel, und Veronica sein Ehefrow, Marx Werdenberg des Raths zu Barsel und Elsbetha seiner Hausfrauwen, verkauften 5 gulden geltz in Müntz, für jeden 1 ℔ 5ß stebler, jerlichs zinses auf Letare zu halber fasten verfallend, von und ab iren der Hauptverkeufern Haus und Hofstatt mit aller zugehördt in der Statt Basel bey der Herberg zuer, zwischen den Heusern zuon Mören und zu der Elen gelegen, so zum König genant, zinst von eigenschaft wegen den Herrn von sant Peter zu Basel 4 ℔ 5ß zins pfennig und 1 Hun zu wysung, so dan 1ß zins ȡ zu Erschatz; item 1ß zins pfennig den Herrn zu sant Martin item der Thermentarin uf Burg zu Basel ein Viertheil roths wins zuletzt den Predigern zu Basel 23ß seindt ablösin; weiters ledig, frei, eigen. der Kauf ist beschechen Metzer hs, Eig v. 4 Ao 1526</text>
+          <text>Gross Basel. Hans Meyer, der Satler burger zu Basel, und Veronica sein Ehefrow, Marx Werdenberg des Raths zu Barsel und Elsbetha seiner Hausfrauwen, verkauften 5 gulden geltz in Müntz, für jeden 1 ℔ 5ß stebler, jerlichs zinses auf Letare zu halber fasten verfallend, von und ab iren der Hauptverkeufern Haus und Hofstatt mit aller zugehördt in der Statt Basel bey der Herberg zuer, zwischen den Heusern zuon Mören und zu der Elen gelegen, so zum König genant, zinst von eigenschaft wegen den Herrn von sant Peter zu Basel 4 ℔ 5ß zins pfennig und 1 Hun zu wysung, so dan 1ß zins ȡ zu Erschatz; item 1ß zins pfennig den Herrn zu sant Martin item der Thermentarin uf Burg zu Basel ein Viertheil roths wins zuletzt den Predigern zu Basel 23ß seindt ablösin; weiters ledig, frei, eigen. der Kauf ist beschechen Metzer hs, Eig v. 4 Ao 1526 umb 100 gulden in Muntz Basler Wehrung. ist widerkäufig samethaft mit 100 gld. in Müntz oder je 10ß gelts mit 10 ℔. Datum: Montag nach sant Peters Tag. seiner Banden Ao 1521 gibt jetz Hans Vogler, gab zuvor Hans Locher uf Letare 6 ℔ 5ß. gibt jetzt Jsaac Trer der Schlosser. Montags den 17. Augusti ao 1618. hat Jsaac Ter in seines bruders Abraham des Buchbinders bewesen das Hauptgut mit 125 ℔ abgelöst. Clingenthal F. Registratur, fol. 23</text>
           <mentioned_houses>
-            <house span_ref="87">zum König</house>
+            <house span_ref="75">zum König</house>
           </mentioned_houses>
           <pages>
-            <page nr="29">https://files.transkribus.eu/Get?fileType=view&amp;id=AIBJLVHYNXFXYNUZDJYAMVLD</page>
-            <page nr="30">https://files.transkribus.eu/Get?fileType=view&amp;id=QUITKBLJAYBFOEFLOWFEIEPQ</page>
+            <page nr="29"><![CDATA[https://files.transkribus.eu/Get?fileType=view&id=AIBJLVHYNXFXYNUZDJYAMVLD]]></page>
+            <page nr="30"><![CDATA[https://files.transkribus.eu/Get?fileType=view&id=QUITKBLJAYBFOEFLOWFEIEPQ]]></page>
           </pages>
         </metadata>
         <text>
-          <token token_id="0">umb</token>
-          <token token_id="1">100</token>
-          <token token_id="2">gulden</token>
-          <token token_id="3">in</token>
-          <token token_id="4">Muntz</token>
-          <token token_id="5">Basler</token>
-          <token token_id="6">Wehrung</token>
-          <token token_id="7">.</token>
-          <token token_id="8">ist</token>
-          <token token_id="9">widerkäufig</token>
-          <token token_id="10">samethaft</token>
-          <token token_id="11">mit</token>
-          <token token_id="12">100</token>
-          <token token_id="13">gld</token>
-          <token token_id="14">.</token>
-          <token token_id="15">in</token>
-          <token token_id="16">Müntz</token>
-          <token token_id="17">oder</token>
-          <token token_id="18">je</token>
-          <token token_id="19">10ß</token>
-          <token token_id="20">gelts</token>
-          <token token_id="21">mit</token>
-          <token token_id="22">10</token>
-          <token token_id="23">℔</token>
-          <token token_id="24">.</token>
-          <token token_id="25">Datum</token>
-          <token token_id="26">:</token>
-          <token token_id="27">Montag</token>
-          <token token_id="28">nach</token>
-          <token token_id="29">sant</token>
-          <token token_id="30">Peters</token>
-          <token token_id="31">Tag</token>
-          <token token_id="32">.</token>
-          <token token_id="33">seiner</token>
-          <token token_id="34">Banden</token>
-          <token token_id="35">Ao</token>
-          <token token_id="36">1521</token>
-          <token token_id="37">gibt</token>
-          <token token_id="38">jetz</token>
-          <token token_id="39">Hans</token>
-          <token token_id="40">Vogler</token>
+          <token token_id="0">Gross</token>
+          <token token_id="1">Basel</token>
+          <token token_id="2">.</token>
+          <token token_id="3">Hans</token>
+          <token token_id="4">Meyer</token>
+          <token token_id="5">,</token>
+          <token token_id="6">der</token>
+          <token token_id="7">Satler</token>
+          <token token_id="8">burger</token>
+          <token token_id="9">zu</token>
+          <token token_id="10">Basel</token>
+          <token token_id="11">,</token>
+          <token token_id="12">und</token>
+          <token token_id="13">Veronica</token>
+          <token token_id="14">sein</token>
+          <token token_id="15">Ehefrow</token>
+          <token token_id="16">,</token>
+          <token token_id="17">Marx</token>
+          <token token_id="18">Werdenberg</token>
+          <token token_id="19">des</token>
+          <token token_id="20">Raths</token>
+          <token token_id="21">zu</token>
+          <token token_id="22">Barsel</token>
+          <token token_id="23">und</token>
+          <token token_id="24">Elsbetha</token>
+          <token token_id="25">seiner</token>
+          <token token_id="26">Hausfrauwen</token>
+          <token token_id="27">,</token>
+          <token token_id="28">verkauften</token>
+          <token token_id="29">5</token>
+          <token token_id="30">gulden</token>
+          <token token_id="31">geltz</token>
+          <token token_id="32">in</token>
+          <token token_id="33">Müntz</token>
+          <token token_id="34">,</token>
+          <token token_id="35">für</token>
+          <token token_id="36">jeden</token>
+          <token token_id="37">1</token>
+          <token token_id="38">℔</token>
+          <token token_id="39">5ß</token>
+          <token token_id="40">stebler</token>
           <token token_id="41">,</token>
-          <token token_id="42">gab</token>
-          <token token_id="43">zuvor</token>
-          <token token_id="44">Hans</token>
-          <token token_id="45">Locher</token>
-          <token token_id="46">uf</token>
-          <token token_id="47">Letare</token>
-          <token token_id="48">6</token>
-          <token token_id="49">℔</token>
-          <token token_id="50">5ß</token>
-          <token token_id="51">.</token>
-          <token token_id="52">gibt</token>
-          <token token_id="53">jetzt</token>
-          <token token_id="54">Jsaac</token>
-          <token token_id="55">Trer</token>
-          <token token_id="56">der</token>
-          <token token_id="57">Schlosser</token>
-          <token token_id="58">.</token>
-          <token token_id="59">Montags</token>
-          <token token_id="60">den</token>
-          <token token_id="61">17</token>
-          <token token_id="62">.</token>
-          <token token_id="63">Augusti</token>
-          <token token_id="64">ao</token>
-          <token token_id="65">1618</token>
-          <token token_id="66">.</token>
-          <token token_id="67">hat</token>
-          <token token_id="68">Jsaac</token>
-          <token token_id="69">Ter</token>
-          <token token_id="70">in</token>
-          <token token_id="71">seines</token>
-          <token token_id="72">bruders</token>
-          <token token_id="73">Abraham</token>
-          <token token_id="74">des</token>
-          <token token_id="75">Buchbinders</token>
-          <token token_id="76">bewesen</token>
-          <token token_id="77">das</token>
-          <token token_id="78">Hauptgut</token>
-          <token token_id="79">mit</token>
-          <token token_id="80">125</token>
-          <token token_id="81">℔</token>
-          <token token_id="82">abgelöst</token>
-          <token token_id="83">.</token>
-          <token token_id="84">Clingenthal</token>
-          <token token_id="85">F</token>
-          <token token_id="86">.</token>
-          <token token_id="87">Registratur</token>
-          <token token_id="88">,</token>
-          <token token_id="89">fol</token>
-          <token token_id="90">.</token>
-          <token token_id="91">23</token>
-          <token token_id="92">Gross</token>
-          <token token_id="93">Basel</token>
-          <token token_id="94">.</token>
-          <token token_id="95">Hans</token>
-          <token token_id="96">Meyer</token>
-          <token token_id="97">,</token>
-          <token token_id="98">der</token>
-          <token token_id="99">Satler</token>
-          <token token_id="100">burger</token>
-          <token token_id="101">zu</token>
-          <token token_id="102">Basel</token>
-          <token token_id="103">,</token>
+          <token token_id="42">jerlichs</token>
+          <token token_id="43">zinses</token>
+          <token token_id="44">auf</token>
+          <token token_id="45">Letare</token>
+          <token token_id="46">zu</token>
+          <token token_id="47">halber</token>
+          <token token_id="48">fasten</token>
+          <token token_id="49">verfallend</token>
+          <token token_id="50">,</token>
+          <token token_id="51">von</token>
+          <token token_id="52">und</token>
+          <token token_id="53">ab</token>
+          <token token_id="54">iren</token>
+          <token token_id="55">der</token>
+          <token token_id="56">Hauptverkeufern</token>
+          <token token_id="57">Haus</token>
+          <token token_id="58">und</token>
+          <token token_id="59">Hofstatt</token>
+          <token token_id="60">mit</token>
+          <token token_id="61">aller</token>
+          <token token_id="62">zugehördt</token>
+          <token token_id="63">in</token>
+          <token token_id="64">der</token>
+          <token token_id="65">Statt</token>
+          <token token_id="66">Basel</token>
+          <token token_id="67">bey</token>
+          <token token_id="68">der</token>
+          <token token_id="69">Herberg</token>
+          <token token_id="70">zuer</token>
+          <token token_id="71">,</token>
+          <token token_id="72">zwischen</token>
+          <token token_id="73">den</token>
+          <token token_id="74">Heusern</token>
+          <token token_id="75">zuon</token>
+          <token token_id="76">Mören</token>
+          <token token_id="77">und</token>
+          <token token_id="78">zu</token>
+          <token token_id="79">der</token>
+          <token token_id="80">Elen</token>
+          <token token_id="81">gelegen</token>
+          <token token_id="82">,</token>
+          <token token_id="83">so</token>
+          <token token_id="84">zum</token>
+          <token token_id="85">König</token>
+          <token token_id="86">genant</token>
+          <token token_id="87">,</token>
+          <token token_id="88">zinst</token>
+          <token token_id="89">von</token>
+          <token token_id="90">eigenschaft</token>
+          <token token_id="91">wegen</token>
+          <token token_id="92">den</token>
+          <token token_id="93">Herrn</token>
+          <token token_id="94">von</token>
+          <token token_id="95">sant</token>
+          <token token_id="96">Peter</token>
+          <token token_id="97">zu</token>
+          <token token_id="98">Basel</token>
+          <token token_id="99">4</token>
+          <token token_id="100">℔</token>
+          <token token_id="101">5ß</token>
+          <token token_id="102">zins</token>
+          <token token_id="103">pfennig</token>
           <token token_id="104">und</token>
-          <token token_id="105">Veronica</token>
-          <token token_id="106">sein</token>
-          <token token_id="107">Ehefrow</token>
-          <token token_id="108">,</token>
-          <token token_id="109">Marx</token>
-          <token token_id="110">Werdenberg</token>
-          <token token_id="111">des</token>
-          <token token_id="112">Raths</token>
-          <token token_id="113">zu</token>
-          <token token_id="114">Barsel</token>
-          <token token_id="115">und</token>
-          <token token_id="116">Elsbetha</token>
-          <token token_id="117">seiner</token>
-          <token token_id="118">Hausfrauwen</token>
-          <token token_id="119">,</token>
-          <token token_id="120">verkauften</token>
-          <token token_id="121">5</token>
-          <token token_id="122">gulden</token>
-          <token token_id="123">geltz</token>
-          <token token_id="124">in</token>
-          <token token_id="125">Müntz</token>
-          <token token_id="126">,</token>
-          <token token_id="127">für</token>
-          <token token_id="128">jeden</token>
-          <token token_id="129">1</token>
-          <token token_id="130">℔</token>
-          <token token_id="131">5ß</token>
-          <token token_id="132">stebler</token>
-          <token token_id="133">,</token>
-          <token token_id="134">jerlichs</token>
-          <token token_id="135">zinses</token>
-          <token token_id="136">auf</token>
-          <token token_id="137">Letare</token>
-          <token token_id="138">zu</token>
-          <token token_id="139">halber</token>
-          <token token_id="140">fasten</token>
-          <token token_id="141">verfallend</token>
-          <token token_id="142">,</token>
-          <token token_id="143">von</token>
-          <token token_id="144">und</token>
-          <token token_id="145">ab</token>
-          <token token_id="146">iren</token>
-          <token token_id="147">der</token>
-          <token token_id="148">Hauptverkeufern</token>
-          <token token_id="149">Haus</token>
-          <token token_id="150">und</token>
-          <token token_id="151">Hofstatt</token>
-          <token token_id="152">mit</token>
-          <token token_id="153">aller</token>
-          <token token_id="154">zugehördt</token>
-          <token token_id="155">in</token>
-          <token token_id="156">der</token>
-          <token token_id="157">Statt</token>
-          <token token_id="158">Basel</token>
-          <token token_id="159">bey</token>
-          <token token_id="160">der</token>
-          <token token_id="161">Herberg</token>
-          <token token_id="162">zuer</token>
-          <token token_id="163">,</token>
-          <token token_id="164">zwischen</token>
-          <token token_id="165">den</token>
-          <token token_id="166">Heusern</token>
-          <token token_id="167">zuon</token>
-          <token token_id="168">Mören</token>
-          <token token_id="169">und</token>
-          <token token_id="170">zu</token>
-          <token token_id="171">der</token>
-          <token token_id="172">Elen</token>
-          <token token_id="173">gelegen</token>
-          <token token_id="174">,</token>
-          <token token_id="175">so</token>
-          <token token_id="176">zum</token>
-          <token token_id="177">König</token>
-          <token token_id="178">genant</token>
-          <token token_id="179">,</token>
-          <token token_id="180">zinst</token>
-          <token token_id="181">von</token>
-          <token token_id="182">eigenschaft</token>
-          <token token_id="183">wegen</token>
-          <token token_id="184">den</token>
-          <token token_id="185">Herrn</token>
-          <token token_id="186">von</token>
-          <token token_id="187">sant</token>
-          <token token_id="188">Peter</token>
-          <token token_id="189">zu</token>
-          <token token_id="190">Basel</token>
-          <token token_id="191">4</token>
-          <token token_id="192">℔</token>
-          <token token_id="193">5ß</token>
-          <token token_id="194">zins</token>
-          <token token_id="195">pfennig</token>
-          <token token_id="196">und</token>
-          <token token_id="197">1</token>
-          <token token_id="198">Hun</token>
-          <token token_id="199">zu</token>
-          <token token_id="200">wysung</token>
-          <token token_id="201">,</token>
-          <token token_id="202">so</token>
-          <token token_id="203">dan</token>
-          <token token_id="204">1ß</token>
-          <token token_id="205">zins</token>
-          <token token_id="206">ȡ</token>
-          <token token_id="207">zu</token>
-          <token token_id="208">Erschatz</token>
-          <token token_id="209">;</token>
-          <token token_id="210">item</token>
-          <token token_id="211">1ß</token>
-          <token token_id="212">zins</token>
-          <token token_id="213">pfennig</token>
-          <token token_id="214">den</token>
-          <token token_id="215">Herrn</token>
-          <token token_id="216">zu</token>
-          <token token_id="217">sant</token>
-          <token token_id="218">Martin</token>
-          <token token_id="219">item</token>
-          <token token_id="220">der</token>
-          <token token_id="221">Thermentarin</token>
-          <token token_id="222">uf</token>
-          <token token_id="223">Burg</token>
-          <token token_id="224">zu</token>
-          <token token_id="225">Basel</token>
-          <token token_id="226">ein</token>
-          <token token_id="227">Viertheil</token>
-          <token token_id="228">roths</token>
-          <token token_id="229">wins</token>
-          <token token_id="230">zuletzt</token>
-          <token token_id="231">den</token>
-          <token token_id="232">Predigern</token>
-          <token token_id="233">zu</token>
-          <token token_id="234">Basel</token>
-          <token token_id="235">23ß</token>
-          <token token_id="236">seindt</token>
-          <token token_id="237">ablösin</token>
-          <token token_id="238">;</token>
-          <token token_id="239">weiters</token>
-          <token token_id="240">ledig</token>
-          <token token_id="241">,</token>
-          <token token_id="242">frei</token>
-          <token token_id="243">,</token>
-          <token token_id="244">eigen</token>
-          <token token_id="245">.</token>
-          <token token_id="246">der</token>
-          <token token_id="247">Kauf</token>
-          <token token_id="248">ist</token>
-          <token token_id="249">beschechen</token>
-          <token token_id="250">Metzer</token>
-          <token token_id="251">hs</token>
-          <token token_id="252">,</token>
-          <token token_id="253">Eig</token>
-          <token token_id="254">v</token>
-          <token token_id="255">.</token>
-          <token token_id="256">4</token>
-          <token token_id="257">Ao</token>
-          <token token_id="258">1526</token>
+          <token token_id="105">1</token>
+          <token token_id="106">Hun</token>
+          <token token_id="107">zu</token>
+          <token token_id="108">wysung</token>
+          <token token_id="109">,</token>
+          <token token_id="110">so</token>
+          <token token_id="111">dan</token>
+          <token token_id="112">1ß</token>
+          <token token_id="113">zins</token>
+          <token token_id="114">ȡ</token>
+          <token token_id="115">zu</token>
+          <token token_id="116">Erschatz</token>
+          <token token_id="117">;</token>
+          <token token_id="118">item</token>
+          <token token_id="119">1ß</token>
+          <token token_id="120">zins</token>
+          <token token_id="121">pfennig</token>
+          <token token_id="122">den</token>
+          <token token_id="123">Herrn</token>
+          <token token_id="124">zu</token>
+          <token token_id="125">sant</token>
+          <token token_id="126">Martin</token>
+          <token token_id="127">item</token>
+          <token token_id="128">der</token>
+          <token token_id="129">Thermentarin</token>
+          <token token_id="130">uf</token>
+          <token token_id="131">Burg</token>
+          <token token_id="132">zu</token>
+          <token token_id="133">Basel</token>
+          <token token_id="134">ein</token>
+          <token token_id="135">Viertheil</token>
+          <token token_id="136">roths</token>
+          <token token_id="137">wins</token>
+          <token token_id="138">zuletzt</token>
+          <token token_id="139">den</token>
+          <token token_id="140">Predigern</token>
+          <token token_id="141">zu</token>
+          <token token_id="142">Basel</token>
+          <token token_id="143">23ß</token>
+          <token token_id="144">seindt</token>
+          <token token_id="145">ablösin</token>
+          <token token_id="146">;</token>
+          <token token_id="147">weiters</token>
+          <token token_id="148">ledig</token>
+          <token token_id="149">,</token>
+          <token token_id="150">frei</token>
+          <token token_id="151">,</token>
+          <token token_id="152">eigen</token>
+          <token token_id="153">.</token>
+          <token token_id="154">der</token>
+          <token token_id="155">Kauf</token>
+          <token token_id="156">ist</token>
+          <token token_id="157">beschechen</token>
+          <token token_id="158">Metzer</token>
+          <token token_id="159">hs</token>
+          <token token_id="160">,</token>
+          <token token_id="161">Eig</token>
+          <token token_id="162">v</token>
+          <token token_id="163">.</token>
+          <token token_id="164">4</token>
+          <token token_id="165">Ao</token>
+          <token token_id="166">1526</token>
+          <token token_id="167">umb</token>
+          <token token_id="168">100</token>
+          <token token_id="169">gulden</token>
+          <token token_id="170">in</token>
+          <token token_id="171">Muntz</token>
+          <token token_id="172">Basler</token>
+          <token token_id="173">Wehrung</token>
+          <token token_id="174">.</token>
+          <token token_id="175">ist</token>
+          <token token_id="176">widerkäufig</token>
+          <token token_id="177">samethaft</token>
+          <token token_id="178">mit</token>
+          <token token_id="179">100</token>
+          <token token_id="180">gld</token>
+          <token token_id="181">.</token>
+          <token token_id="182">in</token>
+          <token token_id="183">Müntz</token>
+          <token token_id="184">oder</token>
+          <token token_id="185">je</token>
+          <token token_id="186">10ß</token>
+          <token token_id="187">gelts</token>
+          <token token_id="188">mit</token>
+          <token token_id="189">10</token>
+          <token token_id="190">℔</token>
+          <token token_id="191">.</token>
+          <token token_id="192">Datum</token>
+          <token token_id="193">:</token>
+          <token token_id="194">Montag</token>
+          <token token_id="195">nach</token>
+          <token token_id="196">sant</token>
+          <token token_id="197">Peters</token>
+          <token token_id="198">Tag</token>
+          <token token_id="199">.</token>
+          <token token_id="200">seiner</token>
+          <token token_id="201">Banden</token>
+          <token token_id="202">Ao</token>
+          <token token_id="203">1521</token>
+          <token token_id="204">gibt</token>
+          <token token_id="205">jetz</token>
+          <token token_id="206">Hans</token>
+          <token token_id="207">Vogler</token>
+          <token token_id="208">,</token>
+          <token token_id="209">gab</token>
+          <token token_id="210">zuvor</token>
+          <token token_id="211">Hans</token>
+          <token token_id="212">Locher</token>
+          <token token_id="213">uf</token>
+          <token token_id="214">Letare</token>
+          <token token_id="215">6</token>
+          <token token_id="216">℔</token>
+          <token token_id="217">5ß</token>
+          <token token_id="218">.</token>
+          <token token_id="219">gibt</token>
+          <token token_id="220">jetzt</token>
+          <token token_id="221">Jsaac</token>
+          <token token_id="222">Trer</token>
+          <token token_id="223">der</token>
+          <token token_id="224">Schlosser</token>
+          <token token_id="225">.</token>
+          <token token_id="226">Montags</token>
+          <token token_id="227">den</token>
+          <token token_id="228">17</token>
+          <token token_id="229">.</token>
+          <token token_id="230">Augusti</token>
+          <token token_id="231">ao</token>
+          <token token_id="232">1618</token>
+          <token token_id="233">.</token>
+          <token token_id="234">hat</token>
+          <token token_id="235">Jsaac</token>
+          <token token_id="236">Ter</token>
+          <token token_id="237">in</token>
+          <token token_id="238">seines</token>
+          <token token_id="239">bruders</token>
+          <token token_id="240">Abraham</token>
+          <token token_id="241">des</token>
+          <token token_id="242">Buchbinders</token>
+          <token token_id="243">bewesen</token>
+          <token token_id="244">das</token>
+          <token token_id="245">Hauptgut</token>
+          <token token_id="246">mit</token>
+          <token token_id="247">125</token>
+          <token token_id="248">℔</token>
+          <token token_id="249">abgelöst</token>
+          <token token_id="250">.</token>
+          <token token_id="251">Clingenthal</token>
+          <token token_id="252">F</token>
+          <token token_id="253">.</token>
+          <token token_id="254">Registratur</token>
+          <token token_id="255">,</token>
+          <token token_id="256">fol</token>
+          <token token_id="257">.</token>
+          <token token_id="258">23</token>
         </text>
         <spans>
-          <span id="0" start="1" end="6" element="value" class="money" confidence="0.98" text="100 gulden in Muntz Basler Wehrung" norm="100.0 Gulden"/>
-          <span id="1" start="12" end="16" element="value" class="money" confidence="0.94" text="100 gld . in Müntz" norm="100.0 Gulden"/>
-          <span id="2" start="19" end="20" element="value" class="money" confidence="0.94" text="10ß gelts" norm="10.0 Schilling"/>
-          <span id="3" start="22" end="24" element="value" class="money" confidence="0.99" text="10 ℔ ." norm="10.0 Pfund"/>
-          <span id="4" start="27" end="36" element="value" class="date" confidence="0.81" text="Montag nach sant Peters Tag . seiner Banden Ao 1521"/>
-          <span id="5" start="37" end="37" element="trigger" class="due" confidence="0.98" text="gibt"/>
-          <span id="6" start="39" end="40" element="reference" class="per" confidence="1.0" text="Hans Vogler" numerus="sgl" specificity="spc" subclass="">
-            <span id="33" start="39" end="40" element="head" class="nam" confidence="1.0" text="Hans Vogler"/>
+          <span id="0" start="0" end="1" element="reference" class="other" confidence="0.6" text="Gross Basel" numerus="sgl" specificity="spc" subclass="">
+            <span id="33" start="0" end="1" element="head" class="nam" confidence="1.0" text="Gross Basel"/>
           </span>
-          <span id="7" start="42" end="42" element="trigger" class="due" confidence="0.99" text="gab"/>
-          <span id="8" start="44" end="45" element="reference" class="per" confidence="1.0" text="Hans Locher" numerus="sgl" specificity="spc" subclass="">
-            <span id="34" start="44" end="45" element="head" class="nam" confidence="1.0" text="Hans Locher"/>
-          </span>
-          <span id="9" start="46" end="47" element="value" class="date" confidence="1.0" text="uf Letare"/>
-          <span id="10" start="48" end="51" element="value" class="money" confidence="1.0" text="6 ℔ 5ß ." norm="6.0 Pfund|5.0 Schilling"/>
-          <span id="11" start="52" end="52" element="trigger" class="due" confidence="0.95" text="gibt"/>
-          <span id="12" start="54" end="57" element="reference" class="per" confidence="0.99" text="Jsaac Trer der Schlosser" numerus="sgl" specificity="spc" subclass="">
-            <span id="35" start="54" end="55" element="head" class="nam" confidence="1.0" text="Jsaac Trer"/>
-            <span id="36" start="56" end="57" element="appo" class="occ" confidence="1.0" text="der Schlosser">
-              <span id="37" start="57" end="57" element="head" class="occ" confidence="1.0" text="Schlosser" norm="schlosser" OhdAB="https://database.factgrid.de/wiki/Item:Q665112"/>
+          <span id="1" start="3" end="10" element="reference" class="per" confidence="0.96" text="Hans Meyer , der Satler burger zu Basel" numerus="sgl" specificity="spc" subclass="">
+            <span id="34" start="3" end="4" element="head" class="nam" confidence="1.0" text="Hans Meyer"/>
+            <span id="35" start="6" end="7" element="appo" class="occ" confidence="0.98" text="der Satler">
+              <span id="37" start="7" end="7" element="head" class="occ" confidence="1.0" text="Satler" norm="sattler" OhdAB="https://database.factgrid.de/wiki/Item:Q672052"/>
             </span>
-          </span>
-          <span id="13" start="59" end="65" element="value" class="date" confidence="0.99" text="Montags den 17 . Augusti ao 1618"/>
-          <span id="14" start="68" end="69" element="reference" class="per" confidence="1.0" text="Jsaac Ter" numerus="sgl" specificity="spc" subclass="">
-            <span id="38" start="68" end="69" element="head" class="nam" confidence="1.0" text="Jsaac Ter"/>
-          </span>
-          <span id="15" start="71" end="75" element="reference" class="per" confidence="0.94" text="seines bruders Abraham des Buchbinders" numerus="sgl" specificity="spc" subclass="">
-            <span id="39" start="71" end="72" element="appo" class="fam" confidence="0.75" text="seines bruders">
-              <span id="42" start="71" end="71" element="reference" class="per" confidence="1.0" text="seines" numerus="sgl" specificity="spc" subclass="">
-                <span id="42_head" start="71" end="71" element="head" class="pro" confidence="1.0" text="seines"/>
-              </span>
-              <span id="43" start="72" end="72" element="head" class="fam" confidence="1.0" text="bruders"/>
-            </span>
-            <span id="40" start="73" end="73" element="head" class="nam" confidence="1.0" text="Abraham"/>
-            <span id="41" start="74" end="75" element="appo" class="occ" confidence="0.93" text="des Buchbinders">
-              <span id="44" start="75" end="75" element="head" class="occ" confidence="1.0" text="Buchbinders" norm="buchbinder" OhdAB="https://database.factgrid.de/wiki/Item:Q663193"/>
-            </span>
-          </span>
-          <span id="16" start="80" end="81" element="value" class="money" confidence="0.97" text="125 ℔" norm="125.0 Pfund"/>
-          <span id="17" start="82" end="82" element="trigger" class="redemption" confidence="0.98" text="abgelöst"/>
-          <span id="18" start="91" end="91" element="value" class="date" confidence="0.67" text="23"/>
-          <span id="19" start="92" end="93" element="reference" class="other" confidence="0.51" text="Gross Basel" numerus="sgl" specificity="spc" subclass="">
-            <span id="45" start="92" end="93" element="head" class="nam" confidence="1.0" text="Gross Basel"/>
-          </span>
-          <span id="20" start="95" end="102" element="reference" class="per" confidence="0.95" text="Hans Meyer , der Satler burger zu Basel" numerus="sgl" specificity="spc" subclass="">
-            <span id="46" start="95" end="96" element="head" class="nam" confidence="1.0" text="Hans Meyer"/>
-            <span id="47" start="98" end="99" element="appo" class="occ" confidence="0.98" text="der Satler">
-              <span id="49" start="99" end="99" element="head" class="occ" confidence="1.0" text="Satler" norm="sattler" OhdAB="https://database.factgrid.de/wiki/Item:Q672052"/>
-            </span>
-            <span id="48" start="100" end="102" element="appo" class="org-aff" confidence="1.0" text="burger zu Basel">
-              <span id="50" start="100" end="100" element="head" class="org-aff" confidence="1.0" text="burger"/>
-              <span id="51" start="102" end="102" element="reference" class="gpe-org" confidence="1.0" text="Basel" numerus="sgl" specificity="spc" subclass="">
-                <span id="52" start="102" end="102" element="head" class="nam" confidence="1.0" text="Basel"/>
+            <span id="36" start="8" end="10" element="appo" class="org-aff" confidence="1.0" text="burger zu Basel">
+              <span id="38" start="8" end="8" element="head" class="org-aff" confidence="1.0" text="burger"/>
+              <span id="39" start="10" end="10" element="reference" class="gpe-org" confidence="1.0" text="Basel" numerus="sgl" specificity="spc" subclass="">
+                <span id="40" start="10" end="10" element="head" class="nam" confidence="1.0" text="Basel"/>
               </span>
             </span>
           </span>
-          <span id="21" start="105" end="107" element="reference" class="per" confidence="1.0" text="Veronica sein Ehefrow" numerus="sgl" specificity="spc" subclass="">
-            <span id="53" start="105" end="105" element="head" class="nam" confidence="1.0" text="Veronica"/>
-            <span id="54" start="106" end="107" element="appo" class="fam" confidence="1.0" text="sein Ehefrow">
-              <span id="55" start="106" end="106" element="reference" class="per" confidence="1.0" text="sein" numerus="sgl" specificity="spc" subclass="">
-                <span id="55_head" start="106" end="106" element="head" class="pro" confidence="1.0" text="sein"/>
+          <span id="2" start="13" end="15" element="reference" class="per" confidence="1.0" text="Veronica sein Ehefrow" numerus="sgl" specificity="spc" subclass="">
+            <span id="41" start="13" end="13" element="head" class="nam" confidence="1.0" text="Veronica"/>
+            <span id="42" start="14" end="15" element="appo" class="fam" confidence="1.0" text="sein Ehefrow">
+              <span id="43" start="14" end="14" element="reference" class="per" confidence="1.0" text="sein" numerus="sgl" specificity="spc" subclass="">
+                <span id="43_head" start="14" end="14" element="head" class="pro" confidence="1.0" text="sein"/>
               </span>
-              <span id="56" start="107" end="107" element="head" class="fam" confidence="1.0" text="Ehefrow"/>
+              <span id="44" start="15" end="15" element="head" class="fam" confidence="1.0" text="Ehefrow"/>
             </span>
           </span>
-          <span id="22" start="109" end="114" element="reference" class="per" confidence="0.98" text="Marx Werdenberg des Raths zu Barsel" numerus="sgl" specificity="spc" subclass="">
-            <span id="57" start="109" end="110" element="head" class="nam" confidence="0.99" text="Marx Werdenberg"/>
-            <span id="58" start="111" end="112" element="attr" class="org-aff" confidence="1.0" text="des Raths">
-              <span id="60" start="112" end="112" element="reference" class="org" confidence="0.78" text="Raths" numerus="sgl" specificity="spc" subclass="gov">
-                <span id="61" start="112" end="112" element="head" class="type" confidence="0.98" text="Raths" norm="Stadtrat Basel"/>
+          <span id="3" start="17" end="22" element="reference" class="per" confidence="0.98" text="Marx Werdenberg des Raths zu Barsel" numerus="sgl" specificity="spc" subclass="">
+            <span id="45" start="17" end="18" element="head" class="nam" confidence="0.99" text="Marx Werdenberg"/>
+            <span id="46" start="19" end="20" element="attr" class="org-aff" confidence="1.0" text="des Raths">
+              <span id="48" start="20" end="20" element="reference" class="org" confidence="0.78" text="Raths" numerus="sgl" specificity="spc" subclass="gov">
+                <span id="49" start="20" end="20" element="head" class="type" confidence="0.98" text="Raths" norm="Stadtrat Basel"/>
               </span>
             </span>
-            <span id="59" start="113" end="114" element="attr" class="loc" confidence="0.62" text="zu Barsel">
-              <span id="62" start="114" end="114" element="reference" class="gpe-loc" confidence="1.0" text="Barsel" numerus="sgl" specificity="spc" subclass="">
-                <span id="63" start="114" end="114" element="head" class="nam" confidence="1.0" text="Barsel"/>
+            <span id="47" start="21" end="22" element="attr" class="loc" confidence="0.62" text="zu Barsel">
+              <span id="50" start="22" end="22" element="reference" class="gpe-loc" confidence="1.0" text="Barsel" numerus="sgl" specificity="spc" subclass="">
+                <span id="51" start="22" end="22" element="head" class="nam" confidence="1.0" text="Barsel"/>
               </span>
-            </span>
-          </span>
-          <span id="23" start="116" end="118" element="reference" class="per" confidence="1.0" text="Elsbetha seiner Hausfrauwen" numerus="sgl" specificity="spc" subclass="">
-            <span id="64" start="116" end="116" element="head" class="nam" confidence="1.0" text="Elsbetha"/>
-            <span id="65" start="117" end="118" element="appo" class="fam" confidence="1.0" text="seiner Hausfrauwen">
-              <span id="66" start="117" end="117" element="reference" class="per" confidence="1.0" text="seiner" numerus="sgl" specificity="spc" subclass="">
-                <span id="66_head" start="117" end="117" element="head" class="pro" confidence="1.0" text="seiner"/>
-              </span>
-              <span id="67" start="118" end="118" element="head" class="fam" confidence="1.0" text="Hausfrauwen"/>
             </span>
           </span>
-          <span id="24" start="120" end="120" element="trigger" class="rent" confidence="1.0" text="verkauften"/>
-          <span id="25" start="121" end="122" element="value" class="money" confidence="1.0" text="5 gulden" norm="5.0 Gulden"/>
-          <span id="26" start="129" end="132" element="value" class="money" confidence="0.8" text="1 ℔ 5ß stebler" norm="1.0 Pfund|5.0 Schilling-Stebler"/>
-          <span id="27" start="134" end="134" element="value" class="time" confidence="1.0" text="jerlichs"/>
-          <span id="28" start="136" end="137" element="value" class="date" confidence="1.0" text="auf Letare"/>
-          <span id="29" start="138" end="140" element="value" class="date" confidence="0.78" text="zu halber fasten"/>
-          <span id="30" start="146" end="244" element="reference" class="fac" confidence="0.9" text="iren der Hauptverkeufern Haus und Hofstatt mit aller zugehördt in der Statt Basel bey der Herberg zuer , zwischen den Heusern zuon Mören und zu der Elen gelegen , so zum König genant , zinst von eigenschaft wegen den Herrn von sant Peter zu Basel 4 ℔ 5ß zins pfennig und 1 Hun zu wysung , so dan 1ß zins ȡ zu Erschatz ; item 1ß zins pfennig den Herrn zu sant Martin item der Thermentarin uf Burg zu Basel ein Viertheil roths wins zuletzt den Predigern zu Basel 23ß seindt ablösin ; weiters ledig , frei , eigen" numerus="sgl" specificity="spc" subclass="">
-            <span id="68" start="146" end="148" element="attr" class="owner" confidence="0.88" text="iren der Hauptverkeufern">
-              <span id="73" start="146" end="146" element="reference" class="per" confidence="1.0" text="iren" numerus="sgl" specificity="spc" subclass="">
-                <span id="73_head" start="146" end="146" element="head" class="pro" confidence="1.0" text="iren"/>
+          <span id="4" start="24" end="26" element="reference" class="per" confidence="1.0" text="Elsbetha seiner Hausfrauwen" numerus="sgl" specificity="spc" subclass="">
+            <span id="52" start="24" end="24" element="head" class="nam" confidence="1.0" text="Elsbetha"/>
+            <span id="53" start="25" end="26" element="appo" class="fam" confidence="1.0" text="seiner Hausfrauwen">
+              <span id="54" start="25" end="25" element="reference" class="per" confidence="1.0" text="seiner" numerus="sgl" specificity="spc" subclass="">
+                <span id="54_head" start="25" end="25" element="head" class="pro" confidence="1.0" text="seiner"/>
               </span>
-              <span id="74" start="147" end="148" element="reference" class="per" confidence="0.64" text="der Hauptverkeufern" numerus="grp" specificity="spc" subclass="">
-                <span id="75" start="148" end="148" element="head" class="role" confidence="1.0" text="Hauptverkeufern"/>
+              <span id="55" start="26" end="26" element="head" class="fam" confidence="1.0" text="Hausfrauwen"/>
+            </span>
+          </span>
+          <span id="5" start="28" end="28" element="trigger" class="rent" confidence="1.0" text="verkauften"/>
+          <span id="6" start="29" end="30" element="value" class="money" confidence="1.0" text="5 gulden" norm="5.0 Gulden"/>
+          <span id="7" start="37" end="40" element="value" class="money" confidence="0.82" text="1 ℔ 5ß stebler" norm="1.0 Pfund|5.0 Schilling-Stebler"/>
+          <span id="8" start="42" end="42" element="value" class="time" confidence="1.0" text="jerlichs"/>
+          <span id="9" start="44" end="45" element="value" class="date" confidence="1.0" text="auf Letare"/>
+          <span id="10" start="46" end="48" element="value" class="date" confidence="0.78" text="zu halber fasten"/>
+          <span id="11" start="54" end="152" element="reference" class="fac" confidence="0.9" text="iren der Hauptverkeufern Haus und Hofstatt mit aller zugehördt in der Statt Basel bey der Herberg zuer , zwischen den Heusern zuon Mören und zu der Elen gelegen , so zum König genant , zinst von eigenschaft wegen den Herrn von sant Peter zu Basel 4 ℔ 5ß zins pfennig und 1 Hun zu wysung , so dan 1ß zins ȡ zu Erschatz ; item 1ß zins pfennig den Herrn zu sant Martin item der Thermentarin uf Burg zu Basel ein Viertheil roths wins zuletzt den Predigern zu Basel 23ß seindt ablösin ; weiters ledig , frei , eigen" numerus="sgl" specificity="spc" subclass="">
+            <span id="56" start="54" end="56" element="attr" class="owner" confidence="0.88" text="iren der Hauptverkeufern">
+              <span id="61" start="54" end="54" element="reference" class="per" confidence="1.0" text="iren" numerus="sgl" specificity="spc" subclass="">
+                <span id="61_head" start="54" end="54" element="head" class="pro" confidence="1.0" text="iren"/>
+              </span>
+              <span id="62" start="55" end="56" element="reference" class="per" confidence="0.64" text="der Hauptverkeufern" numerus="grp" specificity="spc" subclass="">
+                <span id="63" start="56" end="56" element="head" class="role" confidence="1.0" text="Hauptverkeufern"/>
               </span>
             </span>
-            <span id="69" start="149" end="151" element="head" class="type" confidence="1.0" text="Haus und Hofstatt" norm="Haus|Hofstatt"/>
-            <span id="70" start="155" end="173" element="attr" class="loc" confidence="0.98" text="in der Statt Basel bey der Herberg zuer , zwischen den Heusern zuon Mören und zu der Elen gelegen">
-              <span id="76" start="156" end="158" element="reference" class="gpe-loc" confidence="1.0" text="der Statt Basel" numerus="sgl" specificity="spc" subclass="">
-                <span id="79" start="157" end="158" element="head" class="nam" confidence="0.61" text="Statt Basel"/>
+            <span id="57" start="57" end="59" element="head" class="type" confidence="1.0" text="Haus und Hofstatt" norm="Haus|Hofstatt"/>
+            <span id="58" start="63" end="81" element="attr" class="loc" confidence="0.98" text="in der Statt Basel bey der Herberg zuer , zwischen den Heusern zuon Mören und zu der Elen gelegen">
+              <span id="64" start="64" end="66" element="reference" class="gpe-loc" confidence="1.0" text="der Statt Basel" numerus="sgl" specificity="spc" subclass="">
+                <span id="67" start="65" end="66" element="head" class="nam" confidence="0.61" text="Statt Basel"/>
               </span>
-              <span id="77" start="160" end="161" element="reference" class="fac" confidence="0.83" text="der Herberg" numerus="sgl" specificity="spc" subclass="">
-                <span id="80" start="161" end="161" element="head" class="type" confidence="0.98" text="Herberg" norm="Herberge"/>
+              <span id="65" start="68" end="69" element="reference" class="fac" confidence="0.83" text="der Herberg" numerus="sgl" specificity="spc" subclass="">
+                <span id="68" start="69" end="69" element="head" class="type" confidence="0.98" text="Herberg" norm="Herberge"/>
               </span>
-              <span id="78" start="165" end="172" element="reference" class="fac" confidence="0.92" text="den Heusern zuon Mören und zu der Elen" numerus="grp" specificity="spc" subclass="">
-                <span id="81" start="166" end="166" element="head" class="type" confidence="1.0" text="Heusern" norm="unk"/>
-                <span id="82" start="167" end="172" element="attr" class="includes" confidence="0.97" text="zuon Mören und zu der Elen">
-                  <span id="83" start="167" end="168" element="reference" class="fac" confidence="0.92" text="zuon Mören" numerus="sgl" specificity="spc" subclass="">
-                    <span id="85" start="167" end="168" element="head" class="nam" confidence="0.92" text="zuon Mören"/>
+              <span id="66" start="73" end="80" element="reference" class="fac" confidence="0.92" text="den Heusern zuon Mören und zu der Elen" numerus="grp" specificity="spc" subclass="">
+                <span id="69" start="74" end="74" element="head" class="type" confidence="1.0" text="Heusern" norm="unk"/>
+                <span id="70" start="75" end="80" element="attr" class="includes" confidence="0.97" text="zuon Mören und zu der Elen">
+                  <span id="71" start="75" end="76" element="reference" class="fac" confidence="0.92" text="zuon Mören" numerus="sgl" specificity="spc" subclass="">
+                    <span id="73" start="75" end="76" element="head" class="nam" confidence="0.92" text="zuon Mören"/>
                   </span>
-                  <span id="84" start="171" end="172" element="reference" class="fac" confidence="0.94" text="der Elen" numerus="sgl" specificity="spc" subclass="">
-                    <span id="86" start="172" end="172" element="head" class="type" confidence="0.56" text="Elen" norm="unk"/>
+                  <span id="72" start="79" end="80" element="reference" class="fac" confidence="0.94" text="der Elen" numerus="sgl" specificity="spc" subclass="">
+                    <span id="74" start="80" end="80" element="head" class="type" confidence="0.56" text="Elen" norm="unk"/>
                   </span>
                 </span>
               </span>
             </span>
-            <span id="71" start="176" end="177" element="appo" class="nam" confidence="1.0" text="zum König">
-              <span id="87" start="176" end="177" element="head" class="nam" confidence="1.0" text="zum König"/>
+            <span id="59" start="84" end="85" element="appo" class="nam" confidence="1.0" text="zum König">
+              <span id="75" start="84" end="85" element="head" class="nam" confidence="1.0" text="zum König"/>
             </span>
-            <span id="72" start="180" end="244" element="attr" class="dues" confidence="0.98" text="zinst von eigenschaft wegen den Herrn von sant Peter zu Basel 4 ℔ 5ß zins pfennig und 1 Hun zu wysung , so dan 1ß zins ȡ zu Erschatz ; item 1ß zins pfennig den Herrn zu sant Martin item der Thermentarin uf Burg zu Basel ein Viertheil roths wins zuletzt den Predigern zu Basel 23ß seindt ablösin ; weiters ledig , frei , eigen">
-              <span id="88" start="180" end="180" element="trigger" class="due" confidence="0.99" text="zinst"/>
-              <span id="89" start="181" end="182" element="other" class="other" confidence="0.8" text="von eigenschaft"/>
-              <span id="90" start="184" end="190" element="reference" class="org" confidence="0.98" text="den Herrn von sant Peter zu Basel" numerus="sgl" specificity="spc" subclass="rel">
-                <span id="103" start="185" end="188" element="head" class="nam" confidence="0.87" text="Herrn von sant Peter" norm="Kirche St. Peter"/>
-                <span id="104" start="189" end="190" element="attr" class="loc" confidence="0.96" text="zu Basel">
-                  <span id="105" start="190" end="190" element="reference" class="gpe-loc" confidence="1.0" text="Basel" numerus="sgl" specificity="spc" subclass="">
-                    <span id="106" start="190" end="190" element="head" class="nam" confidence="1.0" text="Basel"/>
+            <span id="60" start="88" end="152" element="attr" class="dues" confidence="0.98" text="zinst von eigenschaft wegen den Herrn von sant Peter zu Basel 4 ℔ 5ß zins pfennig und 1 Hun zu wysung , so dan 1ß zins ȡ zu Erschatz ; item 1ß zins pfennig den Herrn zu sant Martin item der Thermentarin uf Burg zu Basel ein Viertheil roths wins zuletzt den Predigern zu Basel 23ß seindt ablösin ; weiters ledig , frei , eigen">
+              <span id="76" start="88" end="88" element="trigger" class="due" confidence="0.99" text="zinst"/>
+              <span id="77" start="89" end="90" element="other" class="other" confidence="0.8" text="von eigenschaft"/>
+              <span id="78" start="92" end="98" element="reference" class="org" confidence="0.98" text="den Herrn von sant Peter zu Basel" numerus="sgl" specificity="spc" subclass="rel">
+                <span id="91" start="93" end="96" element="head" class="nam" confidence="0.87" text="Herrn von sant Peter" norm="Kirche St. Peter"/>
+                <span id="92" start="97" end="98" element="attr" class="loc" confidence="0.96" text="zu Basel">
+                  <span id="93" start="98" end="98" element="reference" class="gpe-loc" confidence="1.0" text="Basel" numerus="sgl" specificity="spc" subclass="">
+                    <span id="94" start="98" end="98" element="head" class="nam" confidence="1.0" text="Basel"/>
                   </span>
                 </span>
               </span>
-              <span id="91" start="191" end="195" element="value" class="money" confidence="0.98" text="4 ℔ 5ß zins pfennig" norm="4.0 Pfund|5.0 Schilling-Pfennig"/>
-              <span id="92" start="197" end="198" element="value" class="money" confidence="1.0" text="1 Hun" norm="1.0 Huhn"/>
-              <span id="93" start="199" end="200" element="other" class="other" confidence="0.74" text="zu wysung"/>
-              <span id="94" start="204" end="206" element="value" class="money" confidence="0.99" text="1ß zins ȡ" norm="1.0 Schilling-Denare"/>
-              <span id="95" start="207" end="208" element="other" class="other" confidence="0.67" text="zu Erschatz"/>
-              <span id="96" start="211" end="213" element="value" class="money" confidence="0.99" text="1ß zins pfennig" norm="1.0 Schilling-Pfennig"/>
-              <span id="97" start="214" end="218" element="reference" class="org" confidence="0.99" text="den Herrn zu sant Martin" numerus="sgl" specificity="spc" subclass="rel">
-                <span id="107" start="215" end="218" element="head" class="nam" confidence="0.84" text="Herrn zu sant Martin" norm="Kirche St. Martin"/>
+              <span id="79" start="99" end="103" element="value" class="money" confidence="0.98" text="4 ℔ 5ß zins pfennig" norm="4.0 Pfund|5.0 Schilling-Pfennig"/>
+              <span id="80" start="105" end="106" element="value" class="money" confidence="1.0" text="1 Hun" norm="1.0 Huhn"/>
+              <span id="81" start="107" end="108" element="other" class="other" confidence="0.74" text="zu wysung"/>
+              <span id="82" start="112" end="114" element="value" class="money" confidence="0.99" text="1ß zins ȡ" norm="1.0 Schilling-Denare"/>
+              <span id="83" start="115" end="116" element="other" class="other" confidence="0.67" text="zu Erschatz"/>
+              <span id="84" start="119" end="121" element="value" class="money" confidence="0.99" text="1ß zins pfennig" norm="1.0 Schilling-Pfennig"/>
+              <span id="85" start="122" end="126" element="reference" class="org" confidence="0.99" text="den Herrn zu sant Martin" numerus="sgl" specificity="spc" subclass="rel">
+                <span id="95" start="123" end="126" element="head" class="nam" confidence="0.84" text="Herrn zu sant Martin" norm="Kirche St. Martin"/>
               </span>
-              <span id="98" start="220" end="225" element="reference" class="org" confidence="0.97" text="der Thermentarin uf Burg zu Basel" numerus="sgl" specificity="spc" subclass="rel">
-                <span id="108" start="221" end="221" element="head" class="type" confidence="0.72" text="Thermentarin" norm="Präsenz"/>
-                <span id="109" start="222" end="223" element="attr" class="loc" confidence="0.95" text="uf Burg">
-                  <span id="111" start="223" end="223" element="reference" class="loc" confidence="1.0" text="Burg" numerus="sgl" specificity="spc" subclass="">
-                    <span id="112" start="223" end="223" element="head" class="nam" confidence="1.0" text="Burg"/>
+              <span id="86" start="128" end="133" element="reference" class="org" confidence="0.97" text="der Thermentarin uf Burg zu Basel" numerus="sgl" specificity="spc" subclass="rel">
+                <span id="96" start="129" end="129" element="head" class="type" confidence="0.72" text="Thermentarin" norm="Präsenz"/>
+                <span id="97" start="130" end="131" element="attr" class="loc" confidence="0.95" text="uf Burg">
+                  <span id="99" start="131" end="131" element="reference" class="loc" confidence="1.0" text="Burg" numerus="sgl" specificity="spc" subclass="">
+                    <span id="100" start="131" end="131" element="head" class="nam" confidence="1.0" text="Burg"/>
                   </span>
                 </span>
-                <span id="110" start="224" end="225" element="attr" class="loc" confidence="0.87" text="zu Basel">
-                  <span id="113" start="225" end="225" element="reference" class="gpe-loc" confidence="1.0" text="Basel" numerus="sgl" specificity="spc" subclass="">
-                    <span id="114" start="225" end="225" element="head" class="nam" confidence="1.0" text="Basel"/>
-                  </span>
-                </span>
-              </span>
-              <span id="99" start="226" end="229" element="value" class="money" confidence="0.98" text="ein Viertheil roths wins" norm="0.0 UNKNOWN-Wein"/>
-              <span id="100" start="231" end="234" element="reference" class="org" confidence="0.95" text="den Predigern zu Basel" numerus="sgl" specificity="spc" subclass="rel">
-                <span id="115" start="232" end="232" element="head" class="nam" confidence="1.0" text="Predigern" norm="Predigerkloster"/>
-                <span id="116" start="233" end="234" element="attr" class="loc" confidence="0.94" text="zu Basel">
-                  <span id="117" start="234" end="234" element="reference" class="gpe-loc" confidence="1.0" text="Basel" numerus="sgl" specificity="spc" subclass="">
-                    <span id="118" start="234" end="234" element="head" class="nam" confidence="1.0" text="Basel"/>
+                <span id="98" start="132" end="133" element="attr" class="loc" confidence="0.87" text="zu Basel">
+                  <span id="101" start="133" end="133" element="reference" class="gpe-loc" confidence="1.0" text="Basel" numerus="sgl" specificity="spc" subclass="">
+                    <span id="102" start="133" end="133" element="head" class="nam" confidence="1.0" text="Basel"/>
                   </span>
                 </span>
               </span>
-              <span id="101" start="235" end="235" element="value" class="money" confidence="1.0" text="23ß" norm="23.0 Schilling"/>
-              <span id="102" start="237" end="237" element="trigger" class="redemption" confidence="0.75" text="ablösin"/>
+              <span id="87" start="134" end="137" element="value" class="money" confidence="0.98" text="ein Viertheil roths wins" norm="0.0 UNKNOWN-Wein"/>
+              <span id="88" start="139" end="142" element="reference" class="org" confidence="0.95" text="den Predigern zu Basel" numerus="sgl" specificity="spc" subclass="rel">
+                <span id="103" start="140" end="140" element="head" class="nam" confidence="1.0" text="Predigern" norm="Predigerkloster"/>
+                <span id="104" start="141" end="142" element="attr" class="loc" confidence="0.94" text="zu Basel">
+                  <span id="105" start="142" end="142" element="reference" class="gpe-loc" confidence="1.0" text="Basel" numerus="sgl" specificity="spc" subclass="">
+                    <span id="106" start="142" end="142" element="head" class="nam" confidence="1.0" text="Basel"/>
+                  </span>
+                </span>
+              </span>
+              <span id="89" start="143" end="143" element="value" class="money" confidence="1.0" text="23ß" norm="23.0 Schilling"/>
+              <span id="90" start="145" end="145" element="trigger" class="redemption" confidence="0.75" text="ablösin"/>
             </span>
           </span>
-          <span id="31" start="250" end="251" element="reference" class="per" confidence="0.95" text="Metzer hs" numerus="sgl" specificity="spc" subclass="">
-            <span id="119" start="250" end="251" element="head" class="nam" confidence="1.0" text="Metzer hs"/>
+          <span id="12" start="158" end="159" element="reference" class="per" confidence="0.96" text="Metzer hs" numerus="sgl" specificity="spc" subclass="">
+            <span id="107" start="158" end="159" element="head" class="nam" confidence="1.0" text="Metzer hs"/>
           </span>
-          <span id="32" start="257" end="258" element="value" class="date" confidence="0.91" text="Ao 1526"/>
+          <span id="13" start="165" end="166" element="value" class="date" confidence="0.81" text="Ao 1526"/>
+          <span id="14" start="168" end="173" element="value" class="money" confidence="0.97" text="100 gulden in Muntz Basler Wehrung" norm="100.0 Gulden"/>
+          <span id="15" start="176" end="176" element="trigger" class="redemption" confidence="0.81" text="widerkäufig"/>
+          <span id="16" start="179" end="183" element="value" class="money" confidence="0.93" text="100 gld . in Müntz" norm="100.0 Gulden"/>
+          <span id="17" start="186" end="187" element="value" class="money" confidence="0.91" text="10ß gelts" norm="10.0 Schilling"/>
+          <span id="18" start="189" end="191" element="value" class="money" confidence="0.99" text="10 ℔ ." norm="10.0 Pfund"/>
+          <span id="19" start="194" end="203" element="value" class="date" confidence="0.81" text="Montag nach sant Peters Tag . seiner Banden Ao 1521"/>
+          <span id="20" start="204" end="204" element="trigger" class="due" confidence="0.99" text="gibt"/>
+          <span id="21" start="206" end="207" element="reference" class="per" confidence="1.0" text="Hans Vogler" numerus="sgl" specificity="spc" subclass="">
+            <span id="108" start="206" end="207" element="head" class="nam" confidence="1.0" text="Hans Vogler"/>
+          </span>
+          <span id="22" start="209" end="209" element="trigger" class="due" confidence="0.99" text="gab"/>
+          <span id="23" start="211" end="212" element="reference" class="per" confidence="1.0" text="Hans Locher" numerus="sgl" specificity="spc" subclass="">
+            <span id="109" start="211" end="212" element="head" class="nam" confidence="1.0" text="Hans Locher"/>
+          </span>
+          <span id="24" start="213" end="214" element="value" class="date" confidence="1.0" text="uf Letare"/>
+          <span id="25" start="215" end="218" element="value" class="money" confidence="1.0" text="6 ℔ 5ß ." norm="6.0 Pfund|5.0 Schilling"/>
+          <span id="26" start="219" end="219" element="trigger" class="due" confidence="0.96" text="gibt"/>
+          <span id="27" start="221" end="224" element="reference" class="per" confidence="0.99" text="Jsaac Trer der Schlosser" numerus="sgl" specificity="spc" subclass="">
+            <span id="110" start="221" end="222" element="head" class="nam" confidence="1.0" text="Jsaac Trer"/>
+            <span id="111" start="223" end="224" element="appo" class="occ" confidence="1.0" text="der Schlosser">
+              <span id="112" start="224" end="224" element="head" class="occ" confidence="1.0" text="Schlosser" norm="schlosser" OhdAB="https://database.factgrid.de/wiki/Item:Q665112"/>
+            </span>
+          </span>
+          <span id="28" start="226" end="232" element="value" class="date" confidence="0.99" text="Montags den 17 . Augusti ao 1618"/>
+          <span id="29" start="235" end="236" element="reference" class="per" confidence="1.0" text="Jsaac Ter" numerus="sgl" specificity="spc" subclass="">
+            <span id="113" start="235" end="236" element="head" class="nam" confidence="1.0" text="Jsaac Ter"/>
+          </span>
+          <span id="30" start="238" end="242" element="reference" class="per" confidence="0.93" text="seines bruders Abraham des Buchbinders" numerus="sgl" specificity="spc" subclass="">
+            <span id="114" start="238" end="239" element="appo" class="fam" confidence="0.75" text="seines bruders">
+              <span id="117" start="238" end="238" element="reference" class="per" confidence="1.0" text="seines" numerus="sgl" specificity="spc" subclass="">
+                <span id="117_head" start="238" end="238" element="head" class="pro" confidence="1.0" text="seines"/>
+              </span>
+              <span id="118" start="239" end="239" element="head" class="fam" confidence="1.0" text="bruders"/>
+            </span>
+            <span id="115" start="240" end="240" element="head" class="nam" confidence="1.0" text="Abraham"/>
+            <span id="116" start="241" end="242" element="appo" class="occ" confidence="0.93" text="des Buchbinders">
+              <span id="119" start="242" end="242" element="head" class="occ" confidence="1.0" text="Buchbinders" norm="buchbinder" OhdAB="https://database.factgrid.de/wiki/Item:Q663193"/>
+            </span>
+          </span>
+          <span id="31" start="247" end="248" element="value" class="money" confidence="0.97" text="125 ℔" norm="125.0 Pfund"/>
+          <span id="32" start="249" end="249" element="trigger" class="redemption" confidence="0.99" text="abgelöst"/>
         </spans>
         <relations>
-          <relation id="1" from="42" to="14" class="coref"/>
-          <relation id="2" from="55" to="20" class="coref"/>
-          <relation id="3" from="66" to="22" class="coref"/>
-          <relation id="4" from="73" to="20" class="coref"/>
-          <relation id="5" from="73" to="21" class="coref"/>
-          <relation id="6" from="73" to="23" class="coref"/>
+          <relation id="1" from="43" to="1" class="coref"/>
+          <relation id="2" from="54" to="3" class="coref"/>
+          <relation id="3" from="61" to="1" class="coref"/>
+          <relation id="4" from="61" to="2" class="coref"/>
+          <relation id="5" from="61" to="4" class="coref"/>
+          <relation id="6" from="117" to="29" class="coref"/>
         </relations>
         <eventGroups>
-          <eventGroup event_id="0" class="due-obligation" start="180" end="237" ref="72" type="state" tense="unk" polarity="unk" modality="unk">
-            <trigger ref="88" text="zinst"/>
+          <eventGroup event_id="0" class="due-obligation" start="88" end="145" ref="60" type="state" tense="unk" polarity="unk" modality="unk">
+            <trigger ref="76" text="zinst"/>
             <event event_id="0.1">
-              <role role="beneficiary" confidence="1.0" ref="90" text="den Herrn von sant Peter zu Basel"/>
-              <role role="interest" confidence="1.0" ref="92" text="1 Hun"/>
-              <role role="cause" confidence="1.0" ref="93" text="zu wysung"/>
+              <role role="beneficiary" confidence="1.0" ref="78" text="den Herrn von sant Peter zu Basel"/>
+              <role role="interest" confidence="1.0" ref="80" text="1 Hun"/>
+              <role role="cause" confidence="1.0" ref="81" text="zu wysung"/>
             </event>
             <event event_id="0.2">
-              <role role="interest" confidence="1.0" ref="94" text="1ß zins ȡ"/>
-              <role role="cause" confidence="1.0" ref="95" text="zu Erschatz"/>
+              <role role="interest" confidence="1.0" ref="82" text="1ß zins ȡ"/>
+              <role role="cause" confidence="1.0" ref="83" text="zu Erschatz"/>
             </event>
             <event event_id="0.3">
-              <role role="interest" confidence="1.0" ref="96" text="1ß zins pfennig"/>
-              <role role="beneficiary" confidence="1.0" ref="97" text="den Herrn zu sant Martin"/>
+              <role role="interest" confidence="1.0" ref="84" text="1ß zins pfennig"/>
+              <role role="beneficiary" confidence="1.0" ref="85" text="den Herrn zu sant Martin"/>
             </event>
             <event event_id="0.4">
-              <role role="beneficiary" confidence="0.98" ref="98" text="der Thermentarin uf Burg zu Basel"/>
-              <role role="interest" confidence="0.96" ref="99" text="ein Viertheil roths wins"/>
+              <role role="beneficiary" confidence="0.98" ref="86" text="der Thermentarin uf Burg zu Basel"/>
+              <role role="interest" confidence="0.96" ref="87" text="ein Viertheil roths wins"/>
             </event>
             <event event_id="0.5">
-              <role role="beneficiary" confidence="1.0" ref="100" text="den Predigern zu Basel"/>
-              <role role="interest" confidence="0.92" ref="101" text="23ß"/>
-              <role role="interest-redeemable" confidence="0.71" ref="102" text="ablösin"/>
+              <role role="beneficiary" confidence="1.0" ref="88" text="den Predigern zu Basel"/>
+              <role role="interest" confidence="0.92" ref="89" text="23ß"/>
+              <role role="interest-redeemable" confidence="0.71" ref="90" text="ablösin"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="1" class="redemption" start="237" end="237" ref="72" type="event" tense="unk" polarity="unk" modality="unk">
-            <trigger ref="102" text="ablösin"/>
+          <eventGroup event_id="1" class="redemption" start="145" end="145" ref="60" type="event" tense="unk" polarity="unk" modality="unk">
+            <trigger ref="90" text="ablösin"/>
             <event event_id="1.0"/>
           </eventGroup>
-          <eventGroup event_id="2" class="due-payment" start="1" end="40" ref="" type="event" tense="unk" polarity="unk" modality="unk">
-            <trigger ref="5" text="gibt"/>
+          <eventGroup event_id="2" class="rent-purchase" start="3" end="173" ref="" type="event" tense="unk" polarity="unk" modality="unk">
+            <trigger ref="5" text="verkauften"/>
             <event event_id="2.0">
-              <role role="capital" confidence="0.62" ref="0" text="100 gulden in Muntz Basler Wehrung"/>
-              <role role="detail_other" confidence="0.91" ref="2" text="10ß gelts"/>
-              <role role="date" confidence="0.97" ref="4" text="Montag nach sant Peters Tag . seiner Banden Ao 1521"/>
-              <role role="payer" confidence="0.97" ref="6" text="Hans Vogler"/>
+              <role role="seller" confidence="0.88" ref="1" text="Hans Meyer , der Satler burger zu Basel"/>
+              <role role="seller" confidence="0.94" ref="2" text="Veronica sein Ehefrow"/>
+              <role role="buyer" confidence="0.95" ref="3" text="Marx Werdenberg des Raths zu Barsel"/>
+              <role role="buyer" confidence="0.85" ref="4" text="Elsbetha seiner Hausfrauwen"/>
+              <role role="interest" confidence="0.51" ref="6" text="5 gulden"/>
+              <role role="detail_other" confidence="0.64" ref="7" text="1 ℔ 5ß stebler"/>
+              <role role="interval" confidence="0.98" ref="8" text="jerlichs"/>
+              <role role="due-date" confidence="0.99" ref="9" text="auf Letare"/>
+              <role role="due-date" confidence="0.97" ref="10" text="zu halber fasten"/>
+              <role role="collateral" confidence="0.97" ref="11" text="iren der Hauptverkeufern Haus und Hofstatt mit aller zugehördt in der Statt Basel bey der Herberg zuer , zwischen den Heusern zuon Mören und zu der Elen gelegen , so zum König genant , zinst von eigenschaft wegen den Herrn von sant Peter zu Basel 4 ℔ 5ß zins pfennig und 1 Hun zu wysung , so dan 1ß zins ȡ zu Erschatz ; item 1ß zins pfennig den Herrn zu sant Martin item der Thermentarin uf Burg zu Basel ein Viertheil roths wins zuletzt den Predigern zu Basel 23ß seindt ablösin ; weiters ledig , frei , eigen"/>
+              <role role="price" confidence="0.95" ref="14" text="100 gulden in Muntz Basler Wehrung"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="3" class="due-obligation" start="19" end="51" ref="" type="state" tense="unk" polarity="unk" modality="unk">
-            <trigger ref="7" text="gab"/>
+          <eventGroup event_id="3" class="redemption" start="176" end="183" ref="" type="event" tense="unk" polarity="unk" modality="unk">
+            <trigger ref="15" text="widerkäufig"/>
             <event event_id="3.0">
-              <role role="detail_other" confidence="0.9" ref="2" text="10ß gelts"/>
-              <role role="interest" confidence="0.95" ref="10" text="6 ℔ 5ß ."/>
+              <role role="capital" confidence="0.89" ref="16" text="100 gld . in Müntz"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="4" class="due-payment" start="19" end="65" ref="" type="event" tense="unk" polarity="unk" modality="unk">
-            <trigger ref="11" text="gibt"/>
+          <eventGroup event_id="4" class="due-payment" start="194" end="207" ref="" type="event" tense="unk" polarity="unk" modality="unk">
+            <trigger ref="20" text="gibt"/>
             <event event_id="4.0">
-              <role role="date" text="1521" inferred="True"/>
-              <role role="detail_other" confidence="0.89" ref="2" text="10ß gelts"/>
-              <role role="payer" confidence="1.0" ref="12" text="Jsaac Trer der Schlosser"/>
-              <role role="date" confidence="0.9" ref="13" text="Montags den 17 . Augusti ao 1618"/>
+              <role role="date" confidence="0.89" ref="19" text="Montag nach sant Peters Tag . seiner Banden Ao 1521"/>
+              <role role="payer" confidence="0.96" ref="21" text="Hans Vogler"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="5" class="redemption" start="1" end="82" ref="" type="event" tense="unk" polarity="unk" modality="unk">
-            <trigger ref="17" text="abgelöst"/>
+          <eventGroup event_id="5" class="due-obligation" start="209" end="218" ref="" type="state" tense="unk" polarity="unk" modality="unk">
+            <trigger ref="22" text="gab"/>
             <event event_id="5.0">
-              <role role="capital" confidence="0.51" ref="0" text="100 gulden in Muntz Basler Wehrung"/>
-              <role role="detail_other" confidence="0.93" ref="2" text="10ß gelts"/>
-              <role role="capital" confidence="0.71" ref="16" text="125 ℔"/>
+              <role role="due-date" confidence="0.73" ref="24" text="uf Letare"/>
+              <role role="interest" confidence="0.94" ref="25" text="6 ℔ 5ß ."/>
             </event>
           </eventGroup>
-          <eventGroup event_id="6" class="rent-purchase" start="19" end="244" ref="" type="event" tense="unk" polarity="unk" modality="unk">
-            <trigger ref="24" text="verkauften"/>
+          <eventGroup event_id="6" class="due-payment" start="219" end="232" ref="" type="event" tense="unk" polarity="unk" modality="unk">
+            <trigger ref="26" text="gibt"/>
             <event event_id="6.0">
-              <role role="detail_other" confidence="0.91" ref="2" text="10ß gelts"/>
-              <role role="seller" confidence="0.62" ref="20" text="Hans Meyer , der Satler burger zu Basel"/>
-              <role role="seller" confidence="0.96" ref="21" text="Veronica sein Ehefrow"/>
-              <role role="buyer" confidence="0.93" ref="22" text="Marx Werdenberg des Raths zu Barsel"/>
-              <role role="seller" confidence="0.71" ref="23" text="Elsbetha seiner Hausfrauwen"/>
-              <role role="interest" confidence="0.46" ref="25" text="5 gulden"/>
-              <role role="detail_other" confidence="0.64" ref="26" text="1 ℔ 5ß stebler"/>
-              <role role="interval" confidence="0.98" ref="27" text="jerlichs"/>
-              <role role="due-date" confidence="0.99" ref="28" text="auf Letare"/>
-              <role role="due-date" confidence="0.97" ref="29" text="zu halber fasten"/>
-              <role role="collateral" confidence="0.98" ref="30" text="iren der Hauptverkeufern Haus und Hofstatt mit aller zugehördt in der Statt Basel bey der Herberg zuer , zwischen den Heusern zuon Mören und zu der Elen gelegen , so zum König genant , zinst von eigenschaft wegen den Herrn von sant Peter zu Basel 4 ℔ 5ß zins pfennig und 1 Hun zu wysung , so dan 1ß zins ȡ zu Erschatz ; item 1ß zins pfennig den Herrn zu sant Martin item der Thermentarin uf Burg zu Basel ein Viertheil roths wins zuletzt den Predigern zu Basel 23ß seindt ablösin ; weiters ledig , frei , eigen"/>
+              <role role="date" text="1521.0" inferred="True"/>
+              <role role="payer" confidence="1.0" ref="27" text="Jsaac Trer der Schlosser"/>
+              <role role="date" confidence="0.93" ref="28" text="Montags den 17 . Augusti ao 1618"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="7" class="family" start="71" end="72" ref="39" type="state" tense="unk" polarity="unk" modality="unk">
-            <trigger start="72" end="72" text="bruders" ref="43"/>
+          <eventGroup event_id="7" class="redemption" start="247" end="249" ref="" type="event" tense="unk" polarity="unk" modality="unk">
+            <trigger ref="32" text="abgelöst"/>
             <event event_id="7.0">
-              <role role="family-a" ref="15" text="seines bruders Abraham des Buchbinders"/>
-              <role role="family-b" ref="42" text="seines"/>
+              <role role="capital" confidence="0.75" ref="31" text="125 ℔"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="8" class="civic-affiliation" start="100" end="102" ref="48" type="state" tense="unk" polarity="unk" modality="unk">
-            <trigger start="100" end="100" text="burger" ref="50"/>
+          <eventGroup event_id="8" class="civic-affiliation" start="8" end="10" ref="36" type="state" tense="unk" polarity="unk" modality="unk">
+            <trigger start="8" end="8" text="burger" ref="38"/>
             <event event_id="8.0">
-              <role role="resident" ref="20" text="Hans Meyer , der Satler burger zu Basel"/>
-              <role role="geopolitical-entity" ref="51" text="Basel"/>
+              <role role="resident" ref="1" text="Hans Meyer , der Satler burger zu Basel"/>
+              <role role="geopolitical-entity" ref="39" text="Basel"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="9" class="family" start="106" end="107" ref="54" type="state" tense="unk" polarity="unk" modality="unk">
-            <trigger start="107" end="107" text="Ehefrow" ref="56"/>
+          <eventGroup event_id="9" class="family" start="14" end="15" ref="42" type="state" tense="unk" polarity="unk" modality="unk">
+            <trigger start="15" end="15" text="Ehefrow" ref="44"/>
             <event event_id="9.0">
-              <role role="family-a" ref="21" text="Veronica sein Ehefrow"/>
-              <role role="family-b" ref="55" text="sein"/>
+              <role role="family-a" ref="2" text="Veronica sein Ehefrow"/>
+              <role role="family-b" ref="43" text="sein"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="10" class="family" start="117" end="118" ref="65" type="state" tense="unk" polarity="unk" modality="unk">
-            <trigger start="118" end="118" text="Hausfrauwen" ref="67"/>
+          <eventGroup event_id="10" class="family" start="25" end="26" ref="53" type="state" tense="unk" polarity="unk" modality="unk">
+            <trigger start="26" end="26" text="Hausfrauwen" ref="55"/>
             <event event_id="10.0">
-              <role role="family-a" ref="23" text="Elsbetha seiner Hausfrauwen"/>
-              <role role="family-b" ref="66" text="seiner"/>
+              <role role="family-a" ref="4" text="Elsbetha seiner Hausfrauwen"/>
+              <role role="family-b" ref="54" text="seiner"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="11" class="membership" start="111" end="112" ref="58" type="state" tense="unk" polarity="unk" modality="unk">
+          <eventGroup event_id="11" class="family" start="238" end="239" ref="114" type="state" tense="unk" polarity="unk" modality="unk">
+            <trigger start="239" end="239" text="bruders" ref="118"/>
             <event event_id="11.0">
-              <role role="member" ref="22" text="Marx Werdenberg des Raths zu Barsel"/>
-              <role role="organization" ref="60" text="Raths"/>
+              <role role="family-a" ref="30" text="seines bruders Abraham des Buchbinders"/>
+              <role role="family-b" ref="117" text="seines"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="12" class="topological" start="113" end="114" ref="59" type="state" tense="unk" polarity="unk" modality="unk">
+          <eventGroup event_id="12" class="membership" start="19" end="20" ref="46" type="state" tense="unk" polarity="unk" modality="unk">
             <event event_id="12.0">
-              <role role="location-a" ref="22" text="Marx Werdenberg des Raths zu Barsel"/>
-              <role role="location-b" ref="62" text="Barsel"/>
+              <role role="member" ref="3" text="Marx Werdenberg des Raths zu Barsel"/>
+              <role role="organization" ref="48" text="Raths"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="13" class="ownership" start="146" end="148" ref="68" type="state" tense="unk" polarity="unk" modality="unk">
+          <eventGroup event_id="13" class="topological" start="21" end="22" ref="47" type="state" tense="unk" polarity="unk" modality="unk">
             <event event_id="13.0">
-              <role role="property" ref="30" text="iren der Hauptverkeufern Haus und Hofstatt mit aller zugehördt in der Statt Basel bey der Herberg zuer , zwischen den Heusern zuon Mören und zu der Elen gelegen , so zum König genant , zinst von eigenschaft wegen den Herrn von sant Peter zu Basel 4 ℔ 5ß zins pfennig und 1 Hun zu wysung , so dan 1ß zins ȡ zu Erschatz ; item 1ß zins pfennig den Herrn zu sant Martin item der Thermentarin uf Burg zu Basel ein Viertheil roths wins zuletzt den Predigern zu Basel 23ß seindt ablösin ; weiters ledig , frei , eigen"/>
-              <role role="owner" ref="73" text="iren"/>
-              <role role="owner" ref="74" text="der Hauptverkeufern"/>
+              <role role="location-a" ref="3" text="Marx Werdenberg des Raths zu Barsel"/>
+              <role role="location-b" ref="50" text="Barsel"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="14" class="topological" start="155" end="173" ref="70" type="state" tense="unk" polarity="unk" modality="unk">
+          <eventGroup event_id="14" class="ownership" start="54" end="56" ref="56" type="state" tense="unk" polarity="unk" modality="unk">
             <event event_id="14.0">
-              <role role="location-a" ref="30" text="iren der Hauptverkeufern Haus und Hofstatt mit aller zugehördt in der Statt Basel bey der Herberg zuer , zwischen den Heusern zuon Mören und zu der Elen gelegen , so zum König genant , zinst von eigenschaft wegen den Herrn von sant Peter zu Basel 4 ℔ 5ß zins pfennig und 1 Hun zu wysung , so dan 1ß zins ȡ zu Erschatz ; item 1ß zins pfennig den Herrn zu sant Martin item der Thermentarin uf Burg zu Basel ein Viertheil roths wins zuletzt den Predigern zu Basel 23ß seindt ablösin ; weiters ledig , frei , eigen"/>
-              <role role="location-b" ref="76" text="der Statt Basel"/>
-              <role role="location-b" ref="77" text="der Herberg"/>
-              <role role="location-b" ref="78" text="den Heusern zuon Mören und zu der Elen"/>
+              <role role="property" ref="11" text="iren der Hauptverkeufern Haus und Hofstatt mit aller zugehördt in der Statt Basel bey der Herberg zuer , zwischen den Heusern zuon Mören und zu der Elen gelegen , so zum König genant , zinst von eigenschaft wegen den Herrn von sant Peter zu Basel 4 ℔ 5ß zins pfennig und 1 Hun zu wysung , so dan 1ß zins ȡ zu Erschatz ; item 1ß zins pfennig den Herrn zu sant Martin item der Thermentarin uf Burg zu Basel ein Viertheil roths wins zuletzt den Predigern zu Basel 23ß seindt ablösin ; weiters ledig , frei , eigen"/>
+              <role role="owner" ref="61" text="iren"/>
+              <role role="owner" ref="62" text="der Hauptverkeufern"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="15" class="part_whole" start="167" end="172" ref="82" type="state" tense="unk" polarity="unk" modality="unk">
+          <eventGroup event_id="15" class="topological" start="63" end="81" ref="58" type="state" tense="unk" polarity="unk" modality="unk">
             <event event_id="15.0">
-              <role role="whole" ref="78" text="den Heusern zuon Mören und zu der Elen"/>
-              <role role="part" ref="83" text="zuon Mören"/>
-              <role role="part" ref="84" text="der Elen"/>
+              <role role="location-a" ref="11" text="iren der Hauptverkeufern Haus und Hofstatt mit aller zugehördt in der Statt Basel bey der Herberg zuer , zwischen den Heusern zuon Mören und zu der Elen gelegen , so zum König genant , zinst von eigenschaft wegen den Herrn von sant Peter zu Basel 4 ℔ 5ß zins pfennig und 1 Hun zu wysung , so dan 1ß zins ȡ zu Erschatz ; item 1ß zins pfennig den Herrn zu sant Martin item der Thermentarin uf Burg zu Basel ein Viertheil roths wins zuletzt den Predigern zu Basel 23ß seindt ablösin ; weiters ledig , frei , eigen"/>
+              <role role="location-b" ref="64" text="der Statt Basel"/>
+              <role role="location-b" ref="65" text="der Herberg"/>
+              <role role="location-b" ref="66" text="den Heusern zuon Mören und zu der Elen"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="16" class="topological" start="189" end="190" ref="104" type="state" tense="unk" polarity="unk" modality="unk">
+          <eventGroup event_id="16" class="part_whole" start="75" end="80" ref="70" type="state" tense="unk" polarity="unk" modality="unk">
             <event event_id="16.0">
-              <role role="location-a" ref="90" text="den Herrn von sant Peter zu Basel"/>
-              <role role="location-b" ref="105" text="Basel"/>
+              <role role="whole" ref="66" text="den Heusern zuon Mören und zu der Elen"/>
+              <role role="part" ref="71" text="zuon Mören"/>
+              <role role="part" ref="72" text="der Elen"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="17" class="topological" start="222" end="223" ref="109" type="state" tense="unk" polarity="unk" modality="unk">
+          <eventGroup event_id="17" class="topological" start="97" end="98" ref="92" type="state" tense="unk" polarity="unk" modality="unk">
             <event event_id="17.0">
-              <role role="location-a" ref="98" text="der Thermentarin uf Burg zu Basel"/>
-              <role role="location-b" ref="111" text="Burg"/>
+              <role role="location-a" ref="78" text="den Herrn von sant Peter zu Basel"/>
+              <role role="location-b" ref="93" text="Basel"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="18" class="topological" start="224" end="225" ref="110" type="state" tense="unk" polarity="unk" modality="unk">
+          <eventGroup event_id="18" class="topological" start="130" end="131" ref="97" type="state" tense="unk" polarity="unk" modality="unk">
             <event event_id="18.0">
-              <role role="location-a" ref="98" text="der Thermentarin uf Burg zu Basel"/>
-              <role role="location-b" ref="113" text="Basel"/>
+              <role role="location-a" ref="86" text="der Thermentarin uf Burg zu Basel"/>
+              <role role="location-b" ref="99" text="Burg"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="19" class="topological" start="233" end="234" ref="116" type="state" tense="unk" polarity="unk" modality="unk">
+          <eventGroup event_id="19" class="topological" start="132" end="133" ref="98" type="state" tense="unk" polarity="unk" modality="unk">
             <event event_id="19.0">
-              <role role="location-a" ref="100" text="den Predigern zu Basel"/>
-              <role role="location-b" ref="117" text="Basel"/>
+              <role role="location-a" ref="86" text="der Thermentarin uf Burg zu Basel"/>
+              <role role="location-b" ref="101" text="Basel"/>
+            </event>
+          </eventGroup>
+          <eventGroup event_id="20" class="topological" start="141" end="142" ref="104" type="state" tense="unk" polarity="unk" modality="unk">
+            <event event_id="20.0">
+              <role role="location-a" ref="88" text="den Predigern zu Basel"/>
+              <role role="location-b" ref="105" text="Basel"/>
             </event>
           </eventGroup>
         </eventGroups>

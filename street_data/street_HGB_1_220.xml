@@ -2645,7 +2645,7 @@
           </eventGroup>
         </eventGroups>
       </document>
-      <document id="0c782b71-b8f8-41ae-8d30-5124d6e48e6e_20260528">
+      <document id="bcad480c-ccb9-4fa4-9b44-5931a832f572_20260615">
         <metadata>
           <street_id>HGB_1_220</street_id>
           <dossier_id>HGB_1_220_008</dossier_id>
@@ -2653,399 +2653,432 @@
           <source>Steinenkloster</source>
           <language>german</language>
           <checked_by_gpt>false</checked_by_gpt>
-          <text>Ebenso 1547. Ebenso 1548. Ebenso 1549. Ebenso 1550. Ebenso 1531. Ebenso 1532. Ebenso 1533. Ebenso 1532. Ebenso 1555. Ebenso 1556. Ebenso 1557. Ebenso 1558. Ebenso 1559. Ebenso 1560. Ebenso 1561. Ebenso 1562. Ebenso 1563. Ebenso 15646. Ebenso 1565. Ebenso 1566. Ebenso 1567. Ebenso 1568. Ebenso 1569. Ebenso 1570. Ebenso 1571. Ebenso 1572. Ebenso 1573. Ebenso 1574. Ebenso 1575. Ebenso 1576. Ebenso 1577. Ebenso 1578. Ebenso 1579. Item die ersamen meyster von Weberen gent alle fronvasten 10ß thut ein ir 2 ℔ von dem huß am closter gelegen so das gotzhus eygen ist thut 2 ℔. Ebenso 1534. 1535 / 6 fehlen. 1537 eyn ersame zunfft vonn Webern gent alle fronfasten vonn dem hauß am closter dorum und doran gelegenn und yne von wegen deß großenn wassers so gewesen was gelichenn word byß daß sy ur schouw huß wider buwen möchtenn 10ß. Ebenso 1538. Ebenso 1539. Ebenso 1540. Ebenso 1541. Ebenso 1542. Ebenso 1543. Ebenso 1544. Ebenso 1545. Ebenso 1546.</text>
+          <text>Item die ersamen meyster von Weberen gent alle fronvasten 10ß thut ein ir 2 ℔ von dem huß am closter gelegen so das gotzhus eygen ist thut 2 ℔. Ebenso 1534. 1535 / 6 fehlen. 1537 eyn ersame zunfft vonn Webern gent alle fronfasten vonn dem hauß am closter dorum und doran gelegenn und yne von wegen deß großenn wassers so gewesen was gelichenn word byß daß sy ur schouw huß wider buwen möchtenn 10ß. Ebenso 1538. Ebenso 1539. Ebenso 1540. Ebenso 1541. Ebenso 1542. Ebenso 1543. Ebenso 1544. Ebenso 1545. Ebenso 1546. Ebenso 1547. Ebenso 1548. Ebenso 1549. Ebenso 1550. Ebenso 1531. Ebenso 1532. Ebenso 1533. Ebenso 1532. Ebenso 1555. Ebenso 1556. Ebenso 1557. Ebenso 1558. Ebenso 1559. Ebenso 1560. Ebenso 1561. Ebenso 1562. Ebenso 1563. Ebenso 15646. Ebenso 1565. Ebenso 1566. Ebenso 1567. Ebenso 1568. Ebenso 1569. Ebenso 1570. Ebenso 1571. Ebenso 1572. Ebenso 1573. Ebenso 1574. Ebenso 1575. Ebenso 1576. Ebenso 1577. Ebenso 1578. Ebenso 1579.</text>
           <pages>
-            <page nr="5">https://files.transkribus.eu/Get?fileType=view&amp;id=CWKXBHISZKOMBFTVEAKYKEPQ</page>
-            <page nr="6">https://files.transkribus.eu/Get?fileType=view&amp;id=PJIPOSUSKOEODQUDSLRENJBG</page>
+            <page nr="5"><![CDATA[https://files.transkribus.eu/Get?fileType=view&id=CWKXBHISZKOMBFTVEAKYKEPQ]]></page>
+            <page nr="6"><![CDATA[https://files.transkribus.eu/Get?fileType=view&id=PJIPOSUSKOEODQUDSLRENJBG]]></page>
           </pages>
         </metadata>
         <text>
-          <token token_id="0">Ebenso</token>
-          <token token_id="1">1547</token>
-          <token token_id="2">.</token>
-          <token token_id="3">Ebenso</token>
-          <token token_id="4">1548</token>
-          <token token_id="5">.</token>
-          <token token_id="6">Ebenso</token>
-          <token token_id="7">1549</token>
-          <token token_id="8">.</token>
-          <token token_id="9">Ebenso</token>
-          <token token_id="10">1550</token>
-          <token token_id="11">.</token>
-          <token token_id="12">Ebenso</token>
-          <token token_id="13">1531</token>
-          <token token_id="14">.</token>
-          <token token_id="15">Ebenso</token>
-          <token token_id="16">1532</token>
-          <token token_id="17">.</token>
-          <token token_id="18">Ebenso</token>
-          <token token_id="19">1533</token>
-          <token token_id="20">.</token>
-          <token token_id="21">Ebenso</token>
-          <token token_id="22">1532</token>
-          <token token_id="23">.</token>
-          <token token_id="24">Ebenso</token>
-          <token token_id="25">1555</token>
-          <token token_id="26">.</token>
-          <token token_id="27">Ebenso</token>
-          <token token_id="28">1556</token>
+          <token token_id="0">Item</token>
+          <token token_id="1">die</token>
+          <token token_id="2">ersamen</token>
+          <token token_id="3">meyster</token>
+          <token token_id="4">von</token>
+          <token token_id="5">Weberen</token>
+          <token token_id="6">gent</token>
+          <token token_id="7">alle</token>
+          <token token_id="8">fronvasten</token>
+          <token token_id="9">10ß</token>
+          <token token_id="10">thut</token>
+          <token token_id="11">ein</token>
+          <token token_id="12">ir</token>
+          <token token_id="13">2</token>
+          <token token_id="14">℔</token>
+          <token token_id="15">von</token>
+          <token token_id="16">dem</token>
+          <token token_id="17">huß</token>
+          <token token_id="18">am</token>
+          <token token_id="19">closter</token>
+          <token token_id="20">gelegen</token>
+          <token token_id="21">so</token>
+          <token token_id="22">das</token>
+          <token token_id="23">gotzhus</token>
+          <token token_id="24">eygen</token>
+          <token token_id="25">ist</token>
+          <token token_id="26">thut</token>
+          <token token_id="27">2</token>
+          <token token_id="28">℔</token>
           <token token_id="29">.</token>
           <token token_id="30">Ebenso</token>
-          <token token_id="31">1557</token>
+          <token token_id="31">1534</token>
           <token token_id="32">.</token>
-          <token token_id="33">Ebenso</token>
-          <token token_id="34">1558</token>
-          <token token_id="35">.</token>
-          <token token_id="36">Ebenso</token>
-          <token token_id="37">1559</token>
-          <token token_id="38">.</token>
-          <token token_id="39">Ebenso</token>
-          <token token_id="40">1560</token>
-          <token token_id="41">.</token>
-          <token token_id="42">Ebenso</token>
-          <token token_id="43">1561</token>
-          <token token_id="44">.</token>
-          <token token_id="45">Ebenso</token>
-          <token token_id="46">1562</token>
-          <token token_id="47">.</token>
-          <token token_id="48">Ebenso</token>
-          <token token_id="49">1563</token>
-          <token token_id="50">.</token>
-          <token token_id="51">Ebenso</token>
-          <token token_id="52">15646</token>
-          <token token_id="53">.</token>
-          <token token_id="54">Ebenso</token>
-          <token token_id="55">1565</token>
-          <token token_id="56">.</token>
-          <token token_id="57">Ebenso</token>
-          <token token_id="58">1566</token>
-          <token token_id="59">.</token>
-          <token token_id="60">Ebenso</token>
-          <token token_id="61">1567</token>
-          <token token_id="62">.</token>
-          <token token_id="63">Ebenso</token>
-          <token token_id="64">1568</token>
-          <token token_id="65">.</token>
-          <token token_id="66">Ebenso</token>
-          <token token_id="67">1569</token>
-          <token token_id="68">.</token>
-          <token token_id="69">Ebenso</token>
-          <token token_id="70">1570</token>
-          <token token_id="71">.</token>
-          <token token_id="72">Ebenso</token>
-          <token token_id="73">1571</token>
-          <token token_id="74">.</token>
-          <token token_id="75">Ebenso</token>
-          <token token_id="76">1572</token>
-          <token token_id="77">.</token>
-          <token token_id="78">Ebenso</token>
-          <token token_id="79">1573</token>
-          <token token_id="80">.</token>
-          <token token_id="81">Ebenso</token>
-          <token token_id="82">1574</token>
-          <token token_id="83">.</token>
-          <token token_id="84">Ebenso</token>
-          <token token_id="85">1575</token>
-          <token token_id="86">.</token>
-          <token token_id="87">Ebenso</token>
-          <token token_id="88">1576</token>
-          <token token_id="89">.</token>
-          <token token_id="90">Ebenso</token>
-          <token token_id="91">1577</token>
-          <token token_id="92">.</token>
-          <token token_id="93">Ebenso</token>
-          <token token_id="94">1578</token>
-          <token token_id="95">.</token>
-          <token token_id="96">Ebenso</token>
-          <token token_id="97">1579</token>
-          <token token_id="98">.</token>
-          <token token_id="99">Item</token>
-          <token token_id="100">die</token>
-          <token token_id="101">ersamen</token>
-          <token token_id="102">meyster</token>
-          <token token_id="103">von</token>
-          <token token_id="104">Weberen</token>
-          <token token_id="105">gent</token>
-          <token token_id="106">alle</token>
-          <token token_id="107">fronvasten</token>
-          <token token_id="108">10ß</token>
-          <token token_id="109">thut</token>
-          <token token_id="110">ein</token>
-          <token token_id="111">ir</token>
-          <token token_id="112">2</token>
-          <token token_id="113">℔</token>
-          <token token_id="114">von</token>
-          <token token_id="115">dem</token>
-          <token token_id="116">huß</token>
-          <token token_id="117">am</token>
-          <token token_id="118">closter</token>
-          <token token_id="119">gelegen</token>
-          <token token_id="120">so</token>
-          <token token_id="121">das</token>
-          <token token_id="122">gotzhus</token>
-          <token token_id="123">eygen</token>
-          <token token_id="124">ist</token>
-          <token token_id="125">thut</token>
-          <token token_id="126">2</token>
-          <token token_id="127">℔</token>
-          <token token_id="128">.</token>
-          <token token_id="129">Ebenso</token>
-          <token token_id="130">1534</token>
-          <token token_id="131">.</token>
-          <token token_id="132">1535</token>
-          <token token_id="133">/</token>
-          <token token_id="134">6</token>
-          <token token_id="135">fehlen</token>
-          <token token_id="136">.</token>
-          <token token_id="137">1537</token>
-          <token token_id="138">eyn</token>
-          <token token_id="139">ersame</token>
-          <token token_id="140">zunfft</token>
-          <token token_id="141">vonn</token>
-          <token token_id="142">Webern</token>
-          <token token_id="143">gent</token>
-          <token token_id="144">alle</token>
-          <token token_id="145">fronfasten</token>
-          <token token_id="146">vonn</token>
-          <token token_id="147">dem</token>
-          <token token_id="148">hauß</token>
-          <token token_id="149">am</token>
-          <token token_id="150">closter</token>
-          <token token_id="151">dorum</token>
-          <token token_id="152">und</token>
-          <token token_id="153">doran</token>
-          <token token_id="154">gelegenn</token>
-          <token token_id="155">und</token>
-          <token token_id="156">yne</token>
-          <token token_id="157">von</token>
-          <token token_id="158">wegen</token>
-          <token token_id="159">deß</token>
-          <token token_id="160">großenn</token>
-          <token token_id="161">wassers</token>
-          <token token_id="162">so</token>
-          <token token_id="163">gewesen</token>
-          <token token_id="164">was</token>
-          <token token_id="165">gelichenn</token>
-          <token token_id="166">word</token>
-          <token token_id="167">byß</token>
-          <token token_id="168">daß</token>
-          <token token_id="169">sy</token>
-          <token token_id="170">ur</token>
-          <token token_id="171">schouw</token>
-          <token token_id="172">huß</token>
-          <token token_id="173">wider</token>
-          <token token_id="174">buwen</token>
-          <token token_id="175">möchtenn</token>
-          <token token_id="176">10ß</token>
+          <token token_id="33">1535</token>
+          <token token_id="34">/</token>
+          <token token_id="35">6</token>
+          <token token_id="36">fehlen</token>
+          <token token_id="37">.</token>
+          <token token_id="38">1537</token>
+          <token token_id="39">eyn</token>
+          <token token_id="40">ersame</token>
+          <token token_id="41">zunfft</token>
+          <token token_id="42">vonn</token>
+          <token token_id="43">Webern</token>
+          <token token_id="44">gent</token>
+          <token token_id="45">alle</token>
+          <token token_id="46">fronfasten</token>
+          <token token_id="47">vonn</token>
+          <token token_id="48">dem</token>
+          <token token_id="49">hauß</token>
+          <token token_id="50">am</token>
+          <token token_id="51">closter</token>
+          <token token_id="52">dorum</token>
+          <token token_id="53">und</token>
+          <token token_id="54">doran</token>
+          <token token_id="55">gelegenn</token>
+          <token token_id="56">und</token>
+          <token token_id="57">yne</token>
+          <token token_id="58">von</token>
+          <token token_id="59">wegen</token>
+          <token token_id="60">deß</token>
+          <token token_id="61">großenn</token>
+          <token token_id="62">wassers</token>
+          <token token_id="63">so</token>
+          <token token_id="64">gewesen</token>
+          <token token_id="65">was</token>
+          <token token_id="66">gelichenn</token>
+          <token token_id="67">word</token>
+          <token token_id="68">byß</token>
+          <token token_id="69">daß</token>
+          <token token_id="70">sy</token>
+          <token token_id="71">ur</token>
+          <token token_id="72">schouw</token>
+          <token token_id="73">huß</token>
+          <token token_id="74">wider</token>
+          <token token_id="75">buwen</token>
+          <token token_id="76">möchtenn</token>
+          <token token_id="77">10ß</token>
+          <token token_id="78">.</token>
+          <token token_id="79">Ebenso</token>
+          <token token_id="80">1538</token>
+          <token token_id="81">.</token>
+          <token token_id="82">Ebenso</token>
+          <token token_id="83">1539</token>
+          <token token_id="84">.</token>
+          <token token_id="85">Ebenso</token>
+          <token token_id="86">1540</token>
+          <token token_id="87">.</token>
+          <token token_id="88">Ebenso</token>
+          <token token_id="89">1541</token>
+          <token token_id="90">.</token>
+          <token token_id="91">Ebenso</token>
+          <token token_id="92">1542</token>
+          <token token_id="93">.</token>
+          <token token_id="94">Ebenso</token>
+          <token token_id="95">1543</token>
+          <token token_id="96">.</token>
+          <token token_id="97">Ebenso</token>
+          <token token_id="98">1544</token>
+          <token token_id="99">.</token>
+          <token token_id="100">Ebenso</token>
+          <token token_id="101">1545</token>
+          <token token_id="102">.</token>
+          <token token_id="103">Ebenso</token>
+          <token token_id="104">1546</token>
+          <token token_id="105">.</token>
+          <token token_id="106">Ebenso</token>
+          <token token_id="107">1547</token>
+          <token token_id="108">.</token>
+          <token token_id="109">Ebenso</token>
+          <token token_id="110">1548</token>
+          <token token_id="111">.</token>
+          <token token_id="112">Ebenso</token>
+          <token token_id="113">1549</token>
+          <token token_id="114">.</token>
+          <token token_id="115">Ebenso</token>
+          <token token_id="116">1550</token>
+          <token token_id="117">.</token>
+          <token token_id="118">Ebenso</token>
+          <token token_id="119">1531</token>
+          <token token_id="120">.</token>
+          <token token_id="121">Ebenso</token>
+          <token token_id="122">1532</token>
+          <token token_id="123">.</token>
+          <token token_id="124">Ebenso</token>
+          <token token_id="125">1533</token>
+          <token token_id="126">.</token>
+          <token token_id="127">Ebenso</token>
+          <token token_id="128">1532</token>
+          <token token_id="129">.</token>
+          <token token_id="130">Ebenso</token>
+          <token token_id="131">1555</token>
+          <token token_id="132">.</token>
+          <token token_id="133">Ebenso</token>
+          <token token_id="134">1556</token>
+          <token token_id="135">.</token>
+          <token token_id="136">Ebenso</token>
+          <token token_id="137">1557</token>
+          <token token_id="138">.</token>
+          <token token_id="139">Ebenso</token>
+          <token token_id="140">1558</token>
+          <token token_id="141">.</token>
+          <token token_id="142">Ebenso</token>
+          <token token_id="143">1559</token>
+          <token token_id="144">.</token>
+          <token token_id="145">Ebenso</token>
+          <token token_id="146">1560</token>
+          <token token_id="147">.</token>
+          <token token_id="148">Ebenso</token>
+          <token token_id="149">1561</token>
+          <token token_id="150">.</token>
+          <token token_id="151">Ebenso</token>
+          <token token_id="152">1562</token>
+          <token token_id="153">.</token>
+          <token token_id="154">Ebenso</token>
+          <token token_id="155">1563</token>
+          <token token_id="156">.</token>
+          <token token_id="157">Ebenso</token>
+          <token token_id="158">15646</token>
+          <token token_id="159">.</token>
+          <token token_id="160">Ebenso</token>
+          <token token_id="161">1565</token>
+          <token token_id="162">.</token>
+          <token token_id="163">Ebenso</token>
+          <token token_id="164">1566</token>
+          <token token_id="165">.</token>
+          <token token_id="166">Ebenso</token>
+          <token token_id="167">1567</token>
+          <token token_id="168">.</token>
+          <token token_id="169">Ebenso</token>
+          <token token_id="170">1568</token>
+          <token token_id="171">.</token>
+          <token token_id="172">Ebenso</token>
+          <token token_id="173">1569</token>
+          <token token_id="174">.</token>
+          <token token_id="175">Ebenso</token>
+          <token token_id="176">1570</token>
           <token token_id="177">.</token>
           <token token_id="178">Ebenso</token>
-          <token token_id="179">1538</token>
+          <token token_id="179">1571</token>
           <token token_id="180">.</token>
           <token token_id="181">Ebenso</token>
-          <token token_id="182">1539</token>
+          <token token_id="182">1572</token>
           <token token_id="183">.</token>
           <token token_id="184">Ebenso</token>
-          <token token_id="185">1540</token>
+          <token token_id="185">1573</token>
           <token token_id="186">.</token>
           <token token_id="187">Ebenso</token>
-          <token token_id="188">1541</token>
+          <token token_id="188">1574</token>
           <token token_id="189">.</token>
           <token token_id="190">Ebenso</token>
-          <token token_id="191">1542</token>
+          <token token_id="191">1575</token>
           <token token_id="192">.</token>
           <token token_id="193">Ebenso</token>
-          <token token_id="194">1543</token>
+          <token token_id="194">1576</token>
           <token token_id="195">.</token>
           <token token_id="196">Ebenso</token>
-          <token token_id="197">1544</token>
+          <token token_id="197">1577</token>
           <token token_id="198">.</token>
           <token token_id="199">Ebenso</token>
-          <token token_id="200">1545</token>
+          <token token_id="200">1578</token>
           <token token_id="201">.</token>
           <token token_id="202">Ebenso</token>
-          <token token_id="203">1546</token>
+          <token token_id="203">1579</token>
           <token token_id="204">.</token>
         </text>
         <spans>
-          <span id="0" start="1" end="1" element="value" class="date" confidence="1.0" text="1547"/>
-          <span id="1" start="4" end="4" element="value" class="date" confidence="1.0" text="1548"/>
-          <span id="2" start="7" end="7" element="value" class="date" confidence="1.0" text="1549"/>
-          <span id="3" start="10" end="10" element="value" class="date" confidence="1.0" text="1550"/>
-          <span id="4" start="13" end="13" element="value" class="date" confidence="1.0" text="1531"/>
-          <span id="5" start="16" end="16" element="value" class="date" confidence="1.0" text="1532"/>
-          <span id="6" start="19" end="19" element="value" class="date" confidence="1.0" text="1533"/>
-          <span id="7" start="22" end="22" element="value" class="date" confidence="1.0" text="1532"/>
-          <span id="8" start="25" end="25" element="value" class="date" confidence="1.0" text="1555"/>
-          <span id="9" start="28" end="28" element="value" class="date" confidence="1.0" text="1556"/>
-          <span id="10" start="31" end="31" element="value" class="date" confidence="1.0" text="1557"/>
-          <span id="11" start="34" end="34" element="value" class="date" confidence="1.0" text="1558"/>
-          <span id="12" start="37" end="37" element="value" class="date" confidence="1.0" text="1559"/>
-          <span id="13" start="40" end="40" element="value" class="date" confidence="1.0" text="1560"/>
-          <span id="14" start="43" end="43" element="value" class="date" confidence="1.0" text="1561"/>
-          <span id="15" start="46" end="46" element="value" class="date" confidence="1.0" text="1562"/>
-          <span id="16" start="49" end="49" element="value" class="date" confidence="1.0" text="1563"/>
-          <span id="17" start="52" end="52" element="value" class="date" confidence="1.0" text="15646"/>
-          <span id="18" start="55" end="55" element="value" class="date" confidence="1.0" text="1565"/>
-          <span id="19" start="58" end="58" element="value" class="date" confidence="1.0" text="1566"/>
-          <span id="20" start="61" end="61" element="value" class="date" confidence="1.0" text="1567"/>
-          <span id="21" start="64" end="64" element="value" class="date" confidence="1.0" text="1568"/>
-          <span id="22" start="67" end="67" element="value" class="date" confidence="1.0" text="1569"/>
-          <span id="23" start="70" end="70" element="value" class="date" confidence="1.0" text="1570"/>
-          <span id="24" start="73" end="73" element="value" class="date" confidence="1.0" text="1571"/>
-          <span id="25" start="76" end="76" element="value" class="date" confidence="1.0" text="1572"/>
-          <span id="26" start="79" end="79" element="value" class="date" confidence="1.0" text="1573"/>
-          <span id="27" start="82" end="82" element="value" class="date" confidence="1.0" text="1574"/>
-          <span id="28" start="85" end="85" element="value" class="date" confidence="1.0" text="1575"/>
-          <span id="29" start="88" end="88" element="value" class="date" confidence="1.0" text="1576"/>
-          <span id="30" start="91" end="91" element="value" class="date" confidence="1.0" text="1577"/>
-          <span id="31" start="94" end="94" element="value" class="date" confidence="1.0" text="1578"/>
-          <span id="32" start="97" end="97" element="value" class="date" confidence="1.0" text="1579"/>
-          <span id="33" start="100" end="104" element="reference" class="per" confidence="0.78" text="die ersamen meyster von Weberen" numerus="sgl" specificity="spc" subclass="">
-            <span id="65" start="102" end="102" element="head" class="occ" confidence="0.62" text="meyster" norm="unk"/>
-            <span id="66" start="103" end="104" element="attr" class="loc" confidence="0.74" text="von Weberen">
-              <span id="67" start="104" end="104" element="reference" class="gpe-loc" confidence="1.0" text="Weberen" numerus="sgl" specificity="spc" subclass="">
-                <span id="68" start="104" end="104" element="head" class="nam" confidence="1.0" text="Weberen"/>
+          <span id="0" start="1" end="5" element="reference" class="per" confidence="0.85" text="die ersamen meyster von Weberen" numerus="sgl" specificity="spc" subclass="">
+            <span id="65" start="3" end="3" element="head" class="occ" confidence="0.63" text="meyster" norm="unk"/>
+            <span id="66" start="4" end="5" element="attr" class="loc" confidence="0.83" text="von Weberen">
+              <span id="67" start="5" end="5" element="reference" class="gpe-loc" confidence="1.0" text="Weberen" numerus="sgl" specificity="spc" subclass="">
+                <span id="68" start="5" end="5" element="head" class="nam" confidence="1.0" text="Weberen"/>
               </span>
             </span>
           </span>
-          <span id="34" start="105" end="105" element="trigger" class="due" confidence="1.0" text="gent"/>
-          <span id="35" start="106" end="107" element="value" class="date" confidence="0.92" text="alle fronvasten"/>
-          <span id="36" start="108" end="108" element="value" class="money" confidence="1.0" text="10ß" norm="10.0 Schilling"/>
-          <span id="37" start="109" end="109" element="trigger" class="due" confidence="0.83" text="thut"/>
-          <span id="38" start="111" end="111" element="reference" class="per" confidence="0.46" text="ir" numerus="sgl" specificity="spc" subclass="">
-            <span id="38_head" start="111" end="111" element="head" class="pro" confidence="0.46" text="ir"/>
+          <span id="1" start="6" end="6" element="trigger" class="due" confidence="1.0" text="gent"/>
+          <span id="2" start="7" end="8" element="value" class="date" confidence="0.95" text="alle fronvasten"/>
+          <span id="3" start="9" end="9" element="value" class="money" confidence="1.0" text="10ß" norm="10.0 Schilling"/>
+          <span id="4" start="10" end="10" element="trigger" class="due" confidence="0.93" text="thut"/>
+          <span id="5" start="12" end="12" element="reference" class="per" confidence="0.48" text="ir" numerus="sgl" specificity="spc" subclass="">
+            <span id="5_head" start="12" end="12" element="head" class="pro" confidence="0.48" text="ir"/>
           </span>
-          <span id="39" start="112" end="113" element="value" class="money" confidence="0.74" text="2 ℔" norm="2.0 Pfund"/>
-          <span id="40" start="115" end="124" element="reference" class="fac" confidence="0.89" text="dem huß am closter gelegen so das gotzhus eygen ist" numerus="sgl" specificity="spc" subclass="">
-            <span id="69" start="116" end="116" element="head" class="type" confidence="0.99" text="huß" norm="Haus"/>
-            <span id="70" start="117" end="124" element="attr" class="loc" confidence="0.61" text="am closter gelegen so das gotzhus eygen ist">
-              <span id="71" start="117" end="118" element="reference" class="fac" confidence="0.86" text="am closter" numerus="sgl" specificity="spc" subclass="">
-                <span id="73" start="118" end="118" element="head" class="type" confidence="0.98" text="closter" norm="unk"/>
+          <span id="6" start="13" end="14" element="value" class="money" confidence="0.8" text="2 ℔" norm="2.0 Pfund"/>
+          <span id="7" start="16" end="25" element="reference" class="fac" confidence="0.91" text="dem huß am closter gelegen so das gotzhus eygen ist" numerus="sgl" specificity="spc" subclass="">
+            <span id="69" start="17" end="17" element="head" class="type" confidence="0.99" text="huß" norm="Haus"/>
+            <span id="70" start="18" end="25" element="attr" class="loc" confidence="0.61" text="am closter gelegen so das gotzhus eygen ist">
+              <span id="71" start="18" end="19" element="reference" class="fac" confidence="0.86" text="am closter" numerus="sgl" specificity="spc" subclass="">
+                <span id="73" start="19" end="19" element="head" class="type" confidence="0.98" text="closter" norm="unk"/>
               </span>
-              <span id="72" start="121" end="122" element="reference" class="org" confidence="0.76" text="das gotzhus" numerus="sgl" specificity="spc" subclass="rel">
-                <span id="74" start="122" end="122" element="head" class="type" confidence="0.99" text="gotzhus" norm="Gotteshaus"/>
-              </span>
-            </span>
-          </span>
-          <span id="41" start="126" end="128" element="value" class="money" confidence="1.0" text="2 ℔ ." norm="2.0 Pfund"/>
-          <span id="42" start="130" end="130" element="value" class="date" confidence="1.0" text="1534"/>
-          <span id="43" start="132" end="132" element="value" class="date" confidence="1.0" text="1535"/>
-          <span id="44" start="134" end="134" element="value" class="date" confidence="1.0" text="6"/>
-          <span id="45" start="137" end="137" element="value" class="date" confidence="1.0" text="1537"/>
-          <span id="46" start="138" end="142" element="reference" class="per" confidence="0.8" text="eyn ersame zunfft vonn Webern" numerus="grp" specificity="spc" subclass="">
-            <span id="75" start="140" end="142" element="head" class="nam" confidence="0.69" text="zunfft vonn Webern"/>
-          </span>
-          <span id="47" start="143" end="143" element="trigger" class="due" confidence="1.0" text="gent"/>
-          <span id="48" start="144" end="145" element="value" class="date" confidence="0.98" text="alle fronfasten"/>
-          <span id="49" start="147" end="154" element="reference" class="fac" confidence="0.92" text="dem hauß am closter dorum und doran gelegenn" numerus="sgl" specificity="spc" subclass="">
-            <span id="76" start="148" end="148" element="head" class="type" confidence="1.0" text="hauß" norm="Haus"/>
-            <span id="77" start="149" end="154" element="attr" class="loc" confidence="0.86" text="am closter dorum und doran gelegenn">
-              <span id="78" start="149" end="150" element="reference" class="fac" confidence="0.91" text="am closter" numerus="sgl" specificity="spc" subclass="">
-                <span id="79" start="150" end="150" element="head" class="type" confidence="0.99" text="closter" norm="unk"/>
+              <span id="72" start="22" end="23" element="reference" class="org" confidence="0.76" text="das gotzhus" numerus="sgl" specificity="spc" subclass="rel">
+                <span id="74" start="23" end="23" element="head" class="type" confidence="0.99" text="gotzhus" norm="Gotteshaus"/>
               </span>
             </span>
           </span>
-          <span id="50" start="156" end="156" element="reference" class="unk" confidence="0.61" text="yne" numerus="sgl" specificity="spc" subclass="">
-            <span id="50_head" start="156" end="156" element="head" class="pro" confidence="0.61" text="yne"/>
+          <span id="8" start="27" end="29" element="value" class="money" confidence="1.0" text="2 ℔ ." norm="2.0 Pfund"/>
+          <span id="9" start="31" end="31" element="value" class="date" confidence="1.0" text="1534"/>
+          <span id="10" start="33" end="33" element="value" class="date" confidence="1.0" text="1535"/>
+          <span id="11" start="35" end="35" element="value" class="date" confidence="1.0" text="6"/>
+          <span id="12" start="38" end="38" element="value" class="date" confidence="1.0" text="1537"/>
+          <span id="13" start="39" end="43" element="reference" class="per" confidence="0.86" text="eyn ersame zunfft vonn Webern" numerus="grp" specificity="spc" subclass="">
+            <span id="75" start="41" end="43" element="head" class="nam" confidence="0.69" text="zunfft vonn Webern"/>
           </span>
-          <span id="51" start="159" end="165" element="reference" class="fac" confidence="0.85" text="deß großenn wassers so gewesen was gelichenn" numerus="sgl" specificity="spc" subclass="">
-            <span id="80" start="161" end="161" element="head" class="type" confidence="0.73" text="wassers" norm="unk"/>
-          </span>
-          <span id="52" start="169" end="169" element="reference" class="unk" confidence="1.0" text="sy" numerus="sgl" specificity="spc" subclass="">
-            <span id="52_head" start="169" end="169" element="head" class="pro" confidence="1.0" text="sy"/>
-          </span>
-          <span id="53" start="171" end="172" element="reference" class="fac" confidence="0.85" text="schouw huß" numerus="sgl" specificity="spc" subclass="">
-            <span id="81" start="171" end="171" element="attr" class="owner" confidence="0.87" text="schouw">
-              <span id="83" start="171" end="171" element="reference" class="unk" confidence="0.52" text="schouw" numerus="sgl" specificity="spc" subclass="">
-                <span id="83_head" start="171" end="171" element="head" class="pro" confidence="0.52" text="schouw"/>
+          <span id="14" start="44" end="44" element="trigger" class="due" confidence="1.0" text="gent"/>
+          <span id="15" start="45" end="46" element="value" class="date" confidence="0.98" text="alle fronfasten"/>
+          <span id="16" start="48" end="55" element="reference" class="fac" confidence="0.91" text="dem hauß am closter dorum und doran gelegenn" numerus="sgl" specificity="spc" subclass="">
+            <span id="76" start="49" end="49" element="head" class="type" confidence="1.0" text="hauß" norm="Haus"/>
+            <span id="77" start="50" end="55" element="attr" class="loc" confidence="0.86" text="am closter dorum und doran gelegenn">
+              <span id="78" start="50" end="51" element="reference" class="fac" confidence="0.91" text="am closter" numerus="sgl" specificity="spc" subclass="">
+                <span id="79" start="51" end="51" element="head" class="type" confidence="0.99" text="closter" norm="unk"/>
               </span>
             </span>
-            <span id="82" start="172" end="172" element="head" class="type" confidence="0.87" text="huß" norm="Haus"/>
           </span>
-          <span id="54" start="174" end="174" element="trigger" class="due" confidence="0.77" text="buwen"/>
-          <span id="55" start="176" end="177" element="value" class="money" confidence="0.99" text="10ß ." norm="10.0 Schilling"/>
-          <span id="56" start="179" end="179" element="value" class="date" confidence="1.0" text="1538"/>
-          <span id="57" start="182" end="182" element="value" class="date" confidence="1.0" text="1539"/>
-          <span id="58" start="185" end="185" element="value" class="date" confidence="1.0" text="1540"/>
-          <span id="59" start="188" end="188" element="value" class="date" confidence="1.0" text="1541"/>
-          <span id="60" start="191" end="191" element="value" class="date" confidence="1.0" text="1542"/>
-          <span id="61" start="194" end="194" element="value" class="date" confidence="1.0" text="1543"/>
-          <span id="62" start="197" end="197" element="value" class="date" confidence="1.0" text="1544"/>
-          <span id="63" start="200" end="200" element="value" class="date" confidence="1.0" text="1545"/>
-          <span id="64" start="203" end="203" element="value" class="date" confidence="1.0" text="1546"/>
+          <span id="17" start="57" end="57" element="reference" class="unk" confidence="0.6" text="yne" numerus="sgl" specificity="spc" subclass="">
+            <span id="17_head" start="57" end="57" element="head" class="pro" confidence="0.6" text="yne"/>
+          </span>
+          <span id="18" start="60" end="66" element="reference" class="fac" confidence="0.81" text="deß großenn wassers so gewesen was gelichenn" numerus="sgl" specificity="spc" subclass="">
+            <span id="80" start="62" end="62" element="head" class="type" confidence="0.73" text="wassers" norm="unk"/>
+          </span>
+          <span id="19" start="70" end="70" element="reference" class="unk" confidence="1.0" text="sy" numerus="sgl" specificity="spc" subclass="">
+            <span id="19_head" start="70" end="70" element="head" class="pro" confidence="1.0" text="sy"/>
+          </span>
+          <span id="20" start="72" end="73" element="reference" class="fac" confidence="0.89" text="schouw huß" numerus="sgl" specificity="spc" subclass="">
+            <span id="81" start="72" end="72" element="attr" class="owner" confidence="0.87" text="schouw">
+              <span id="83" start="72" end="72" element="reference" class="unk" confidence="0.52" text="schouw" numerus="sgl" specificity="spc" subclass="">
+                <span id="83_head" start="72" end="72" element="head" class="pro" confidence="0.52" text="schouw"/>
+              </span>
+            </span>
+            <span id="82" start="73" end="73" element="head" class="type" confidence="0.87" text="huß" norm="Haus"/>
+          </span>
+          <span id="21" start="75" end="75" element="trigger" class="due" confidence="0.75" text="buwen"/>
+          <span id="22" start="77" end="78" element="value" class="money" confidence="0.99" text="10ß ." norm="10.0 Schilling"/>
+          <span id="23" start="80" end="80" element="value" class="date" confidence="1.0" text="1538"/>
+          <span id="24" start="83" end="83" element="value" class="date" confidence="1.0" text="1539"/>
+          <span id="25" start="86" end="86" element="value" class="date" confidence="1.0" text="1540"/>
+          <span id="26" start="89" end="89" element="value" class="date" confidence="1.0" text="1541"/>
+          <span id="27" start="92" end="92" element="value" class="date" confidence="1.0" text="1542"/>
+          <span id="28" start="95" end="95" element="value" class="date" confidence="1.0" text="1543"/>
+          <span id="29" start="98" end="98" element="value" class="date" confidence="1.0" text="1544"/>
+          <span id="30" start="101" end="101" element="value" class="date" confidence="1.0" text="1545"/>
+          <span id="31" start="104" end="104" element="value" class="date" confidence="1.0" text="1546"/>
+          <span id="32" start="107" end="107" element="value" class="date" confidence="1.0" text="1547"/>
+          <span id="33" start="110" end="110" element="value" class="date" confidence="1.0" text="1548"/>
+          <span id="34" start="113" end="113" element="value" class="date" confidence="1.0" text="1549"/>
+          <span id="35" start="116" end="116" element="value" class="date" confidence="1.0" text="1550"/>
+          <span id="36" start="119" end="119" element="value" class="date" confidence="1.0" text="1531"/>
+          <span id="37" start="122" end="122" element="value" class="date" confidence="1.0" text="1532"/>
+          <span id="38" start="125" end="125" element="value" class="date" confidence="1.0" text="1533"/>
+          <span id="39" start="128" end="128" element="value" class="date" confidence="1.0" text="1532"/>
+          <span id="40" start="131" end="131" element="value" class="date" confidence="1.0" text="1555"/>
+          <span id="41" start="134" end="134" element="value" class="date" confidence="1.0" text="1556"/>
+          <span id="42" start="137" end="137" element="value" class="date" confidence="1.0" text="1557"/>
+          <span id="43" start="140" end="140" element="value" class="date" confidence="1.0" text="1558"/>
+          <span id="44" start="143" end="143" element="value" class="date" confidence="1.0" text="1559"/>
+          <span id="45" start="146" end="146" element="value" class="date" confidence="1.0" text="1560"/>
+          <span id="46" start="149" end="149" element="value" class="date" confidence="1.0" text="1561"/>
+          <span id="47" start="152" end="152" element="value" class="date" confidence="1.0" text="1562"/>
+          <span id="48" start="155" end="155" element="value" class="date" confidence="1.0" text="1563"/>
+          <span id="49" start="158" end="158" element="value" class="date" confidence="1.0" text="15646"/>
+          <span id="50" start="161" end="161" element="value" class="date" confidence="1.0" text="1565"/>
+          <span id="51" start="164" end="164" element="value" class="date" confidence="1.0" text="1566"/>
+          <span id="52" start="167" end="167" element="value" class="date" confidence="1.0" text="1567"/>
+          <span id="53" start="170" end="170" element="value" class="date" confidence="1.0" text="1568"/>
+          <span id="54" start="173" end="173" element="value" class="date" confidence="1.0" text="1569"/>
+          <span id="55" start="176" end="176" element="value" class="date" confidence="1.0" text="1570"/>
+          <span id="56" start="179" end="179" element="value" class="date" confidence="1.0" text="1571"/>
+          <span id="57" start="182" end="182" element="value" class="date" confidence="1.0" text="1572"/>
+          <span id="58" start="185" end="185" element="value" class="date" confidence="1.0" text="1573"/>
+          <span id="59" start="188" end="188" element="value" class="date" confidence="1.0" text="1574"/>
+          <span id="60" start="191" end="191" element="value" class="date" confidence="1.0" text="1575"/>
+          <span id="61" start="194" end="194" element="value" class="date" confidence="1.0" text="1576"/>
+          <span id="62" start="197" end="197" element="value" class="date" confidence="1.0" text="1577"/>
+          <span id="63" start="200" end="200" element="value" class="date" confidence="1.0" text="1578"/>
+          <span id="64" start="203" end="203" element="value" class="date" confidence="1.0" text="1579"/>
         </spans>
         <relations>
-          <relation id="1" from="38" to="33" class="coref"/>
-          <relation id="2" from="83" to="52" class="coref"/>
+          <relation id="1" from="5" to="0" class="coref"/>
+          <relation id="2" from="83" to="19" class="coref"/>
         </relations>
         <eventGroups>
-          <eventGroup event_id="0" class="due-obligation" start="100" end="108" ref="" type="state" tense="unk" polarity="unk" modality="unk">
-            <trigger ref="34" text="gent"/>
+          <eventGroup event_id="0" class="due-obligation" start="1" end="9" ref="" type="state" tense="unk" polarity="unk" modality="unk">
+            <trigger ref="1" text="gent"/>
             <event event_id="0.0">
-              <role role="payer" confidence="1.0" ref="33" text="die ersamen meyster von Weberen"/>
-              <role role="due-date" confidence="0.48" ref="35" text="alle fronvasten"/>
-              <role role="interest" confidence="0.98" ref="36" text="10ß"/>
+              <role role="payer" confidence="1.0" ref="0" text="die ersamen meyster von Weberen"/>
+              <role role="due-date" confidence="0.52" ref="2" text="alle fronvasten"/>
+              <role role="interest" confidence="0.97" ref="3" text="10ß"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="1" class="due-payment" start="109" end="134" ref="" type="event" tense="unk" polarity="unk" modality="unk">
-            <trigger ref="37" text="thut"/>
+          <eventGroup event_id="1" class="due-payment" start="10" end="35" ref="" type="event" tense="unk" polarity="unk" modality="unk">
+            <trigger ref="4" text="thut"/>
             <event event_id="1.0">
-              <role role="interest" confidence="0.92" ref="39" text="2 ℔"/>
-              <role role="property" confidence="0.99" ref="40" text="dem huß am closter gelegen so das gotzhus eygen ist"/>
-              <role role="detail_other" confidence="0.78" ref="41" text="2 ℔ ."/>
-              <role role="date" confidence="0.96" ref="42" text="1534"/>
-              <role role="date-missing" confidence="0.95" ref="43" text="1535"/>
-              <role role="date-missing" confidence="0.98" ref="44" text="6"/>
+              <role role="interest" confidence="0.89" ref="6" text="2 ℔"/>
+              <role role="property" confidence="0.99" ref="7" text="dem huß am closter gelegen so das gotzhus eygen ist"/>
+              <role role="detail_other" confidence="0.78" ref="8" text="2 ℔ ."/>
+              <role role="date" confidence="0.95" ref="9" text="1534"/>
+              <role role="date-missing" confidence="0.94" ref="10" text="1535"/>
+              <role role="date-missing" confidence="0.97" ref="11" text="6"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="2" class="due-payment" start="137" end="165" ref="" type="event" tense="unk" polarity="unk" modality="unk">
-            <trigger ref="47" text="gent"/>
+          <eventGroup event_id="2" class="due-payment" start="38" end="66" ref="" type="event" tense="unk" polarity="unk" modality="unk">
+            <trigger ref="14" text="gent"/>
             <event event_id="2.0">
-              <role role="date" confidence="1.0" ref="45" text="1537"/>
-              <role role="payer" confidence="1.0" ref="46" text="eyn ersame zunfft vonn Webern"/>
-              <role role="due-date" confidence="0.78" ref="48" text="alle fronfasten"/>
-              <role role="property" confidence="1.0" ref="49" text="dem hauß am closter dorum und doran gelegenn"/>
-              <role role="property" confidence="0.95" ref="51" text="deß großenn wassers so gewesen was gelichenn"/>
+              <role role="date" confidence="1.0" ref="12" text="1537"/>
+              <role role="payer" confidence="1.0" ref="13" text="eyn ersame zunfft vonn Webern"/>
+              <role role="due-date" confidence="0.78" ref="15" text="alle fronfasten"/>
+              <role role="property" confidence="1.0" ref="16" text="dem hauß am closter dorum und doran gelegenn"/>
+              <role role="property" confidence="0.93" ref="18" text="deß großenn wassers so gewesen was gelichenn"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="3" class="due-payment" start="171" end="203" ref="" type="event" tense="unk" polarity="unk" modality="unk">
-            <trigger ref="54" text="buwen"/>
+          <eventGroup event_id="3" class="due-payment" start="72" end="203" ref="" type="event" tense="unk" polarity="unk" modality="unk">
+            <trigger ref="21" text="buwen"/>
             <event event_id="3.0">
-              <role role="property" confidence="0.99" ref="53" text="schouw huß"/>
-              <role role="interest" confidence="0.87" ref="55" text="10ß ."/>
-              <role role="date" confidence="0.97" ref="56" text="1538"/>
-              <role role="date" confidence="0.97" ref="57" text="1539"/>
-              <role role="date" confidence="0.97" ref="58" text="1540"/>
-              <role role="date" confidence="0.97" ref="59" text="1541"/>
-              <role role="date" confidence="0.97" ref="60" text="1542"/>
-              <role role="date" confidence="0.98" ref="61" text="1543"/>
-              <role role="date" confidence="0.98" ref="62" text="1544"/>
-              <role role="date" confidence="0.98" ref="63" text="1545"/>
-              <role role="date" confidence="0.99" ref="64" text="1546"/>
+              <role role="property" confidence="0.99" ref="20" text="schouw huß"/>
+              <role role="interest" confidence="0.88" ref="22" text="10ß ."/>
+              <role role="date" confidence="0.97" ref="23" text="1538"/>
+              <role role="date" confidence="0.97" ref="24" text="1539"/>
+              <role role="date" confidence="0.97" ref="25" text="1540"/>
+              <role role="date" confidence="0.97" ref="26" text="1541"/>
+              <role role="date" confidence="0.97" ref="27" text="1542"/>
+              <role role="date" confidence="0.98" ref="28" text="1543"/>
+              <role role="date" confidence="0.98" ref="29" text="1544"/>
+              <role role="date" confidence="0.99" ref="30" text="1545"/>
+              <role role="date" confidence="0.99" ref="31" text="1546"/>
+              <role role="date" confidence="0.99" ref="32" text="1547"/>
+              <role role="date" confidence="0.98" ref="33" text="1548"/>
+              <role role="date" confidence="0.98" ref="34" text="1549"/>
+              <role role="date" confidence="0.99" ref="35" text="1550"/>
+              <role role="date" confidence="0.99" ref="36" text="1531"/>
+              <role role="date" confidence="0.99" ref="37" text="1532"/>
+              <role role="date" confidence="0.99" ref="38" text="1533"/>
+              <role role="date" confidence="0.99" ref="39" text="1532"/>
+              <role role="date" confidence="0.99" ref="40" text="1555"/>
+              <role role="date" confidence="0.99" ref="41" text="1556"/>
+              <role role="date" confidence="0.99" ref="42" text="1557"/>
+              <role role="date" confidence="0.99" ref="43" text="1558"/>
+              <role role="date" confidence="0.98" ref="44" text="1559"/>
+              <role role="date" confidence="0.98" ref="45" text="1560"/>
+              <role role="date" confidence="0.97" ref="46" text="1561"/>
+              <role role="date" confidence="0.98" ref="47" text="1562"/>
+              <role role="date" confidence="0.98" ref="48" text="1563"/>
+              <role role="date" confidence="0.98" ref="49" text="15646"/>
+              <role role="date" confidence="0.96" ref="50" text="1565"/>
+              <role role="date" confidence="0.96" ref="51" text="1566"/>
+              <role role="date" confidence="0.96" ref="52" text="1567"/>
+              <role role="date" confidence="0.95" ref="53" text="1568"/>
+              <role role="date" confidence="0.94" ref="54" text="1569"/>
+              <role role="date" confidence="0.94" ref="55" text="1570"/>
+              <role role="date" confidence="0.93" ref="56" text="1571"/>
+              <role role="date" confidence="0.92" ref="57" text="1572"/>
+              <role role="date" confidence="0.92" ref="58" text="1573"/>
+              <role role="date" confidence="0.91" ref="59" text="1574"/>
+              <role role="date" confidence="0.91" ref="60" text="1575"/>
+              <role role="date" confidence="0.89" ref="61" text="1576"/>
+              <role role="date" confidence="0.88" ref="62" text="1577"/>
+              <role role="date" confidence="0.85" ref="63" text="1578"/>
+              <role role="date" confidence="0.84" ref="64" text="1579"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="4" class="topological" start="103" end="104" ref="66" type="state" tense="unk" polarity="unk" modality="unk">
+          <eventGroup event_id="4" class="topological" start="4" end="5" ref="66" type="state" tense="unk" polarity="unk" modality="unk">
             <event event_id="4.0">
-              <role role="location-a" ref="33" text="die ersamen meyster von Weberen"/>
+              <role role="location-a" ref="0" text="die ersamen meyster von Weberen"/>
               <role role="location-b" ref="67" text="Weberen"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="5" class="topological" start="117" end="124" ref="70" type="state" tense="unk" polarity="unk" modality="unk">
+          <eventGroup event_id="5" class="topological" start="18" end="25" ref="70" type="state" tense="unk" polarity="unk" modality="unk">
             <event event_id="5.0">
-              <role role="location-a" ref="40" text="dem huß am closter gelegen so das gotzhus eygen ist"/>
+              <role role="location-a" ref="7" text="dem huß am closter gelegen so das gotzhus eygen ist"/>
               <role role="location-b" ref="71" text="am closter"/>
               <role role="location-b" ref="72" text="das gotzhus"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="6" class="topological" start="149" end="154" ref="77" type="state" tense="unk" polarity="unk" modality="unk">
+          <eventGroup event_id="6" class="topological" start="50" end="55" ref="77" type="state" tense="unk" polarity="unk" modality="unk">
             <event event_id="6.0">
-              <role role="location-a" ref="49" text="dem hauß am closter dorum und doran gelegenn"/>
+              <role role="location-a" ref="16" text="dem hauß am closter dorum und doran gelegenn"/>
               <role role="location-b" ref="78" text="am closter"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="7" class="ownership" start="171" end="171" ref="81" type="state" tense="unk" polarity="unk" modality="unk">
+          <eventGroup event_id="7" class="ownership" start="72" end="72" ref="81" type="state" tense="unk" polarity="unk" modality="unk">
             <event event_id="7.0">
-              <role role="property" ref="53" text="schouw huß"/>
+              <role role="property" ref="20" text="schouw huß"/>
               <role role="owner" ref="83" text="schouw"/>
             </event>
           </eventGroup>

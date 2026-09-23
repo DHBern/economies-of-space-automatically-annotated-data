@@ -20759,7 +20759,7 @@
           </eventGroup>
         </eventGroups>
       </document>
-      <document id="e6e862e3-aaa4-4861-9954-a502bd77e5c9_20260528">
+      <document id="0ea49c3f-92c5-4774-a8b6-9c784b5df7bd_20260615">
         <metadata>
           <street_id>HGB_1_176</street_id>
           <dossier_id>HGB_1_176_009</dossier_id>
@@ -20767,649 +20767,665 @@
           <source>Hausurkunden</source>
           <language>german</language>
           <checked_by_gpt>true</checked_by_gpt>
-          <text>dem garten an der Predigern garten, zinst jährl. die Scheuren dem Closter zu Predigern 10 sh. sodann zinset dise Scheuren samt dem Garten und der Behusung Margaretha Steinkellerin, wyl. Mr. Claus Holtschers des Scherers sel. Witwen, jährl. 8 ℔. sind mit 160 ℔ Hptg. abzul. sonst alles frey, ledig. Lotzin u. seine Frau zahlen noch 360 ℔. fertigungsbuch. Sebastian Sotzin der Krämer u. seine Frau Barbara Gesslin, vertauschen ihr Hus und Hofstatt, samt dem Höflin darhinder, by Rümelinsmurkhe, einsyt neben derselben Müle, andersyt neben Martin Enderlin dem Kieffer gelegen, u. Rokhenberg genannt, ist frey, ledigete. jtem ein Scheuren u. Stallung, am interen Stattgraben, by Egenolffsthor, hinder dem Lyssbronnen, einsit neben Hansen Scherer, andersit neben Midres Scherer, stosst hinden an Jacoben Finningers u. Jacoben Pettinger der Metzgern Scheuren, auch an gemelts Andres Scherers gärtlin, zinst jährl die Scheuren u. Stallung 5sh. der Besentz hoher Stift u. 2sh. dem Closter Sanct Lienhart, an Caspar Wattenneuwer den Metzger u. seine frau Chrischona Langmesserin, gegen dessen Hus und Hofstatt samt der Scheuren darneben u. dem garten darhnider, in der neuwen vorstatt, zu einer seiten neben Ludi Hanesters sel. Erben, u. zur andern siten neben Rudolf Brunning gelegen, stosst mit</text>
+          <text>Sebastian Sotzin der Krämer u. seine Frau Barbara Gesslin, vertauschen ihr Hus und Hofstatt, samt dem Höflin darhinder, by Rümelinsmurkhe, einsyt neben derselben Müle, andersyt neben Martin Enderlin dem Kieffer gelegen, u. Rokhenberg genannt, ist frey, ledigete. jtem ein Scheuren u. Stallung, am interen Stattgraben, by Egenolffsthor, hinder dem Lyssbronnen, einsit neben Hansen Scherer, andersit neben Midres Scherer, stosst hinden an Jacoben Finningers u. Jacoben Pettinger der Metzgern Scheuren, auch an gemelts Andres Scherers gärtlin, zinst jährl die Scheuren u. Stallung 5sh. der Besentz hoher Stift u. 2sh. dem Closter Sanct Lienhart, an Caspar Wattenneuwer den Metzger u. seine frau Chrischona Langmesserin, gegen dessen Hus und Hofstatt samt der Scheuren darneben u. dem garten darhnider, in der neuwen vorstatt, zu einer seiten neben Ludi Hanesters sel. Erben, u. zur andern siten neben Rudolf Brunning gelegen, stosst mit dem garten an der Predigern garten, zinst jährl. die Scheuren dem Closter zu Predigern 10 sh. sodann zinset dise Scheuren samt dem Garten und der Behusung Margaretha Steinkellerin, wyl. Mr. Claus Holtschers des Scherers sel. Witwen, jährl. 8 ℔. sind mit 160 ℔ Hptg. abzul. sonst alles frey, ledig. Lotzin u. seine Frau zahlen noch 360 ℔. fertigungsbuch.</text>
           <mentioned_houses>
-            <house span_ref="72">Rokhenberg</house>
+            <house span_ref="38">Rokhenberg</house>
           </mentioned_houses>
           <pages>
-            <page nr="34">https://files.transkribus.eu/Get?fileType=view&amp;id=WCPUEKNLLOORRAMGNTQXRMOE</page>
-            <page nr="35">https://files.transkribus.eu/Get?fileType=view&amp;id=GSZTEORSPVGHDBKADUNEHARE</page>
+            <page nr="34"><![CDATA[https://files.transkribus.eu/Get?fileType=view&id=WCPUEKNLLOORRAMGNTQXRMOE]]></page>
+            <page nr="35"><![CDATA[https://files.transkribus.eu/Get?fileType=view&id=GSZTEORSPVGHDBKADUNEHARE]]></page>
           </pages>
         </metadata>
         <text>
-          <token token_id="0">dem</token>
-          <token token_id="1">garten</token>
-          <token token_id="2">an</token>
-          <token token_id="3">der</token>
-          <token token_id="4">Predigern</token>
-          <token token_id="5">garten</token>
-          <token token_id="6">,</token>
-          <token token_id="7">zinst</token>
-          <token token_id="8">jährl</token>
-          <token token_id="9">.</token>
-          <token token_id="10">die</token>
-          <token token_id="11">Scheuren</token>
-          <token token_id="12">dem</token>
-          <token token_id="13">Closter</token>
-          <token token_id="14">zu</token>
-          <token token_id="15">Predigern</token>
-          <token token_id="16">10</token>
-          <token token_id="17">sh</token>
-          <token token_id="18">.</token>
-          <token token_id="19">sodann</token>
-          <token token_id="20">zinset</token>
-          <token token_id="21">dise</token>
-          <token token_id="22">Scheuren</token>
-          <token token_id="23">samt</token>
-          <token token_id="24">dem</token>
-          <token token_id="25">Garten</token>
-          <token token_id="26">und</token>
-          <token token_id="27">der</token>
-          <token token_id="28">Behusung</token>
-          <token token_id="29">Margaretha</token>
-          <token token_id="30">Steinkellerin</token>
-          <token token_id="31">,</token>
-          <token token_id="32">wyl</token>
-          <token token_id="33">.</token>
-          <token token_id="34">Mr</token>
-          <token token_id="35">.</token>
-          <token token_id="36">Claus</token>
-          <token token_id="37">Holtschers</token>
-          <token token_id="38">des</token>
-          <token token_id="39">Scherers</token>
-          <token token_id="40">sel</token>
-          <token token_id="41">.</token>
-          <token token_id="42">Witwen</token>
-          <token token_id="43">,</token>
-          <token token_id="44">jährl</token>
-          <token token_id="45">.</token>
-          <token token_id="46">8</token>
-          <token token_id="47">℔</token>
-          <token token_id="48">.</token>
-          <token token_id="49">sind</token>
-          <token token_id="50">mit</token>
-          <token token_id="51">160</token>
-          <token token_id="52">℔</token>
-          <token token_id="53">Hptg</token>
-          <token token_id="54">.</token>
-          <token token_id="55">abzul</token>
-          <token token_id="56">.</token>
-          <token token_id="57">sonst</token>
-          <token token_id="58">alles</token>
-          <token token_id="59">frey</token>
-          <token token_id="60">,</token>
-          <token token_id="61">ledig</token>
-          <token token_id="62">.</token>
-          <token token_id="63">Lotzin</token>
-          <token token_id="64">u</token>
-          <token token_id="65">.</token>
-          <token token_id="66">seine</token>
-          <token token_id="67">Frau</token>
-          <token token_id="68">zahlen</token>
-          <token token_id="69">noch</token>
-          <token token_id="70">360</token>
-          <token token_id="71">℔</token>
-          <token token_id="72">.</token>
-          <token token_id="73">fertigungsbuch</token>
-          <token token_id="74">.</token>
-          <token token_id="75">Sebastian</token>
-          <token token_id="76">Sotzin</token>
-          <token token_id="77">der</token>
-          <token token_id="78">Krämer</token>
-          <token token_id="79">u</token>
-          <token token_id="80">.</token>
-          <token token_id="81">seine</token>
-          <token token_id="82">Frau</token>
-          <token token_id="83">Barbara</token>
-          <token token_id="84">Gesslin</token>
-          <token token_id="85">,</token>
-          <token token_id="86">vertauschen</token>
-          <token token_id="87">ihr</token>
-          <token token_id="88">Hus</token>
-          <token token_id="89">und</token>
-          <token token_id="90">Hofstatt</token>
-          <token token_id="91">,</token>
-          <token token_id="92">samt</token>
-          <token token_id="93">dem</token>
-          <token token_id="94">Höflin</token>
-          <token token_id="95">darhinder</token>
-          <token token_id="96">,</token>
-          <token token_id="97">by</token>
-          <token token_id="98">Rümelinsmurkhe</token>
-          <token token_id="99">,</token>
-          <token token_id="100">einsyt</token>
-          <token token_id="101">neben</token>
-          <token token_id="102">derselben</token>
-          <token token_id="103">Müle</token>
-          <token token_id="104">,</token>
-          <token token_id="105">andersyt</token>
-          <token token_id="106">neben</token>
-          <token token_id="107">Martin</token>
-          <token token_id="108">Enderlin</token>
-          <token token_id="109">dem</token>
-          <token token_id="110">Kieffer</token>
-          <token token_id="111">gelegen</token>
-          <token token_id="112">,</token>
-          <token token_id="113">u</token>
-          <token token_id="114">.</token>
-          <token token_id="115">Rokhenberg</token>
-          <token token_id="116">genannt</token>
+          <token token_id="0">Sebastian</token>
+          <token token_id="1">Sotzin</token>
+          <token token_id="2">der</token>
+          <token token_id="3">Krämer</token>
+          <token token_id="4">u</token>
+          <token token_id="5">.</token>
+          <token token_id="6">seine</token>
+          <token token_id="7">Frau</token>
+          <token token_id="8">Barbara</token>
+          <token token_id="9">Gesslin</token>
+          <token token_id="10">,</token>
+          <token token_id="11">vertauschen</token>
+          <token token_id="12">ihr</token>
+          <token token_id="13">Hus</token>
+          <token token_id="14">und</token>
+          <token token_id="15">Hofstatt</token>
+          <token token_id="16">,</token>
+          <token token_id="17">samt</token>
+          <token token_id="18">dem</token>
+          <token token_id="19">Höflin</token>
+          <token token_id="20">darhinder</token>
+          <token token_id="21">,</token>
+          <token token_id="22">by</token>
+          <token token_id="23">Rümelinsmurkhe</token>
+          <token token_id="24">,</token>
+          <token token_id="25">einsyt</token>
+          <token token_id="26">neben</token>
+          <token token_id="27">derselben</token>
+          <token token_id="28">Müle</token>
+          <token token_id="29">,</token>
+          <token token_id="30">andersyt</token>
+          <token token_id="31">neben</token>
+          <token token_id="32">Martin</token>
+          <token token_id="33">Enderlin</token>
+          <token token_id="34">dem</token>
+          <token token_id="35">Kieffer</token>
+          <token token_id="36">gelegen</token>
+          <token token_id="37">,</token>
+          <token token_id="38">u</token>
+          <token token_id="39">.</token>
+          <token token_id="40">Rokhenberg</token>
+          <token token_id="41">genannt</token>
+          <token token_id="42">,</token>
+          <token token_id="43">ist</token>
+          <token token_id="44">frey</token>
+          <token token_id="45">,</token>
+          <token token_id="46">ledigete</token>
+          <token token_id="47">.</token>
+          <token token_id="48">jtem</token>
+          <token token_id="49">ein</token>
+          <token token_id="50">Scheuren</token>
+          <token token_id="51">u</token>
+          <token token_id="52">.</token>
+          <token token_id="53">Stallung</token>
+          <token token_id="54">,</token>
+          <token token_id="55">am</token>
+          <token token_id="56">interen</token>
+          <token token_id="57">Stattgraben</token>
+          <token token_id="58">,</token>
+          <token token_id="59">by</token>
+          <token token_id="60">Egenolffsthor</token>
+          <token token_id="61">,</token>
+          <token token_id="62">hinder</token>
+          <token token_id="63">dem</token>
+          <token token_id="64">Lyssbronnen</token>
+          <token token_id="65">,</token>
+          <token token_id="66">einsit</token>
+          <token token_id="67">neben</token>
+          <token token_id="68">Hansen</token>
+          <token token_id="69">Scherer</token>
+          <token token_id="70">,</token>
+          <token token_id="71">andersit</token>
+          <token token_id="72">neben</token>
+          <token token_id="73">Midres</token>
+          <token token_id="74">Scherer</token>
+          <token token_id="75">,</token>
+          <token token_id="76">stosst</token>
+          <token token_id="77">hinden</token>
+          <token token_id="78">an</token>
+          <token token_id="79">Jacoben</token>
+          <token token_id="80">Finningers</token>
+          <token token_id="81">u</token>
+          <token token_id="82">.</token>
+          <token token_id="83">Jacoben</token>
+          <token token_id="84">Pettinger</token>
+          <token token_id="85">der</token>
+          <token token_id="86">Metzgern</token>
+          <token token_id="87">Scheuren</token>
+          <token token_id="88">,</token>
+          <token token_id="89">auch</token>
+          <token token_id="90">an</token>
+          <token token_id="91">gemelts</token>
+          <token token_id="92">Andres</token>
+          <token token_id="93">Scherers</token>
+          <token token_id="94">gärtlin</token>
+          <token token_id="95">,</token>
+          <token token_id="96">zinst</token>
+          <token token_id="97">jährl</token>
+          <token token_id="98">die</token>
+          <token token_id="99">Scheuren</token>
+          <token token_id="100">u</token>
+          <token token_id="101">.</token>
+          <token token_id="102">Stallung</token>
+          <token token_id="103">5sh</token>
+          <token token_id="104">.</token>
+          <token token_id="105">der</token>
+          <token token_id="106">Besentz</token>
+          <token token_id="107">hoher</token>
+          <token token_id="108">Stift</token>
+          <token token_id="109">u</token>
+          <token token_id="110">.</token>
+          <token token_id="111">2sh</token>
+          <token token_id="112">.</token>
+          <token token_id="113">dem</token>
+          <token token_id="114">Closter</token>
+          <token token_id="115">Sanct</token>
+          <token token_id="116">Lienhart</token>
           <token token_id="117">,</token>
-          <token token_id="118">ist</token>
-          <token token_id="119">frey</token>
-          <token token_id="120">,</token>
-          <token token_id="121">ledigete</token>
-          <token token_id="122">.</token>
-          <token token_id="123">jtem</token>
-          <token token_id="124">ein</token>
-          <token token_id="125">Scheuren</token>
-          <token token_id="126">u</token>
-          <token token_id="127">.</token>
-          <token token_id="128">Stallung</token>
+          <token token_id="118">an</token>
+          <token token_id="119">Caspar</token>
+          <token token_id="120">Wattenneuwer</token>
+          <token token_id="121">den</token>
+          <token token_id="122">Metzger</token>
+          <token token_id="123">u</token>
+          <token token_id="124">.</token>
+          <token token_id="125">seine</token>
+          <token token_id="126">frau</token>
+          <token token_id="127">Chrischona</token>
+          <token token_id="128">Langmesserin</token>
           <token token_id="129">,</token>
-          <token token_id="130">am</token>
-          <token token_id="131">interen</token>
-          <token token_id="132">Stattgraben</token>
-          <token token_id="133">,</token>
-          <token token_id="134">by</token>
-          <token token_id="135">Egenolffsthor</token>
-          <token token_id="136">,</token>
-          <token token_id="137">hinder</token>
-          <token token_id="138">dem</token>
-          <token token_id="139">Lyssbronnen</token>
-          <token token_id="140">,</token>
-          <token token_id="141">einsit</token>
-          <token token_id="142">neben</token>
-          <token token_id="143">Hansen</token>
-          <token token_id="144">Scherer</token>
-          <token token_id="145">,</token>
-          <token token_id="146">andersit</token>
-          <token token_id="147">neben</token>
-          <token token_id="148">Midres</token>
-          <token token_id="149">Scherer</token>
-          <token token_id="150">,</token>
-          <token token_id="151">stosst</token>
-          <token token_id="152">hinden</token>
-          <token token_id="153">an</token>
-          <token token_id="154">Jacoben</token>
-          <token token_id="155">Finningers</token>
-          <token token_id="156">u</token>
+          <token token_id="130">gegen</token>
+          <token token_id="131">dessen</token>
+          <token token_id="132">Hus</token>
+          <token token_id="133">und</token>
+          <token token_id="134">Hofstatt</token>
+          <token token_id="135">samt</token>
+          <token token_id="136">der</token>
+          <token token_id="137">Scheuren</token>
+          <token token_id="138">darneben</token>
+          <token token_id="139">u</token>
+          <token token_id="140">.</token>
+          <token token_id="141">dem</token>
+          <token token_id="142">garten</token>
+          <token token_id="143">darhnider</token>
+          <token token_id="144">,</token>
+          <token token_id="145">in</token>
+          <token token_id="146">der</token>
+          <token token_id="147">neuwen</token>
+          <token token_id="148">vorstatt</token>
+          <token token_id="149">,</token>
+          <token token_id="150">zu</token>
+          <token token_id="151">einer</token>
+          <token token_id="152">seiten</token>
+          <token token_id="153">neben</token>
+          <token token_id="154">Ludi</token>
+          <token token_id="155">Hanesters</token>
+          <token token_id="156">sel</token>
           <token token_id="157">.</token>
-          <token token_id="158">Jacoben</token>
-          <token token_id="159">Pettinger</token>
-          <token token_id="160">der</token>
-          <token token_id="161">Metzgern</token>
-          <token token_id="162">Scheuren</token>
-          <token token_id="163">,</token>
-          <token token_id="164">auch</token>
-          <token token_id="165">an</token>
-          <token token_id="166">gemelts</token>
-          <token token_id="167">Andres</token>
-          <token token_id="168">Scherers</token>
-          <token token_id="169">gärtlin</token>
-          <token token_id="170">,</token>
-          <token token_id="171">zinst</token>
-          <token token_id="172">jährl</token>
-          <token token_id="173">die</token>
-          <token token_id="174">Scheuren</token>
-          <token token_id="175">u</token>
-          <token token_id="176">.</token>
-          <token token_id="177">Stallung</token>
-          <token token_id="178">5sh</token>
-          <token token_id="179">.</token>
-          <token token_id="180">der</token>
-          <token token_id="181">Besentz</token>
-          <token token_id="182">hoher</token>
-          <token token_id="183">Stift</token>
-          <token token_id="184">u</token>
-          <token token_id="185">.</token>
-          <token token_id="186">2sh</token>
-          <token token_id="187">.</token>
-          <token token_id="188">dem</token>
-          <token token_id="189">Closter</token>
-          <token token_id="190">Sanct</token>
-          <token token_id="191">Lienhart</token>
-          <token token_id="192">,</token>
-          <token token_id="193">an</token>
-          <token token_id="194">Caspar</token>
-          <token token_id="195">Wattenneuwer</token>
-          <token token_id="196">den</token>
-          <token token_id="197">Metzger</token>
-          <token token_id="198">u</token>
-          <token token_id="199">.</token>
-          <token token_id="200">seine</token>
-          <token token_id="201">frau</token>
-          <token token_id="202">Chrischona</token>
-          <token token_id="203">Langmesserin</token>
-          <token token_id="204">,</token>
-          <token token_id="205">gegen</token>
-          <token token_id="206">dessen</token>
-          <token token_id="207">Hus</token>
-          <token token_id="208">und</token>
-          <token token_id="209">Hofstatt</token>
-          <token token_id="210">samt</token>
-          <token token_id="211">der</token>
-          <token token_id="212">Scheuren</token>
-          <token token_id="213">darneben</token>
-          <token token_id="214">u</token>
-          <token token_id="215">.</token>
-          <token token_id="216">dem</token>
-          <token token_id="217">garten</token>
-          <token token_id="218">darhnider</token>
-          <token token_id="219">,</token>
-          <token token_id="220">in</token>
-          <token token_id="221">der</token>
-          <token token_id="222">neuwen</token>
-          <token token_id="223">vorstatt</token>
-          <token token_id="224">,</token>
-          <token token_id="225">zu</token>
-          <token token_id="226">einer</token>
-          <token token_id="227">seiten</token>
-          <token token_id="228">neben</token>
-          <token token_id="229">Ludi</token>
-          <token token_id="230">Hanesters</token>
-          <token token_id="231">sel</token>
-          <token token_id="232">.</token>
-          <token token_id="233">Erben</token>
-          <token token_id="234">,</token>
-          <token token_id="235">u</token>
-          <token token_id="236">.</token>
-          <token token_id="237">zur</token>
-          <token token_id="238">andern</token>
-          <token token_id="239">siten</token>
-          <token token_id="240">neben</token>
-          <token token_id="241">Rudolf</token>
-          <token token_id="242">Brunning</token>
-          <token token_id="243">gelegen</token>
-          <token token_id="244">,</token>
-          <token token_id="245">stosst</token>
-          <token token_id="246">mit</token>
+          <token token_id="158">Erben</token>
+          <token token_id="159">,</token>
+          <token token_id="160">u</token>
+          <token token_id="161">.</token>
+          <token token_id="162">zur</token>
+          <token token_id="163">andern</token>
+          <token token_id="164">siten</token>
+          <token token_id="165">neben</token>
+          <token token_id="166">Rudolf</token>
+          <token token_id="167">Brunning</token>
+          <token token_id="168">gelegen</token>
+          <token token_id="169">,</token>
+          <token token_id="170">stosst</token>
+          <token token_id="171">mit</token>
+          <token token_id="172">dem</token>
+          <token token_id="173">garten</token>
+          <token token_id="174">an</token>
+          <token token_id="175">der</token>
+          <token token_id="176">Predigern</token>
+          <token token_id="177">garten</token>
+          <token token_id="178">,</token>
+          <token token_id="179">zinst</token>
+          <token token_id="180">jährl</token>
+          <token token_id="181">.</token>
+          <token token_id="182">die</token>
+          <token token_id="183">Scheuren</token>
+          <token token_id="184">dem</token>
+          <token token_id="185">Closter</token>
+          <token token_id="186">zu</token>
+          <token token_id="187">Predigern</token>
+          <token token_id="188">10</token>
+          <token token_id="189">sh</token>
+          <token token_id="190">.</token>
+          <token token_id="191">sodann</token>
+          <token token_id="192">zinset</token>
+          <token token_id="193">dise</token>
+          <token token_id="194">Scheuren</token>
+          <token token_id="195">samt</token>
+          <token token_id="196">dem</token>
+          <token token_id="197">Garten</token>
+          <token token_id="198">und</token>
+          <token token_id="199">der</token>
+          <token token_id="200">Behusung</token>
+          <token token_id="201">Margaretha</token>
+          <token token_id="202">Steinkellerin</token>
+          <token token_id="203">,</token>
+          <token token_id="204">wyl</token>
+          <token token_id="205">.</token>
+          <token token_id="206">Mr</token>
+          <token token_id="207">.</token>
+          <token token_id="208">Claus</token>
+          <token token_id="209">Holtschers</token>
+          <token token_id="210">des</token>
+          <token token_id="211">Scherers</token>
+          <token token_id="212">sel</token>
+          <token token_id="213">.</token>
+          <token token_id="214">Witwen</token>
+          <token token_id="215">,</token>
+          <token token_id="216">jährl</token>
+          <token token_id="217">.</token>
+          <token token_id="218">8</token>
+          <token token_id="219">℔</token>
+          <token token_id="220">.</token>
+          <token token_id="221">sind</token>
+          <token token_id="222">mit</token>
+          <token token_id="223">160</token>
+          <token token_id="224">℔</token>
+          <token token_id="225">Hptg</token>
+          <token token_id="226">.</token>
+          <token token_id="227">abzul</token>
+          <token token_id="228">.</token>
+          <token token_id="229">sonst</token>
+          <token token_id="230">alles</token>
+          <token token_id="231">frey</token>
+          <token token_id="232">,</token>
+          <token token_id="233">ledig</token>
+          <token token_id="234">.</token>
+          <token token_id="235">Lotzin</token>
+          <token token_id="236">u</token>
+          <token token_id="237">.</token>
+          <token token_id="238">seine</token>
+          <token token_id="239">Frau</token>
+          <token token_id="240">zahlen</token>
+          <token token_id="241">noch</token>
+          <token token_id="242">360</token>
+          <token token_id="243">℔</token>
+          <token token_id="244">.</token>
+          <token token_id="245">fertigungsbuch</token>
+          <token token_id="246">.</token>
         </text>
         <spans>
-          <span id="0" start="0" end="5" element="reference" class="fac" confidence="0.84" text="dem garten an der Predigern garten" numerus="sgl" specificity="spc" subclass="">
-            <span id="22" start="1" end="1" element="head" class="type" confidence="1.0" text="garten" norm="Garten"/>
-            <span id="23" start="2" end="5" element="attr" class="loc" confidence="0.93" text="an der Predigern garten">
-              <span id="24" start="3" end="5" element="reference" class="fac" confidence="0.96" text="der Predigern garten" numerus="sgl" specificity="spc" subclass="">
-                <span id="25" start="3" end="4" element="attr" class="owner" confidence="0.82" text="der Predigern">
-                  <span id="27" start="3" end="4" element="reference" class="org" confidence="0.98" text="der Predigern" numerus="sgl" specificity="spc" subclass="rel">
-                    <span id="28" start="4" end="4" element="head" class="nam" confidence="1.0" text="Predigern" norm="Predigerkloster"/>
-                  </span>
-                </span>
-                <span id="26" start="5" end="5" element="head" class="type" confidence="1.0" text="garten" norm="Garten"/>
-              </span>
+          <span id="0" start="0" end="3" element="reference" class="per" confidence="1.0" text="Sebastian Sotzin der Krämer" numerus="sgl" specificity="spc" subclass="">
+            <span id="14" start="0" end="1" element="head" class="nam" confidence="1.0" text="Sebastian Sotzin"/>
+            <span id="15" start="2" end="3" element="appo" class="occ" confidence="0.99" text="der Krämer">
+              <span id="16" start="3" end="3" element="head" class="occ" confidence="1.0" text="Krämer" norm="krämer" OhdAB="https://database.factgrid.de/wiki/Item:Q683865"/>
             </span>
           </span>
-          <span id="1" start="7" end="7" element="trigger" class="due" confidence="0.86" text="zinst"/>
-          <span id="2" start="8" end="9" element="value" class="time" confidence="0.97" text="jährl ."/>
-          <span id="3" start="10" end="15" element="reference" class="fac" confidence="0.77" text="die Scheuren dem Closter zu Predigern" numerus="sgl" specificity="spc" subclass="">
-            <span id="29" start="11" end="11" element="head" class="type" confidence="0.99" text="Scheuren" norm="Scheunen"/>
-            <span id="30" start="13" end="15" element="unk" class="nam" confidence="0.69" text="Closter zu Predigern"/>
-          </span>
-          <span id="4" start="16" end="18" element="value" class="money" confidence="0.81" text="10 sh ." norm="10.0 Schilling"/>
-          <span id="5" start="20" end="20" element="trigger" class="due" confidence="0.91" text="zinset"/>
-          <span id="6" start="21" end="28" element="reference" class="fac" confidence="0.79" text="dise Scheuren samt dem Garten und der Behusung" numerus="sgl" specificity="spc" subclass="">
-            <span id="31" start="22" end="22" element="head" class="type" confidence="1.0" text="Scheuren" norm="Scheunen"/>
-            <span id="32" start="23" end="28" element="attr" class="includes" confidence="0.94" text="samt dem Garten und der Behusung">
-              <span id="33" start="24" end="25" element="reference" class="fac" confidence="0.99" text="dem Garten" numerus="sgl" specificity="spc" subclass="">
-                <span id="35" start="25" end="25" element="head" class="type" confidence="1.0" text="Garten" norm="Garten"/>
+          <span id="1" start="6" end="9" element="reference" class="per" confidence="1.0" text="seine Frau Barbara Gesslin" numerus="sgl" specificity="spc" subclass="">
+            <span id="17" start="6" end="7" element="appo" class="fam" confidence="1.0" text="seine Frau">
+              <span id="19" start="6" end="6" element="reference" class="per" confidence="1.0" text="seine" numerus="sgl" specificity="spc" subclass="">
+                <span id="19_head" start="6" end="6" element="head" class="pro" confidence="1.0" text="seine"/>
               </span>
-              <span id="34" start="27" end="28" element="reference" class="fac" confidence="0.79" text="der Behusung" numerus="sgl" specificity="spc" subclass="">
-                <span id="36" start="28" end="28" element="head" class="type" confidence="0.99" text="Behusung" norm="Behausung"/>
+              <span id="20" start="7" end="7" element="head" class="fam" confidence="1.0" text="Frau"/>
+            </span>
+            <span id="18" start="8" end="9" element="head" class="nam" confidence="1.0" text="Barbara Gesslin"/>
+          </span>
+          <span id="2" start="11" end="11" element="trigger" class="other" confidence="0.84" text="vertauschen"/>
+          <span id="3" start="12" end="46" element="reference" class="fac" confidence="0.93" text="ihr Hus und Hofstatt , samt dem Höflin darhinder , by Rümelinsmurkhe , einsyt neben derselben Müle , andersyt neben Martin Enderlin dem Kieffer gelegen , u . Rokhenberg genannt , ist frey , ledigete" numerus="sgl" specificity="spc" subclass="">
+            <span id="21" start="12" end="12" element="attr" class="owner" confidence="1.0" text="ihr">
+              <span id="27" start="12" end="12" element="reference" class="per" confidence="1.0" text="ihr" numerus="sgl" specificity="spc" subclass="">
+                <span id="27_head" start="12" end="12" element="head" class="pro" confidence="1.0" text="ihr"/>
               </span>
             </span>
-          </span>
-          <span id="7" start="29" end="42" element="reference" class="per" confidence="0.85" text="Margaretha Steinkellerin , wyl . Mr . Claus Holtschers des Scherers sel . Witwen" numerus="sgl" specificity="spc" subclass="">
-            <span id="37" start="29" end="30" element="head" class="nam" confidence="1.0" text="Margaretha Steinkellerin"/>
-            <span id="38" start="32" end="42" element="appo" class="fam" confidence="0.98" text="wyl . Mr . Claus Holtschers des Scherers sel . Witwen">
-              <span id="39" start="34" end="41" element="reference" class="per" confidence="0.98" text="Mr . Claus Holtschers des Scherers sel ." numerus="sgl" specificity="spc" subclass="">
-                <span id="41" start="36" end="37" element="head" class="nam" confidence="1.0" text="Claus Holtschers"/>
-                <span id="42" start="38" end="39" element="appo" class="occ" confidence="0.99" text="des Scherers">
-                  <span id="44" start="39" end="39" element="head" class="occ" confidence="1.0" text="Scherers" norm="scherer" OhdAB="https://database.factgrid.de/wiki/Item:Q692959"/>
-                </span>
-                <span id="43" start="40" end="41" element="attr" class="dead" confidence="1.0" text="sel ."/>
-              </span>
-              <span id="40" start="42" end="42" element="head" class="fam" confidence="1.0" text="Witwen"/>
-            </span>
-          </span>
-          <span id="8" start="44" end="45" element="value" class="time" confidence="1.0" text="jährl ."/>
-          <span id="9" start="46" end="48" element="value" class="money" confidence="0.99" text="8 ℔ ." norm="8.0 Pfund"/>
-          <span id="10" start="51" end="52" element="value" class="money" confidence="0.99" text="160 ℔" norm="160.0 Pfund"/>
-          <span id="11" start="63" end="63" element="reference" class="per" confidence="0.99" text="Lotzin" numerus="sgl" specificity="spc" subclass="">
-            <span id="45" start="63" end="63" element="head" class="nam" confidence="1.0" text="Lotzin"/>
-          </span>
-          <span id="12" start="66" end="67" element="reference" class="per" confidence="0.84" text="seine Frau" numerus="sgl" specificity="spc" subclass="">
-            <span id="46" start="66" end="66" element="reference" class="unk" confidence="0.97" text="seine" numerus="sgl" specificity="spc" subclass="">
-              <span id="46_head" start="66" end="66" element="head" class="pro" confidence="0.97" text="seine"/>
-            </span>
-            <span id="47" start="67" end="67" element="head" class="fam" confidence="0.99" text="Frau"/>
-          </span>
-          <span id="13" start="70" end="72" element="value" class="money" confidence="1.0" text="360 ℔ ." norm="360.0 Pfund"/>
-          <span id="14" start="75" end="78" element="reference" class="per" confidence="0.99" text="Sebastian Sotzin der Krämer" numerus="sgl" specificity="spc" subclass="">
-            <span id="48" start="75" end="76" element="head" class="nam" confidence="1.0" text="Sebastian Sotzin"/>
-            <span id="49" start="77" end="78" element="appo" class="occ" confidence="0.99" text="der Krämer">
-              <span id="50" start="78" end="78" element="head" class="occ" confidence="1.0" text="Krämer" norm="krämer" OhdAB="https://database.factgrid.de/wiki/Item:Q683865"/>
-            </span>
-          </span>
-          <span id="15" start="81" end="84" element="reference" class="per" confidence="1.0" text="seine Frau Barbara Gesslin" numerus="sgl" specificity="spc" subclass="">
-            <span id="51" start="81" end="82" element="appo" class="fam" confidence="1.0" text="seine Frau">
-              <span id="53" start="81" end="81" element="reference" class="per" confidence="1.0" text="seine" numerus="sgl" specificity="spc" subclass="">
-                <span id="53_head" start="81" end="81" element="head" class="pro" confidence="1.0" text="seine"/>
-              </span>
-              <span id="54" start="82" end="82" element="head" class="fam" confidence="1.0" text="Frau"/>
-            </span>
-            <span id="52" start="83" end="84" element="head" class="nam" confidence="1.0" text="Barbara Gesslin"/>
-          </span>
-          <span id="16" start="86" end="86" element="trigger" class="other" confidence="0.85" text="vertauschen"/>
-          <span id="17" start="87" end="121" element="reference" class="fac" confidence="0.92" text="ihr Hus und Hofstatt , samt dem Höflin darhinder , by Rümelinsmurkhe , einsyt neben derselben Müle , andersyt neben Martin Enderlin dem Kieffer gelegen , u . Rokhenberg genannt , ist frey , ledigete" numerus="sgl" specificity="spc" subclass="">
-            <span id="55" start="87" end="87" element="attr" class="owner" confidence="1.0" text="ihr">
-              <span id="61" start="87" end="87" element="reference" class="per" confidence="1.0" text="ihr" numerus="sgl" specificity="spc" subclass="">
-                <span id="61_head" start="87" end="87" element="head" class="pro" confidence="1.0" text="ihr"/>
+            <span id="22" start="13" end="15" element="head" class="type" confidence="1.0" text="Hus und Hofstatt" norm="Haus|Hofstatt"/>
+            <span id="23" start="17" end="20" element="attr" class="includes" confidence="0.99" text="samt dem Höflin darhinder">
+              <span id="28" start="18" end="19" element="reference" class="fac" confidence="1.0" text="dem Höflin" numerus="sgl" specificity="spc" subclass="">
+                <span id="29" start="19" end="19" element="head" class="type" confidence="1.0" text="Höflin" norm="Hof"/>
               </span>
             </span>
-            <span id="56" start="88" end="90" element="head" class="type" confidence="1.0" text="Hus und Hofstatt" norm="Haus|Hofstatt"/>
-            <span id="57" start="92" end="95" element="attr" class="includes" confidence="0.99" text="samt dem Höflin darhinder">
-              <span id="62" start="93" end="94" element="reference" class="fac" confidence="1.0" text="dem Höflin" numerus="sgl" specificity="spc" subclass="">
-                <span id="63" start="94" end="94" element="head" class="type" confidence="1.0" text="Höflin" norm="Hof"/>
+            <span id="24" start="22" end="36" element="attr" class="loc" confidence="0.95" text="by Rümelinsmurkhe , einsyt neben derselben Müle , andersyt neben Martin Enderlin dem Kieffer gelegen">
+              <span id="30" start="23" end="23" element="reference" class="fac" confidence="0.98" text="Rümelinsmurkhe" numerus="sgl" specificity="spc" subclass="">
+                <span id="33" start="23" end="23" element="head" class="nam" confidence="1.0" text="Rümelinsmurkhe"/>
               </span>
-            </span>
-            <span id="58" start="97" end="111" element="attr" class="loc" confidence="0.95" text="by Rümelinsmurkhe , einsyt neben derselben Müle , andersyt neben Martin Enderlin dem Kieffer gelegen">
-              <span id="64" start="98" end="98" element="reference" class="fac" confidence="0.98" text="Rümelinsmurkhe" numerus="sgl" specificity="spc" subclass="">
-                <span id="67" start="98" end="98" element="head" class="nam" confidence="1.0" text="Rümelinsmurkhe"/>
+              <span id="31" start="27" end="28" element="reference" class="fac" confidence="0.69" text="derselben Müle" numerus="sgl" specificity="spc" subclass="">
+                <span id="34" start="28" end="28" element="head" class="type" confidence="0.96" text="Müle" norm="Mühle"/>
               </span>
-              <span id="65" start="102" end="103" element="reference" class="fac" confidence="0.69" text="derselben Müle" numerus="sgl" specificity="spc" subclass="">
-                <span id="68" start="103" end="103" element="head" class="type" confidence="0.96" text="Müle" norm="Mühle"/>
-              </span>
-              <span id="66" start="107" end="110" element="reference" class="per" confidence="1.0" text="Martin Enderlin dem Kieffer" numerus="sgl" specificity="spc" subclass="">
-                <span id="69" start="107" end="108" element="head" class="nam" confidence="1.0" text="Martin Enderlin"/>
-                <span id="70" start="109" end="110" element="appo" class="occ" confidence="1.0" text="dem Kieffer">
-                  <span id="71" start="110" end="110" element="head" class="occ" confidence="1.0" text="Kieffer" norm="küfer" OhdAB="https://database.factgrid.de/wiki/Item:Q661668"/>
+              <span id="32" start="32" end="35" element="reference" class="per" confidence="1.0" text="Martin Enderlin dem Kieffer" numerus="sgl" specificity="spc" subclass="">
+                <span id="35" start="32" end="33" element="head" class="nam" confidence="1.0" text="Martin Enderlin"/>
+                <span id="36" start="34" end="35" element="appo" class="occ" confidence="1.0" text="dem Kieffer">
+                  <span id="37" start="35" end="35" element="head" class="occ" confidence="1.0" text="Kieffer" norm="küfer" OhdAB="https://database.factgrid.de/wiki/Item:Q661668"/>
                 </span>
               </span>
             </span>
-            <span id="59" start="115" end="115" element="appo" class="nam" confidence="1.0" text="Rokhenberg">
-              <span id="72" start="115" end="115" element="head" class="nam" confidence="1.0" text="Rokhenberg"/>
+            <span id="25" start="40" end="40" element="appo" class="nam" confidence="1.0" text="Rokhenberg">
+              <span id="38" start="40" end="40" element="head" class="nam" confidence="1.0" text="Rokhenberg"/>
             </span>
-            <span id="60" start="118" end="121" element="attr" class="dues" confidence="0.89" text="ist frey , ledigete"/>
+            <span id="26" start="43" end="46" element="attr" class="dues" confidence="0.89" text="ist frey , ledigete"/>
           </span>
-          <span id="18" start="124" end="191" element="reference" class="fac" confidence="0.91" text="ein Scheuren u . Stallung , am interen Stattgraben , by Egenolffsthor , hinder dem Lyssbronnen , einsit neben Hansen Scherer , andersit neben Midres Scherer , stosst hinden an Jacoben Finningers u . Jacoben Pettinger der Metzgern Scheuren , auch an gemelts Andres Scherers gärtlin , zinst jährl die Scheuren u . Stallung 5sh . der Besentz hoher Stift u . 2sh . dem Closter Sanct Lienhart" numerus="sgl" specificity="spc" subclass="">
-            <span id="73" start="125" end="128" element="head" class="type" confidence="0.99" text="Scheuren u . Stallung" norm="Scheunen|Stallung"/>
-            <span id="74" start="130" end="169" element="attr" class="loc" confidence="0.94" text="am interen Stattgraben , by Egenolffsthor , hinder dem Lyssbronnen , einsit neben Hansen Scherer , andersit neben Midres Scherer , stosst hinden an Jacoben Finningers u . Jacoben Pettinger der Metzgern Scheuren , auch an gemelts Andres Scherers gärtlin">
-              <span id="76" start="130" end="132" element="reference" class="fac" confidence="0.82" text="am interen Stattgraben" numerus="sgl" specificity="spc" subclass="">
-                <span id="84" start="131" end="132" element="head" class="type" confidence="0.86" text="interen Stattgraben" norm="unk"/>
+          <span id="4" start="49" end="116" element="reference" class="fac" confidence="0.92" text="ein Scheuren u . Stallung , am interen Stattgraben , by Egenolffsthor , hinder dem Lyssbronnen , einsit neben Hansen Scherer , andersit neben Midres Scherer , stosst hinden an Jacoben Finningers u . Jacoben Pettinger der Metzgern Scheuren , auch an gemelts Andres Scherers gärtlin , zinst jährl die Scheuren u . Stallung 5sh . der Besentz hoher Stift u . 2sh . dem Closter Sanct Lienhart" numerus="sgl" specificity="spc" subclass="">
+            <span id="39" start="50" end="53" element="head" class="type" confidence="0.99" text="Scheuren u . Stallung" norm="Scheunen|Stallung"/>
+            <span id="40" start="55" end="94" element="attr" class="loc" confidence="0.94" text="am interen Stattgraben , by Egenolffsthor , hinder dem Lyssbronnen , einsit neben Hansen Scherer , andersit neben Midres Scherer , stosst hinden an Jacoben Finningers u . Jacoben Pettinger der Metzgern Scheuren , auch an gemelts Andres Scherers gärtlin">
+              <span id="42" start="55" end="57" element="reference" class="fac" confidence="0.82" text="am interen Stattgraben" numerus="sgl" specificity="spc" subclass="">
+                <span id="50" start="56" end="57" element="head" class="type" confidence="0.86" text="interen Stattgraben" norm="unk"/>
               </span>
-              <span id="77" start="135" end="135" element="reference" class="fac" confidence="1.0" text="Egenolffsthor" numerus="sgl" specificity="spc" subclass="">
-                <span id="85" start="135" end="135" element="head" class="nam" confidence="1.0" text="Egenolffsthor"/>
+              <span id="43" start="60" end="60" element="reference" class="fac" confidence="1.0" text="Egenolffsthor" numerus="sgl" specificity="spc" subclass="">
+                <span id="51" start="60" end="60" element="head" class="nam" confidence="1.0" text="Egenolffsthor"/>
               </span>
-              <span id="78" start="138" end="139" element="reference" class="fac" confidence="0.94" text="dem Lyssbronnen" numerus="sgl" specificity="spc" subclass="">
-                <span id="86" start="139" end="139" element="head" class="nam" confidence="0.98" text="Lyssbronnen"/>
+              <span id="44" start="63" end="64" element="reference" class="fac" confidence="0.94" text="dem Lyssbronnen" numerus="sgl" specificity="spc" subclass="">
+                <span id="52" start="64" end="64" element="head" class="nam" confidence="0.98" text="Lyssbronnen"/>
               </span>
-              <span id="79" start="143" end="144" element="reference" class="per" confidence="0.99" text="Hansen Scherer" numerus="sgl" specificity="spc" subclass="">
-                <span id="87" start="143" end="144" element="head" class="nam" confidence="1.0" text="Hansen Scherer"/>
+              <span id="45" start="68" end="69" element="reference" class="per" confidence="0.99" text="Hansen Scherer" numerus="sgl" specificity="spc" subclass="">
+                <span id="53" start="68" end="69" element="head" class="nam" confidence="1.0" text="Hansen Scherer"/>
               </span>
-              <span id="80" start="148" end="149" element="reference" class="per" confidence="0.99" text="Midres Scherer" numerus="sgl" specificity="spc" subclass="">
-                <span id="88" start="148" end="149" element="head" class="nam" confidence="1.0" text="Midres Scherer"/>
+              <span id="46" start="73" end="74" element="reference" class="per" confidence="0.99" text="Midres Scherer" numerus="sgl" specificity="spc" subclass="">
+                <span id="54" start="73" end="74" element="head" class="nam" confidence="1.0" text="Midres Scherer"/>
               </span>
-              <span id="81" start="154" end="155" element="reference" class="per" confidence="0.83" text="Jacoben Finningers" numerus="sgl" specificity="spc" subclass="">
-                <span id="89" start="154" end="155" element="head" class="nam" confidence="1.0" text="Jacoben Finningers"/>
+              <span id="47" start="79" end="80" element="reference" class="per" confidence="0.83" text="Jacoben Finningers" numerus="sgl" specificity="spc" subclass="">
+                <span id="55" start="79" end="80" element="head" class="nam" confidence="1.0" text="Jacoben Finningers"/>
               </span>
-              <span id="82" start="158" end="162" element="reference" class="fac" confidence="0.89" text="Jacoben Pettinger der Metzgern Scheuren" numerus="sgl" specificity="spc" subclass="">
-                <span id="90" start="158" end="161" element="attr" class="owner" confidence="1.0" text="Jacoben Pettinger der Metzgern">
-                  <span id="92" start="158" end="161" element="reference" class="per" confidence="1.0" text="Jacoben Pettinger der Metzgern" numerus="sgl" specificity="spc" subclass="">
-                    <span id="93" start="158" end="159" element="head" class="nam" confidence="1.0" text="Jacoben Pettinger"/>
-                    <span id="94" start="160" end="161" element="appo" class="occ" confidence="0.99" text="der Metzgern">
-                      <span id="95" start="161" end="161" element="head" class="occ" confidence="1.0" text="Metzgern" norm="metzger" OhdAB="https://database.factgrid.de/wiki/Item:Q673272"/>
+              <span id="48" start="83" end="87" element="reference" class="fac" confidence="0.89" text="Jacoben Pettinger der Metzgern Scheuren" numerus="sgl" specificity="spc" subclass="">
+                <span id="56" start="83" end="86" element="attr" class="owner" confidence="1.0" text="Jacoben Pettinger der Metzgern">
+                  <span id="58" start="83" end="86" element="reference" class="per" confidence="1.0" text="Jacoben Pettinger der Metzgern" numerus="sgl" specificity="spc" subclass="">
+                    <span id="59" start="83" end="84" element="head" class="nam" confidence="1.0" text="Jacoben Pettinger"/>
+                    <span id="60" start="85" end="86" element="appo" class="occ" confidence="0.99" text="der Metzgern">
+                      <span id="61" start="86" end="86" element="head" class="occ" confidence="1.0" text="Metzgern" norm="metzger" OhdAB="https://database.factgrid.de/wiki/Item:Q673272"/>
                     </span>
                   </span>
                 </span>
-                <span id="91" start="162" end="162" element="head" class="type" confidence="1.0" text="Scheuren" norm="Scheunen"/>
+                <span id="57" start="87" end="87" element="head" class="type" confidence="1.0" text="Scheuren" norm="Scheunen"/>
               </span>
-              <span id="83" start="166" end="169" element="reference" class="fac" confidence="0.96" text="gemelts Andres Scherers gärtlin" numerus="sgl" specificity="spc" subclass="">
-                <span id="96" start="166" end="168" element="attr" class="owner" confidence="0.84" text="gemelts Andres Scherers">
-                  <span id="98" start="166" end="168" element="reference" class="per" confidence="0.98" text="gemelts Andres Scherers" numerus="sgl" specificity="spc" subclass="">
-                    <span id="99" start="167" end="168" element="head" class="nam" confidence="1.0" text="Andres Scherers"/>
+              <span id="49" start="91" end="94" element="reference" class="fac" confidence="0.96" text="gemelts Andres Scherers gärtlin" numerus="sgl" specificity="spc" subclass="">
+                <span id="62" start="91" end="93" element="attr" class="owner" confidence="0.84" text="gemelts Andres Scherers">
+                  <span id="64" start="91" end="93" element="reference" class="per" confidence="0.98" text="gemelts Andres Scherers" numerus="sgl" specificity="spc" subclass="">
+                    <span id="65" start="92" end="93" element="head" class="nam" confidence="1.0" text="Andres Scherers"/>
                   </span>
                 </span>
-                <span id="97" start="169" end="169" element="head" class="type" confidence="1.0" text="gärtlin" norm="Garten"/>
+                <span id="63" start="94" end="94" element="head" class="type" confidence="1.0" text="gärtlin" norm="Garten"/>
               </span>
             </span>
-            <span id="75" start="171" end="191" element="attr" class="dues" confidence="0.99" text="zinst jährl die Scheuren u . Stallung 5sh . der Besentz hoher Stift u . 2sh . dem Closter Sanct Lienhart">
-              <span id="100" start="171" end="171" element="trigger" class="due" confidence="1.0" text="zinst"/>
-              <span id="101" start="172" end="172" element="value" class="time" confidence="1.0" text="jährl"/>
-              <span id="102" start="173" end="174" element="reference" class="fac" confidence="0.96" text="die Scheuren" numerus="sgl" specificity="spc" subclass="">
-                <span id="108" start="174" end="174" element="head" class="type" confidence="1.0" text="Scheuren" norm="Scheunen"/>
+            <span id="41" start="96" end="116" element="attr" class="dues" confidence="0.99" text="zinst jährl die Scheuren u . Stallung 5sh . der Besentz hoher Stift u . 2sh . dem Closter Sanct Lienhart">
+              <span id="66" start="96" end="96" element="trigger" class="due" confidence="1.0" text="zinst"/>
+              <span id="67" start="97" end="97" element="value" class="time" confidence="1.0" text="jährl"/>
+              <span id="68" start="98" end="99" element="reference" class="fac" confidence="0.96" text="die Scheuren" numerus="sgl" specificity="spc" subclass="">
+                <span id="74" start="99" end="99" element="head" class="type" confidence="1.0" text="Scheuren" norm="Scheunen"/>
               </span>
-              <span id="103" start="177" end="177" element="reference" class="fac" confidence="0.92" text="Stallung" numerus="sgl" specificity="spc" subclass="">
-                <span id="109" start="177" end="177" element="head" class="type" confidence="1.0" text="Stallung" norm="Stallung"/>
+              <span id="69" start="102" end="102" element="reference" class="fac" confidence="0.92" text="Stallung" numerus="sgl" specificity="spc" subclass="">
+                <span id="75" start="102" end="102" element="head" class="type" confidence="1.0" text="Stallung" norm="Stallung"/>
               </span>
-              <span id="104" start="178" end="179" element="value" class="money" confidence="1.0" text="5sh ." norm="5.0 Schilling"/>
-              <span id="105" start="180" end="183" element="reference" class="org" confidence="0.97" text="der Besentz hoher Stift" numerus="sgl" specificity="spc" subclass="rel">
-                <span id="110" start="181" end="183" element="head" class="nam" confidence="0.83" text="Besentz hoher Stift" norm="Hochstift"/>
+              <span id="70" start="103" end="104" element="value" class="money" confidence="1.0" text="5sh ." norm="5.0 Schilling"/>
+              <span id="71" start="105" end="108" element="reference" class="org" confidence="0.97" text="der Besentz hoher Stift" numerus="sgl" specificity="spc" subclass="rel">
+                <span id="76" start="106" end="108" element="head" class="nam" confidence="0.83" text="Besentz hoher Stift" norm="Hochstift"/>
               </span>
-              <span id="106" start="186" end="187" element="value" class="money" confidence="1.0" text="2sh ." norm="2.0 Schilling"/>
-              <span id="107" start="188" end="191" element="reference" class="org" confidence="0.99" text="dem Closter Sanct Lienhart" numerus="sgl" specificity="spc" subclass="rel">
-                <span id="111" start="189" end="191" element="head" class="nam" confidence="0.93" text="Closter Sanct Lienhart" norm="Kloster St. Leonhard"/>
+              <span id="72" start="111" end="112" element="value" class="money" confidence="1.0" text="2sh ." norm="2.0 Schilling"/>
+              <span id="73" start="113" end="116" element="reference" class="org" confidence="0.99" text="dem Closter Sanct Lienhart" numerus="sgl" specificity="spc" subclass="rel">
+                <span id="77" start="114" end="116" element="head" class="nam" confidence="0.93" text="Closter Sanct Lienhart" norm="Kloster St. Leonhard"/>
               </span>
-            </span>
-          </span>
-          <span id="19" start="194" end="197" element="reference" class="per" confidence="0.98" text="Caspar Wattenneuwer den Metzger" numerus="sgl" specificity="spc" subclass="">
-            <span id="112" start="194" end="195" element="head" class="nam" confidence="1.0" text="Caspar Wattenneuwer"/>
-            <span id="113" start="196" end="197" element="appo" class="occ" confidence="1.0" text="den Metzger">
-              <span id="114" start="197" end="197" element="head" class="occ" confidence="1.0" text="Metzger" norm="metzger" OhdAB="https://database.factgrid.de/wiki/Item:Q673272"/>
             </span>
           </span>
-          <span id="20" start="200" end="203" element="reference" class="per" confidence="0.99" text="seine frau Chrischona Langmesserin" numerus="sgl" specificity="spc" subclass="">
-            <span id="115" start="200" end="201" element="appo" class="fam" confidence="1.0" text="seine frau">
-              <span id="117" start="200" end="200" element="reference" class="per" confidence="1.0" text="seine" numerus="sgl" specificity="spc" subclass="">
-                <span id="117_head" start="200" end="200" element="head" class="pro" confidence="1.0" text="seine"/>
-              </span>
-              <span id="118" start="201" end="201" element="head" class="fam" confidence="1.0" text="frau"/>
+          <span id="5" start="119" end="122" element="reference" class="per" confidence="0.97" text="Caspar Wattenneuwer den Metzger" numerus="sgl" specificity="spc" subclass="">
+            <span id="78" start="119" end="120" element="head" class="nam" confidence="1.0" text="Caspar Wattenneuwer"/>
+            <span id="79" start="121" end="122" element="appo" class="occ" confidence="1.0" text="den Metzger">
+              <span id="80" start="122" end="122" element="head" class="occ" confidence="1.0" text="Metzger" norm="metzger" OhdAB="https://database.factgrid.de/wiki/Item:Q673272"/>
             </span>
-            <span id="116" start="202" end="203" element="head" class="nam" confidence="1.0" text="Chrischona Langmesserin"/>
           </span>
-          <span id="21" start="206" end="245" element="reference" class="fac" confidence="0.96" text="dessen Hus und Hofstatt samt der Scheuren darneben u . dem garten darhnider , in der neuwen vorstatt , zu einer seiten neben Ludi Hanesters sel . Erben , u . zur andern siten neben Rudolf Brunning gelegen , stosst" numerus="sgl" specificity="spc" subclass="">
-            <span id="119" start="206" end="206" element="attr" class="owner" confidence="1.0" text="dessen">
-              <span id="123" start="206" end="206" element="reference" class="per" confidence="1.0" text="dessen" numerus="sgl" specificity="spc" subclass="">
-                <span id="123_head" start="206" end="206" element="head" class="pro" confidence="1.0" text="dessen"/>
+          <span id="6" start="125" end="128" element="reference" class="per" confidence="0.98" text="seine frau Chrischona Langmesserin" numerus="sgl" specificity="spc" subclass="">
+            <span id="81" start="125" end="126" element="appo" class="fam" confidence="1.0" text="seine frau">
+              <span id="83" start="125" end="125" element="reference" class="per" confidence="1.0" text="seine" numerus="sgl" specificity="spc" subclass="">
+                <span id="83_head" start="125" end="125" element="head" class="pro" confidence="1.0" text="seine"/>
+              </span>
+              <span id="84" start="126" end="126" element="head" class="fam" confidence="1.0" text="frau"/>
+            </span>
+            <span id="82" start="127" end="128" element="head" class="nam" confidence="1.0" text="Chrischona Langmesserin"/>
+          </span>
+          <span id="7" start="131" end="190" element="reference" class="fac" confidence="0.95" text="dessen Hus und Hofstatt samt der Scheuren darneben u . dem garten darhnider , in der neuwen vorstatt , zu einer seiten neben Ludi Hanesters sel . Erben , u . zur andern siten neben Rudolf Brunning gelegen , stosst mit dem garten an der Predigern garten , zinst jährl . die Scheuren dem Closter zu Predigern 10 sh ." numerus="sgl" specificity="spc" subclass="">
+            <span id="85" start="131" end="131" element="attr" class="owner" confidence="1.0" text="dessen">
+              <span id="90" start="131" end="131" element="reference" class="per" confidence="1.0" text="dessen" numerus="sgl" specificity="spc" subclass="">
+                <span id="90_head" start="131" end="131" element="head" class="pro" confidence="1.0" text="dessen"/>
               </span>
             </span>
-            <span id="120" start="207" end="209" element="head" class="type" confidence="1.0" text="Hus und Hofstatt" norm="Haus|Hofstatt"/>
-            <span id="121" start="210" end="218" element="attr" class="includes" confidence="0.99" text="samt der Scheuren darneben u . dem garten darhnider">
-              <span id="124" start="211" end="212" element="reference" class="fac" confidence="0.99" text="der Scheuren" numerus="sgl" specificity="spc" subclass="">
-                <span id="126" start="212" end="212" element="head" class="type" confidence="1.0" text="Scheuren" norm="Scheunen"/>
+            <span id="86" start="132" end="134" element="head" class="type" confidence="1.0" text="Hus und Hofstatt" norm="Haus|Hofstatt"/>
+            <span id="87" start="135" end="143" element="attr" class="includes" confidence="0.99" text="samt der Scheuren darneben u . dem garten darhnider">
+              <span id="91" start="136" end="137" element="reference" class="fac" confidence="0.99" text="der Scheuren" numerus="sgl" specificity="spc" subclass="">
+                <span id="93" start="137" end="137" element="head" class="type" confidence="1.0" text="Scheuren" norm="Scheunen"/>
               </span>
-              <span id="125" start="216" end="217" element="reference" class="fac" confidence="1.0" text="dem garten" numerus="sgl" specificity="spc" subclass="">
-                <span id="127" start="217" end="217" element="head" class="type" confidence="1.0" text="garten" norm="Garten"/>
+              <span id="92" start="141" end="142" element="reference" class="fac" confidence="1.0" text="dem garten" numerus="sgl" specificity="spc" subclass="">
+                <span id="94" start="142" end="142" element="head" class="type" confidence="1.0" text="garten" norm="Garten"/>
               </span>
             </span>
-            <span id="122" start="220" end="245" element="attr" class="loc" confidence="0.97" text="in der neuwen vorstatt , zu einer seiten neben Ludi Hanesters sel . Erben , u . zur andern siten neben Rudolf Brunning gelegen , stosst">
-              <span id="128" start="221" end="223" element="reference" class="fac" confidence="0.98" text="der neuwen vorstatt" numerus="sgl" specificity="spc" subclass="vorstadt">
-                <span id="131" start="222" end="223" element="head" class="nam" confidence="0.97" text="neuwen vorstatt"/>
+            <span id="88" start="145" end="177" element="attr" class="loc" confidence="0.96" text="in der neuwen vorstatt , zu einer seiten neben Ludi Hanesters sel . Erben , u . zur andern siten neben Rudolf Brunning gelegen , stosst mit dem garten an der Predigern garten">
+              <span id="95" start="146" end="148" element="reference" class="fac" confidence="0.99" text="der neuwen vorstatt" numerus="sgl" specificity="spc" subclass="vorstadt">
+                <span id="100" start="147" end="148" element="head" class="nam" confidence="0.97" text="neuwen vorstatt"/>
               </span>
-              <span id="129" start="229" end="233" element="reference" class="per" confidence="0.98" text="Ludi Hanesters sel . Erben" numerus="sgl" specificity="spc" subclass="">
-                <span id="132" start="229" end="232" element="reference" class="per" confidence="1.0" text="Ludi Hanesters sel ." numerus="sgl" specificity="spc" subclass="">
-                  <span id="134" start="229" end="230" element="head" class="nam" confidence="1.0" text="Ludi Hanesters"/>
-                  <span id="135" start="231" end="232" element="attr" class="dead" confidence="1.0" text="sel ."/>
+              <span id="96" start="154" end="158" element="reference" class="per" confidence="0.99" text="Ludi Hanesters sel . Erben" numerus="sgl" specificity="spc" subclass="">
+                <span id="101" start="154" end="157" element="reference" class="per" confidence="1.0" text="Ludi Hanesters sel ." numerus="sgl" specificity="spc" subclass="">
+                  <span id="103" start="154" end="155" element="head" class="nam" confidence="1.0" text="Ludi Hanesters"/>
+                  <span id="104" start="156" end="157" element="attr" class="dead" confidence="1.0" text="sel ."/>
                 </span>
-                <span id="133" start="233" end="233" element="head" class="heir" confidence="1.0" text="Erben"/>
+                <span id="102" start="158" end="158" element="head" class="heir" confidence="1.0" text="Erben"/>
               </span>
-              <span id="130" start="241" end="242" element="reference" class="per" confidence="0.98" text="Rudolf Brunning" numerus="sgl" specificity="spc" subclass="">
-                <span id="136" start="241" end="242" element="head" class="nam" confidence="1.0" text="Rudolf Brunning"/>
+              <span id="97" start="166" end="167" element="reference" class="per" confidence="0.97" text="Rudolf Brunning" numerus="sgl" specificity="spc" subclass="">
+                <span id="105" start="166" end="167" element="head" class="nam" confidence="1.0" text="Rudolf Brunning"/>
+              </span>
+              <span id="98" start="172" end="173" element="reference" class="fac" confidence="0.98" text="dem garten" numerus="sgl" specificity="spc" subclass="">
+                <span id="106" start="173" end="173" element="head" class="type" confidence="1.0" text="garten" norm="Garten"/>
+              </span>
+              <span id="99" start="175" end="177" element="reference" class="fac" confidence="0.98" text="der Predigern garten" numerus="sgl" specificity="spc" subclass="">
+                <span id="107" start="175" end="176" element="attr" class="owner" confidence="0.86" text="der Predigern">
+                  <span id="109" start="175" end="176" element="reference" class="org" confidence="0.98" text="der Predigern" numerus="sgl" specificity="spc" subclass="rel">
+                    <span id="110" start="176" end="176" element="head" class="nam" confidence="1.0" text="Predigern" norm="Predigerkloster"/>
+                  </span>
+                </span>
+                <span id="108" start="177" end="177" element="head" class="type" confidence="1.0" text="garten" norm="Garten"/>
               </span>
             </span>
+            <span id="89" start="179" end="190" element="attr" class="dues" confidence="1.0" text="zinst jährl . die Scheuren dem Closter zu Predigern 10 sh .">
+              <span id="111" start="179" end="179" element="trigger" class="due" confidence="1.0" text="zinst"/>
+              <span id="112" start="180" end="181" element="value" class="time" confidence="1.0" text="jährl ."/>
+              <span id="113" start="182" end="183" element="reference" class="fac" confidence="0.99" text="die Scheuren" numerus="sgl" specificity="spc" subclass="">
+                <span id="116" start="183" end="183" element="head" class="type" confidence="1.0" text="Scheuren" norm="Scheunen"/>
+              </span>
+              <span id="114" start="184" end="187" element="reference" class="org" confidence="1.0" text="dem Closter zu Predigern" numerus="sgl" specificity="spc" subclass="rel">
+                <span id="117" start="185" end="187" element="head" class="nam" confidence="0.9" text="Closter zu Predigern" norm="Predigerkloster"/>
+              </span>
+              <span id="115" start="188" end="190" element="value" class="money" confidence="1.0" text="10 sh ." norm="10.0 Schilling"/>
+            </span>
           </span>
+          <span id="8" start="192" end="192" element="trigger" class="due" confidence="0.66" text="zinset"/>
+          <span id="9" start="193" end="231" element="reference" class="fac" confidence="0.89" text="dise Scheuren samt dem Garten und der Behusung Margaretha Steinkellerin , wyl . Mr . Claus Holtschers des Scherers sel . Witwen , jährl . 8 ℔ . sind mit 160 ℔ Hptg . abzul . sonst alles frey" numerus="sgl" specificity="spc" subclass="">
+            <span id="118" start="194" end="194" element="head" class="type" confidence="1.0" text="Scheuren" norm="Scheunen"/>
+            <span id="119" start="195" end="200" element="attr" class="includes" confidence="0.96" text="samt dem Garten und der Behusung">
+              <span id="124" start="196" end="197" element="reference" class="fac" confidence="0.99" text="dem Garten" numerus="sgl" specificity="spc" subclass="">
+                <span id="126" start="197" end="197" element="head" class="type" confidence="1.0" text="Garten" norm="Garten"/>
+              </span>
+              <span id="125" start="199" end="200" element="reference" class="fac" confidence="0.79" text="der Behusung" numerus="sgl" specificity="spc" subclass="">
+                <span id="127" start="200" end="200" element="head" class="type" confidence="0.99" text="Behusung" norm="Behausung"/>
+              </span>
+            </span>
+            <span id="120" start="201" end="202" element="reference" class="per" confidence="0.64" text="Margaretha Steinkellerin" numerus="sgl" specificity="spc" subclass="">
+              <span id="128" start="201" end="202" element="head" class="nam" confidence="1.0" text="Margaretha Steinkellerin"/>
+            </span>
+            <span id="121" start="204" end="214" element="appo" class="fam" confidence="0.91" text="wyl . Mr . Claus Holtschers des Scherers sel . Witwen">
+              <span id="129" start="206" end="213" element="reference" class="per" confidence="0.98" text="Mr . Claus Holtschers des Scherers sel ." numerus="sgl" specificity="spc" subclass="">
+                <span id="131" start="208" end="209" element="head" class="nam" confidence="1.0" text="Claus Holtschers"/>
+                <span id="132" start="210" end="211" element="appo" class="occ" confidence="0.99" text="des Scherers">
+                  <span id="134" start="211" end="211" element="head" class="occ" confidence="1.0" text="Scherers" norm="scherer" OhdAB="https://database.factgrid.de/wiki/Item:Q692959"/>
+                </span>
+                <span id="133" start="212" end="213" element="attr" class="dead" confidence="1.0" text="sel ."/>
+              </span>
+              <span id="130" start="214" end="214" element="head" class="fam" confidence="1.0" text="Witwen"/>
+            </span>
+            <span id="122" start="216" end="217" element="value" class="time" confidence="1.0" text="jährl ."/>
+            <span id="123" start="218" end="231" element="attr" class="dues" confidence="0.84" text="8 ℔ . sind mit 160 ℔ Hptg . abzul . sonst alles frey">
+              <span id="135" start="218" end="220" element="value" class="money" confidence="1.0" text="8 ℔ ." norm="8.0 Pfund"/>
+              <span id="136" start="223" end="224" element="value" class="money" confidence="0.98" text="160 ℔" norm="160.0 Pfund"/>
+            </span>
+          </span>
+          <span id="10" start="235" end="235" element="reference" class="per" confidence="1.0" text="Lotzin" numerus="sgl" specificity="spc" subclass="">
+            <span id="137" start="235" end="235" element="head" class="nam" confidence="1.0" text="Lotzin"/>
+          </span>
+          <span id="11" start="238" end="239" element="reference" class="per" confidence="0.79" text="seine Frau" numerus="sgl" specificity="spc" subclass="">
+            <span id="138" start="238" end="238" element="reference" class="per" confidence="0.97" text="seine" numerus="sgl" specificity="spc" subclass="">
+              <span id="138_head" start="238" end="238" element="head" class="pro" confidence="0.97" text="seine"/>
+            </span>
+            <span id="139" start="239" end="239" element="head" class="fam" confidence="0.99" text="Frau"/>
+          </span>
+          <span id="12" start="240" end="240" element="trigger" class="other" confidence="0.82" text="zahlen"/>
+          <span id="13" start="242" end="244" element="value" class="money" confidence="0.99" text="360 ℔ ." norm="360.0 Pfund"/>
         </spans>
         <relations>
-          <relation id="1" from="53" to="14" class="coref"/>
-          <relation id="2" from="61" to="15" class="coref"/>
-          <relation id="3" from="117" to="19" class="coref"/>
-          <relation id="4" from="123" to="20" class="coref"/>
+          <relation id="1" from="19" to="0" class="coref"/>
+          <relation id="2" from="27" to="1" class="coref"/>
+          <relation id="3" from="83" to="5" class="coref"/>
+          <relation id="4" from="90" to="6" class="coref"/>
+          <relation from="10" to="0" class="coref"/>
+          <relation from="11" to="1" class="coref"/>
+          <relation from="138" to="10" class="coref"/>
         </relations>
         <eventGroups>
-          <eventGroup event_id="0" class="due-obligation" start="171" end="191" ref="75" type="state" tense="unk" polarity="unk" modality="unk">
-            <trigger ref="100" text="zinst" start="171" end="171"/>
+          <eventGroup event_id="0" class="due-obligation" start="96" end="116" ref="41" type="state" tense="unk" polarity="unk" modality="unk">
+            <trigger ref="66" text="zinst" start="96" end="96"/>
             <event event_id="0.1">
-              <role role="interval" confidence="1.0" ref="101" text="jährl"/>
-              <role role="property" confidence="1.0" ref="102" text="die Scheuren"/>
-              <role role="interest" confidence="0.99" ref="106" text="2sh ."/>
-              <role role="beneficiary" confidence="1.0" ref="107" text="dem Closter Sanct Lienhart"/>
+              <role role="interval" confidence="1.0" ref="67" text="jährl"/>
+              <role role="property" confidence="1.0" ref="68" text="die Scheuren"/>
+              <role role="interest" confidence="0.99" ref="72" text="2sh ."/>
+              <role role="beneficiary" confidence="1.0" ref="73" text="dem Closter Sanct Lienhart"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="1" class="due-obligation" start="0" end="18" ref="" type="state" tense="unk" polarity="unk" modality="unk">
-            <trigger ref="1" text="zinst" start="7" end="7"/>
+          <eventGroup event_id="1" class="due-obligation" start="179" end="190" ref="89" type="state" tense="unk" polarity="unk" modality="unk">
+            <trigger ref="111" text="zinst" start="179" end="179"/>
             <event event_id="1.0">
-              <role role="property" confidence="0.96" ref="0" text="dem garten an der Predigern garten"/>
-              <role role="interval" confidence="1.0" ref="2" text="jährl ."/>
-              <role role="property" confidence="0.94" ref="3" text="die Scheuren dem Closter zu Predigern"/>
-              <role role="interest" confidence="1.0" ref="4" text="10 sh ."/>
+              <role role="interval" confidence="1.0" ref="112" text="jährl ."/>
+              <role role="property" confidence="0.99" ref="113" text="die Scheuren"/>
+              <role role="beneficiary" confidence="1.0" ref="114" text="dem Closter zu Predigern"/>
+              <role role="interest" confidence="1.0" ref="115" text="10 sh ."/>
             </event>
           </eventGroup>
-          <eventGroup event_id="2" class="due-obligation" start="20" end="52" ref="" type="state" tense="unk" polarity="unk" modality="unk">
-            <trigger ref="5" text="zinset" start="20" end="20"/>
+          <eventGroup event_id="2" class="transfer" start="0" end="128" ref="" type="event" tense="unk" polarity="unk" modality="unk">
+            <trigger ref="2" text="vertauschen" start="11" end="11"/>
             <event event_id="2.0">
-              <role role="property" confidence="1.0" ref="6" text="dise Scheuren samt dem Garten und der Behusung"/>
-              <role role="beneficiary" confidence="0.84" ref="7" text="Margaretha Steinkellerin , wyl . Mr . Claus Holtschers des Scherers sel . Witwen"/>
-              <role role="interval" confidence="1.0" ref="8" text="jährl ."/>
-              <role role="interest" confidence="0.98" ref="9" text="8 ℔ ."/>
-              <role role="interest-redeemable" confidence="0.8" ref="10" text="160 ℔"/>
+              <role role="owner-prev" ref="0" confidence="gpt-5.5" text="Sebastian Sotzin der Krämer"/>
+              <role role="owner-prev" ref="1" confidence="gpt-5.5" text="seine Frau Barbara Gesslin"/>
+              <role role="owner-new" ref="5" confidence="gpt-5.5" text="Caspar Wattenneuwer den Metzger"/>
+              <role role="owner-new" ref="6" confidence="gpt-5.5" text="seine frau Chrischona Langmesserin"/>
+              <role role="property" ref="3" confidence="gpt-5.5" text="ihr Hus und Hofstatt , samt dem Höflin darhinder , by Rümelinsmurkhe , einsyt neben derselben Müle , andersyt neben Martin Enderlin dem Kieffer gelegen , u . Rokhenberg genannt , ist frey , ledigete"/>
+              <role role="property" ref="4" confidence="gpt-5.5" text="ein Scheuren u . Stallung , am interen Stattgraben , by Egenolffsthor , hinder dem Lyssbronnen , einsit neben Hansen Scherer , andersit neben Midres Scherer , stosst hinden an Jacoben Finningers u . Jacoben Pettinger der Metzgern Scheuren , auch an gemelts Andres Scherers gärtlin , zinst jährl die Scheuren u . Stallung 5sh . der Besentz hoher Stift u . 2sh . dem Closter Sanct Lienhart"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="3" class="other" start="75" end="245" ref="" type="event" tense="unk" polarity="unk" modality="unk">
-            <trigger ref="16" text="vertauschen" start="86" end="86"/>
+          <eventGroup event_id="3" class="due-obligation" start="192" end="231" ref="" type="state" tense="unk" polarity="unk" modality="unk">
+            <trigger ref="8" text="zinset" start="192" end="192"/>
             <event event_id="3.0">
-              <role role="consenting" confidence="0.37" ref="14" text="Sebastian Sotzin der Krämer"/>
-              <role role="bequeather" confidence="0.46" ref="15" text="seine Frau Barbara Gesslin"/>
-              <role role="property" confidence="1.0" ref="17" text="ihr Hus und Hofstatt , samt dem Höflin darhinder , by Rümelinsmurkhe , einsyt neben derselben Müle , andersyt neben Martin Enderlin dem Kieffer gelegen , u . Rokhenberg genannt , ist frey , ledigete"/>
-              <role role="property" confidence="0.9" ref="18" text="ein Scheuren u . Stallung , am interen Stattgraben , by Egenolffsthor , hinder dem Lyssbronnen , einsit neben Hansen Scherer , andersit neben Midres Scherer , stosst hinden an Jacoben Finningers u . Jacoben Pettinger der Metzgern Scheuren , auch an gemelts Andres Scherers gärtlin , zinst jährl die Scheuren u . Stallung 5sh . der Besentz hoher Stift u . 2sh . dem Closter Sanct Lienhart"/>
-              <role role="buyer" confidence="0.99" ref="19" text="Caspar Wattenneuwer den Metzger"/>
-              <role role="buyer" confidence="0.99" ref="20" text="seine frau Chrischona Langmesserin"/>
-              <role role="property" confidence="0.99" ref="21" text="dessen Hus und Hofstatt samt der Scheuren darneben u . dem garten darhnider , in der neuwen vorstatt , zu einer seiten neben Ludi Hanesters sel . Erben , u . zur andern siten neben Rudolf Brunning gelegen , stosst"/>
+              <role role="property" confidence="1.0" ref="9" text="dise Scheuren samt dem Garten und der Behusung Margaretha Steinkellerin , wyl . Mr . Claus Holtschers des Scherers sel . Witwen , jährl . 8 ℔ . sind mit 160 ℔ Hptg . abzul . sonst alles frey"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="4" class="family" start="66" end="67" ref="12" type="state" tense="unk" polarity="unk" modality="unk">
-            <trigger start="67" end="67" text="Frau" ref="47"/>
+          <eventGroup event_id="4" class="payment" start="235" end="244" ref="" type="event" tense="unk" polarity="unk" modality="unk">
+            <trigger ref="12" text="zahlen" start="240" end="240"/>
             <event event_id="4.0">
-              <role role="family-a" ref="12" text="seine Frau"/>
-              <role role="family-b" ref="46" text="seine"/>
-            </event>
-          </eventGroup>
-          <eventGroup event_id="5" class="inheritance" start="229" end="233" ref="129" type="event" tense="unk" polarity="unk" modality="unk">
-            <trigger start="233" end="233" text="Erben" ref="133"/>
-            <event event_id="5.0">
-              <role role="heir" ref="129" text="Ludi Hanesters sel . Erben"/>
-              <role role="decedent" ref="132" text="Ludi Hanesters sel ."/>
-            </event>
-          </eventGroup>
-          <eventGroup event_id="6" class="family" start="29" end="42" ref="38" type="state" tense="unk" polarity="unk" modality="unk">
-            <trigger start="42" end="42" text="Witwen" ref="40"/>
-            <event event_id="6.0">
-              <role role="family-a" ref="7" text="Margaretha Steinkellerin , wyl . Mr . Claus Holtschers des Scherers sel . Witwen"/>
-              <role role="family-b" ref="39" text="Mr . Claus Holtschers des Scherers sel ."/>
-            </event>
-          </eventGroup>
-          <eventGroup event_id="7" class="family" start="81" end="84" ref="51" type="state" tense="unk" polarity="unk" modality="unk">
-            <trigger start="82" end="82" text="Frau" ref="54"/>
-            <event event_id="7.0">
-              <role role="family-a" ref="15" text="seine Frau Barbara Gesslin"/>
-              <role role="family-b" ref="53" text="seine"/>
-            </event>
-          </eventGroup>
-          <eventGroup event_id="8" class="family" start="200" end="203" ref="115" type="state" tense="unk" polarity="unk" modality="unk">
-            <trigger start="201" end="201" text="frau" ref="118"/>
-            <event event_id="8.0">
-              <role role="family-a" ref="20" text="seine frau Chrischona Langmesserin"/>
-              <role role="family-b" ref="117" text="seine"/>
-            </event>
-          </eventGroup>
-          <eventGroup event_id="9" class="topological" start="0" end="5" ref="23" type="state" tense="unk" polarity="unk" modality="unk">
-            <event event_id="9.0">
-              <role role="location-a" ref="0" text="dem garten an der Predigern garten"/>
-              <role role="location-b" ref="24" text="der Predigern garten"/>
-            </event>
-          </eventGroup>
-          <eventGroup event_id="10" class="ownership" start="3" end="5" ref="25" type="state" tense="unk" polarity="unk" modality="unk">
-            <event event_id="10.0">
-              <role role="property" ref="24" text="der Predigern garten"/>
-              <role role="owner" ref="27" text="der Predigern"/>
-            </event>
-          </eventGroup>
-          <eventGroup event_id="11" class="part_whole" start="21" end="28" ref="32" type="state" tense="unk" polarity="unk" modality="unk">
-            <event event_id="11.0">
-              <role role="whole" ref="6" text="dise Scheuren samt dem Garten und der Behusung"/>
-              <role role="part" ref="33" text="dem Garten"/>
-              <role role="part" ref="34" text="der Behusung"/>
-            </event>
-          </eventGroup>
-          <eventGroup event_id="12" class="ownership" start="87" end="121" ref="55" type="state" tense="unk" polarity="unk" modality="unk">
-            <event event_id="12.0">
-              <role role="property" ref="17" text="ihr Hus und Hofstatt , samt dem Höflin darhinder , by Rümelinsmurkhe , einsyt neben derselben Müle , andersyt neben Martin Enderlin dem Kieffer gelegen , u . Rokhenberg genannt , ist frey , ledigete"/>
-              <role role="owner" ref="61" text="ihr"/>
-            </event>
-          </eventGroup>
-          <eventGroup event_id="13" class="part_whole" start="87" end="121" ref="57" type="state" tense="unk" polarity="unk" modality="unk">
-            <event event_id="13.0">
-              <role role="whole" ref="17" text="ihr Hus und Hofstatt , samt dem Höflin darhinder , by Rümelinsmurkhe , einsyt neben derselben Müle , andersyt neben Martin Enderlin dem Kieffer gelegen , u . Rokhenberg genannt , ist frey , ledigete"/>
-              <role role="part" ref="62" text="dem Höflin"/>
-            </event>
-          </eventGroup>
-          <eventGroup event_id="14" class="topological" start="87" end="121" ref="58" type="state" tense="unk" polarity="unk" modality="unk">
-            <event event_id="14.0">
-              <role role="location-a" ref="17" text="ihr Hus und Hofstatt , samt dem Höflin darhinder , by Rümelinsmurkhe , einsyt neben derselben Müle , andersyt neben Martin Enderlin dem Kieffer gelegen , u . Rokhenberg genannt , ist frey , ledigete"/>
-              <role role="location-b" ref="64" text="Rümelinsmurkhe"/>
-              <role role="location-b" ref="65" text="derselben Müle"/>
-              <role role="location-b" ref="66" text="Martin Enderlin dem Kieffer"/>
-            </event>
-          </eventGroup>
-          <eventGroup event_id="15" class="topological" start="124" end="191" ref="74" type="state" tense="unk" polarity="unk" modality="unk">
-            <event event_id="15.0">
-              <role role="location-a" ref="18" text="ein Scheuren u . Stallung , am interen Stattgraben , by Egenolffsthor , hinder dem Lyssbronnen , einsit neben Hansen Scherer , andersit neben Midres Scherer , stosst hinden an Jacoben Finningers u . Jacoben Pettinger der Metzgern Scheuren , auch an gemelts Andres Scherers gärtlin , zinst jährl die Scheuren u . Stallung 5sh . der Besentz hoher Stift u . 2sh . dem Closter Sanct Lienhart"/>
-              <role role="location-b" ref="76" text="am interen Stattgraben"/>
-              <role role="location-b" ref="77" text="Egenolffsthor"/>
-              <role role="location-b" ref="78" text="dem Lyssbronnen"/>
-              <role role="location-b" ref="79" text="Hansen Scherer"/>
-              <role role="location-b" ref="80" text="Midres Scherer"/>
-              <role role="location-b" ref="81" text="Jacoben Finningers"/>
-              <role role="location-b" ref="82" text="Jacoben Pettinger der Metzgern Scheuren"/>
-              <role role="location-b" ref="83" text="gemelts Andres Scherers gärtlin"/>
-            </event>
-          </eventGroup>
-          <eventGroup event_id="16" class="ownership" start="158" end="162" ref="90" type="state" tense="unk" polarity="unk" modality="unk">
-            <event event_id="16.0">
-              <role role="property" ref="82" text="Jacoben Pettinger der Metzgern Scheuren"/>
-              <role role="owner" ref="92" text="Jacoben Pettinger der Metzgern"/>
-            </event>
-          </eventGroup>
-          <eventGroup event_id="17" class="ownership" start="166" end="169" ref="96" type="state" tense="unk" polarity="unk" modality="unk">
-            <event event_id="17.0">
-              <role role="property" ref="83" text="gemelts Andres Scherers gärtlin"/>
-              <role role="owner" ref="98" text="gemelts Andres Scherers"/>
-            </event>
-          </eventGroup>
-          <eventGroup event_id="18" class="ownership" start="206" end="245" ref="119" type="state" tense="unk" polarity="unk" modality="unk">
-            <event event_id="18.0">
-              <role role="property" ref="21" text="dessen Hus und Hofstatt samt der Scheuren darneben u . dem garten darhnider , in der neuwen vorstatt , zu einer seiten neben Ludi Hanesters sel . Erben , u . zur andern siten neben Rudolf Brunning gelegen , stosst"/>
-              <role role="owner" ref="123" text="dessen"/>
-            </event>
-          </eventGroup>
-          <eventGroup event_id="19" class="part_whole" start="206" end="245" ref="121" type="state" tense="unk" polarity="unk" modality="unk">
-            <event event_id="19.0">
-              <role role="whole" ref="21" text="dessen Hus und Hofstatt samt der Scheuren darneben u . dem garten darhnider , in der neuwen vorstatt , zu einer seiten neben Ludi Hanesters sel . Erben , u . zur andern siten neben Rudolf Brunning gelegen , stosst"/>
-              <role role="part" ref="124" text="der Scheuren"/>
-              <role role="part" ref="125" text="dem garten"/>
-            </event>
-          </eventGroup>
-          <eventGroup event_id="20" class="topological" start="206" end="245" ref="122" type="state" tense="unk" polarity="unk" modality="unk">
-            <event event_id="20.0">
-              <role role="location-a" ref="21" text="dessen Hus und Hofstatt samt der Scheuren darneben u . dem garten darhnider , in der neuwen vorstatt , zu einer seiten neben Ludi Hanesters sel . Erben , u . zur andern siten neben Rudolf Brunning gelegen , stosst"/>
-              <role role="location-b" ref="128" text="der neuwen vorstatt"/>
-              <role role="location-b" ref="129" text="Ludi Hanesters sel . Erben"/>
-              <role role="location-b" ref="130" text="Rudolf Brunning"/>
-            </event>
-          </eventGroup>
-          <eventGroup event_id="21" type="event" polarity="pos" tense="pres" modality="ass" ref="" class="payment" start="63" end="72">
-            <event event_id="21.0">
-              <role role="payer" ref="11" confidence="gpt-5.5" text="Lotzin"/>
-              <role role="payer" ref="12" confidence="gpt-5.5" text="seine Frau"/>
+              <role role="payer" ref="10" confidence="gpt-5.5" text="Lotzin"/>
+              <role role="payer" ref="11" confidence="gpt-5.5" text="seine Frau"/>
               <role role="sum" ref="13" confidence="gpt-5.5" text="360 ℔ ."/>
+            </event>
+          </eventGroup>
+          <eventGroup event_id="5" class="inheritance" start="154" end="158" ref="96" type="event" tense="unk" polarity="unk" modality="unk">
+            <trigger start="158" end="158" text="Erben" ref="102"/>
+            <event event_id="5.0">
+              <role role="heir" ref="96" text="Ludi Hanesters sel . Erben"/>
+              <role role="decedent" ref="101" text="Ludi Hanesters sel ."/>
+            </event>
+          </eventGroup>
+          <eventGroup event_id="7" class="family" start="235" end="239" ref="11" type="state" tense="unk" polarity="unk" modality="unk">
+            <trigger start="239" end="239" text="Frau" ref="139"/>
+            <event event_id="7.0">
+              <role role="family-a" ref="11" text="seine Frau"/>
+              <role role="family-b" ref="10" confidence="gpt-5.5" text="Lotzin"/>
+            </event>
+          </eventGroup>
+          <eventGroup event_id="8" class="family" start="6" end="9" ref="17" type="state" tense="unk" polarity="unk" modality="unk">
+            <trigger start="7" end="7" text="Frau" ref="20"/>
+            <event event_id="8.0">
+              <role role="family-a" ref="1" text="seine Frau Barbara Gesslin"/>
+              <role role="family-b" ref="19" text="seine"/>
+            </event>
+          </eventGroup>
+          <eventGroup event_id="9" class="family" start="125" end="128" ref="81" type="state" tense="unk" polarity="unk" modality="unk">
+            <trigger start="126" end="126" text="frau" ref="84"/>
+            <event event_id="9.0">
+              <role role="family-a" ref="6" text="seine frau Chrischona Langmesserin"/>
+              <role role="family-b" ref="83" text="seine"/>
+            </event>
+          </eventGroup>
+          <eventGroup event_id="10" class="family" start="201" end="214" ref="121" type="state" tense="unk" polarity="unk" modality="unk">
+            <trigger start="214" end="214" text="Witwen" ref="130"/>
+            <event event_id="10.0">
+              <role role="family-b" ref="129" text="Mr . Claus Holtschers des Scherers sel ."/>
+              <role role="family-a" ref="120" confidence="gpt-5.5" text="Margaretha Steinkellerin"/>
+            </event>
+          </eventGroup>
+          <eventGroup event_id="11" class="ownership" start="12" end="46" ref="21" type="state" tense="unk" polarity="unk" modality="unk">
+            <event event_id="11.0">
+              <role role="property" ref="3" text="ihr Hus und Hofstatt , samt dem Höflin darhinder , by Rümelinsmurkhe , einsyt neben derselben Müle , andersyt neben Martin Enderlin dem Kieffer gelegen , u . Rokhenberg genannt , ist frey , ledigete"/>
+              <role role="owner" ref="27" text="ihr"/>
+            </event>
+          </eventGroup>
+          <eventGroup event_id="12" class="part_whole" start="12" end="46" ref="23" type="state" tense="unk" polarity="unk" modality="unk">
+            <event event_id="12.0">
+              <role role="whole" ref="3" text="ihr Hus und Hofstatt , samt dem Höflin darhinder , by Rümelinsmurkhe , einsyt neben derselben Müle , andersyt neben Martin Enderlin dem Kieffer gelegen , u . Rokhenberg genannt , ist frey , ledigete"/>
+              <role role="part" ref="28" text="dem Höflin"/>
+            </event>
+          </eventGroup>
+          <eventGroup event_id="13" class="topological" start="12" end="46" ref="24" type="state" tense="unk" polarity="unk" modality="unk">
+            <event event_id="13.0">
+              <role role="location-a" ref="3" text="ihr Hus und Hofstatt , samt dem Höflin darhinder , by Rümelinsmurkhe , einsyt neben derselben Müle , andersyt neben Martin Enderlin dem Kieffer gelegen , u . Rokhenberg genannt , ist frey , ledigete"/>
+              <role role="location-b" ref="30" text="Rümelinsmurkhe"/>
+              <role role="location-b" ref="31" text="derselben Müle"/>
+              <role role="location-b" ref="32" text="Martin Enderlin dem Kieffer"/>
+            </event>
+          </eventGroup>
+          <eventGroup event_id="14" class="topological" start="49" end="116" ref="40" type="state" tense="unk" polarity="unk" modality="unk">
+            <event event_id="14.0">
+              <role role="location-a" ref="4" text="ein Scheuren u . Stallung , am interen Stattgraben , by Egenolffsthor , hinder dem Lyssbronnen , einsit neben Hansen Scherer , andersit neben Midres Scherer , stosst hinden an Jacoben Finningers u . Jacoben Pettinger der Metzgern Scheuren , auch an gemelts Andres Scherers gärtlin , zinst jährl die Scheuren u . Stallung 5sh . der Besentz hoher Stift u . 2sh . dem Closter Sanct Lienhart"/>
+              <role role="location-b" ref="42" text="am interen Stattgraben"/>
+              <role role="location-b" ref="43" text="Egenolffsthor"/>
+              <role role="location-b" ref="44" text="dem Lyssbronnen"/>
+              <role role="location-b" ref="45" text="Hansen Scherer"/>
+              <role role="location-b" ref="46" text="Midres Scherer"/>
+              <role role="location-b" ref="47" text="Jacoben Finningers"/>
+              <role role="location-b" ref="48" text="Jacoben Pettinger der Metzgern Scheuren"/>
+              <role role="location-b" ref="49" text="gemelts Andres Scherers gärtlin"/>
+            </event>
+          </eventGroup>
+          <eventGroup event_id="15" class="ownership" start="83" end="87" ref="56" type="state" tense="unk" polarity="unk" modality="unk">
+            <event event_id="15.0">
+              <role role="property" ref="48" text="Jacoben Pettinger der Metzgern Scheuren"/>
+              <role role="owner" ref="58" text="Jacoben Pettinger der Metzgern"/>
+            </event>
+          </eventGroup>
+          <eventGroup event_id="16" class="ownership" start="91" end="94" ref="62" type="state" tense="unk" polarity="unk" modality="unk">
+            <event event_id="16.0">
+              <role role="property" ref="49" text="gemelts Andres Scherers gärtlin"/>
+              <role role="owner" ref="64" text="gemelts Andres Scherers"/>
+            </event>
+          </eventGroup>
+          <eventGroup event_id="17" class="ownership" start="131" end="190" ref="85" type="state" tense="unk" polarity="unk" modality="unk">
+            <event event_id="17.0">
+              <role role="property" ref="7" text="dessen Hus und Hofstatt samt der Scheuren darneben u . dem garten darhnider , in der neuwen vorstatt , zu einer seiten neben Ludi Hanesters sel . Erben , u . zur andern siten neben Rudolf Brunning gelegen , stosst mit dem garten an der Predigern garten , zinst jährl . die Scheuren dem Closter zu Predigern 10 sh ."/>
+              <role role="owner" ref="90" text="dessen"/>
+            </event>
+          </eventGroup>
+          <eventGroup event_id="18" class="part_whole" start="131" end="190" ref="87" type="state" tense="unk" polarity="unk" modality="unk">
+            <event event_id="18.0">
+              <role role="whole" ref="7" text="dessen Hus und Hofstatt samt der Scheuren darneben u . dem garten darhnider , in der neuwen vorstatt , zu einer seiten neben Ludi Hanesters sel . Erben , u . zur andern siten neben Rudolf Brunning gelegen , stosst mit dem garten an der Predigern garten , zinst jährl . die Scheuren dem Closter zu Predigern 10 sh ."/>
+              <role role="part" ref="91" text="der Scheuren"/>
+              <role role="part" ref="92" text="dem garten"/>
+            </event>
+          </eventGroup>
+          <eventGroup event_id="19" class="topological" start="131" end="190" ref="88" type="state" tense="unk" polarity="unk" modality="unk">
+            <event event_id="19.0">
+              <role role="location-a" ref="7" text="dessen Hus und Hofstatt samt der Scheuren darneben u . dem garten darhnider , in der neuwen vorstatt , zu einer seiten neben Ludi Hanesters sel . Erben , u . zur andern siten neben Rudolf Brunning gelegen , stosst mit dem garten an der Predigern garten , zinst jährl . die Scheuren dem Closter zu Predigern 10 sh ."/>
+              <role role="location-b" ref="95" text="der neuwen vorstatt"/>
+              <role role="location-b" ref="96" text="Ludi Hanesters sel . Erben"/>
+              <role role="location-b" ref="97" text="Rudolf Brunning"/>
+              <role role="location-b" ref="98" text="dem garten"/>
+              <role role="location-b" ref="99" text="der Predigern garten"/>
+            </event>
+          </eventGroup>
+          <eventGroup event_id="20" class="ownership" start="175" end="177" ref="107" type="state" tense="unk" polarity="unk" modality="unk">
+            <event event_id="20.0">
+              <role role="property" ref="99" text="der Predigern garten"/>
+              <role role="owner" ref="109" text="der Predigern"/>
+            </event>
+          </eventGroup>
+          <eventGroup event_id="21" class="part_whole" start="193" end="231" ref="119" type="state" tense="unk" polarity="unk" modality="unk">
+            <event event_id="21.0">
+              <role role="whole" ref="9" text="dise Scheuren samt dem Garten und der Behusung Margaretha Steinkellerin , wyl . Mr . Claus Holtschers des Scherers sel . Witwen , jährl . 8 ℔ . sind mit 160 ℔ Hptg . abzul . sonst alles frey"/>
+              <role role="part" ref="124" text="dem Garten"/>
+              <role role="part" ref="125" text="der Behusung"/>
+            </event>
+          </eventGroup>
+          <eventGroup event_id="22" class="due-obligation" start="193" end="231" ref="123" type="state" tense="unk" polarity="unk" modality="unk">
+            <event event_id="22.0">
+              <role role="property" ref="9" text="dise Scheuren samt dem Garten und der Behusung Margaretha Steinkellerin , wyl . Mr . Claus Holtschers des Scherers sel . Witwen , jährl . 8 ℔ . sind mit 160 ℔ Hptg . abzul . sonst alles frey"/>
+              <role role="interest" ref="135" text="8 ℔ ."/>
+              <role role="interest" ref="136" text="160 ℔"/>
+            </event>
+          </eventGroup>
+          <eventGroup event_id="23" type="event" polarity="pos" tense="pres" modality="ass" ref="" class="transfer" start="0" end="190">
+            <event event_id="23.0">
+              <role role="owner-prev" ref="5" confidence="gpt-5.5" text="Caspar Wattenneuwer den Metzger"/>
+              <role role="owner-prev" ref="6" confidence="gpt-5.5" text="seine frau Chrischona Langmesserin"/>
+              <role role="owner-new" ref="0" confidence="gpt-5.5" text="Sebastian Sotzin der Krämer"/>
+              <role role="owner-new" ref="1" confidence="gpt-5.5" text="seine Frau Barbara Gesslin"/>
+              <role role="property" ref="7" confidence="gpt-5.5" text="dessen Hus und Hofstatt samt der Scheuren darneben u . dem garten darhnider , in der neuwen vorstatt , zu einer seiten neben Ludi Hanesters sel . Erben , u . zur andern siten neben Rudolf Brunning gelegen , stosst mit dem garten an der Predigern garten , zinst jährl . die Scheuren dem Closter zu Predigern 10 sh ."/>
             </event>
           </eventGroup>
         </eventGroups>
@@ -63494,7 +63510,7 @@
           </eventGroup>
         </eventGroups>
       </document>
-      <document id="dc7fd9a5-1ea3-42ae-b0db-1a9e58577486_20260528">
+      <document id="07caee83-cfd8-47a5-89fc-cd9e8afefb09_20260615">
         <metadata>
           <street_id>HGB_1_176</street_id>
           <dossier_id>HGB_1_176_018</dossier_id>
@@ -63502,346 +63518,366 @@
           <source>Prediger</source>
           <language>german</language>
           <checked_by_gpt>false</checked_by_gpt>
-          <text>Ebenso 1690. 1691 die Schul auf Burg gibt obigen. Zins. Item herr Onoffrio Morian deß rhat undt depstat seligen erben geben von ihrem hauß obey. Rümmelins mühlin - 1 ℔ 1 cappaun 2ring, ehrschatz - 5ß;. dieses hauß wardt durch h. Morian selig einem h: Proceptori uf burg vermacht. Ebenso 1673. Ebenso 1674. Ebenso 1675. Ebenso 1676. Ebenso 1677. Ebenso 1678. Ebenso 1679. Ebenso 1680. Ebenso 1681. Ebenso 1682. Ebenso 1683. Ebenso 1684. Ebenso 1685. Ebenso 1686. Ebenso 1687. 1688 hr. Onophrio Merian des raths und deputaten seligen erben vom hauß Raten purg genant bey Rümmelins mühlin 1 ℔ capann 2ring Ebenso 1689 mit dem Zusatz: ehrschatz 5ß.</text>
+          <text>Item herr Onoffrio Morian deß rhat undt depstat seligen erben geben von ihrem hauß obey. Rümmelins mühlin - 1 ℔ 1 cappaun 2ring, ehrschatz - 5ß;. dieses hauß wardt durch h. Morian selig einem h: Proceptori uf burg vermacht. Ebenso 1673. Ebenso 1674. Ebenso 1675. Ebenso 1676. Ebenso 1677. Ebenso 1678. Ebenso 1679. Ebenso 1680. Ebenso 1681. Ebenso 1682. Ebenso 1683. Ebenso 1684. Ebenso 1685. Ebenso 1686. Ebenso 1687. 1688 hr. Onophrio Merian des raths und deputaten seligen erben vom hauß Raten purg genant bey Rümmelins mühlin 1 ℔ capann 2ring Ebenso 1689 mit dem Zusatz: ehrschatz 5ß. Ebenso 1690. 1691 die Schul auf Burg gibt obigen. Zins.</text>
           <pages>
-            <page nr="44">https://files.transkribus.eu/Get?fileType=view&amp;id=PRJSKABSNVNXJQPAUAAENRIZ</page>
-            <page nr="45">https://files.transkribus.eu/Get?fileType=view&amp;id=QJNFYUQSOUWJBCWACQVFEDCQ</page>
+            <page nr="44"><![CDATA[https://files.transkribus.eu/Get?fileType=view&id=PRJSKABSNVNXJQPAUAAENRIZ]]></page>
+            <page nr="45"><![CDATA[https://files.transkribus.eu/Get?fileType=view&id=QJNFYUQSOUWJBCWACQVFEDCQ]]></page>
           </pages>
         </metadata>
         <text>
-          <token token_id="0">Ebenso</token>
-          <token token_id="1">1690</token>
-          <token token_id="2">.</token>
-          <token token_id="3">1691</token>
-          <token token_id="4">die</token>
-          <token token_id="5">Schul</token>
-          <token token_id="6">auf</token>
-          <token token_id="7">Burg</token>
-          <token token_id="8">gibt</token>
-          <token token_id="9">obigen</token>
-          <token token_id="10">.</token>
-          <token token_id="11">Zins</token>
-          <token token_id="12">.</token>
-          <token token_id="13">Item</token>
-          <token token_id="14">herr</token>
-          <token token_id="15">Onoffrio</token>
-          <token token_id="16">Morian</token>
-          <token token_id="17">deß</token>
-          <token token_id="18">rhat</token>
-          <token token_id="19">undt</token>
-          <token token_id="20">depstat</token>
-          <token token_id="21">seligen</token>
-          <token token_id="22">erben</token>
-          <token token_id="23">geben</token>
-          <token token_id="24">von</token>
-          <token token_id="25">ihrem</token>
-          <token token_id="26">hauß</token>
-          <token token_id="27">obey</token>
-          <token token_id="28">.</token>
-          <token token_id="29">Rümmelins</token>
-          <token token_id="30">mühlin</token>
-          <token token_id="31">-</token>
-          <token token_id="32">1</token>
-          <token token_id="33">℔</token>
-          <token token_id="34">1</token>
-          <token token_id="35">cappaun</token>
-          <token token_id="36">2ring</token>
-          <token token_id="37">,</token>
-          <token token_id="38">ehrschatz</token>
-          <token token_id="39">-</token>
-          <token token_id="40">5ß</token>
-          <token token_id="41">;</token>
-          <token token_id="42">.</token>
-          <token token_id="43">dieses</token>
-          <token token_id="44">hauß</token>
-          <token token_id="45">wardt</token>
-          <token token_id="46">durch</token>
-          <token token_id="47">h</token>
+          <token token_id="0">Item</token>
+          <token token_id="1">herr</token>
+          <token token_id="2">Onoffrio</token>
+          <token token_id="3">Morian</token>
+          <token token_id="4">deß</token>
+          <token token_id="5">rhat</token>
+          <token token_id="6">undt</token>
+          <token token_id="7">depstat</token>
+          <token token_id="8">seligen</token>
+          <token token_id="9">erben</token>
+          <token token_id="10">geben</token>
+          <token token_id="11">von</token>
+          <token token_id="12">ihrem</token>
+          <token token_id="13">hauß</token>
+          <token token_id="14">obey</token>
+          <token token_id="15">.</token>
+          <token token_id="16">Rümmelins</token>
+          <token token_id="17">mühlin</token>
+          <token token_id="18">-</token>
+          <token token_id="19">1</token>
+          <token token_id="20">℔</token>
+          <token token_id="21">1</token>
+          <token token_id="22">cappaun</token>
+          <token token_id="23">2ring</token>
+          <token token_id="24">,</token>
+          <token token_id="25">ehrschatz</token>
+          <token token_id="26">-</token>
+          <token token_id="27">5ß</token>
+          <token token_id="28">;</token>
+          <token token_id="29">.</token>
+          <token token_id="30">dieses</token>
+          <token token_id="31">hauß</token>
+          <token token_id="32">wardt</token>
+          <token token_id="33">durch</token>
+          <token token_id="34">h</token>
+          <token token_id="35">.</token>
+          <token token_id="36">Morian</token>
+          <token token_id="37">selig</token>
+          <token token_id="38">einem</token>
+          <token token_id="39">h</token>
+          <token token_id="40">:</token>
+          <token token_id="41">Proceptori</token>
+          <token token_id="42">uf</token>
+          <token token_id="43">burg</token>
+          <token token_id="44">vermacht</token>
+          <token token_id="45">.</token>
+          <token token_id="46">Ebenso</token>
+          <token token_id="47">1673</token>
           <token token_id="48">.</token>
-          <token token_id="49">Morian</token>
-          <token token_id="50">selig</token>
-          <token token_id="51">einem</token>
-          <token token_id="52">h</token>
-          <token token_id="53">:</token>
-          <token token_id="54">Proceptori</token>
-          <token token_id="55">uf</token>
-          <token token_id="56">burg</token>
-          <token token_id="57">vermacht</token>
-          <token token_id="58">.</token>
-          <token token_id="59">Ebenso</token>
-          <token token_id="60">1673</token>
-          <token token_id="61">.</token>
-          <token token_id="62">Ebenso</token>
-          <token token_id="63">1674</token>
-          <token token_id="64">.</token>
-          <token token_id="65">Ebenso</token>
-          <token token_id="66">1675</token>
-          <token token_id="67">.</token>
-          <token token_id="68">Ebenso</token>
-          <token token_id="69">1676</token>
-          <token token_id="70">.</token>
-          <token token_id="71">Ebenso</token>
-          <token token_id="72">1677</token>
-          <token token_id="73">.</token>
-          <token token_id="74">Ebenso</token>
-          <token token_id="75">1678</token>
-          <token token_id="76">.</token>
-          <token token_id="77">Ebenso</token>
-          <token token_id="78">1679</token>
-          <token token_id="79">.</token>
-          <token token_id="80">Ebenso</token>
-          <token token_id="81">1680</token>
-          <token token_id="82">.</token>
-          <token token_id="83">Ebenso</token>
-          <token token_id="84">1681</token>
-          <token token_id="85">.</token>
-          <token token_id="86">Ebenso</token>
-          <token token_id="87">1682</token>
-          <token token_id="88">.</token>
-          <token token_id="89">Ebenso</token>
-          <token token_id="90">1683</token>
-          <token token_id="91">.</token>
-          <token token_id="92">Ebenso</token>
-          <token token_id="93">1684</token>
-          <token token_id="94">.</token>
-          <token token_id="95">Ebenso</token>
-          <token token_id="96">1685</token>
-          <token token_id="97">.</token>
-          <token token_id="98">Ebenso</token>
-          <token token_id="99">1686</token>
-          <token token_id="100">.</token>
-          <token token_id="101">Ebenso</token>
-          <token token_id="102">1687</token>
-          <token token_id="103">.</token>
-          <token token_id="104">1688</token>
-          <token token_id="105">hr</token>
-          <token token_id="106">.</token>
-          <token token_id="107">Onophrio</token>
-          <token token_id="108">Merian</token>
-          <token token_id="109">des</token>
-          <token token_id="110">raths</token>
-          <token token_id="111">und</token>
-          <token token_id="112">deputaten</token>
-          <token token_id="113">seligen</token>
-          <token token_id="114">erben</token>
-          <token token_id="115">vom</token>
-          <token token_id="116">hauß</token>
-          <token token_id="117">Raten</token>
-          <token token_id="118">purg</token>
-          <token token_id="119">genant</token>
-          <token token_id="120">bey</token>
-          <token token_id="121">Rümmelins</token>
-          <token token_id="122">mühlin</token>
-          <token token_id="123">1</token>
-          <token token_id="124">℔</token>
-          <token token_id="125">capann</token>
-          <token token_id="126">2ring</token>
-          <token token_id="127">Ebenso</token>
-          <token token_id="128">1689</token>
-          <token token_id="129">mit</token>
-          <token token_id="130">dem</token>
-          <token token_id="131">Zusatz</token>
-          <token token_id="132">:</token>
-          <token token_id="133">ehrschatz</token>
-          <token token_id="134">5ß</token>
+          <token token_id="49">Ebenso</token>
+          <token token_id="50">1674</token>
+          <token token_id="51">.</token>
+          <token token_id="52">Ebenso</token>
+          <token token_id="53">1675</token>
+          <token token_id="54">.</token>
+          <token token_id="55">Ebenso</token>
+          <token token_id="56">1676</token>
+          <token token_id="57">.</token>
+          <token token_id="58">Ebenso</token>
+          <token token_id="59">1677</token>
+          <token token_id="60">.</token>
+          <token token_id="61">Ebenso</token>
+          <token token_id="62">1678</token>
+          <token token_id="63">.</token>
+          <token token_id="64">Ebenso</token>
+          <token token_id="65">1679</token>
+          <token token_id="66">.</token>
+          <token token_id="67">Ebenso</token>
+          <token token_id="68">1680</token>
+          <token token_id="69">.</token>
+          <token token_id="70">Ebenso</token>
+          <token token_id="71">1681</token>
+          <token token_id="72">.</token>
+          <token token_id="73">Ebenso</token>
+          <token token_id="74">1682</token>
+          <token token_id="75">.</token>
+          <token token_id="76">Ebenso</token>
+          <token token_id="77">1683</token>
+          <token token_id="78">.</token>
+          <token token_id="79">Ebenso</token>
+          <token token_id="80">1684</token>
+          <token token_id="81">.</token>
+          <token token_id="82">Ebenso</token>
+          <token token_id="83">1685</token>
+          <token token_id="84">.</token>
+          <token token_id="85">Ebenso</token>
+          <token token_id="86">1686</token>
+          <token token_id="87">.</token>
+          <token token_id="88">Ebenso</token>
+          <token token_id="89">1687</token>
+          <token token_id="90">.</token>
+          <token token_id="91">1688</token>
+          <token token_id="92">hr</token>
+          <token token_id="93">.</token>
+          <token token_id="94">Onophrio</token>
+          <token token_id="95">Merian</token>
+          <token token_id="96">des</token>
+          <token token_id="97">raths</token>
+          <token token_id="98">und</token>
+          <token token_id="99">deputaten</token>
+          <token token_id="100">seligen</token>
+          <token token_id="101">erben</token>
+          <token token_id="102">vom</token>
+          <token token_id="103">hauß</token>
+          <token token_id="104">Raten</token>
+          <token token_id="105">purg</token>
+          <token token_id="106">genant</token>
+          <token token_id="107">bey</token>
+          <token token_id="108">Rümmelins</token>
+          <token token_id="109">mühlin</token>
+          <token token_id="110">1</token>
+          <token token_id="111">℔</token>
+          <token token_id="112">capann</token>
+          <token token_id="113">2ring</token>
+          <token token_id="114">Ebenso</token>
+          <token token_id="115">1689</token>
+          <token token_id="116">mit</token>
+          <token token_id="117">dem</token>
+          <token token_id="118">Zusatz</token>
+          <token token_id="119">:</token>
+          <token token_id="120">ehrschatz</token>
+          <token token_id="121">5ß</token>
+          <token token_id="122">.</token>
+          <token token_id="123">Ebenso</token>
+          <token token_id="124">1690</token>
+          <token token_id="125">.</token>
+          <token token_id="126">1691</token>
+          <token token_id="127">die</token>
+          <token token_id="128">Schul</token>
+          <token token_id="129">auf</token>
+          <token token_id="130">Burg</token>
+          <token token_id="131">gibt</token>
+          <token token_id="132">obigen</token>
+          <token token_id="133">.</token>
+          <token token_id="134">Zins</token>
           <token token_id="135">.</token>
         </text>
         <spans>
-          <span id="0" start="1" end="1" element="value" class="date" confidence="1.0" text="1690"/>
-          <span id="1" start="3" end="3" element="value" class="date" confidence="1.0" text="1691"/>
-          <span id="2" start="4" end="7" element="reference" class="org" confidence="0.97" text="die Schul auf Burg" numerus="sgl" specificity="spc" subclass="">
-            <span id="38" start="5" end="5" element="head" class="type" confidence="0.89" text="Schul" norm="Schule"/>
-            <span id="39" start="6" end="7" element="attr" class="loc" confidence="0.97" text="auf Burg">
-              <span id="40" start="7" end="7" element="reference" class="loc" confidence="1.0" text="Burg" numerus="sgl" specificity="spc" subclass="">
-                <span id="41" start="7" end="7" element="head" class="nam" confidence="1.0" text="Burg"/>
+          <span id="0" start="1" end="5" element="reference" class="per" confidence="1.0" text="herr Onoffrio Morian deß rhat" numerus="sgl" specificity="spc" subclass="">
+            <span id="39" start="2" end="3" element="head" class="nam" confidence="1.0" text="Onoffrio Morian"/>
+            <span id="40" start="4" end="5" element="attr" class="org-aff" confidence="0.96" text="deß rhat">
+              <span id="41" start="4" end="5" element="reference" class="org" confidence="0.87" text="deß rhat" numerus="sgl" specificity="spc" subclass="gov">
+                <span id="42" start="5" end="5" element="head" class="type" confidence="1.0" text="rhat" norm="Stadtrat Basel"/>
               </span>
             </span>
           </span>
-          <span id="3" start="8" end="8" element="trigger" class="due" confidence="1.0" text="gibt"/>
-          <span id="4" start="14" end="18" element="reference" class="per" confidence="1.0" text="herr Onoffrio Morian deß rhat" numerus="sgl" specificity="spc" subclass="">
-            <span id="42" start="15" end="16" element="head" class="nam" confidence="1.0" text="Onoffrio Morian"/>
-            <span id="43" start="17" end="18" element="attr" class="org-aff" confidence="0.97" text="deß rhat">
-              <span id="44" start="17" end="18" element="reference" class="org" confidence="0.88" text="deß rhat" numerus="sgl" specificity="spc" subclass="gov">
-                <span id="45" start="18" end="18" element="head" class="type" confidence="1.0" text="rhat" norm="Stadtrat Basel"/>
+          <span id="1" start="7" end="9" element="reference" class="per" confidence="0.98" text="depstat seligen erben" numerus="sgl" specificity="spc" subclass="">
+            <span id="43" start="7" end="8" element="reference" class="per" confidence="0.86" text="depstat seligen" numerus="sgl" specificity="spc" subclass="">
+              <span id="45" start="7" end="7" element="head" class="nam" confidence="0.95" text="depstat"/>
+              <span id="46" start="8" end="8" element="attr" class="dead" confidence="1.0" text="seligen"/>
+            </span>
+            <span id="44" start="9" end="9" element="head" class="heir" confidence="1.0" text="erben"/>
+          </span>
+          <span id="2" start="10" end="10" element="trigger" class="due" confidence="1.0" text="geben"/>
+          <span id="3" start="12" end="17" element="reference" class="fac" confidence="0.97" text="ihrem hauß obey . Rümmelins mühlin" numerus="sgl" specificity="spc" subclass="">
+            <span id="47" start="12" end="12" element="attr" class="owner" confidence="1.0" text="ihrem">
+              <span id="50" start="12" end="12" element="reference" class="per" confidence="1.0" text="ihrem" numerus="sgl" specificity="spc" subclass="">
+                <span id="50_head" start="12" end="12" element="head" class="pro" confidence="1.0" text="ihrem"/>
+              </span>
+            </span>
+            <span id="48" start="13" end="13" element="head" class="type" confidence="1.0" text="hauß" norm="Haus"/>
+            <span id="49" start="14" end="17" element="attr" class="loc" confidence="0.96" text="obey . Rümmelins mühlin">
+              <span id="51" start="16" end="17" element="reference" class="fac" confidence="1.0" text="Rümmelins mühlin" numerus="sgl" specificity="spc" subclass="">
+                <span id="52" start="16" end="17" element="head" class="nam" confidence="0.99" text="Rümmelins mühlin"/>
               </span>
             </span>
           </span>
-          <span id="5" start="20" end="22" element="reference" class="per" confidence="0.93" text="depstat seligen erben" numerus="sgl" specificity="spc" subclass="">
-            <span id="46" start="20" end="21" element="reference" class="per" confidence="0.86" text="depstat seligen" numerus="sgl" specificity="spc" subclass="">
-              <span id="48" start="20" end="20" element="head" class="nam" confidence="0.95" text="depstat"/>
-              <span id="49" start="21" end="21" element="attr" class="dead" confidence="1.0" text="seligen"/>
-            </span>
-            <span id="47" start="22" end="22" element="head" class="heir" confidence="1.0" text="erben"/>
+          <span id="4" start="19" end="22" element="value" class="money" confidence="0.99" text="1 ℔ 1 cappaun" norm="unk unk"/>
+          <span id="5" start="23" end="23" element="value" class="money" confidence="0.99" text="2ring" norm="2.0 Ringe"/>
+          <span id="6" start="25" end="25" element="other" class="other" confidence="1.0" text="ehrschatz"/>
+          <span id="7" start="27" end="28" element="value" class="money" confidence="0.96" text="5ß ;" norm="unk unk"/>
+          <span id="8" start="30" end="31" element="reference" class="fac" confidence="0.91" text="dieses hauß" numerus="sgl" specificity="spc" subclass="">
+            <span id="53" start="31" end="31" element="head" class="type" confidence="1.0" text="hauß" norm="Haus"/>
           </span>
-          <span id="6" start="23" end="23" element="trigger" class="due" confidence="1.0" text="geben"/>
-          <span id="7" start="25" end="30" element="reference" class="fac" confidence="0.97" text="ihrem hauß obey . Rümmelins mühlin" numerus="sgl" specificity="spc" subclass="">
-            <span id="50" start="25" end="25" element="attr" class="owner" confidence="1.0" text="ihrem">
-              <span id="53" start="25" end="25" element="reference" class="unk" confidence="1.0" text="ihrem" numerus="sgl" specificity="spc" subclass="">
-                <span id="53_head" start="25" end="25" element="head" class="pro" confidence="1.0" text="ihrem"/>
-              </span>
-            </span>
-            <span id="51" start="26" end="26" element="head" class="type" confidence="1.0" text="hauß" norm="Haus"/>
-            <span id="52" start="27" end="30" element="attr" class="loc" confidence="0.96" text="obey . Rümmelins mühlin">
-              <span id="54" start="29" end="30" element="reference" class="fac" confidence="1.0" text="Rümmelins mühlin" numerus="sgl" specificity="spc" subclass="">
-                <span id="55" start="29" end="30" element="head" class="nam" confidence="0.99" text="Rümmelins mühlin"/>
-              </span>
-            </span>
-          </span>
-          <span id="8" start="32" end="35" element="value" class="money" confidence="0.99" text="1 ℔ 1 cappaun" norm="unk unk"/>
-          <span id="9" start="36" end="36" element="value" class="money" confidence="0.99" text="2ring" norm="2.0 Ringe"/>
-          <span id="10" start="38" end="38" element="other" class="other" confidence="1.0" text="ehrschatz"/>
-          <span id="11" start="40" end="40" element="value" class="money" confidence="1.0" text="5ß" norm="5.0 Schilling"/>
-          <span id="12" start="43" end="44" element="reference" class="fac" confidence="0.93" text="dieses hauß" numerus="sgl" specificity="spc" subclass="">
-            <span id="56" start="44" end="44" element="head" class="type" confidence="1.0" text="hauß" norm="Haus"/>
-          </span>
-          <span id="13" start="47" end="56" element="reference" class="per" confidence="0.87" text="h . Morian selig einem h : Proceptori uf burg" numerus="sgl" specificity="spc" subclass="">
-            <span id="57" start="49" end="49" element="head" class="nam" confidence="0.99" text="Morian"/>
-            <span id="58" start="54" end="56" element="appo" class="occ" confidence="0.87" text="Proceptori uf burg">
-              <span id="59" start="54" end="54" element="head" class="occ" confidence="1.0" text="Proceptori" norm="unk"/>
-              <span id="60" start="55" end="56" element="attr" class="loc" confidence="0.83" text="uf burg">
-                <span id="61" start="56" end="56" element="reference" class="loc" confidence="1.0" text="burg" numerus="sgl" specificity="spc" subclass="">
-                  <span id="62" start="56" end="56" element="head" class="nam" confidence="0.99" text="burg"/>
+          <span id="9" start="34" end="43" element="reference" class="per" confidence="0.86" text="h . Morian selig einem h : Proceptori uf burg" numerus="sgl" specificity="spc" subclass="">
+            <span id="54" start="36" end="36" element="head" class="nam" confidence="0.99" text="Morian"/>
+            <span id="55" start="41" end="43" element="appo" class="occ" confidence="0.87" text="Proceptori uf burg">
+              <span id="56" start="41" end="41" element="head" class="occ" confidence="1.0" text="Proceptori" norm="unk"/>
+              <span id="57" start="42" end="43" element="attr" class="loc" confidence="0.83" text="uf burg">
+                <span id="58" start="43" end="43" element="reference" class="loc" confidence="1.0" text="burg" numerus="sgl" specificity="spc" subclass="">
+                  <span id="59" start="43" end="43" element="head" class="nam" confidence="0.99" text="burg"/>
                 </span>
               </span>
             </span>
           </span>
-          <span id="14" start="57" end="57" element="trigger" class="sale" confidence="0.29" text="vermacht"/>
-          <span id="15" start="60" end="60" element="value" class="date" confidence="1.0" text="1673"/>
-          <span id="16" start="63" end="63" element="value" class="date" confidence="1.0" text="1674"/>
-          <span id="17" start="66" end="66" element="value" class="date" confidence="1.0" text="1675"/>
-          <span id="18" start="69" end="69" element="value" class="date" confidence="1.0" text="1676"/>
-          <span id="19" start="72" end="72" element="value" class="date" confidence="1.0" text="1677"/>
-          <span id="20" start="75" end="75" element="value" class="date" confidence="1.0" text="1678"/>
-          <span id="21" start="78" end="78" element="value" class="date" confidence="1.0" text="1679"/>
-          <span id="22" start="81" end="81" element="value" class="date" confidence="1.0" text="1680"/>
-          <span id="23" start="84" end="84" element="value" class="date" confidence="1.0" text="1681"/>
-          <span id="24" start="87" end="87" element="value" class="date" confidence="1.0" text="1682"/>
-          <span id="25" start="90" end="90" element="value" class="date" confidence="1.0" text="1683"/>
-          <span id="26" start="93" end="93" element="value" class="date" confidence="1.0" text="1684"/>
-          <span id="27" start="96" end="96" element="value" class="date" confidence="1.0" text="1685"/>
-          <span id="28" start="99" end="99" element="value" class="date" confidence="1.0" text="1686"/>
-          <span id="29" start="102" end="102" element="value" class="date" confidence="1.0" text="1687"/>
-          <span id="30" start="104" end="104" element="value" class="date" confidence="1.0" text="1688"/>
-          <span id="31" start="105" end="114" element="reference" class="per" confidence="0.98" text="hr . Onophrio Merian des raths und deputaten seligen erben" numerus="sgl" specificity="spc" subclass="">
-            <span id="63" start="105" end="110" element="reference" class="per" confidence="0.91" text="hr . Onophrio Merian des raths" numerus="sgl" specificity="spc" subclass="">
-              <span id="66" start="107" end="108" element="head" class="nam" confidence="1.0" text="Onophrio Merian"/>
-              <span id="67" start="109" end="110" element="attr" class="org-aff" confidence="1.0" text="des raths">
-                <span id="68" start="109" end="110" element="reference" class="org" confidence="0.75" text="des raths" numerus="sgl" specificity="spc" subclass="gov">
-                  <span id="69" start="110" end="110" element="head" class="type" confidence="0.99" text="raths" norm="Stadtrat Basel"/>
+          <span id="10" start="44" end="44" element="trigger" class="sale" confidence="0.25" text="vermacht"/>
+          <span id="11" start="47" end="47" element="value" class="date" confidence="1.0" text="1673"/>
+          <span id="12" start="50" end="50" element="value" class="date" confidence="1.0" text="1674"/>
+          <span id="13" start="53" end="53" element="value" class="date" confidence="1.0" text="1675"/>
+          <span id="14" start="56" end="56" element="value" class="date" confidence="1.0" text="1676"/>
+          <span id="15" start="59" end="59" element="value" class="date" confidence="1.0" text="1677"/>
+          <span id="16" start="62" end="62" element="value" class="date" confidence="1.0" text="1678"/>
+          <span id="17" start="65" end="65" element="value" class="date" confidence="1.0" text="1679"/>
+          <span id="18" start="68" end="68" element="value" class="date" confidence="1.0" text="1680"/>
+          <span id="19" start="71" end="71" element="value" class="date" confidence="1.0" text="1681"/>
+          <span id="20" start="74" end="74" element="value" class="date" confidence="1.0" text="1682"/>
+          <span id="21" start="77" end="77" element="value" class="date" confidence="1.0" text="1683"/>
+          <span id="22" start="80" end="80" element="value" class="date" confidence="1.0" text="1684"/>
+          <span id="23" start="83" end="83" element="value" class="date" confidence="1.0" text="1685"/>
+          <span id="24" start="86" end="86" element="value" class="date" confidence="1.0" text="1686"/>
+          <span id="25" start="89" end="89" element="value" class="date" confidence="1.0" text="1687"/>
+          <span id="26" start="91" end="91" element="value" class="date" confidence="1.0" text="1688"/>
+          <span id="27" start="92" end="101" element="reference" class="per" confidence="0.97" text="hr . Onophrio Merian des raths und deputaten seligen erben" numerus="sgl" specificity="spc" subclass="">
+            <span id="60" start="92" end="97" element="reference" class="per" confidence="0.91" text="hr . Onophrio Merian des raths" numerus="sgl" specificity="spc" subclass="">
+              <span id="63" start="94" end="95" element="head" class="nam" confidence="1.0" text="Onophrio Merian"/>
+              <span id="64" start="96" end="97" element="attr" class="org-aff" confidence="1.0" text="des raths">
+                <span id="65" start="96" end="97" element="reference" class="org" confidence="0.75" text="des raths" numerus="sgl" specificity="spc" subclass="gov">
+                  <span id="66" start="97" end="97" element="head" class="type" confidence="0.99" text="raths" norm="Stadtrat Basel"/>
                 </span>
               </span>
             </span>
-            <span id="64" start="112" end="113" element="reference" class="per" confidence="0.85" text="deputaten seligen" numerus="sgl" specificity="spc" subclass="">
-              <span id="70" start="112" end="112" element="head" class="occ" confidence="0.31" text="deputaten" norm="unk"/>
-              <span id="71" start="113" end="113" element="attr" class="dead" confidence="1.0" text="seligen"/>
+            <span id="61" start="99" end="100" element="reference" class="per" confidence="0.85" text="deputaten seligen" numerus="sgl" specificity="spc" subclass="">
+              <span id="67" start="99" end="99" element="head" class="occ" confidence="0.31" text="deputaten" norm="unk"/>
+              <span id="68" start="100" end="100" element="attr" class="dead" confidence="1.0" text="seligen"/>
             </span>
-            <span id="65" start="114" end="114" element="head" class="heir" confidence="1.0" text="erben"/>
+            <span id="62" start="101" end="101" element="head" class="heir" confidence="1.0" text="erben"/>
           </span>
-          <span id="32" start="116" end="122" element="reference" class="fac" confidence="0.95" text="hauß Raten purg genant bey Rümmelins mühlin" numerus="sgl" specificity="spc" subclass="">
-            <span id="72" start="116" end="116" element="head" class="type" confidence="0.99" text="hauß" norm="Haus"/>
-            <span id="73" start="117" end="118" element="appo" class="nam" confidence="0.98" text="Raten purg">
-              <span id="75" start="117" end="118" element="head" class="nam" confidence="1.0" text="Raten purg"/>
+          <span id="28" start="103" end="109" element="reference" class="fac" confidence="0.95" text="hauß Raten purg genant bey Rümmelins mühlin" numerus="sgl" specificity="spc" subclass="">
+            <span id="69" start="103" end="103" element="head" class="type" confidence="0.99" text="hauß" norm="Haus"/>
+            <span id="70" start="104" end="105" element="appo" class="nam" confidence="0.98" text="Raten purg">
+              <span id="72" start="104" end="105" element="head" class="nam" confidence="1.0" text="Raten purg"/>
             </span>
-            <span id="74" start="120" end="122" element="attr" class="loc" confidence="0.96" text="bey Rümmelins mühlin">
-              <span id="76" start="121" end="122" element="reference" class="fac" confidence="0.99" text="Rümmelins mühlin" numerus="sgl" specificity="spc" subclass="">
-                <span id="77" start="121" end="122" element="head" class="nam" confidence="1.0" text="Rümmelins mühlin"/>
+            <span id="71" start="107" end="109" element="attr" class="loc" confidence="0.96" text="bey Rümmelins mühlin">
+              <span id="73" start="108" end="109" element="reference" class="fac" confidence="0.99" text="Rümmelins mühlin" numerus="sgl" specificity="spc" subclass="">
+                <span id="74" start="108" end="109" element="head" class="nam" confidence="1.0" text="Rümmelins mühlin"/>
               </span>
             </span>
           </span>
-          <span id="33" start="123" end="125" element="value" class="money" confidence="0.99" text="1 ℔ capann" norm="1.0 Pfund"/>
-          <span id="34" start="126" end="126" element="value" class="money" confidence="0.99" text="2ring" norm="2.0 Ringe"/>
-          <span id="35" start="128" end="128" element="value" class="date" confidence="1.0" text="1689"/>
-          <span id="36" start="133" end="133" element="other" class="other" confidence="1.0" text="ehrschatz"/>
-          <span id="37" start="134" end="135" element="value" class="money" confidence="0.94" text="5ß ." norm="5.0 Schilling"/>
+          <span id="29" start="110" end="112" element="value" class="money" confidence="0.99" text="1 ℔ capann" norm="1.0 Pfund"/>
+          <span id="30" start="113" end="113" element="value" class="money" confidence="0.99" text="2ring" norm="2.0 Ringe"/>
+          <span id="31" start="115" end="115" element="value" class="date" confidence="1.0" text="1689"/>
+          <span id="32" start="120" end="120" element="other" class="other" confidence="1.0" text="ehrschatz"/>
+          <span id="33" start="121" end="121" element="value" class="money" confidence="0.99" text="5ß" norm="5.0 Schilling"/>
+          <span id="34" start="124" end="124" element="value" class="date" confidence="1.0" text="1690"/>
+          <span id="35" start="126" end="126" element="value" class="date" confidence="1.0" text="1691"/>
+          <span id="36" start="127" end="130" element="reference" class="org" confidence="0.98" text="die Schul auf Burg" numerus="sgl" specificity="spc" subclass="">
+            <span id="75" start="128" end="128" element="head" class="type" confidence="0.88" text="Schul" norm="Schule"/>
+            <span id="76" start="129" end="130" element="attr" class="loc" confidence="0.96" text="auf Burg">
+              <span id="77" start="130" end="130" element="reference" class="loc" confidence="1.0" text="Burg" numerus="sgl" specificity="spc" subclass="">
+                <span id="78" start="130" end="130" element="head" class="nam" confidence="1.0" text="Burg"/>
+              </span>
+            </span>
+          </span>
+          <span id="37" start="131" end="131" element="trigger" class="due" confidence="1.0" text="gibt"/>
+          <span id="38" start="134" end="134" element="trigger" class="due" confidence="0.98" text="Zins"/>
         </spans>
-        <relations/>
+        <relations>
+          <relation id="1" from="50" to="0" class="coref"/>
+        </relations>
         <eventGroups>
-          <eventGroup event_id="0" class="due-payment" start="3" end="18" ref="" type="event" tense="unk" polarity="unk" modality="unk">
-            <trigger ref="3" text="gibt"/>
+          <eventGroup event_id="0" class="due-payment" start="1" end="91" ref="" type="event" tense="unk" polarity="unk" modality="unk">
+            <trigger ref="2" text="geben"/>
             <event event_id="0.0">
-              <role role="date" confidence="1.0" ref="1" text="1691"/>
-              <role role="payer" confidence="1.0" ref="2" text="die Schul auf Burg"/>
+              <role role="date" text="1672.0" inferred="True"/>
+              <role role="payer" confidence="1.0" ref="0" text="herr Onoffrio Morian deß rhat"/>
+              <role role="payer" confidence="0.92" ref="1" text="depstat seligen erben"/>
+              <role role="property" confidence="1.0" ref="3" text="ihrem hauß obey . Rümmelins mühlin"/>
+              <role role="interest" confidence="1.0" ref="4" text="1 ℔ 1 cappaun"/>
+              <role role="interest" confidence="0.96" ref="5" text="2ring"/>
+              <role role="date" confidence="0.98" ref="15" text="1677"/>
+              <role role="date" confidence="0.99" ref="16" text="1678"/>
+              <role role="date" confidence="0.99" ref="17" text="1679"/>
+              <role role="date" confidence="0.99" ref="18" text="1680"/>
+              <role role="date" confidence="0.99" ref="19" text="1681"/>
+              <role role="date" confidence="0.99" ref="20" text="1682"/>
+              <role role="date" confidence="0.99" ref="21" text="1683"/>
+              <role role="date" confidence="0.98" ref="22" text="1684"/>
+              <role role="date" confidence="0.97" ref="23" text="1685"/>
+              <role role="date" confidence="0.98" ref="24" text="1686"/>
             </event>
             <event event_id="0.1">
-              <role role="payer" confidence="0.91" ref="4" text="herr Onoffrio Morian deß rhat"/>
+              <role role="payer" confidence="1.0" ref="0" text="herr Onoffrio Morian deß rhat"/>
+              <role role="payer" confidence="0.92" ref="1" text="depstat seligen erben"/>
+              <role role="property" confidence="1.0" ref="3" text="ihrem hauß obey . Rümmelins mühlin"/>
+              <role role="cause" confidence="1.0" ref="6" text="ehrschatz"/>
+              <role role="interest" confidence="0.98" ref="7" text="5ß ;"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="1" class="due-obligation" start="14" end="40" ref="" type="state" tense="unk" polarity="unk" modality="unk">
-            <trigger ref="6" text="geben"/>
+          <eventGroup event_id="1" class="property-purchase" start="44" end="56" ref="" type="event" tense="unk" polarity="unk" modality="unk">
+            <trigger ref="10" text="vermacht"/>
             <event event_id="1.0">
-              <role role="payer" confidence="1.0" ref="4" text="herr Onoffrio Morian deß rhat"/>
-              <role role="payer" confidence="0.97" ref="5" text="depstat seligen erben"/>
-              <role role="property" confidence="1.0" ref="7" text="ihrem hauß obey . Rümmelins mühlin"/>
-              <role role="interest" confidence="1.0" ref="8" text="1 ℔ 1 cappaun"/>
-              <role role="interest" confidence="0.93" ref="9" text="2ring"/>
-            </event>
-            <event event_id="1.1">
-              <role role="payer" confidence="1.0" ref="4" text="herr Onoffrio Morian deß rhat"/>
-              <role role="payer" confidence="0.97" ref="5" text="depstat seligen erben"/>
-              <role role="property" confidence="1.0" ref="7" text="ihrem hauß obey . Rümmelins mühlin"/>
-              <role role="cause" confidence="1.0" ref="10" text="ehrschatz"/>
-              <role role="interest" confidence="0.98" ref="11" text="5ß"/>
+              <role role="date" confidence="0.83" ref="12" text="1674"/>
+              <role role="date" confidence="0.83" ref="13" text="1675"/>
+              <role role="date" confidence="0.82" ref="14" text="1676"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="2" class="property-purchase" start="57" end="57" ref="" type="event" tense="unk" polarity="unk" modality="unk">
-            <trigger ref="14" text="vermacht"/>
-            <event event_id="2.0"/>
-          </eventGroup>
-          <eventGroup event_id="3" class="inheritance" start="20" end="22" ref="5" type="event" tense="unk" polarity="unk" modality="unk">
-            <trigger start="22" end="22" text="erben" ref="47"/>
-            <event event_id="3.0">
-              <role role="heir" ref="5" text="depstat seligen erben"/>
-              <role role="decedent" ref="46" text="depstat seligen"/>
+          <eventGroup event_id="2" class="due-payment" start="126" end="134" ref="" type="event" tense="unk" polarity="unk" modality="unk">
+            <trigger ref="37" text="gibt"/>
+            <event event_id="2.0">
+              <role role="date" confidence="1.0" ref="35" text="1691"/>
+              <role role="payer" confidence="0.98" ref="36" text="die Schul auf Burg"/>
+              <role role="previous-due" confidence="1.0" ref="38" text="Zins"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="4" class="inheritance" start="105" end="114" ref="31" type="event" tense="unk" polarity="unk" modality="unk">
-            <trigger start="114" end="114" text="erben" ref="65"/>
+          <eventGroup event_id="3" class="due-obligation" start="134" end="134" ref="" type="state" tense="unk" polarity="unk" modality="unk">
+            <trigger ref="38" text="Zins"/>
+            <event event_id="3.0"/>
+          </eventGroup>
+          <eventGroup event_id="4" class="inheritance" start="7" end="9" ref="1" type="event" tense="unk" polarity="unk" modality="unk">
+            <trigger start="9" end="9" text="erben" ref="44"/>
             <event event_id="4.0">
-              <role role="heir" ref="31" text="hr . Onophrio Merian des raths und deputaten seligen erben"/>
-              <role role="decedent" ref="63" text="hr . Onophrio Merian des raths"/>
-              <role role="decedent" ref="64" text="deputaten seligen"/>
+              <role role="heir" ref="1" text="depstat seligen erben"/>
+              <role role="decedent" ref="43" text="depstat seligen"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="5" class="topological" start="6" end="7" ref="39" type="state" tense="unk" polarity="unk" modality="unk">
+          <eventGroup event_id="5" class="inheritance" start="92" end="101" ref="27" type="event" tense="unk" polarity="unk" modality="unk">
+            <trigger start="101" end="101" text="erben" ref="62"/>
             <event event_id="5.0">
-              <role role="location-a" ref="2" text="die Schul auf Burg"/>
-              <role role="location-b" ref="40" text="Burg"/>
+              <role role="heir" ref="27" text="hr . Onophrio Merian des raths und deputaten seligen erben"/>
+              <role role="decedent" ref="60" text="hr . Onophrio Merian des raths"/>
+              <role role="decedent" ref="61" text="deputaten seligen"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="6" class="membership" start="17" end="18" ref="43" type="state" tense="unk" polarity="unk" modality="unk">
+          <eventGroup event_id="6" class="membership" start="4" end="5" ref="40" type="state" tense="unk" polarity="unk" modality="unk">
             <event event_id="6.0">
-              <role role="member" ref="4" text="herr Onoffrio Morian deß rhat"/>
-              <role role="organization" ref="44" text="deß rhat"/>
+              <role role="member" ref="0" text="herr Onoffrio Morian deß rhat"/>
+              <role role="organization" ref="41" text="deß rhat"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="7" class="ownership" start="25" end="25" ref="50" type="state" tense="unk" polarity="unk" modality="unk">
+          <eventGroup event_id="7" class="ownership" start="12" end="12" ref="47" type="state" tense="unk" polarity="unk" modality="unk">
             <event event_id="7.0">
-              <role role="property" ref="7" text="ihrem hauß obey . Rümmelins mühlin"/>
-              <role role="owner" ref="53" text="ihrem"/>
+              <role role="property" ref="3" text="ihrem hauß obey . Rümmelins mühlin"/>
+              <role role="owner" ref="50" text="ihrem"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="8" class="topological" start="27" end="30" ref="52" type="state" tense="unk" polarity="unk" modality="unk">
+          <eventGroup event_id="8" class="topological" start="14" end="17" ref="49" type="state" tense="unk" polarity="unk" modality="unk">
             <event event_id="8.0">
-              <role role="location-a" ref="7" text="ihrem hauß obey . Rümmelins mühlin"/>
-              <role role="location-b" ref="54" text="Rümmelins mühlin"/>
+              <role role="location-a" ref="3" text="ihrem hauß obey . Rümmelins mühlin"/>
+              <role role="location-b" ref="51" text="Rümmelins mühlin"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="9" class="topological" start="55" end="56" ref="60" type="state" tense="unk" polarity="unk" modality="unk">
+          <eventGroup event_id="9" class="topological" start="42" end="43" ref="57" type="state" tense="unk" polarity="unk" modality="unk">
             <event event_id="9.0">
-              <role role="location-a" ref="13" text="h . Morian selig einem h : Proceptori uf burg"/>
-              <role role="location-b" ref="61" text="burg"/>
+              <role role="location-a" ref="9" text="h . Morian selig einem h : Proceptori uf burg"/>
+              <role role="location-b" ref="58" text="burg"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="10" class="membership" start="109" end="110" ref="67" type="state" tense="unk" polarity="unk" modality="unk">
+          <eventGroup event_id="10" class="membership" start="96" end="97" ref="64" type="state" tense="unk" polarity="unk" modality="unk">
             <event event_id="10.0">
-              <role role="member" ref="63" text="hr . Onophrio Merian des raths"/>
-              <role role="organization" ref="68" text="des raths"/>
+              <role role="member" ref="60" text="hr . Onophrio Merian des raths"/>
+              <role role="organization" ref="65" text="des raths"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="11" class="topological" start="120" end="122" ref="74" type="state" tense="unk" polarity="unk" modality="unk">
+          <eventGroup event_id="11" class="topological" start="107" end="109" ref="71" type="state" tense="unk" polarity="unk" modality="unk">
             <event event_id="11.0">
-              <role role="location-a" ref="32" text="hauß Raten purg genant bey Rümmelins mühlin"/>
-              <role role="location-b" ref="76" text="Rümmelins mühlin"/>
+              <role role="location-a" ref="28" text="hauß Raten purg genant bey Rümmelins mühlin"/>
+              <role role="location-b" ref="73" text="Rümmelins mühlin"/>
+            </event>
+          </eventGroup>
+          <eventGroup event_id="12" class="topological" start="129" end="130" ref="76" type="state" tense="unk" polarity="unk" modality="unk">
+            <event event_id="12.0">
+              <role role="location-a" ref="36" text="die Schul auf Burg"/>
+              <role role="location-b" ref="77" text="Burg"/>
             </event>
           </eventGroup>
         </eventGroups>

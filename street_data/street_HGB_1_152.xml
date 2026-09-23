@@ -1,0 +1,216 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus>
+  <series id="HGB_1_152" name="Platzgässlein (später dem Spalengraben zugehörig)">
+    <collection id="HGB_1_152_002">
+      <metadata>
+        <dossiertype>Liegenschaft</dossiertype>
+        <location>POINT(2610817.2335425187 1267501.0059655977)</location>
+        <address>Platzgässlein 1</address>
+        <dossier_history>
+          <phase iteration="1">
+            <validity_period from="1506" to="1512"/>
+          </phase>
+        </dossier_history>
+      </metadata>
+      <document id="e2bd8ce6-5ce6-448d-9fc3-6737566b8422_20260615">
+        <metadata>
+          <street_id>HGB_1_152</street_id>
+          <dossier_id>HGB_1_152_002</dossier_id>
+          <year>1509</year>
+          <source>Gerichtsarchiv</source>
+          <language>german</language>
+          <checked_by_gpt>true</checked_by_gpt>
+          <text>Hans Gasser contra Jörgen dem Karer ist erkannt, als dander Karer ein Schüren hinder Gassers Hus, in Spalenvorstadt puwen hat daz da derselb pro bestan und aber Jörg daz Schürentach gegen des Klägers Höfflin gemacht hat, ferner betr. der Müren an Jörg Stall.</text>
+          <pages>
+            <page nr="3"><![CDATA[https://files.transkribus.eu/Get?fileType=view&id=NFURUSIXXHGTSBDUMQGFZVEA]]></page>
+          </pages>
+        </metadata>
+        <text>
+          <token token_id="0">Hans</token>
+          <token token_id="1">Gasser</token>
+          <token token_id="2">contra</token>
+          <token token_id="3">Jörgen</token>
+          <token token_id="4">dem</token>
+          <token token_id="5">Karer</token>
+          <token token_id="6">ist</token>
+          <token token_id="7">erkannt</token>
+          <token token_id="8">,</token>
+          <token token_id="9">als</token>
+          <token token_id="10">dander</token>
+          <token token_id="11">Karer</token>
+          <token token_id="12">ein</token>
+          <token token_id="13">Schüren</token>
+          <token token_id="14">hinder</token>
+          <token token_id="15">Gassers</token>
+          <token token_id="16">Hus</token>
+          <token token_id="17">,</token>
+          <token token_id="18">in</token>
+          <token token_id="19">Spalenvorstadt</token>
+          <token token_id="20">puwen</token>
+          <token token_id="21">hat</token>
+          <token token_id="22">daz</token>
+          <token token_id="23">da</token>
+          <token token_id="24">derselb</token>
+          <token token_id="25">pro</token>
+          <token token_id="26">bestan</token>
+          <token token_id="27">und</token>
+          <token token_id="28">aber</token>
+          <token token_id="29">Jörg</token>
+          <token token_id="30">daz</token>
+          <token token_id="31">Schürentach</token>
+          <token token_id="32">gegen</token>
+          <token token_id="33">des</token>
+          <token token_id="34">Klägers</token>
+          <token token_id="35">Höfflin</token>
+          <token token_id="36">gemacht</token>
+          <token token_id="37">hat</token>
+          <token token_id="38">,</token>
+          <token token_id="39">ferner</token>
+          <token token_id="40">betr</token>
+          <token token_id="41">.</token>
+          <token token_id="42">der</token>
+          <token token_id="43">Müren</token>
+          <token token_id="44">an</token>
+          <token token_id="45">Jörg</token>
+          <token token_id="46">Stall</token>
+          <token token_id="47">.</token>
+        </text>
+        <spans>
+          <span id="0" start="0" end="1" element="reference" class="per" confidence="1.0" text="Hans Gasser" numerus="sgl" specificity="spc" subclass="">
+            <span id="10" start="0" end="1" element="head" class="nam" confidence="1.0" text="Hans Gasser"/>
+          </span>
+          <span id="1" start="2" end="2" element="trigger" class="litigation" confidence="1.0" text="contra"/>
+          <span id="2" start="3" end="5" element="reference" class="per" confidence="1.0" text="Jörgen dem Karer" numerus="sgl" specificity="spc" subclass="">
+            <span id="11" start="3" end="3" element="head" class="nam" confidence="1.0" text="Jörgen"/>
+            <span id="12" start="4" end="5" element="appo" class="occ" confidence="0.98" text="dem Karer">
+              <span id="13" start="5" end="5" element="head" class="occ" confidence="1.0" text="Karer" norm="karrer" OhdAB="https://database.factgrid.de/wiki/Item:Q657722"/>
+            </span>
+          </span>
+          <span id="3" start="7" end="7" element="trigger" class="other" confidence="0.63" text="erkannt"/>
+          <span id="4" start="10" end="11" element="reference" class="per" confidence="0.61" text="dander Karer" numerus="sgl" specificity="spc" subclass="">
+            <span id="14" start="11" end="11" element="head" class="nam" confidence="0.53" text="Karer"/>
+          </span>
+          <span id="5" start="12" end="19" element="reference" class="fac" confidence="0.83" text="ein Schüren hinder Gassers Hus , in Spalenvorstadt" numerus="sgl" specificity="spc" subclass="">
+            <span id="15" start="13" end="13" element="head" class="type" confidence="1.0" text="Schüren" norm="Scheunen"/>
+            <span id="16" start="14" end="19" element="attr" class="loc" confidence="0.87" text="hinder Gassers Hus , in Spalenvorstadt">
+              <span id="17" start="15" end="16" element="reference" class="fac" confidence="1.0" text="Gassers Hus" numerus="sgl" specificity="spc" subclass="">
+                <span id="19" start="15" end="15" element="attr" class="owner" confidence="1.0" text="Gassers">
+                  <span id="21" start="15" end="15" element="reference" class="per" confidence="1.0" text="Gassers" numerus="sgl" specificity="spc" subclass="">
+                    <span id="22" start="15" end="15" element="head" class="nam" confidence="1.0" text="Gassers"/>
+                  </span>
+                </span>
+                <span id="20" start="16" end="16" element="head" class="type" confidence="1.0" text="Hus" norm="Haus"/>
+              </span>
+              <span id="18" start="19" end="19" element="reference" class="fac" confidence="1.0" text="Spalenvorstadt" numerus="sgl" specificity="spc" subclass="">
+                <span id="23" start="19" end="19" element="head" class="nam" confidence="1.0" text="Spalenvorstadt"/>
+              </span>
+            </span>
+          </span>
+          <span id="6" start="24" end="24" element="reference" class="per" confidence="0.8" text="derselb" numerus="sgl" specificity="spc" subclass="">
+            <span id="6_head" start="24" end="24" element="head" class="pro" confidence="0.8" text="derselb"/>
+          </span>
+          <span id="7" start="29" end="29" element="reference" class="per" confidence="0.86" text="Jörg" numerus="sgl" specificity="spc" subclass="">
+            <span id="24" start="29" end="29" element="head" class="nam" confidence="1.0" text="Jörg"/>
+          </span>
+          <span id="8" start="30" end="35" element="reference" class="fac" confidence="0.62" text="daz Schürentach gegen des Klägers Höfflin" numerus="sgl" specificity="spc" subclass="">
+            <span id="25" start="31" end="31" element="head" class="type" confidence="0.96" text="Schürentach" norm="unk"/>
+            <span id="26" start="32" end="35" element="attr" class="loc" confidence="0.95" text="gegen des Klägers Höfflin">
+              <span id="27" start="33" end="35" element="reference" class="fac" confidence="0.97" text="des Klägers Höfflin" numerus="sgl" specificity="spc" subclass="">
+                <span id="28" start="33" end="34" element="attr" class="owner" confidence="0.93" text="des Klägers">
+                  <span id="30" start="33" end="34" element="reference" class="per" confidence="0.86" text="des Klägers" numerus="sgl" specificity="spc" subclass="">
+                    <span id="31" start="34" end="34" element="head" class="role" confidence="0.98" text="Klägers"/>
+                  </span>
+                </span>
+                <span id="29" start="35" end="35" element="head" class="type" confidence="1.0" text="Höfflin" norm="Hof"/>
+              </span>
+            </span>
+          </span>
+          <span id="9" start="42" end="46" element="reference" class="fac" confidence="0.67" text="der Müren an Jörg Stall" numerus="sgl" specificity="spc" subclass="">
+            <span id="32" start="43" end="43" element="head" class="type" confidence="0.99" text="Müren" norm="Mauern"/>
+            <span id="33" start="44" end="46" element="attr" class="loc" confidence="0.79" text="an Jörg Stall">
+              <span id="34" start="45" end="46" element="reference" class="fac" confidence="0.7" text="Jörg Stall" numerus="sgl" specificity="spc" subclass="">
+                <span id="35" start="45" end="45" element="attr" class="owner" confidence="0.96" text="Jörg">
+                  <span id="37" start="45" end="45" element="reference" class="per" confidence="1.0" text="Jörg" numerus="sgl" specificity="spc" subclass="">
+                    <span id="38" start="45" end="45" element="head" class="nam" confidence="1.0" text="Jörg"/>
+                  </span>
+                </span>
+                <span id="36" start="46" end="46" element="head" class="type" confidence="0.57" text="Stall" norm="Stall"/>
+              </span>
+            </span>
+          </span>
+        </spans>
+        <relations>
+          <relation id="1" from="6" to="2" class="coref"/>
+          <relation from="4" to="2" class="coref"/>
+          <relation from="7" to="2" class="coref"/>
+        </relations>
+        <eventGroups>
+          <eventGroup event_id="0" class="litigation" start="0" end="7" ref="" type="event" tense="unk" polarity="unk" modality="unk">
+            <trigger ref="1" text="contra" start="2" end="2"/>
+            <event event_id="0.0">
+              <role role="party1" confidence="0.86" ref="0" text="Hans Gasser"/>
+              <role role="party2" confidence="1.0" ref="2" text="Jörgen dem Karer"/>
+              <role role="subject" confidence="0.65" ref="3" text="erkannt"/>
+            </event>
+          </eventGroup>
+          <eventGroup event_id="1" class="sanction" start="3" end="7" ref="" type="event" tense="unk" polarity="unk" modality="unk">
+            <trigger ref="3" text="erkannt" start="7" end="7"/>
+            <event event_id="1.0">
+              <role role="sanctioned" ref="2" confidence="gpt-5.5" text="Jörgen dem Karer"/>
+            </event>
+          </eventGroup>
+          <eventGroup event_id="2" class="topological" start="12" end="19" ref="16" type="state" tense="unk" polarity="unk" modality="unk">
+            <event event_id="2.0">
+              <role role="location-a" ref="5" text="ein Schüren hinder Gassers Hus , in Spalenvorstadt"/>
+              <role role="location-b" ref="17" text="Gassers Hus"/>
+              <role role="location-b" ref="18" text="Spalenvorstadt"/>
+            </event>
+          </eventGroup>
+          <eventGroup event_id="3" class="ownership" start="15" end="16" ref="19" type="state" tense="unk" polarity="unk" modality="unk">
+            <event event_id="3.0">
+              <role role="property" ref="17" text="Gassers Hus"/>
+              <role role="owner" ref="21" text="Gassers"/>
+            </event>
+          </eventGroup>
+          <eventGroup event_id="4" class="topological" start="30" end="35" ref="26" type="state" tense="unk" polarity="unk" modality="unk">
+            <event event_id="4.0">
+              <role role="location-a" ref="8" text="daz Schürentach gegen des Klägers Höfflin"/>
+              <role role="location-b" ref="27" text="des Klägers Höfflin"/>
+            </event>
+          </eventGroup>
+          <eventGroup event_id="5" class="ownership" start="33" end="35" ref="28" type="state" tense="unk" polarity="unk" modality="unk">
+            <event event_id="5.0">
+              <role role="property" ref="27" text="des Klägers Höfflin"/>
+              <role role="owner" ref="30" text="des Klägers"/>
+            </event>
+          </eventGroup>
+          <eventGroup event_id="6" class="topological" start="42" end="46" ref="33" type="state" tense="unk" polarity="unk" modality="unk">
+            <event event_id="6.0">
+              <role role="location-a" ref="9" text="der Müren an Jörg Stall"/>
+              <role role="location-b" ref="34" text="Jörg Stall"/>
+            </event>
+          </eventGroup>
+          <eventGroup event_id="7" class="ownership" start="45" end="46" ref="35" type="state" tense="unk" polarity="unk" modality="unk">
+            <event event_id="7.0">
+              <role role="property" ref="34" text="Jörg Stall"/>
+              <role role="owner" ref="37" text="Jörg"/>
+            </event>
+          </eventGroup>
+          <eventGroup event_id="8" type="event" polarity="pos" tense="pres" modality="ass" ref="" class="construction" start="10" end="19">
+            <event event_id="8.0">
+              <role role="builder" ref="4" confidence="gpt-5.5" text="dander Karer"/>
+              <role role="property" ref="5" confidence="gpt-5.5" text="ein Schüren hinder Gassers Hus , in Spalenvorstadt"/>
+              <role role="place" ref="18" confidence="gpt-5.5" text="Spalenvorstadt"/>
+            </event>
+          </eventGroup>
+          <eventGroup event_id="9" type="event" polarity="pos" tense="pres" modality="ass" ref="" class="construction" start="29" end="35">
+            <event event_id="9.0">
+              <role role="builder" ref="7" confidence="gpt-5.5" text="Jörg"/>
+              <role role="structure" ref="8" confidence="gpt-5.5" text="daz Schürentach gegen des Klägers Höfflin"/>
+            </event>
+          </eventGroup>
+        </eventGroups>
+      </document>
+    </collection>
+  </series>
+</corpus>

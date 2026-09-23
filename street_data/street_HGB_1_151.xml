@@ -53715,7 +53715,7 @@
           </eventGroup>
         </eventGroups>
       </document>
-      <document id="06b6d59b-5a88-470a-8407-0575308f1baf_20260528">
+      <document id="2e8c8c68-ed97-46b8-8051-dc49b3ef958c_20260615">
         <metadata>
           <street_id>HGB_1_151</street_id>
           <dossier_id>HGB_1_151_024</dossier_id>
@@ -53723,407 +53723,408 @@
           <source>Gerichtsarchiv</source>
           <language>german</language>
           <checked_by_gpt>false</checked_by_gpt>
-          <text>Niclaus Capellen s. Peter 7 ℔. 1 / 2 ℔ Pfeffer, zu Wysung, und 10 sh. zu erschatz, sonst frei, auch die beid andern huser zins frey. Hans Jacob Davitt des Rats, und seine Frau Barbara Erharttin, verkaufen an Margarden Töbeli den Wyn - mann, und seine Frau Margretha Zwenngerin, die drü Hüser Gesess, hinden und vor mit den beiden Höffen, und hindern usgang, sampt dem hindern hus in der wyssen Gassen, als die aneinander und hindereinander, an der Frygenstrass, zwüschen der Husgnossen Zunfft genannt zum grauwen Beren, und dem Hus zum Pflug glegen sind, stossen hinden uff den Byrsich, und an die wysse gassen, ist das ein hus zum rotten hutt genannt, und das anderzum Venis, Aber das dritt hinderhus in der Wyssen, Gassen, ist auch zum rotten hutt genannt, und an dem Hus zum Vehin Ortt glegen, um 1440 fl. Zinset das vorderhus zum rotten Hutt, der Capl. S.</text>
+          <text>Hans Jacob Davitt des Rats, und seine Frau Barbara Erharttin, verkaufen an Margarden Töbeli den Wyn - mann, und seine Frau Margretha Zwenngerin, die drü Hüser Gesess, hinden und vor mit den beiden Höffen, und hindern usgang, sampt dem hindern hus in der wyssen Gassen, als die aneinander und hindereinander, an der Frygenstrass, zwüschen der Husgnossen Zunfft genannt zum grauwen Beren, und dem Hus zum Pflug glegen sind, stossen hinden uff den Byrsich, und an die wysse gassen, ist das ein hus zum rotten hutt genannt, und das anderzum Venis, Aber das dritt hinderhus in der Wyssen, Gassen, ist auch zum rotten hutt genannt, und an dem Hus zum Vehin Ortt glegen, um 1440 fl. Zinset das vorderhus zum rotten Hutt, der Capl. S. Niclaus Capellen s. Peter 7 ℔. 1 / 2 ℔ Pfeffer, zu Wysung, und 10 sh. zu erschatz, sonst frei, auch die beid andern huser zins frey.</text>
           <mentioned_houses>
-            <house span_ref="75">vorderhus zum rotten Hutt</house>
-            <house span_ref="64">zum rotten hutt</house>
+            <house span_ref="61">zum rotten hutt</house>
           </mentioned_houses>
           <pages>
-            <page nr="7">https://files.transkribus.eu/Get?fileType=view&amp;id=JRFQAAOFDNCPEXIZLGLCHKUH</page>
-            <page nr="8">https://files.transkribus.eu/Get?fileType=view&amp;id=PYBPGGAANGGRRUGRJILSPLKO</page>
+            <page nr="7"><![CDATA[https://files.transkribus.eu/Get?fileType=view&id=JRFQAAOFDNCPEXIZLGLCHKUH]]></page>
+            <page nr="8"><![CDATA[https://files.transkribus.eu/Get?fileType=view&id=PYBPGGAANGGRRUGRJILSPLKO]]></page>
           </pages>
         </metadata>
         <text>
-          <token token_id="0">Niclaus</token>
-          <token token_id="1">Capellen</token>
-          <token token_id="2">s</token>
-          <token token_id="3">.</token>
-          <token token_id="4">Peter</token>
-          <token token_id="5">7</token>
-          <token token_id="6">℔</token>
-          <token token_id="7">.</token>
-          <token token_id="8">1</token>
-          <token token_id="9">/</token>
-          <token token_id="10">2</token>
-          <token token_id="11">℔</token>
-          <token token_id="12">Pfeffer</token>
-          <token token_id="13">,</token>
-          <token token_id="14">zu</token>
-          <token token_id="15">Wysung</token>
-          <token token_id="16">,</token>
-          <token token_id="17">und</token>
-          <token token_id="18">10</token>
-          <token token_id="19">sh</token>
-          <token token_id="20">.</token>
-          <token token_id="21">zu</token>
-          <token token_id="22">erschatz</token>
-          <token token_id="23">,</token>
-          <token token_id="24">sonst</token>
-          <token token_id="25">frei</token>
+          <token token_id="0">Hans</token>
+          <token token_id="1">Jacob</token>
+          <token token_id="2">Davitt</token>
+          <token token_id="3">des</token>
+          <token token_id="4">Rats</token>
+          <token token_id="5">,</token>
+          <token token_id="6">und</token>
+          <token token_id="7">seine</token>
+          <token token_id="8">Frau</token>
+          <token token_id="9">Barbara</token>
+          <token token_id="10">Erharttin</token>
+          <token token_id="11">,</token>
+          <token token_id="12">verkaufen</token>
+          <token token_id="13">an</token>
+          <token token_id="14">Margarden</token>
+          <token token_id="15">Töbeli</token>
+          <token token_id="16">den</token>
+          <token token_id="17">Wyn</token>
+          <token token_id="18">-</token>
+          <token token_id="19">mann</token>
+          <token token_id="20">,</token>
+          <token token_id="21">und</token>
+          <token token_id="22">seine</token>
+          <token token_id="23">Frau</token>
+          <token token_id="24">Margretha</token>
+          <token token_id="25">Zwenngerin</token>
           <token token_id="26">,</token>
-          <token token_id="27">auch</token>
-          <token token_id="28">die</token>
-          <token token_id="29">beid</token>
-          <token token_id="30">andern</token>
-          <token token_id="31">huser</token>
-          <token token_id="32">zins</token>
-          <token token_id="33">frey</token>
-          <token token_id="34">.</token>
-          <token token_id="35">Hans</token>
-          <token token_id="36">Jacob</token>
-          <token token_id="37">Davitt</token>
-          <token token_id="38">des</token>
-          <token token_id="39">Rats</token>
-          <token token_id="40">,</token>
-          <token token_id="41">und</token>
-          <token token_id="42">seine</token>
-          <token token_id="43">Frau</token>
-          <token token_id="44">Barbara</token>
-          <token token_id="45">Erharttin</token>
-          <token token_id="46">,</token>
-          <token token_id="47">verkaufen</token>
-          <token token_id="48">an</token>
-          <token token_id="49">Margarden</token>
-          <token token_id="50">Töbeli</token>
-          <token token_id="51">den</token>
-          <token token_id="52">Wyn</token>
-          <token token_id="53">-</token>
-          <token token_id="54">mann</token>
-          <token token_id="55">,</token>
+          <token token_id="27">die</token>
+          <token token_id="28">drü</token>
+          <token token_id="29">Hüser</token>
+          <token token_id="30">Gesess</token>
+          <token token_id="31">,</token>
+          <token token_id="32">hinden</token>
+          <token token_id="33">und</token>
+          <token token_id="34">vor</token>
+          <token token_id="35">mit</token>
+          <token token_id="36">den</token>
+          <token token_id="37">beiden</token>
+          <token token_id="38">Höffen</token>
+          <token token_id="39">,</token>
+          <token token_id="40">und</token>
+          <token token_id="41">hindern</token>
+          <token token_id="42">usgang</token>
+          <token token_id="43">,</token>
+          <token token_id="44">sampt</token>
+          <token token_id="45">dem</token>
+          <token token_id="46">hindern</token>
+          <token token_id="47">hus</token>
+          <token token_id="48">in</token>
+          <token token_id="49">der</token>
+          <token token_id="50">wyssen</token>
+          <token token_id="51">Gassen</token>
+          <token token_id="52">,</token>
+          <token token_id="53">als</token>
+          <token token_id="54">die</token>
+          <token token_id="55">aneinander</token>
           <token token_id="56">und</token>
-          <token token_id="57">seine</token>
-          <token token_id="58">Frau</token>
-          <token token_id="59">Margretha</token>
-          <token token_id="60">Zwenngerin</token>
-          <token token_id="61">,</token>
-          <token token_id="62">die</token>
-          <token token_id="63">drü</token>
-          <token token_id="64">Hüser</token>
-          <token token_id="65">Gesess</token>
-          <token token_id="66">,</token>
-          <token token_id="67">hinden</token>
-          <token token_id="68">und</token>
-          <token token_id="69">vor</token>
-          <token token_id="70">mit</token>
-          <token token_id="71">den</token>
-          <token token_id="72">beiden</token>
-          <token token_id="73">Höffen</token>
-          <token token_id="74">,</token>
-          <token token_id="75">und</token>
-          <token token_id="76">hindern</token>
-          <token token_id="77">usgang</token>
-          <token token_id="78">,</token>
-          <token token_id="79">sampt</token>
-          <token token_id="80">dem</token>
-          <token token_id="81">hindern</token>
-          <token token_id="82">hus</token>
-          <token token_id="83">in</token>
-          <token token_id="84">der</token>
-          <token token_id="85">wyssen</token>
-          <token token_id="86">Gassen</token>
-          <token token_id="87">,</token>
-          <token token_id="88">als</token>
-          <token token_id="89">die</token>
-          <token token_id="90">aneinander</token>
-          <token token_id="91">und</token>
-          <token token_id="92">hindereinander</token>
-          <token token_id="93">,</token>
-          <token token_id="94">an</token>
-          <token token_id="95">der</token>
-          <token token_id="96">Frygenstrass</token>
-          <token token_id="97">,</token>
-          <token token_id="98">zwüschen</token>
-          <token token_id="99">der</token>
-          <token token_id="100">Husgnossen</token>
-          <token token_id="101">Zunfft</token>
-          <token token_id="102">genannt</token>
-          <token token_id="103">zum</token>
-          <token token_id="104">grauwen</token>
-          <token token_id="105">Beren</token>
-          <token token_id="106">,</token>
-          <token token_id="107">und</token>
-          <token token_id="108">dem</token>
-          <token token_id="109">Hus</token>
-          <token token_id="110">zum</token>
-          <token token_id="111">Pflug</token>
-          <token token_id="112">glegen</token>
-          <token token_id="113">sind</token>
-          <token token_id="114">,</token>
-          <token token_id="115">stossen</token>
-          <token token_id="116">hinden</token>
-          <token token_id="117">uff</token>
-          <token token_id="118">den</token>
-          <token token_id="119">Byrsich</token>
-          <token token_id="120">,</token>
-          <token token_id="121">und</token>
-          <token token_id="122">an</token>
-          <token token_id="123">die</token>
-          <token token_id="124">wysse</token>
-          <token token_id="125">gassen</token>
-          <token token_id="126">,</token>
-          <token token_id="127">ist</token>
-          <token token_id="128">das</token>
-          <token token_id="129">ein</token>
-          <token token_id="130">hus</token>
-          <token token_id="131">zum</token>
-          <token token_id="132">rotten</token>
-          <token token_id="133">hutt</token>
-          <token token_id="134">genannt</token>
-          <token token_id="135">,</token>
-          <token token_id="136">und</token>
+          <token token_id="57">hindereinander</token>
+          <token token_id="58">,</token>
+          <token token_id="59">an</token>
+          <token token_id="60">der</token>
+          <token token_id="61">Frygenstrass</token>
+          <token token_id="62">,</token>
+          <token token_id="63">zwüschen</token>
+          <token token_id="64">der</token>
+          <token token_id="65">Husgnossen</token>
+          <token token_id="66">Zunfft</token>
+          <token token_id="67">genannt</token>
+          <token token_id="68">zum</token>
+          <token token_id="69">grauwen</token>
+          <token token_id="70">Beren</token>
+          <token token_id="71">,</token>
+          <token token_id="72">und</token>
+          <token token_id="73">dem</token>
+          <token token_id="74">Hus</token>
+          <token token_id="75">zum</token>
+          <token token_id="76">Pflug</token>
+          <token token_id="77">glegen</token>
+          <token token_id="78">sind</token>
+          <token token_id="79">,</token>
+          <token token_id="80">stossen</token>
+          <token token_id="81">hinden</token>
+          <token token_id="82">uff</token>
+          <token token_id="83">den</token>
+          <token token_id="84">Byrsich</token>
+          <token token_id="85">,</token>
+          <token token_id="86">und</token>
+          <token token_id="87">an</token>
+          <token token_id="88">die</token>
+          <token token_id="89">wysse</token>
+          <token token_id="90">gassen</token>
+          <token token_id="91">,</token>
+          <token token_id="92">ist</token>
+          <token token_id="93">das</token>
+          <token token_id="94">ein</token>
+          <token token_id="95">hus</token>
+          <token token_id="96">zum</token>
+          <token token_id="97">rotten</token>
+          <token token_id="98">hutt</token>
+          <token token_id="99">genannt</token>
+          <token token_id="100">,</token>
+          <token token_id="101">und</token>
+          <token token_id="102">das</token>
+          <token token_id="103">anderzum</token>
+          <token token_id="104">Venis</token>
+          <token token_id="105">,</token>
+          <token token_id="106">Aber</token>
+          <token token_id="107">das</token>
+          <token token_id="108">dritt</token>
+          <token token_id="109">hinderhus</token>
+          <token token_id="110">in</token>
+          <token token_id="111">der</token>
+          <token token_id="112">Wyssen</token>
+          <token token_id="113">,</token>
+          <token token_id="114">Gassen</token>
+          <token token_id="115">,</token>
+          <token token_id="116">ist</token>
+          <token token_id="117">auch</token>
+          <token token_id="118">zum</token>
+          <token token_id="119">rotten</token>
+          <token token_id="120">hutt</token>
+          <token token_id="121">genannt</token>
+          <token token_id="122">,</token>
+          <token token_id="123">und</token>
+          <token token_id="124">an</token>
+          <token token_id="125">dem</token>
+          <token token_id="126">Hus</token>
+          <token token_id="127">zum</token>
+          <token token_id="128">Vehin</token>
+          <token token_id="129">Ortt</token>
+          <token token_id="130">glegen</token>
+          <token token_id="131">,</token>
+          <token token_id="132">um</token>
+          <token token_id="133">1440</token>
+          <token token_id="134">fl</token>
+          <token token_id="135">.</token>
+          <token token_id="136">Zinset</token>
           <token token_id="137">das</token>
-          <token token_id="138">anderzum</token>
-          <token token_id="139">Venis</token>
-          <token token_id="140">,</token>
-          <token token_id="141">Aber</token>
-          <token token_id="142">das</token>
-          <token token_id="143">dritt</token>
-          <token token_id="144">hinderhus</token>
-          <token token_id="145">in</token>
-          <token token_id="146">der</token>
-          <token token_id="147">Wyssen</token>
-          <token token_id="148">,</token>
-          <token token_id="149">Gassen</token>
-          <token token_id="150">,</token>
-          <token token_id="151">ist</token>
-          <token token_id="152">auch</token>
-          <token token_id="153">zum</token>
-          <token token_id="154">rotten</token>
-          <token token_id="155">hutt</token>
-          <token token_id="156">genannt</token>
-          <token token_id="157">,</token>
-          <token token_id="158">und</token>
-          <token token_id="159">an</token>
-          <token token_id="160">dem</token>
-          <token token_id="161">Hus</token>
-          <token token_id="162">zum</token>
-          <token token_id="163">Vehin</token>
-          <token token_id="164">Ortt</token>
-          <token token_id="165">glegen</token>
-          <token token_id="166">,</token>
-          <token token_id="167">um</token>
-          <token token_id="168">1440</token>
-          <token token_id="169">fl</token>
-          <token token_id="170">.</token>
-          <token token_id="171">Zinset</token>
-          <token token_id="172">das</token>
-          <token token_id="173">vorderhus</token>
-          <token token_id="174">zum</token>
-          <token token_id="175">rotten</token>
-          <token token_id="176">Hutt</token>
-          <token token_id="177">,</token>
-          <token token_id="178">der</token>
-          <token token_id="179">Capl</token>
-          <token token_id="180">.</token>
-          <token token_id="181">S</token>
+          <token token_id="138">vorderhus</token>
+          <token token_id="139">zum</token>
+          <token token_id="140">rotten</token>
+          <token token_id="141">Hutt</token>
+          <token token_id="142">,</token>
+          <token token_id="143">der</token>
+          <token token_id="144">Capl</token>
+          <token token_id="145">.</token>
+          <token token_id="146">S</token>
+          <token token_id="147">.</token>
+          <token token_id="148">Niclaus</token>
+          <token token_id="149">Capellen</token>
+          <token token_id="150">s</token>
+          <token token_id="151">.</token>
+          <token token_id="152">Peter</token>
+          <token token_id="153">7</token>
+          <token token_id="154">℔</token>
+          <token token_id="155">.</token>
+          <token token_id="156">1</token>
+          <token token_id="157">/</token>
+          <token token_id="158">2</token>
+          <token token_id="159">℔</token>
+          <token token_id="160">Pfeffer</token>
+          <token token_id="161">,</token>
+          <token token_id="162">zu</token>
+          <token token_id="163">Wysung</token>
+          <token token_id="164">,</token>
+          <token token_id="165">und</token>
+          <token token_id="166">10</token>
+          <token token_id="167">sh</token>
+          <token token_id="168">.</token>
+          <token token_id="169">zu</token>
+          <token token_id="170">erschatz</token>
+          <token token_id="171">,</token>
+          <token token_id="172">sonst</token>
+          <token token_id="173">frei</token>
+          <token token_id="174">,</token>
+          <token token_id="175">auch</token>
+          <token token_id="176">die</token>
+          <token token_id="177">beid</token>
+          <token token_id="178">andern</token>
+          <token token_id="179">huser</token>
+          <token token_id="180">zins</token>
+          <token token_id="181">frey</token>
           <token token_id="182">.</token>
         </text>
         <spans>
-          <span id="0" start="0" end="4" element="reference" class="org" confidence="0.68" text="Niclaus Capellen s . Peter" numerus="sgl" specificity="spc" subclass="rel">
-            <span id="18" start="0" end="4" element="head" class="nam" confidence="0.99" text="Niclaus Capellen s . Peter" norm="unk"/>
-          </span>
-          <span id="1" start="5" end="7" element="value" class="money" confidence="1.0" text="7 ℔ ." norm="7.0 Pfund"/>
-          <span id="2" start="8" end="12" element="value" class="money" confidence="0.98" text="1 / 2 ℔ Pfeffer" norm="0.5 Pfund-Pfeffer"/>
-          <span id="3" start="14" end="15" element="other" class="other" confidence="0.65" text="zu Wysung"/>
-          <span id="4" start="18" end="20" element="value" class="money" confidence="1.0" text="10 sh ." norm="10.0 Schilling"/>
-          <span id="5" start="22" end="22" element="other" class="other" confidence="0.64" text="erschatz"/>
-          <span id="6" start="28" end="31" element="reference" class="fac" confidence="0.84" text="die beid andern huser" numerus="grp" specificity="spc" subclass="">
-            <span id="19" start="31" end="31" element="head" class="type" confidence="1.0" text="huser" norm="Häuser"/>
-          </span>
-          <span id="7" start="35" end="39" element="reference" class="per" confidence="0.98" text="Hans Jacob Davitt des Rats" numerus="sgl" specificity="spc" subclass="">
-            <span id="20" start="35" end="37" element="head" class="nam" confidence="1.0" text="Hans Jacob Davitt"/>
-            <span id="21" start="38" end="39" element="attr" class="org-aff" confidence="1.0" text="des Rats">
-              <span id="22" start="38" end="39" element="reference" class="org" confidence="0.72" text="des Rats" numerus="sgl" specificity="spc" subclass="gov">
-                <span id="23" start="39" end="39" element="head" class="type" confidence="0.99" text="Rats" norm="Stadtrat Basel"/>
+          <span id="0" start="0" end="4" element="reference" class="per" confidence="0.99" text="Hans Jacob Davitt des Rats" numerus="sgl" specificity="spc" subclass="">
+            <span id="17" start="0" end="2" element="head" class="nam" confidence="1.0" text="Hans Jacob Davitt"/>
+            <span id="18" start="3" end="4" element="attr" class="org-aff" confidence="1.0" text="des Rats">
+              <span id="19" start="3" end="4" element="reference" class="org" confidence="0.77" text="des Rats" numerus="sgl" specificity="spc" subclass="gov">
+                <span id="20" start="4" end="4" element="head" class="type" confidence="1.0" text="Rats" norm="Stadtrat Basel"/>
               </span>
             </span>
           </span>
-          <span id="8" start="42" end="45" element="reference" class="per" confidence="1.0" text="seine Frau Barbara Erharttin" numerus="sgl" specificity="spc" subclass="">
-            <span id="24" start="42" end="43" element="appo" class="fam" confidence="1.0" text="seine Frau">
-              <span id="26" start="42" end="42" element="reference" class="per" confidence="1.0" text="seine" numerus="sgl" specificity="spc" subclass="">
-                <span id="26_head" start="42" end="42" element="head" class="pro" confidence="1.0" text="seine"/>
+          <span id="1" start="7" end="10" element="reference" class="per" confidence="1.0" text="seine Frau Barbara Erharttin" numerus="sgl" specificity="spc" subclass="">
+            <span id="21" start="7" end="8" element="appo" class="fam" confidence="1.0" text="seine Frau">
+              <span id="23" start="7" end="7" element="reference" class="per" confidence="1.0" text="seine" numerus="sgl" specificity="spc" subclass="">
+                <span id="23_head" start="7" end="7" element="head" class="pro" confidence="1.0" text="seine"/>
               </span>
-              <span id="27" start="43" end="43" element="head" class="fam" confidence="1.0" text="Frau"/>
+              <span id="24" start="8" end="8" element="head" class="fam" confidence="1.0" text="Frau"/>
             </span>
-            <span id="25" start="44" end="45" element="head" class="nam" confidence="1.0" text="Barbara Erharttin"/>
+            <span id="22" start="9" end="10" element="head" class="nam" confidence="1.0" text="Barbara Erharttin"/>
           </span>
-          <span id="9" start="47" end="47" element="trigger" class="sale" confidence="0.97" text="verkaufen"/>
-          <span id="10" start="49" end="54" element="reference" class="per" confidence="1.0" text="Margarden Töbeli den Wyn - mann" numerus="sgl" specificity="spc" subclass="">
-            <span id="28" start="49" end="50" element="head" class="nam" confidence="1.0" text="Margarden Töbeli"/>
-            <span id="29" start="51" end="54" element="appo" class="occ" confidence="0.99" text="den Wyn - mann">
-              <span id="30" start="52" end="54" element="head" class="occ" confidence="0.99" text="Wyn - mann" norm="unk" OhdAB=""/>
+          <span id="2" start="12" end="12" element="trigger" class="sale" confidence="0.96" text="verkaufen"/>
+          <span id="3" start="14" end="19" element="reference" class="per" confidence="1.0" text="Margarden Töbeli den Wyn - mann" numerus="sgl" specificity="spc" subclass="">
+            <span id="25" start="14" end="15" element="head" class="nam" confidence="1.0" text="Margarden Töbeli"/>
+            <span id="26" start="16" end="19" element="appo" class="occ" confidence="0.99" text="den Wyn - mann">
+              <span id="27" start="17" end="19" element="head" class="occ" confidence="0.99" text="Wyn - mann" norm="unk" OhdAB=""/>
             </span>
           </span>
-          <span id="11" start="57" end="60" element="reference" class="per" confidence="1.0" text="seine Frau Margretha Zwenngerin" numerus="sgl" specificity="spc" subclass="">
-            <span id="31" start="57" end="58" element="appo" class="fam" confidence="1.0" text="seine Frau">
-              <span id="33" start="57" end="57" element="reference" class="per" confidence="1.0" text="seine" numerus="sgl" specificity="spc" subclass="">
-                <span id="33_head" start="57" end="57" element="head" class="pro" confidence="1.0" text="seine"/>
+          <span id="4" start="22" end="25" element="reference" class="per" confidence="1.0" text="seine Frau Margretha Zwenngerin" numerus="sgl" specificity="spc" subclass="">
+            <span id="28" start="22" end="23" element="appo" class="fam" confidence="1.0" text="seine Frau">
+              <span id="30" start="22" end="22" element="reference" class="per" confidence="1.0" text="seine" numerus="sgl" specificity="spc" subclass="">
+                <span id="30_head" start="22" end="22" element="head" class="pro" confidence="1.0" text="seine"/>
               </span>
-              <span id="34" start="58" end="58" element="head" class="fam" confidence="1.0" text="Frau"/>
+              <span id="31" start="23" end="23" element="head" class="fam" confidence="1.0" text="Frau"/>
             </span>
-            <span id="32" start="59" end="60" element="head" class="nam" confidence="1.0" text="Margretha Zwenngerin"/>
+            <span id="29" start="24" end="25" element="head" class="nam" confidence="1.0" text="Margretha Zwenngerin"/>
           </span>
-          <span id="12" start="62" end="139" element="reference" class="fac" confidence="0.95" text="die drü Hüser Gesess , hinden und vor mit den beiden Höffen , und hindern usgang , sampt dem hindern hus in der wyssen Gassen , als die aneinander und hindereinander , an der Frygenstrass , zwüschen der Husgnossen Zunfft genannt zum grauwen Beren , und dem Hus zum Pflug glegen sind , stossen hinden uff den Byrsich , und an die wysse gassen , ist das ein hus zum rotten hutt genannt , und das anderzum Venis" numerus="grp" specificity="spc" subclass="">
-            <span id="35" start="64" end="65" element="head" class="type" confidence="0.9" text="Hüser Gesess" norm="unk"/>
-            <span id="36" start="67" end="92" element="attr" class="includes" confidence="0.87" text="hinden und vor mit den beiden Höffen , und hindern usgang , sampt dem hindern hus in der wyssen Gassen , als die aneinander und hindereinander">
-              <span id="39" start="71" end="73" element="reference" class="fac" confidence="0.83" text="den beiden Höffen" numerus="grp" specificity="spc" subclass="">
-                <span id="42" start="73" end="73" element="head" class="type" confidence="1.0" text="Höffen" norm="Hof"/>
+          <span id="5" start="27" end="104" element="reference" class="fac" confidence="0.95" text="die drü Hüser Gesess , hinden und vor mit den beiden Höffen , und hindern usgang , sampt dem hindern hus in der wyssen Gassen , als die aneinander und hindereinander , an der Frygenstrass , zwüschen der Husgnossen Zunfft genannt zum grauwen Beren , und dem Hus zum Pflug glegen sind , stossen hinden uff den Byrsich , und an die wysse gassen , ist das ein hus zum rotten hutt genannt , und das anderzum Venis" numerus="grp" specificity="spc" subclass="">
+            <span id="32" start="29" end="30" element="head" class="type" confidence="0.9" text="Hüser Gesess" norm="unk"/>
+            <span id="33" start="32" end="57" element="attr" class="includes" confidence="0.87" text="hinden und vor mit den beiden Höffen , und hindern usgang , sampt dem hindern hus in der wyssen Gassen , als die aneinander und hindereinander">
+              <span id="36" start="36" end="38" element="reference" class="fac" confidence="0.83" text="den beiden Höffen" numerus="grp" specificity="spc" subclass="">
+                <span id="39" start="38" end="38" element="head" class="type" confidence="1.0" text="Höffen" norm="Hof"/>
               </span>
-              <span id="40" start="76" end="77" element="reference" class="fac" confidence="0.76" text="hindern usgang" numerus="sgl" specificity="spc" subclass="">
-                <span id="43" start="76" end="77" element="head" class="type" confidence="0.94" text="hindern usgang" norm="hinterer Ausgang"/>
+              <span id="37" start="41" end="42" element="reference" class="fac" confidence="0.76" text="hindern usgang" numerus="sgl" specificity="spc" subclass="">
+                <span id="40" start="41" end="42" element="head" class="type" confidence="0.94" text="hindern usgang" norm="hinterer Ausgang"/>
               </span>
-              <span id="41" start="80" end="92" element="reference" class="fac" confidence="0.87" text="dem hindern hus in der wyssen Gassen , als die aneinander und hindereinander" numerus="sgl" specificity="spc" subclass="">
-                <span id="44" start="81" end="82" element="head" class="type" confidence="0.93" text="hindern hus" norm="Hinterhaus"/>
-                <span id="45" start="83" end="92" element="attr" class="loc" confidence="0.89" text="in der wyssen Gassen , als die aneinander und hindereinander">
-                  <span id="46" start="84" end="86" element="reference" class="fac" confidence="0.99" text="der wyssen Gassen" numerus="sgl" specificity="spc" subclass="street">
-                    <span id="47" start="85" end="86" element="head" class="nam" confidence="1.0" text="wyssen Gassen"/>
+              <span id="38" start="45" end="57" element="reference" class="fac" confidence="0.87" text="dem hindern hus in der wyssen Gassen , als die aneinander und hindereinander" numerus="sgl" specificity="spc" subclass="">
+                <span id="41" start="46" end="47" element="head" class="type" confidence="0.93" text="hindern hus" norm="Hinterhaus"/>
+                <span id="42" start="48" end="57" element="attr" class="loc" confidence="0.89" text="in der wyssen Gassen , als die aneinander und hindereinander">
+                  <span id="43" start="49" end="51" element="reference" class="fac" confidence="0.99" text="der wyssen Gassen" numerus="sgl" specificity="spc" subclass="street">
+                    <span id="44" start="50" end="51" element="head" class="nam" confidence="1.0" text="wyssen Gassen"/>
                   </span>
                 </span>
               </span>
             </span>
-            <span id="37" start="94" end="125" element="attr" class="loc" confidence="0.9" text="an der Frygenstrass , zwüschen der Husgnossen Zunfft genannt zum grauwen Beren , und dem Hus zum Pflug glegen sind , stossen hinden uff den Byrsich , und an die wysse gassen">
-              <span id="48" start="95" end="96" element="reference" class="fac" confidence="0.93" text="der Frygenstrass" numerus="sgl" specificity="spc" subclass="street">
-                <span id="53" start="96" end="96" element="head" class="nam" confidence="0.99" text="Frygenstrass"/>
+            <span id="34" start="59" end="90" element="attr" class="loc" confidence="0.9" text="an der Frygenstrass , zwüschen der Husgnossen Zunfft genannt zum grauwen Beren , und dem Hus zum Pflug glegen sind , stossen hinden uff den Byrsich , und an die wysse gassen">
+              <span id="45" start="60" end="61" element="reference" class="fac" confidence="0.93" text="der Frygenstrass" numerus="sgl" specificity="spc" subclass="street">
+                <span id="50" start="61" end="61" element="head" class="nam" confidence="0.99" text="Frygenstrass"/>
               </span>
-              <span id="49" start="99" end="105" element="reference" class="fac" confidence="0.97" text="der Husgnossen Zunfft genannt zum grauwen Beren" numerus="sgl" specificity="spc" subclass="">
-                <span id="54" start="100" end="101" element="head" class="nam" confidence="0.71" text="Husgnossen Zunfft"/>
-                <span id="55" start="103" end="105" element="appo" class="nam" confidence="0.99" text="zum grauwen Beren">
-                  <span id="56" start="103" end="105" element="head" class="nam" confidence="1.0" text="zum grauwen Beren"/>
+              <span id="46" start="64" end="70" element="reference" class="fac" confidence="0.97" text="der Husgnossen Zunfft genannt zum grauwen Beren" numerus="sgl" specificity="spc" subclass="">
+                <span id="51" start="65" end="66" element="head" class="nam" confidence="0.71" text="Husgnossen Zunfft"/>
+                <span id="52" start="68" end="70" element="appo" class="nam" confidence="0.99" text="zum grauwen Beren">
+                  <span id="53" start="68" end="70" element="head" class="nam" confidence="1.0" text="zum grauwen Beren"/>
                 </span>
               </span>
-              <span id="50" start="108" end="111" element="reference" class="fac" confidence="0.95" text="dem Hus zum Pflug" numerus="sgl" specificity="spc" subclass="">
-                <span id="57" start="109" end="111" element="head" class="nam" confidence="0.86" text="Hus zum Pflug"/>
+              <span id="47" start="73" end="76" element="reference" class="fac" confidence="0.95" text="dem Hus zum Pflug" numerus="sgl" specificity="spc" subclass="">
+                <span id="54" start="74" end="76" element="head" class="nam" confidence="0.86" text="Hus zum Pflug"/>
               </span>
-              <span id="51" start="118" end="119" element="reference" class="loc" confidence="1.0" text="den Byrsich" numerus="sgl" specificity="spc" subclass="">
-                <span id="58" start="119" end="119" element="head" class="nam" confidence="1.0" text="Byrsich"/>
+              <span id="48" start="83" end="84" element="reference" class="loc" confidence="1.0" text="den Byrsich" numerus="sgl" specificity="spc" subclass="">
+                <span id="55" start="84" end="84" element="head" class="nam" confidence="1.0" text="Byrsich"/>
               </span>
-              <span id="52" start="123" end="125" element="reference" class="fac" confidence="0.96" text="die wysse gassen" numerus="sgl" specificity="spc" subclass="street">
-                <span id="59" start="124" end="125" element="head" class="nam" confidence="1.0" text="wysse gassen"/>
+              <span id="49" start="88" end="90" element="reference" class="fac" confidence="0.96" text="die wysse gassen" numerus="sgl" specificity="spc" subclass="street">
+                <span id="56" start="89" end="90" element="head" class="nam" confidence="1.0" text="wysse gassen"/>
               </span>
             </span>
-            <span id="38" start="127" end="139" element="attr" class="dues" confidence="0.56" text="ist das ein hus zum rotten hutt genannt , und das anderzum Venis">
-              <span id="60" start="129" end="134" element="reference" class="fac" confidence="0.97" text="ein hus zum rotten hutt genannt" numerus="sgl" specificity="spc" subclass="">
-                <span id="62" start="130" end="130" element="head" class="type" confidence="1.0" text="hus" norm="Haus"/>
-                <span id="63" start="131" end="133" element="appo" class="nam" confidence="0.99" text="zum rotten hutt">
-                  <span id="64" start="131" end="133" element="head" class="nam" confidence="1.0" text="zum rotten hutt"/>
+            <span id="35" start="92" end="104" element="attr" class="dues" confidence="0.56" text="ist das ein hus zum rotten hutt genannt , und das anderzum Venis">
+              <span id="57" start="94" end="99" element="reference" class="fac" confidence="0.97" text="ein hus zum rotten hutt genannt" numerus="sgl" specificity="spc" subclass="">
+                <span id="59" start="95" end="95" element="head" class="type" confidence="1.0" text="hus" norm="Haus"/>
+                <span id="60" start="96" end="98" element="appo" class="nam" confidence="0.99" text="zum rotten hutt">
+                  <span id="61" start="96" end="98" element="head" class="nam" confidence="1.0" text="zum rotten hutt"/>
                 </span>
               </span>
-              <span id="61" start="137" end="139" element="reference" class="fac" confidence="0.56" text="das anderzum Venis" numerus="sgl" specificity="spc" subclass="">
-                <span id="65" start="139" end="139" element="head" class="nam" confidence="0.93" text="Venis"/>
+              <span id="58" start="102" end="104" element="reference" class="fac" confidence="0.56" text="das anderzum Venis" numerus="sgl" specificity="spc" subclass="">
+                <span id="62" start="104" end="104" element="head" class="nam" confidence="0.93" text="Venis"/>
               </span>
             </span>
           </span>
-          <span id="13" start="142" end="165" element="reference" class="fac" confidence="0.93" text="das dritt hinderhus in der Wyssen , Gassen , ist auch zum rotten hutt genannt , und an dem Hus zum Vehin Ortt glegen" numerus="sgl" specificity="spc" subclass="">
-            <span id="66" start="144" end="144" element="head" class="type" confidence="0.99" text="hinderhus" norm="Hinterhaus"/>
-            <span id="67" start="145" end="149" element="attr" class="loc" confidence="0.98" text="in der Wyssen , Gassen">
-              <span id="70" start="146" end="149" element="reference" class="fac" confidence="0.97" text="der Wyssen , Gassen" numerus="sgl" specificity="spc" subclass="street">
-                <span id="71" start="147" end="149" element="head" class="nam" confidence="1.0" text="Wyssen , Gassen"/>
+          <span id="6" start="107" end="130" element="reference" class="fac" confidence="0.92" text="das dritt hinderhus in der Wyssen , Gassen , ist auch zum rotten hutt genannt , und an dem Hus zum Vehin Ortt glegen" numerus="sgl" specificity="spc" subclass="">
+            <span id="63" start="109" end="109" element="head" class="type" confidence="0.99" text="hinderhus" norm="Hinterhaus"/>
+            <span id="64" start="110" end="114" element="attr" class="loc" confidence="0.98" text="in der Wyssen , Gassen">
+              <span id="67" start="111" end="114" element="reference" class="fac" confidence="0.97" text="der Wyssen , Gassen" numerus="sgl" specificity="spc" subclass="street">
+                <span id="68" start="112" end="114" element="head" class="nam" confidence="1.0" text="Wyssen , Gassen"/>
               </span>
             </span>
-            <span id="68" start="153" end="155" element="appo" class="nam" confidence="0.99" text="zum rotten hutt">
-              <span id="72" start="153" end="155" element="head" class="nam" confidence="1.0" text="zum rotten hutt"/>
+            <span id="65" start="118" end="120" element="appo" class="nam" confidence="0.99" text="zum rotten hutt">
+              <span id="69" start="118" end="120" element="head" class="nam" confidence="1.0" text="zum rotten hutt"/>
             </span>
-            <span id="69" start="156" end="165" element="attr" class="loc" confidence="0.89" text="genannt , und an dem Hus zum Vehin Ortt glegen">
-              <span id="73" start="160" end="164" element="reference" class="fac" confidence="0.99" text="dem Hus zum Vehin Ortt" numerus="sgl" specificity="spc" subclass="">
-                <span id="74" start="161" end="164" element="head" class="nam" confidence="0.9" text="Hus zum Vehin Ortt"/>
+            <span id="66" start="121" end="130" element="attr" class="loc" confidence="0.89" text="genannt , und an dem Hus zum Vehin Ortt glegen">
+              <span id="70" start="125" end="129" element="reference" class="fac" confidence="0.99" text="dem Hus zum Vehin Ortt" numerus="sgl" specificity="spc" subclass="">
+                <span id="71" start="126" end="129" element="head" class="nam" confidence="0.9" text="Hus zum Vehin Ortt"/>
               </span>
             </span>
           </span>
-          <span id="14" start="168" end="170" element="value" class="money" confidence="1.0" text="1440 fl ." norm="1440.0 Gulden"/>
-          <span id="15" start="171" end="171" element="trigger" class="due" confidence="1.0" text="Zinset"/>
-          <span id="16" start="172" end="176" element="reference" class="fac" confidence="0.95" text="das vorderhus zum rotten Hutt" numerus="sgl" specificity="spc" subclass="">
-            <span id="75" start="173" end="176" element="head" class="nam" confidence="0.95" text="vorderhus zum rotten Hutt"/>
+          <span id="7" start="133" end="135" element="value" class="money" confidence="1.0" text="1440 fl ." norm="1440.0 Gulden"/>
+          <span id="8" start="136" end="136" element="trigger" class="due" confidence="1.0" text="Zinset"/>
+          <span id="9" start="137" end="141" element="reference" class="fac" confidence="0.83" text="das vorderhus zum rotten Hutt" numerus="sgl" specificity="spc" subclass="">
+            <span id="72" start="138" end="141" element="head" class="nam" confidence="0.95" text="vorderhus zum rotten Hutt"/>
           </span>
-          <span id="17" start="178" end="182" element="reference" class="org" confidence="0.89" text="der Capl . S ." numerus="sgl" specificity="spc" subclass="">
-            <span id="76" start="179" end="182" element="head" class="nam" confidence="0.85" text="Capl . S ." norm="unk"/>
+          <span id="10" start="143" end="152" element="reference" class="org" confidence="0.96" text="der Capl . S . Niclaus Capellen s . Peter" numerus="sgl" specificity="spc" subclass="rel">
+            <span id="73" start="144" end="152" element="head" class="nam" confidence="0.87" text="Capl . S . Niclaus Capellen s . Peter" norm="unk"/>
+          </span>
+          <span id="11" start="153" end="155" element="value" class="money" confidence="1.0" text="7 ℔ ." norm="7.0 Pfund"/>
+          <span id="12" start="156" end="160" element="value" class="money" confidence="0.96" text="1 / 2 ℔ Pfeffer" norm="0.5 Pfund-Pfeffer"/>
+          <span id="13" start="163" end="163" element="other" class="other" confidence="0.77" text="Wysung"/>
+          <span id="14" start="166" end="168" element="value" class="money" confidence="1.0" text="10 sh ." norm="10.0 Schilling"/>
+          <span id="15" start="170" end="170" element="other" class="other" confidence="0.65" text="erschatz"/>
+          <span id="16" start="176" end="179" element="reference" class="fac" confidence="0.76" text="die beid andern huser" numerus="grp" specificity="spc" subclass="">
+            <span id="74" start="179" end="179" element="head" class="type" confidence="1.0" text="huser" norm="Häuser"/>
           </span>
         </spans>
         <relations>
-          <relation id="1" from="26" to="7" class="coref"/>
-          <relation id="2" from="33" to="10" class="coref"/>
+          <relation id="1" from="23" to="0" class="coref"/>
+          <relation id="2" from="30" to="3" class="coref"/>
         </relations>
         <eventGroups>
-          <eventGroup event_id="0" class="property-purchase" start="5" end="170" ref="" type="event" tense="unk" polarity="unk" modality="unk">
-            <trigger ref="9" text="verkaufen"/>
+          <eventGroup event_id="0" class="property-purchase" start="0" end="135" ref="" type="event" tense="unk" polarity="unk" modality="unk">
+            <trigger ref="2" text="verkaufen"/>
             <event event_id="0.0">
-              <role role="interest" confidence="0.91" ref="1" text="7 ℔ ."/>
-              <role role="seller" confidence="0.55" ref="7" text="Hans Jacob Davitt des Rats"/>
-              <role role="seller" confidence="0.98" ref="8" text="seine Frau Barbara Erharttin"/>
-              <role role="buyer" confidence="1.0" ref="10" text="Margarden Töbeli den Wyn - mann"/>
-              <role role="buyer" confidence="1.0" ref="11" text="seine Frau Margretha Zwenngerin"/>
-              <role role="property" confidence="1.0" ref="12" text="die drü Hüser Gesess , hinden und vor mit den beiden Höffen , und hindern usgang , sampt dem hindern hus in der wyssen Gassen , als die aneinander und hindereinander , an der Frygenstrass , zwüschen der Husgnossen Zunfft genannt zum grauwen Beren , und dem Hus zum Pflug glegen sind , stossen hinden uff den Byrsich , und an die wysse gassen , ist das ein hus zum rotten hutt genannt , und das anderzum Venis"/>
-              <role role="property" confidence="0.91" ref="13" text="das dritt hinderhus in der Wyssen , Gassen , ist auch zum rotten hutt genannt , und an dem Hus zum Vehin Ortt glegen"/>
-              <role role="price" confidence="1.0" ref="14" text="1440 fl ."/>
+              <role role="seller" confidence="0.99" ref="0" text="Hans Jacob Davitt des Rats"/>
+              <role role="seller" confidence="1.0" ref="1" text="seine Frau Barbara Erharttin"/>
+              <role role="buyer" confidence="1.0" ref="3" text="Margarden Töbeli den Wyn - mann"/>
+              <role role="buyer" confidence="1.0" ref="4" text="seine Frau Margretha Zwenngerin"/>
+              <role role="property" confidence="1.0" ref="5" text="die drü Hüser Gesess , hinden und vor mit den beiden Höffen , und hindern usgang , sampt dem hindern hus in der wyssen Gassen , als die aneinander und hindereinander , an der Frygenstrass , zwüschen der Husgnossen Zunfft genannt zum grauwen Beren , und dem Hus zum Pflug glegen sind , stossen hinden uff den Byrsich , und an die wysse gassen , ist das ein hus zum rotten hutt genannt , und das anderzum Venis"/>
+              <role role="property" confidence="0.92" ref="6" text="das dritt hinderhus in der Wyssen , Gassen , ist auch zum rotten hutt genannt , und an dem Hus zum Vehin Ortt glegen"/>
+              <role role="price" confidence="1.0" ref="7" text="1440 fl ."/>
             </event>
           </eventGroup>
-          <eventGroup event_id="1" class="due-obligation" start="171" end="182" ref="" type="state" tense="unk" polarity="unk" modality="unk">
-            <trigger ref="15" text="Zinset"/>
+          <eventGroup event_id="1" class="due-obligation" start="136" end="170" ref="" type="state" tense="unk" polarity="unk" modality="unk">
+            <trigger ref="8" text="Zinset"/>
             <event event_id="1.0">
-              <role role="property" confidence="1.0" ref="16" text="das vorderhus zum rotten Hutt"/>
-              <role role="beneficiary" confidence="0.86" ref="17" text="der Capl . S ."/>
+              <role role="beneficiary" confidence="0.99" ref="10" text="der Capl . S . Niclaus Capellen s . Peter"/>
+              <role role="interest" confidence="1.0" ref="11" text="7 ℔ ."/>
+              <role role="interest" confidence="0.99" ref="12" text="1 / 2 ℔ Pfeffer"/>
+            </event>
+            <event event_id="1.1">
+              <role role="beneficiary" confidence="0.99" ref="10" text="der Capl . S . Niclaus Capellen s . Peter"/>
+              <role role="interest" confidence="1.0" ref="14" text="10 sh ."/>
+              <role role="cause" confidence="1.0" ref="15" text="erschatz"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="2" class="family" start="42" end="43" ref="24" type="state" tense="unk" polarity="unk" modality="unk">
-            <trigger start="43" end="43" text="Frau" ref="27"/>
+          <eventGroup event_id="2" class="family" start="7" end="8" ref="21" type="state" tense="unk" polarity="unk" modality="unk">
+            <trigger start="8" end="8" text="Frau" ref="24"/>
             <event event_id="2.0">
-              <role role="family-a" ref="8" text="seine Frau Barbara Erharttin"/>
-              <role role="family-b" ref="26" text="seine"/>
+              <role role="family-a" ref="1" text="seine Frau Barbara Erharttin"/>
+              <role role="family-b" ref="23" text="seine"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="3" class="family" start="57" end="58" ref="31" type="state" tense="unk" polarity="unk" modality="unk">
-            <trigger start="58" end="58" text="Frau" ref="34"/>
+          <eventGroup event_id="3" class="family" start="22" end="23" ref="28" type="state" tense="unk" polarity="unk" modality="unk">
+            <trigger start="23" end="23" text="Frau" ref="31"/>
             <event event_id="3.0">
-              <role role="family-a" ref="11" text="seine Frau Margretha Zwenngerin"/>
-              <role role="family-b" ref="33" text="seine"/>
+              <role role="family-a" ref="4" text="seine Frau Margretha Zwenngerin"/>
+              <role role="family-b" ref="30" text="seine"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="4" class="membership" start="38" end="39" ref="21" type="state" tense="unk" polarity="unk" modality="unk">
+          <eventGroup event_id="4" class="membership" start="3" end="4" ref="18" type="state" tense="unk" polarity="unk" modality="unk">
             <event event_id="4.0">
-              <role role="member" ref="7" text="Hans Jacob Davitt des Rats"/>
-              <role role="organization" ref="22" text="des Rats"/>
+              <role role="member" ref="0" text="Hans Jacob Davitt des Rats"/>
+              <role role="organization" ref="19" text="des Rats"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="5" class="part_whole" start="67" end="92" ref="36" type="state" tense="unk" polarity="unk" modality="unk">
+          <eventGroup event_id="5" class="part_whole" start="32" end="57" ref="33" type="state" tense="unk" polarity="unk" modality="unk">
             <event event_id="5.0">
-              <role role="whole" ref="12" text="die drü Hüser Gesess , hinden und vor mit den beiden Höffen , und hindern usgang , sampt dem hindern hus in der wyssen Gassen , als die aneinander und hindereinander , an der Frygenstrass , zwüschen der Husgnossen Zunfft genannt zum grauwen Beren , und dem Hus zum Pflug glegen sind , stossen hinden uff den Byrsich , und an die wysse gassen , ist das ein hus zum rotten hutt genannt , und das anderzum Venis"/>
-              <role role="part" ref="39" text="den beiden Höffen"/>
-              <role role="part" ref="40" text="hindern usgang"/>
-              <role role="part" ref="41" text="dem hindern hus in der wyssen Gassen , als die aneinander und hindereinander"/>
+              <role role="whole" ref="5" text="die drü Hüser Gesess , hinden und vor mit den beiden Höffen , und hindern usgang , sampt dem hindern hus in der wyssen Gassen , als die aneinander und hindereinander , an der Frygenstrass , zwüschen der Husgnossen Zunfft genannt zum grauwen Beren , und dem Hus zum Pflug glegen sind , stossen hinden uff den Byrsich , und an die wysse gassen , ist das ein hus zum rotten hutt genannt , und das anderzum Venis"/>
+              <role role="part" ref="36" text="den beiden Höffen"/>
+              <role role="part" ref="37" text="hindern usgang"/>
+              <role role="part" ref="38" text="dem hindern hus in der wyssen Gassen , als die aneinander und hindereinander"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="6" class="topological" start="83" end="92" ref="45" type="state" tense="unk" polarity="unk" modality="unk">
+          <eventGroup event_id="6" class="topological" start="48" end="57" ref="42" type="state" tense="unk" polarity="unk" modality="unk">
             <event event_id="6.0">
-              <role role="location-a" ref="41" text="dem hindern hus in der wyssen Gassen , als die aneinander und hindereinander"/>
-              <role role="location-b" ref="46" text="der wyssen Gassen"/>
+              <role role="location-a" ref="38" text="dem hindern hus in der wyssen Gassen , als die aneinander und hindereinander"/>
+              <role role="location-b" ref="43" text="der wyssen Gassen"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="7" class="topological" start="94" end="125" ref="37" type="state" tense="unk" polarity="unk" modality="unk">
+          <eventGroup event_id="7" class="topological" start="59" end="90" ref="34" type="state" tense="unk" polarity="unk" modality="unk">
             <event event_id="7.0">
-              <role role="location-a" ref="12" text="die drü Hüser Gesess , hinden und vor mit den beiden Höffen , und hindern usgang , sampt dem hindern hus in der wyssen Gassen , als die aneinander und hindereinander , an der Frygenstrass , zwüschen der Husgnossen Zunfft genannt zum grauwen Beren , und dem Hus zum Pflug glegen sind , stossen hinden uff den Byrsich , und an die wysse gassen , ist das ein hus zum rotten hutt genannt , und das anderzum Venis"/>
-              <role role="location-b" ref="48" text="der Frygenstrass"/>
-              <role role="location-b" ref="49" text="der Husgnossen Zunfft genannt zum grauwen Beren"/>
-              <role role="location-b" ref="50" text="dem Hus zum Pflug"/>
-              <role role="location-b" ref="51" text="den Byrsich"/>
-              <role role="location-b" ref="52" text="die wysse gassen"/>
+              <role role="location-a" ref="5" text="die drü Hüser Gesess , hinden und vor mit den beiden Höffen , und hindern usgang , sampt dem hindern hus in der wyssen Gassen , als die aneinander und hindereinander , an der Frygenstrass , zwüschen der Husgnossen Zunfft genannt zum grauwen Beren , und dem Hus zum Pflug glegen sind , stossen hinden uff den Byrsich , und an die wysse gassen , ist das ein hus zum rotten hutt genannt , und das anderzum Venis"/>
+              <role role="location-b" ref="45" text="der Frygenstrass"/>
+              <role role="location-b" ref="46" text="der Husgnossen Zunfft genannt zum grauwen Beren"/>
+              <role role="location-b" ref="47" text="dem Hus zum Pflug"/>
+              <role role="location-b" ref="48" text="den Byrsich"/>
+              <role role="location-b" ref="49" text="die wysse gassen"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="8" class="due-obligation" start="127" end="139" ref="38" type="state" tense="unk" polarity="unk" modality="unk">
+          <eventGroup event_id="8" class="due-obligation" start="92" end="104" ref="35" type="state" tense="unk" polarity="unk" modality="unk">
             <event event_id="8.0">
-              <role role="property" ref="12" text="die drü Hüser Gesess , hinden und vor mit den beiden Höffen , und hindern usgang , sampt dem hindern hus in der wyssen Gassen , als die aneinander und hindereinander , an der Frygenstrass , zwüschen der Husgnossen Zunfft genannt zum grauwen Beren , und dem Hus zum Pflug glegen sind , stossen hinden uff den Byrsich , und an die wysse gassen , ist das ein hus zum rotten hutt genannt , und das anderzum Venis"/>
-              <role role="property" ref="60" text="ein hus zum rotten hutt genannt"/>
-              <role role="property" ref="61" text="das anderzum Venis"/>
+              <role role="property" ref="5" text="die drü Hüser Gesess , hinden und vor mit den beiden Höffen , und hindern usgang , sampt dem hindern hus in der wyssen Gassen , als die aneinander und hindereinander , an der Frygenstrass , zwüschen der Husgnossen Zunfft genannt zum grauwen Beren , und dem Hus zum Pflug glegen sind , stossen hinden uff den Byrsich , und an die wysse gassen , ist das ein hus zum rotten hutt genannt , und das anderzum Venis"/>
+              <role role="property" ref="57" text="ein hus zum rotten hutt genannt"/>
+              <role role="property" ref="58" text="das anderzum Venis"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="9" class="topological" start="145" end="149" ref="67" type="state" tense="unk" polarity="unk" modality="unk">
+          <eventGroup event_id="9" class="topological" start="110" end="114" ref="64" type="state" tense="unk" polarity="unk" modality="unk">
             <event event_id="9.0">
-              <role role="location-a" ref="13" text="das dritt hinderhus in der Wyssen , Gassen , ist auch zum rotten hutt genannt , und an dem Hus zum Vehin Ortt glegen"/>
-              <role role="location-b" ref="70" text="der Wyssen , Gassen"/>
+              <role role="location-a" ref="6" text="das dritt hinderhus in der Wyssen , Gassen , ist auch zum rotten hutt genannt , und an dem Hus zum Vehin Ortt glegen"/>
+              <role role="location-b" ref="67" text="der Wyssen , Gassen"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="10" class="topological" start="156" end="165" ref="69" type="state" tense="unk" polarity="unk" modality="unk">
+          <eventGroup event_id="10" class="topological" start="121" end="130" ref="66" type="state" tense="unk" polarity="unk" modality="unk">
             <event event_id="10.0">
-              <role role="location-a" ref="13" text="das dritt hinderhus in der Wyssen , Gassen , ist auch zum rotten hutt genannt , und an dem Hus zum Vehin Ortt glegen"/>
-              <role role="location-b" ref="73" text="dem Hus zum Vehin Ortt"/>
+              <role role="location-a" ref="6" text="das dritt hinderhus in der Wyssen , Gassen , ist auch zum rotten hutt genannt , und an dem Hus zum Vehin Ortt glegen"/>
+              <role role="location-b" ref="70" text="dem Hus zum Vehin Ortt"/>
             </event>
           </eventGroup>
         </eventGroups>
@@ -59378,233 +59379,242 @@
           </eventGroup>
         </eventGroups>
       </document>
-      <document id="eca25d2f-ae18-482c-8fbc-e79da9cbaa7f_20260528">
+      <document id="9b058757-9238-4de6-b584-d9a0e7acb004_20260615">
         <metadata>
           <street_id>HGB_1_151</street_id>
           <dossier_id>HGB_1_151_025</dossier_id>
           <year>1537</year>
           <source>Gerichtsarchiv</source>
           <language>german</language>
-          <checked_by_gpt>false</checked_by_gpt>
-          <text>1537. November. 15. Wilhelm Bibernell et Anthoni Ber Febr. 28. Fünfergerichtsprot. 3. 65 1538. Wilhelm Bibernell der Trucker contra Anthoni Barbetr. Löcher in der Scheidmuren zwischen Bars Hus zum roten Hut genampt &amp; Klägers Hus, so do am Eck an der Wissenbruck gelegenn ist, die Bekl, darin gebrochenhat. Das Lonambt, contra Anthoum Berzu Jutzlingen, Besitzer eines Huses an der Gregenn Strass ligend, welches Gürfellig sei.</text>
+          <checked_by_gpt>true</checked_by_gpt>
+          <text>Das Lonambt, contra Anthoum Berzu Jutzlingen, Besitzer eines Huses an der Gregenn Strass ligend, welches Gürfellig sei. 1537. November. 15. Wilhelm Bibernell et Anthoni Ber Febr. 28. Fünfergerichtsprot. 3. 65 1538. Wilhelm Bibernell der Trucker contra Anthoni Barbetr. Löcher in der Scheidmuren zwischen Bars Hus zum roten Hut genampt &amp; Klägers Hus, so do am Eck an der Wissenbruck gelegenn ist, die Bekl, darin gebrochenhat.</text>
           <pages>
-            <page nr="27">https://files.transkribus.eu/Get?fileType=view&amp;id=JYJICFNPDAIJOEZOZNNRESUN</page>
+            <page nr="27"><![CDATA[https://files.transkribus.eu/Get?fileType=view&id=JYJICFNPDAIJOEZOZNNRESUN]]></page>
           </pages>
         </metadata>
         <text>
-          <token token_id="0">1537</token>
-          <token token_id="1">.</token>
-          <token token_id="2">November</token>
-          <token token_id="3">.</token>
-          <token token_id="4">15</token>
-          <token token_id="5">.</token>
-          <token token_id="6">Wilhelm</token>
-          <token token_id="7">Bibernell</token>
-          <token token_id="8">et</token>
-          <token token_id="9">Anthoni</token>
-          <token token_id="10">Ber</token>
-          <token token_id="11">Febr</token>
-          <token token_id="12">.</token>
-          <token token_id="13">28</token>
-          <token token_id="14">.</token>
-          <token token_id="15">Fünfergerichtsprot</token>
-          <token token_id="16">.</token>
-          <token token_id="17">3</token>
-          <token token_id="18">.</token>
-          <token token_id="19">65</token>
-          <token token_id="20">1538</token>
-          <token token_id="21">.</token>
-          <token token_id="22">Wilhelm</token>
-          <token token_id="23">Bibernell</token>
-          <token token_id="24">der</token>
-          <token token_id="25">Trucker</token>
-          <token token_id="26">contra</token>
-          <token token_id="27">Anthoni</token>
-          <token token_id="28">Barbetr</token>
-          <token token_id="29">.</token>
-          <token token_id="30">Löcher</token>
-          <token token_id="31">in</token>
-          <token token_id="32">der</token>
-          <token token_id="33">Scheidmuren</token>
-          <token token_id="34">zwischen</token>
-          <token token_id="35">Bars</token>
-          <token token_id="36">Hus</token>
-          <token token_id="37">zum</token>
-          <token token_id="38">roten</token>
-          <token token_id="39">Hut</token>
-          <token token_id="40">genampt</token>
-          <token token_id="41">&amp;</token>
-          <token token_id="42">Klägers</token>
-          <token token_id="43">Hus</token>
-          <token token_id="44">,</token>
-          <token token_id="45">so</token>
-          <token token_id="46">do</token>
-          <token token_id="47">am</token>
-          <token token_id="48">Eck</token>
-          <token token_id="49">an</token>
-          <token token_id="50">der</token>
-          <token token_id="51">Wissenbruck</token>
-          <token token_id="52">gelegenn</token>
-          <token token_id="53">ist</token>
-          <token token_id="54">,</token>
-          <token token_id="55">die</token>
-          <token token_id="56">Bekl</token>
-          <token token_id="57">,</token>
-          <token token_id="58">darin</token>
-          <token token_id="59">gebrochenhat</token>
-          <token token_id="60">.</token>
-          <token token_id="61">Das</token>
-          <token token_id="62">Lonambt</token>
-          <token token_id="63">,</token>
-          <token token_id="64">contra</token>
-          <token token_id="65">Anthoum</token>
-          <token token_id="66">Berzu</token>
-          <token token_id="67">Jutzlingen</token>
-          <token token_id="68">,</token>
-          <token token_id="69">Besitzer</token>
-          <token token_id="70">eines</token>
-          <token token_id="71">Huses</token>
-          <token token_id="72">an</token>
-          <token token_id="73">der</token>
-          <token token_id="74">Gregenn</token>
-          <token token_id="75">Strass</token>
-          <token token_id="76">ligend</token>
-          <token token_id="77">,</token>
-          <token token_id="78">welches</token>
-          <token token_id="79">Gürfellig</token>
-          <token token_id="80">sei</token>
+          <token token_id="0">Das</token>
+          <token token_id="1">Lonambt</token>
+          <token token_id="2">,</token>
+          <token token_id="3">contra</token>
+          <token token_id="4">Anthoum</token>
+          <token token_id="5">Berzu</token>
+          <token token_id="6">Jutzlingen</token>
+          <token token_id="7">,</token>
+          <token token_id="8">Besitzer</token>
+          <token token_id="9">eines</token>
+          <token token_id="10">Huses</token>
+          <token token_id="11">an</token>
+          <token token_id="12">der</token>
+          <token token_id="13">Gregenn</token>
+          <token token_id="14">Strass</token>
+          <token token_id="15">ligend</token>
+          <token token_id="16">,</token>
+          <token token_id="17">welches</token>
+          <token token_id="18">Gürfellig</token>
+          <token token_id="19">sei</token>
+          <token token_id="20">.</token>
+          <token token_id="21">1537</token>
+          <token token_id="22">.</token>
+          <token token_id="23">November</token>
+          <token token_id="24">.</token>
+          <token token_id="25">15</token>
+          <token token_id="26">.</token>
+          <token token_id="27">Wilhelm</token>
+          <token token_id="28">Bibernell</token>
+          <token token_id="29">et</token>
+          <token token_id="30">Anthoni</token>
+          <token token_id="31">Ber</token>
+          <token token_id="32">Febr</token>
+          <token token_id="33">.</token>
+          <token token_id="34">28</token>
+          <token token_id="35">.</token>
+          <token token_id="36">Fünfergerichtsprot</token>
+          <token token_id="37">.</token>
+          <token token_id="38">3</token>
+          <token token_id="39">.</token>
+          <token token_id="40">65</token>
+          <token token_id="41">1538</token>
+          <token token_id="42">.</token>
+          <token token_id="43">Wilhelm</token>
+          <token token_id="44">Bibernell</token>
+          <token token_id="45">der</token>
+          <token token_id="46">Trucker</token>
+          <token token_id="47">contra</token>
+          <token token_id="48">Anthoni</token>
+          <token token_id="49">Barbetr</token>
+          <token token_id="50">.</token>
+          <token token_id="51">Löcher</token>
+          <token token_id="52">in</token>
+          <token token_id="53">der</token>
+          <token token_id="54">Scheidmuren</token>
+          <token token_id="55">zwischen</token>
+          <token token_id="56">Bars</token>
+          <token token_id="57">Hus</token>
+          <token token_id="58">zum</token>
+          <token token_id="59">roten</token>
+          <token token_id="60">Hut</token>
+          <token token_id="61">genampt</token>
+          <token token_id="62">&amp;</token>
+          <token token_id="63">Klägers</token>
+          <token token_id="64">Hus</token>
+          <token token_id="65">,</token>
+          <token token_id="66">so</token>
+          <token token_id="67">do</token>
+          <token token_id="68">am</token>
+          <token token_id="69">Eck</token>
+          <token token_id="70">an</token>
+          <token token_id="71">der</token>
+          <token token_id="72">Wissenbruck</token>
+          <token token_id="73">gelegenn</token>
+          <token token_id="74">ist</token>
+          <token token_id="75">,</token>
+          <token token_id="76">die</token>
+          <token token_id="77">Bekl</token>
+          <token token_id="78">,</token>
+          <token token_id="79">darin</token>
+          <token token_id="80">gebrochenhat</token>
           <token token_id="81">.</token>
         </text>
         <spans>
-          <span id="0" start="0" end="4" element="value" class="date" confidence="0.9" text="1537 . November . 15"/>
-          <span id="1" start="6" end="7" element="reference" class="per" confidence="1.0" text="Wilhelm Bibernell" numerus="sgl" specificity="spc" subclass="">
-            <span id="15" start="6" end="7" element="head" class="nam" confidence="1.0" text="Wilhelm Bibernell"/>
+          <span id="0" start="0" end="1" element="reference" class="org" confidence="0.94" text="Das Lonambt" numerus="sgl" specificity="spc" subclass="">
+            <span id="14" start="1" end="1" element="head" class="type" confidence="0.88" text="Lonambt" norm="Lohnamt"/>
           </span>
-          <span id="2" start="9" end="11" element="reference" class="per" confidence="0.85" text="Anthoni Ber Febr" numerus="sgl" specificity="spc" subclass="">
-            <span id="16" start="9" end="11" element="head" class="nam" confidence="0.83" text="Anthoni Ber Febr"/>
-          </span>
-          <span id="3" start="13" end="14" element="value" class="money" confidence="0.99" text="28 ." norm="unk unk"/>
-          <span id="4" start="20" end="20" element="value" class="date" confidence="0.88" text="1538"/>
-          <span id="5" start="22" end="25" element="reference" class="per" confidence="1.0" text="Wilhelm Bibernell der Trucker" numerus="sgl" specificity="spc" subclass="">
-            <span id="17" start="22" end="23" element="head" class="nam" confidence="1.0" text="Wilhelm Bibernell"/>
-            <span id="18" start="24" end="25" element="appo" class="occ" confidence="1.0" text="der Trucker">
-              <span id="19" start="25" end="25" element="head" class="occ" confidence="1.0" text="Trucker" norm="drucker" OhdAB="https://database.factgrid.de/wiki/Item:Q662991"/>
-            </span>
-          </span>
-          <span id="6" start="26" end="26" element="trigger" class="litigation" confidence="1.0" text="contra"/>
-          <span id="7" start="27" end="30" element="reference" class="per" confidence="0.88" text="Anthoni Barbetr . Löcher" numerus="sgl" specificity="spc" subclass="">
-            <span id="20" start="27" end="30" element="head" class="nam" confidence="0.88" text="Anthoni Barbetr . Löcher"/>
-          </span>
-          <span id="8" start="32" end="53" element="reference" class="fac" confidence="0.87" text="der Scheidmuren zwischen Bars Hus zum roten Hut genampt &amp; Klägers Hus , so do am Eck an der Wissenbruck gelegenn ist" numerus="sgl" specificity="spc" subclass="">
-            <span id="21" start="33" end="33" element="head" class="type" confidence="0.99" text="Scheidmuren" norm="unk"/>
-            <span id="22" start="34" end="53" element="attr" class="loc" confidence="0.92" text="zwischen Bars Hus zum roten Hut genampt &amp; Klägers Hus , so do am Eck an der Wissenbruck gelegenn ist">
-              <span id="23" start="35" end="39" element="reference" class="fac" confidence="0.98" text="Bars Hus zum roten Hut" numerus="sgl" specificity="spc" subclass="">
-                <span id="26" start="35" end="35" element="attr" class="owner" confidence="0.65" text="Bars">
-                  <span id="28" start="35" end="35" element="reference" class="per" confidence="0.44" text="Bars" numerus="sgl" specificity="spc" subclass="">
-                    <span id="29" start="35" end="35" element="head" class="nam" confidence="1.0" text="Bars"/>
-                  </span>
-                </span>
-                <span id="27" start="36" end="39" element="head" class="nam" confidence="0.91" text="Hus zum roten Hut"/>
-              </span>
-              <span id="24" start="42" end="43" element="reference" class="fac" confidence="0.97" text="Klägers Hus" numerus="sgl" specificity="spc" subclass="">
-                <span id="30" start="42" end="42" element="attr" class="owner" confidence="0.99" text="Klägers">
-                  <span id="32" start="42" end="42" element="reference" class="per" confidence="0.99" text="Klägers" numerus="sgl" specificity="spc" subclass="">
-                    <span id="33" start="42" end="42" element="head" class="role" confidence="0.93" text="Klägers"/>
-                  </span>
-                </span>
-                <span id="31" start="43" end="43" element="head" class="type" confidence="1.0" text="Hus" norm="Haus"/>
-              </span>
-              <span id="25" start="47" end="51" element="reference" class="fac" confidence="0.62" text="am Eck an der Wissenbruck" numerus="sgl" specificity="spc" subclass="">
-                <span id="34" start="48" end="48" element="head" class="type" confidence="0.98" text="Eck" norm="unk"/>
-                <span id="35" start="49" end="51" element="attr" class="loc" confidence="0.97" text="an der Wissenbruck">
-                  <span id="36" start="50" end="51" element="reference" class="fac" confidence="0.91" text="der Wissenbruck" numerus="sgl" specificity="spc" subclass="street">
-                    <span id="37" start="51" end="51" element="head" class="nam" confidence="1.0" text="Wissenbruck"/>
+          <span id="1" start="3" end="3" element="trigger" class="litigation" confidence="1.0" text="contra"/>
+          <span id="2" start="4" end="15" element="reference" class="per" confidence="0.85" text="Anthoum Berzu Jutzlingen , Besitzer eines Huses an der Gregenn Strass ligend" numerus="sgl" specificity="spc" subclass="">
+            <span id="15" start="4" end="6" element="head" class="nam" confidence="1.0" text="Anthoum Berzu Jutzlingen"/>
+            <span id="16" start="8" end="15" element="appo" class="owner" confidence="0.98" text="Besitzer eines Huses an der Gregenn Strass ligend">
+              <span id="17" start="8" end="8" element="head" class="owner" confidence="1.0" text="Besitzer"/>
+              <span id="18" start="9" end="15" element="reference" class="fac" confidence="0.98" text="eines Huses an der Gregenn Strass ligend" numerus="sgl" specificity="spc" subclass="">
+                <span id="19" start="10" end="10" element="head" class="type" confidence="1.0" text="Huses" norm="Haus"/>
+                <span id="20" start="11" end="15" element="attr" class="loc" confidence="0.99" text="an der Gregenn Strass ligend">
+                  <span id="21" start="12" end="14" element="reference" class="fac" confidence="0.97" text="der Gregenn Strass" numerus="sgl" specificity="spc" subclass="street">
+                    <span id="22" start="13" end="14" element="head" class="nam" confidence="0.91" text="Gregenn Strass"/>
                   </span>
                 </span>
               </span>
             </span>
           </span>
-          <span id="9" start="55" end="56" element="reference" class="per" confidence="0.48" text="die Bekl" numerus="sgl" specificity="spc" subclass="">
-            <span id="38" start="56" end="56" element="head" class="role" confidence="0.99" text="Bekl"/>
+          <span id="3" start="21" end="25" element="value" class="date" confidence="1.0" text="1537 . November . 15"/>
+          <span id="4" start="27" end="28" element="reference" class="per" confidence="0.99" text="Wilhelm Bibernell" numerus="sgl" specificity="spc" subclass="">
+            <span id="23" start="27" end="28" element="head" class="nam" confidence="1.0" text="Wilhelm Bibernell"/>
           </span>
-          <span id="10" start="61" end="62" element="reference" class="org" confidence="0.74" text="Das Lonambt" numerus="sgl" specificity="spc" subclass="">
-            <span id="39" start="62" end="62" element="head" class="type" confidence="0.89" text="Lonambt" norm="Lohnamt"/>
+          <span id="5" start="30" end="32" element="reference" class="per" confidence="0.79" text="Anthoni Ber Febr" numerus="sgl" specificity="spc" subclass="">
+            <span id="24" start="30" end="32" element="head" class="nam" confidence="0.83" text="Anthoni Ber Febr"/>
           </span>
-          <span id="11" start="64" end="64" element="trigger" class="litigation" confidence="0.99" text="contra"/>
-          <span id="12" start="65" end="67" element="reference" class="per" confidence="0.99" text="Anthoum Berzu Jutzlingen" numerus="sgl" specificity="spc" subclass="">
-            <span id="40" start="65" end="67" element="head" class="nam" confidence="1.0" text="Anthoum Berzu Jutzlingen"/>
-          </span>
-          <span id="13" start="69" end="69" element="unk" class="owner" confidence="0.41" text="Besitzer">
-            <span id="41" start="69" end="69" element="unk" class="owner" confidence="1.0" text="Besitzer"/>
-          </span>
-          <span id="14" start="70" end="80" element="reference" class="fac" confidence="0.75" text="eines Huses an der Gregenn Strass ligend , welches Gürfellig sei" numerus="sgl" specificity="spc" subclass="">
-            <span id="42" start="71" end="71" element="head" class="type" confidence="1.0" text="Huses" norm="Haus"/>
-            <span id="43" start="72" end="76" element="attr" class="loc" confidence="0.99" text="an der Gregenn Strass ligend">
-              <span id="45" start="73" end="75" element="reference" class="fac" confidence="0.97" text="der Gregenn Strass" numerus="sgl" specificity="spc" subclass="street">
-                <span id="46" start="74" end="75" element="head" class="nam" confidence="0.91" text="Gregenn Strass"/>
-              </span>
-            </span>
-            <span id="44" start="78" end="80" element="attr" class="owner" confidence="0.58" text="welches Gürfellig sei">
-              <span id="47" start="79" end="79" element="reference" class="per" confidence="0.77" text="Gürfellig" numerus="sgl" specificity="spc" subclass="">
-                <span id="48" start="79" end="79" element="head" class="nam" confidence="1.0" text="Gürfellig"/>
-              </span>
+          <span id="6" start="34" end="35" element="value" class="money" confidence="0.75" text="28 ." norm="unk unk"/>
+          <span id="7" start="41" end="41" element="value" class="date" confidence="0.54" text="1538"/>
+          <span id="8" start="43" end="46" element="reference" class="per" confidence="1.0" text="Wilhelm Bibernell der Trucker" numerus="sgl" specificity="spc" subclass="">
+            <span id="25" start="43" end="44" element="head" class="nam" confidence="1.0" text="Wilhelm Bibernell"/>
+            <span id="26" start="45" end="46" element="appo" class="occ" confidence="1.0" text="der Trucker">
+              <span id="27" start="46" end="46" element="head" class="occ" confidence="1.0" text="Trucker" norm="drucker" OhdAB="https://database.factgrid.de/wiki/Item:Q662991"/>
             </span>
           </span>
+          <span id="9" start="47" end="47" element="trigger" class="litigation" confidence="1.0" text="contra"/>
+          <span id="10" start="48" end="51" element="reference" class="per" confidence="0.87" text="Anthoni Barbetr . Löcher" numerus="sgl" specificity="spc" subclass="">
+            <span id="28" start="48" end="51" element="head" class="nam" confidence="0.88" text="Anthoni Barbetr . Löcher"/>
+          </span>
+          <span id="11" start="53" end="74" element="reference" class="fac" confidence="0.87" text="der Scheidmuren zwischen Bars Hus zum roten Hut genampt &amp; Klägers Hus , so do am Eck an der Wissenbruck gelegenn ist" numerus="sgl" specificity="spc" subclass="">
+            <span id="29" start="54" end="54" element="head" class="type" confidence="0.99" text="Scheidmuren" norm="unk"/>
+            <span id="30" start="55" end="74" element="attr" class="loc" confidence="0.92" text="zwischen Bars Hus zum roten Hut genampt &amp; Klägers Hus , so do am Eck an der Wissenbruck gelegenn ist">
+              <span id="31" start="56" end="60" element="reference" class="fac" confidence="0.98" text="Bars Hus zum roten Hut" numerus="sgl" specificity="spc" subclass="">
+                <span id="34" start="56" end="56" element="attr" class="owner" confidence="0.65" text="Bars">
+                  <span id="36" start="56" end="56" element="reference" class="per" confidence="0.44" text="Bars" numerus="sgl" specificity="spc" subclass="">
+                    <span id="37" start="56" end="56" element="head" class="nam" confidence="1.0" text="Bars"/>
+                  </span>
+                </span>
+                <span id="35" start="57" end="60" element="head" class="nam" confidence="0.91" text="Hus zum roten Hut"/>
+              </span>
+              <span id="32" start="63" end="64" element="reference" class="fac" confidence="0.97" text="Klägers Hus" numerus="sgl" specificity="spc" subclass="">
+                <span id="38" start="63" end="63" element="attr" class="owner" confidence="0.99" text="Klägers">
+                  <span id="40" start="63" end="63" element="reference" class="per" confidence="0.99" text="Klägers" numerus="sgl" specificity="spc" subclass="">
+                    <span id="41" start="63" end="63" element="head" class="role" confidence="0.93" text="Klägers"/>
+                  </span>
+                </span>
+                <span id="39" start="64" end="64" element="head" class="type" confidence="1.0" text="Hus" norm="Haus"/>
+              </span>
+              <span id="33" start="68" end="72" element="reference" class="fac" confidence="0.62" text="am Eck an der Wissenbruck" numerus="sgl" specificity="spc" subclass="">
+                <span id="42" start="69" end="69" element="head" class="type" confidence="0.98" text="Eck" norm="unk"/>
+                <span id="43" start="70" end="72" element="attr" class="loc" confidence="0.97" text="an der Wissenbruck">
+                  <span id="44" start="71" end="72" element="reference" class="fac" confidence="0.91" text="der Wissenbruck" numerus="sgl" specificity="spc" subclass="street">
+                    <span id="45" start="72" end="72" element="head" class="nam" confidence="1.0" text="Wissenbruck"/>
+                  </span>
+                </span>
+              </span>
+            </span>
+          </span>
+          <span id="12" start="76" end="77" element="reference" class="per" confidence="0.64" text="die Bekl" numerus="sgl" specificity="spc" subclass="">
+            <span id="46" start="77" end="77" element="head" class="role" confidence="0.99" text="Bekl"/>
+          </span>
+          <span id="13" start="80" end="80" element="trigger" class="other" confidence="0.74" text="gebrochenhat"/>
         </spans>
-        <relations/>
+        <relations>
+          <relation from="4" to="8" class="coref"/>
+          <relation from="5" to="10" class="coref"/>
+          <relation from="12" to="10" class="coref"/>
+        </relations>
         <eventGroups>
-          <eventGroup event_id="0" class="litigation" start="20" end="53" ref="" type="event" tense="unk" polarity="unk" modality="unk">
-            <trigger ref="6" text="contra"/>
+          <eventGroup event_id="0" class="litigation" start="0" end="25" ref="" type="event" tense="unk" polarity="unk" modality="unk">
+            <trigger ref="1" text="contra" start="3" end="3"/>
             <event event_id="0.0">
-              <role role="date" confidence="0.97" ref="4" text="1538"/>
-              <role role="party1" confidence="0.97" ref="5" text="Wilhelm Bibernell der Trucker"/>
-              <role role="party2" confidence="1.0" ref="7" text="Anthoni Barbetr . Löcher"/>
-              <role role="subject" confidence="0.46" ref="8" text="der Scheidmuren zwischen Bars Hus zum roten Hut genampt &amp; Klägers Hus , so do am Eck an der Wissenbruck gelegenn ist"/>
+              <role role="party1" confidence="0.56" ref="0" text="Das Lonambt"/>
+              <role role="party2" confidence="1.0" ref="2" text="Anthoum Berzu Jutzlingen , Besitzer eines Huses an der Gregenn Strass ligend"/>
+              <role role="date" confidence="0.81" ref="3" text="1537 . November . 15"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="1" class="litigation" start="64" end="80" ref="" type="event" tense="unk" polarity="unk" modality="unk">
-            <trigger ref="11" text="contra"/>
+          <eventGroup event_id="1" class="litigation" start="41" end="74" ref="" type="event" tense="unk" polarity="unk" modality="unk">
+            <trigger ref="9" text="contra" start="47" end="47"/>
             <event event_id="1.0">
-              <role role="party2" confidence="0.99" ref="12" text="Anthoum Berzu Jutzlingen"/>
-              <role role="property" confidence="0.93" ref="14" text="eines Huses an der Gregenn Strass ligend , welches Gürfellig sei"/>
+              <role role="date" confidence="0.83" ref="7" text="1538"/>
+              <role role="party1" confidence="0.96" ref="8" text="Wilhelm Bibernell der Trucker"/>
+              <role role="party2" confidence="1.0" ref="10" text="Anthoni Barbetr . Löcher"/>
+              <role role="subject" confidence="0.41" ref="11" text="der Scheidmuren zwischen Bars Hus zum roten Hut genampt &amp; Klägers Hus , so do am Eck an der Wissenbruck gelegenn ist"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="2" class="topological" start="34" end="53" ref="22" type="state" tense="unk" polarity="unk" modality="unk">
+          <eventGroup event_id="2" class="construction" start="53" end="80" ref="" type="event" tense="unk" polarity="unk" modality="unk">
+            <trigger ref="13" text="gebrochenhat" start="80" end="80"/>
             <event event_id="2.0">
-              <role role="location-a" ref="8" text="der Scheidmuren zwischen Bars Hus zum roten Hut genampt &amp; Klägers Hus , so do am Eck an der Wissenbruck gelegenn ist"/>
-              <role role="location-b" ref="23" text="Bars Hus zum roten Hut"/>
-              <role role="location-b" ref="24" text="Klägers Hus"/>
-              <role role="location-b" ref="25" text="am Eck an der Wissenbruck"/>
+              <role role="builder" ref="12" confidence="gpt-5.5" text="die Bekl"/>
+              <role role="property" ref="11" confidence="gpt-5.5" text="der Scheidmuren zwischen Bars Hus zum roten Hut genampt &amp; Klägers Hus , so do am Eck an der Wissenbruck gelegenn ist"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="3" class="ownership" start="35" end="35" ref="26" type="state" tense="unk" polarity="unk" modality="unk">
+          <eventGroup event_id="3" class="ownership" start="4" end="15" ref="16" type="state" tense="unk" polarity="unk" modality="unk">
+            <trigger start="8" end="8" text="Besitzer" ref="17"/>
             <event event_id="3.0">
-              <role role="property" ref="23" text="Bars Hus zum roten Hut"/>
-              <role role="owner" ref="28" text="Bars"/>
+              <role role="owner" ref="2" text="Anthoum Berzu Jutzlingen , Besitzer eines Huses an der Gregenn Strass ligend"/>
+              <role role="property" ref="18" text="eines Huses an der Gregenn Strass ligend"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="4" class="ownership" start="42" end="42" ref="30" type="state" tense="unk" polarity="unk" modality="unk">
+          <eventGroup event_id="4" class="topological" start="9" end="15" ref="20" type="state" tense="unk" polarity="unk" modality="unk">
             <event event_id="4.0">
-              <role role="property" ref="24" text="Klägers Hus"/>
-              <role role="owner" ref="32" text="Klägers"/>
+              <role role="location-a" ref="18" text="eines Huses an der Gregenn Strass ligend"/>
+              <role role="location-b" ref="21" text="der Gregenn Strass"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="5" class="topological" start="49" end="51" ref="35" type="state" tense="unk" polarity="unk" modality="unk">
+          <eventGroup event_id="5" class="topological" start="53" end="74" ref="30" type="state" tense="unk" polarity="unk" modality="unk">
             <event event_id="5.0">
-              <role role="location-a" ref="25" text="am Eck an der Wissenbruck"/>
-              <role role="location-b" ref="36" text="der Wissenbruck"/>
+              <role role="location-a" ref="11" text="der Scheidmuren zwischen Bars Hus zum roten Hut genampt &amp; Klägers Hus , so do am Eck an der Wissenbruck gelegenn ist"/>
+              <role role="location-b" ref="31" text="Bars Hus zum roten Hut"/>
+              <role role="location-b" ref="32" text="Klägers Hus"/>
+              <role role="location-b" ref="33" text="am Eck an der Wissenbruck"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="6" class="topological" start="72" end="76" ref="43" type="state" tense="unk" polarity="unk" modality="unk">
+          <eventGroup event_id="6" class="ownership" start="56" end="60" ref="34" type="state" tense="unk" polarity="unk" modality="unk">
             <event event_id="6.0">
-              <role role="location-a" ref="14" text="eines Huses an der Gregenn Strass ligend , welches Gürfellig sei"/>
-              <role role="location-b" ref="45" text="der Gregenn Strass"/>
+              <role role="property" ref="31" text="Bars Hus zum roten Hut"/>
+              <role role="owner" ref="36" text="Bars"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="7" class="ownership" start="78" end="80" ref="44" type="state" tense="unk" polarity="unk" modality="unk">
+          <eventGroup event_id="7" class="ownership" start="63" end="64" ref="38" type="state" tense="unk" polarity="unk" modality="unk">
             <event event_id="7.0">
-              <role role="property" ref="14" text="eines Huses an der Gregenn Strass ligend , welches Gürfellig sei"/>
-              <role role="owner" ref="47" text="Gürfellig"/>
+              <role role="property" ref="32" text="Klägers Hus"/>
+              <role role="owner" ref="40" text="Klägers"/>
+            </event>
+          </eventGroup>
+          <eventGroup event_id="8" class="topological" start="68" end="72" ref="43" type="state" tense="unk" polarity="unk" modality="unk">
+            <event event_id="8.0">
+              <role role="location-a" ref="33" text="am Eck an der Wissenbruck"/>
+              <role role="location-b" ref="44" text="der Wissenbruck"/>
             </event>
           </eventGroup>
         </eventGroups>

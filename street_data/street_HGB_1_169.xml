@@ -1,0 +1,1446 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<corpus>
+  <series id="HGB_1_169" name="Ringgässlein">
+    <collection id="HGB_1_169_006" house_name_1862="zum Rebstock">
+      <metadata>
+        <dossiertype>Liegenschaft</dossiertype>
+        <location>POINT(2611392.231705117 1267204.5357998137)</location>
+        <address>Ringgässlein 5</address>
+        <dossier_history>
+          <phase iteration="1">
+            <validity_period from="1574" to="1808"/>
+          </phase>
+        </dossier_history>
+      </metadata>
+      <document id="ac27bdcc-200b-4895-84a7-34cb05fdfcdd_20260615">
+        <metadata>
+          <street_id>HGB_1_169</street_id>
+          <dossier_id>HGB_1_169_006</dossier_id>
+          <year>1574</year>
+          <source>Gerichtsarchiv</source>
+          <language>german</language>
+          <checked_by_gpt>false</checked_by_gpt>
+          <text>M. Caspar Hach der Schnyder und seine Frau Elsbetha Hagenstein, verkaufen an Hans Lux Jselin des Raths und seine Frau Judith Bischoffin, das hinder gehus und Hofstatt, in dem Ringoder Salastgesslin gelegen, mit samt dem Höflin darhinder, als das von demselben hindern gehus bis an des Käufers Schidmmen so dieser tagen gemacht werden soll godt, einsit neben des Käufers hindern Hus zum Stegt, andersit Mathis Ryschachers hindern hus zum Frewolin oder alten Badstuben genant, stosst mit dem verkauften Höflin, an der verkaufen übengen theil jres Höflins, ist frey, um 1900 ℔. mit Zusatz wegen Schidmuren, Venster, Johlen etc.</text>
+          <pages>
+            <page nr="3"><![CDATA[https://files.transkribus.eu/Get?fileType=view&id=HOCELOMIVGTUTNSMWJPEDSZO]]></page>
+          </pages>
+        </metadata>
+        <text>
+          <token token_id="0">M</token>
+          <token token_id="1">.</token>
+          <token token_id="2">Caspar</token>
+          <token token_id="3">Hach</token>
+          <token token_id="4">der</token>
+          <token token_id="5">Schnyder</token>
+          <token token_id="6">und</token>
+          <token token_id="7">seine</token>
+          <token token_id="8">Frau</token>
+          <token token_id="9">Elsbetha</token>
+          <token token_id="10">Hagenstein</token>
+          <token token_id="11">,</token>
+          <token token_id="12">verkaufen</token>
+          <token token_id="13">an</token>
+          <token token_id="14">Hans</token>
+          <token token_id="15">Lux</token>
+          <token token_id="16">Jselin</token>
+          <token token_id="17">des</token>
+          <token token_id="18">Raths</token>
+          <token token_id="19">und</token>
+          <token token_id="20">seine</token>
+          <token token_id="21">Frau</token>
+          <token token_id="22">Judith</token>
+          <token token_id="23">Bischoffin</token>
+          <token token_id="24">,</token>
+          <token token_id="25">das</token>
+          <token token_id="26">hinder</token>
+          <token token_id="27">gehus</token>
+          <token token_id="28">und</token>
+          <token token_id="29">Hofstatt</token>
+          <token token_id="30">,</token>
+          <token token_id="31">in</token>
+          <token token_id="32">dem</token>
+          <token token_id="33">Ringoder</token>
+          <token token_id="34">Salastgesslin</token>
+          <token token_id="35">gelegen</token>
+          <token token_id="36">,</token>
+          <token token_id="37">mit</token>
+          <token token_id="38">samt</token>
+          <token token_id="39">dem</token>
+          <token token_id="40">Höflin</token>
+          <token token_id="41">darhinder</token>
+          <token token_id="42">,</token>
+          <token token_id="43">als</token>
+          <token token_id="44">das</token>
+          <token token_id="45">von</token>
+          <token token_id="46">demselben</token>
+          <token token_id="47">hindern</token>
+          <token token_id="48">gehus</token>
+          <token token_id="49">bis</token>
+          <token token_id="50">an</token>
+          <token token_id="51">des</token>
+          <token token_id="52">Käufers</token>
+          <token token_id="53">Schidmmen</token>
+          <token token_id="54">so</token>
+          <token token_id="55">dieser</token>
+          <token token_id="56">tagen</token>
+          <token token_id="57">gemacht</token>
+          <token token_id="58">werden</token>
+          <token token_id="59">soll</token>
+          <token token_id="60">godt</token>
+          <token token_id="61">,</token>
+          <token token_id="62">einsit</token>
+          <token token_id="63">neben</token>
+          <token token_id="64">des</token>
+          <token token_id="65">Käufers</token>
+          <token token_id="66">hindern</token>
+          <token token_id="67">Hus</token>
+          <token token_id="68">zum</token>
+          <token token_id="69">Stegt</token>
+          <token token_id="70">,</token>
+          <token token_id="71">andersit</token>
+          <token token_id="72">Mathis</token>
+          <token token_id="73">Ryschachers</token>
+          <token token_id="74">hindern</token>
+          <token token_id="75">hus</token>
+          <token token_id="76">zum</token>
+          <token token_id="77">Frewolin</token>
+          <token token_id="78">oder</token>
+          <token token_id="79">alten</token>
+          <token token_id="80">Badstuben</token>
+          <token token_id="81">genant</token>
+          <token token_id="82">,</token>
+          <token token_id="83">stosst</token>
+          <token token_id="84">mit</token>
+          <token token_id="85">dem</token>
+          <token token_id="86">verkauften</token>
+          <token token_id="87">Höflin</token>
+          <token token_id="88">,</token>
+          <token token_id="89">an</token>
+          <token token_id="90">der</token>
+          <token token_id="91">verkaufen</token>
+          <token token_id="92">übengen</token>
+          <token token_id="93">theil</token>
+          <token token_id="94">jres</token>
+          <token token_id="95">Höflins</token>
+          <token token_id="96">,</token>
+          <token token_id="97">ist</token>
+          <token token_id="98">frey</token>
+          <token token_id="99">,</token>
+          <token token_id="100">um</token>
+          <token token_id="101">1900</token>
+          <token token_id="102">℔</token>
+          <token token_id="103">.</token>
+          <token token_id="104">mit</token>
+          <token token_id="105">Zusatz</token>
+          <token token_id="106">wegen</token>
+          <token token_id="107">Schidmuren</token>
+          <token token_id="108">,</token>
+          <token token_id="109">Venster</token>
+          <token token_id="110">,</token>
+          <token token_id="111">Johlen</token>
+          <token token_id="112">etc</token>
+          <token token_id="113">.</token>
+        </text>
+        <spans>
+          <span id="0" start="0" end="5" element="reference" class="per" confidence="0.86" text="M . Caspar Hach der Schnyder" numerus="sgl" specificity="spc" subclass="">
+            <span id="7" start="0" end="1" element="appo" class="title" confidence="0.97" text="M .">
+              <span id="10" start="0" end="1" element="head" class="title" confidence="1.0" text="M ."/>
+            </span>
+            <span id="8" start="2" end="3" element="head" class="nam" confidence="1.0" text="Caspar Hach"/>
+            <span id="9" start="4" end="5" element="appo" class="occ" confidence="1.0" text="der Schnyder">
+              <span id="11" start="5" end="5" element="head" class="occ" confidence="1.0" text="Schnyder" norm="schneider" OhdAB="https://database.factgrid.de/wiki/Item:Q671445"/>
+            </span>
+          </span>
+          <span id="1" start="7" end="10" element="reference" class="per" confidence="1.0" text="seine Frau Elsbetha Hagenstein" numerus="sgl" specificity="spc" subclass="">
+            <span id="12" start="7" end="8" element="appo" class="fam" confidence="1.0" text="seine Frau">
+              <span id="14" start="7" end="7" element="reference" class="per" confidence="1.0" text="seine" numerus="sgl" specificity="spc" subclass="">
+                <span id="14_head" start="7" end="7" element="head" class="pro" confidence="1.0" text="seine"/>
+              </span>
+              <span id="15" start="8" end="8" element="head" class="fam" confidence="1.0" text="Frau"/>
+            </span>
+            <span id="13" start="9" end="10" element="head" class="nam" confidence="1.0" text="Elsbetha Hagenstein"/>
+          </span>
+          <span id="2" start="12" end="12" element="trigger" class="sale" confidence="0.85" text="verkaufen"/>
+          <span id="3" start="14" end="18" element="reference" class="per" confidence="0.98" text="Hans Lux Jselin des Raths" numerus="sgl" specificity="spc" subclass="">
+            <span id="16" start="14" end="16" element="head" class="nam" confidence="1.0" text="Hans Lux Jselin"/>
+            <span id="17" start="17" end="18" element="attr" class="org-aff" confidence="1.0" text="des Raths">
+              <span id="18" start="18" end="18" element="reference" class="org" confidence="0.82" text="Raths" numerus="sgl" specificity="spc" subclass="gov">
+                <span id="19" start="18" end="18" element="head" class="type" confidence="0.99" text="Raths" norm="Stadtrat Basel"/>
+              </span>
+            </span>
+          </span>
+          <span id="4" start="20" end="23" element="reference" class="per" confidence="1.0" text="seine Frau Judith Bischoffin" numerus="sgl" specificity="spc" subclass="">
+            <span id="20" start="20" end="21" element="appo" class="fam" confidence="1.0" text="seine Frau">
+              <span id="22" start="20" end="20" element="reference" class="per" confidence="1.0" text="seine" numerus="sgl" specificity="spc" subclass="">
+                <span id="22_head" start="20" end="20" element="head" class="pro" confidence="1.0" text="seine"/>
+              </span>
+              <span id="23" start="21" end="21" element="head" class="fam" confidence="1.0" text="Frau"/>
+            </span>
+            <span id="21" start="22" end="23" element="head" class="nam" confidence="1.0" text="Judith Bischoffin"/>
+          </span>
+          <span id="5" start="25" end="98" element="reference" class="fac" confidence="0.93" text="das hinder gehus und Hofstatt , in dem Ringoder Salastgesslin gelegen , mit samt dem Höflin darhinder , als das von demselben hindern gehus bis an des Käufers Schidmmen so dieser tagen gemacht werden soll godt , einsit neben des Käufers hindern Hus zum Stegt , andersit Mathis Ryschachers hindern hus zum Frewolin oder alten Badstuben genant , stosst mit dem verkauften Höflin , an der verkaufen übengen theil jres Höflins , ist frey" numerus="sgl" specificity="spc" subclass="">
+            <span id="24" start="26" end="29" element="head" class="type" confidence="0.94" text="hinder gehus und Hofstatt" norm="Hinterhaus|Hofstatt"/>
+            <span id="25" start="31" end="35" element="attr" class="loc" confidence="0.95" text="in dem Ringoder Salastgesslin gelegen">
+              <span id="29" start="32" end="34" element="reference" class="fac" confidence="0.98" text="dem Ringoder Salastgesslin" numerus="sgl" specificity="spc" subclass="">
+                <span id="30" start="33" end="34" element="head" class="nam" confidence="0.87" text="Ringoder Salastgesslin"/>
+              </span>
+            </span>
+            <span id="26" start="37" end="41" element="attr" class="includes" confidence="0.96" text="mit samt dem Höflin darhinder">
+              <span id="31" start="39" end="40" element="reference" class="fac" confidence="1.0" text="dem Höflin" numerus="sgl" specificity="spc" subclass="">
+                <span id="32" start="40" end="40" element="head" class="type" confidence="1.0" text="Höflin" norm="Hof"/>
+              </span>
+            </span>
+            <span id="27" start="43" end="95" element="attr" class="loc" confidence="0.94" text="als das von demselben hindern gehus bis an des Käufers Schidmmen so dieser tagen gemacht werden soll godt , einsit neben des Käufers hindern Hus zum Stegt , andersit Mathis Ryschachers hindern hus zum Frewolin oder alten Badstuben genant , stosst mit dem verkauften Höflin , an der verkaufen übengen theil jres Höflins">
+              <span id="33" start="46" end="48" element="reference" class="fac" confidence="0.88" text="demselben hindern gehus" numerus="sgl" specificity="spc" subclass="">
+                <span id="40" start="48" end="48" element="head" class="type" confidence="0.52" text="gehus" norm="Haus"/>
+              </span>
+              <span id="34" start="51" end="57" element="reference" class="fac" confidence="0.77" text="des Käufers Schidmmen so dieser tagen gemacht" numerus="sgl" specificity="spc" subclass="">
+                <span id="41" start="51" end="52" element="attr" class="owner" confidence="0.99" text="des Käufers">
+                  <span id="44" start="51" end="52" element="reference" class="per" confidence="0.97" text="des Käufers" numerus="sgl" specificity="spc" subclass="">
+                    <span id="45" start="52" end="52" element="head" class="role" confidence="1.0" text="Käufers"/>
+                  </span>
+                </span>
+                <span id="42" start="53" end="53" element="head" class="type" confidence="1.0" text="Schidmmen" norm="unk"/>
+                <span id="43" start="54" end="57" element="attr" class="other" confidence="0.58" text="so dieser tagen gemacht"/>
+              </span>
+              <span id="35" start="64" end="69" element="reference" class="fac" confidence="0.92" text="des Käufers hindern Hus zum Stegt" numerus="sgl" specificity="spc" subclass="">
+                <span id="46" start="64" end="65" element="attr" class="owner" confidence="0.97" text="des Käufers">
+                  <span id="48" start="64" end="65" element="reference" class="per" confidence="0.92" text="des Käufers" numerus="sgl" specificity="spc" subclass="">
+                    <span id="49" start="65" end="65" element="head" class="role" confidence="1.0" text="Käufers"/>
+                  </span>
+                </span>
+                <span id="47" start="67" end="69" element="head" class="nam" confidence="0.85" text="Hus zum Stegt"/>
+              </span>
+              <span id="36" start="72" end="81" element="reference" class="fac" confidence="0.9" text="Mathis Ryschachers hindern hus zum Frewolin oder alten Badstuben genant" numerus="sgl" specificity="spc" subclass="">
+                <span id="50" start="72" end="74" element="attr" class="owner" confidence="0.97" text="Mathis Ryschachers hindern">
+                  <span id="54" start="72" end="74" element="reference" class="per" confidence="1.0" text="Mathis Ryschachers hindern" numerus="sgl" specificity="spc" subclass="">
+                    <span id="55" start="72" end="74" element="head" class="nam" confidence="0.96" text="Mathis Ryschachers hindern"/>
+                  </span>
+                </span>
+                <span id="51" start="75" end="75" element="head" class="type" confidence="0.93" text="hus" norm="Haus"/>
+                <span id="52" start="76" end="77" element="appo" class="nam" confidence="0.84" text="zum Frewolin">
+                  <span id="56" start="76" end="77" element="head" class="nam" confidence="0.96" text="zum Frewolin"/>
+                </span>
+                <span id="53" start="79" end="80" element="appo" class="nam" confidence="0.98" text="alten Badstuben">
+                  <span id="57" start="79" end="80" element="head" class="nam" confidence="0.98" text="alten Badstuben"/>
+                </span>
+              </span>
+              <span id="37" start="85" end="87" element="reference" class="fac" confidence="0.93" text="dem verkauften Höflin" numerus="sgl" specificity="spc" subclass="">
+                <span id="58" start="86" end="87" element="head" class="type" confidence="0.77" text="verkauften Höflin" norm="unk"/>
+              </span>
+              <span id="38" start="90" end="91" element="reference" class="fac" confidence="0.62" text="der verkaufen" numerus="sgl" specificity="spc" subclass="">
+                <span id="59" start="91" end="91" element="head" class="nam" confidence="0.51" text="verkaufen"/>
+              </span>
+              <span id="39" start="94" end="95" element="reference" class="fac" confidence="0.82" text="jres Höflins" numerus="sgl" specificity="spc" subclass="">
+                <span id="60" start="94" end="94" element="attr" class="owner" confidence="1.0" text="jres">
+                  <span id="62" start="94" end="94" element="reference" class="unk" confidence="1.0" text="jres" numerus="sgl" specificity="spc" subclass="">
+                    <span id="62_head" start="94" end="94" element="head" class="pro" confidence="1.0" text="jres"/>
+                  </span>
+                </span>
+                <span id="61" start="95" end="95" element="head" class="type" confidence="1.0" text="Höflins" norm="Höflein"/>
+              </span>
+            </span>
+            <span id="28" start="97" end="98" element="attr" class="dues" confidence="1.0" text="ist frey"/>
+          </span>
+          <span id="6" start="101" end="103" element="value" class="money" confidence="1.0" text="1900 ℔ ." norm="1900.0 Pfund"/>
+        </spans>
+        <relations>
+          <relation id="1" from="14" to="0" class="coref"/>
+          <relation id="2" from="22" to="3" class="coref"/>
+        </relations>
+        <eventGroups>
+          <eventGroup event_id="0" class="property-purchase" start="0" end="103" ref="" type="event" tense="unk" polarity="unk" modality="unk">
+            <trigger ref="2" text="verkaufen"/>
+            <event event_id="0.0">
+              <role role="seller" confidence="1.0" ref="0" text="M . Caspar Hach der Schnyder"/>
+              <role role="seller" confidence="1.0" ref="1" text="seine Frau Elsbetha Hagenstein"/>
+              <role role="buyer" confidence="1.0" ref="3" text="Hans Lux Jselin des Raths"/>
+              <role role="buyer" confidence="1.0" ref="4" text="seine Frau Judith Bischoffin"/>
+              <role role="property" confidence="1.0" ref="5" text="das hinder gehus und Hofstatt , in dem Ringoder Salastgesslin gelegen , mit samt dem Höflin darhinder , als das von demselben hindern gehus bis an des Käufers Schidmmen so dieser tagen gemacht werden soll godt , einsit neben des Käufers hindern Hus zum Stegt , andersit Mathis Ryschachers hindern hus zum Frewolin oder alten Badstuben genant , stosst mit dem verkauften Höflin , an der verkaufen übengen theil jres Höflins , ist frey"/>
+              <role role="price" confidence="1.0" ref="6" text="1900 ℔ ."/>
+            </event>
+          </eventGroup>
+          <eventGroup event_id="1" class="family" start="7" end="8" ref="12" type="state" tense="unk" polarity="unk" modality="unk">
+            <trigger start="8" end="8" text="Frau" ref="15"/>
+            <event event_id="1.0">
+              <role role="family-a" ref="1" text="seine Frau Elsbetha Hagenstein"/>
+              <role role="family-b" ref="14" text="seine"/>
+            </event>
+          </eventGroup>
+          <eventGroup event_id="2" class="family" start="20" end="21" ref="20" type="state" tense="unk" polarity="unk" modality="unk">
+            <trigger start="21" end="21" text="Frau" ref="23"/>
+            <event event_id="2.0">
+              <role role="family-a" ref="4" text="seine Frau Judith Bischoffin"/>
+              <role role="family-b" ref="22" text="seine"/>
+            </event>
+          </eventGroup>
+          <eventGroup event_id="3" class="membership" start="17" end="18" ref="17" type="state" tense="unk" polarity="unk" modality="unk">
+            <event event_id="3.0">
+              <role role="member" ref="3" text="Hans Lux Jselin des Raths"/>
+              <role role="organization" ref="18" text="Raths"/>
+            </event>
+          </eventGroup>
+          <eventGroup event_id="4" class="topological" start="31" end="35" ref="25" type="state" tense="unk" polarity="unk" modality="unk">
+            <event event_id="4.0">
+              <role role="location-a" ref="5" text="das hinder gehus und Hofstatt , in dem Ringoder Salastgesslin gelegen , mit samt dem Höflin darhinder , als das von demselben hindern gehus bis an des Käufers Schidmmen so dieser tagen gemacht werden soll godt , einsit neben des Käufers hindern Hus zum Stegt , andersit Mathis Ryschachers hindern hus zum Frewolin oder alten Badstuben genant , stosst mit dem verkauften Höflin , an der verkaufen übengen theil jres Höflins , ist frey"/>
+              <role role="location-b" ref="29" text="dem Ringoder Salastgesslin"/>
+            </event>
+          </eventGroup>
+          <eventGroup event_id="5" class="part_whole" start="37" end="41" ref="26" type="state" tense="unk" polarity="unk" modality="unk">
+            <event event_id="5.0">
+              <role role="whole" ref="5" text="das hinder gehus und Hofstatt , in dem Ringoder Salastgesslin gelegen , mit samt dem Höflin darhinder , als das von demselben hindern gehus bis an des Käufers Schidmmen so dieser tagen gemacht werden soll godt , einsit neben des Käufers hindern Hus zum Stegt , andersit Mathis Ryschachers hindern hus zum Frewolin oder alten Badstuben genant , stosst mit dem verkauften Höflin , an der verkaufen übengen theil jres Höflins , ist frey"/>
+              <role role="part" ref="31" text="dem Höflin"/>
+            </event>
+          </eventGroup>
+          <eventGroup event_id="6" class="topological" start="43" end="95" ref="27" type="state" tense="unk" polarity="unk" modality="unk">
+            <event event_id="6.0">
+              <role role="location-a" ref="5" text="das hinder gehus und Hofstatt , in dem Ringoder Salastgesslin gelegen , mit samt dem Höflin darhinder , als das von demselben hindern gehus bis an des Käufers Schidmmen so dieser tagen gemacht werden soll godt , einsit neben des Käufers hindern Hus zum Stegt , andersit Mathis Ryschachers hindern hus zum Frewolin oder alten Badstuben genant , stosst mit dem verkauften Höflin , an der verkaufen übengen theil jres Höflins , ist frey"/>
+              <role role="location-b" ref="33" text="demselben hindern gehus"/>
+              <role role="location-b" ref="34" text="des Käufers Schidmmen so dieser tagen gemacht"/>
+              <role role="location-b" ref="35" text="des Käufers hindern Hus zum Stegt"/>
+              <role role="location-b" ref="36" text="Mathis Ryschachers hindern hus zum Frewolin oder alten Badstuben genant"/>
+              <role role="location-b" ref="37" text="dem verkauften Höflin"/>
+              <role role="location-b" ref="38" text="der verkaufen"/>
+              <role role="location-b" ref="39" text="jres Höflins"/>
+            </event>
+          </eventGroup>
+          <eventGroup event_id="7" class="ownership" start="51" end="52" ref="41" type="state" tense="unk" polarity="unk" modality="unk">
+            <event event_id="7.0">
+              <role role="property" ref="34" text="des Käufers Schidmmen so dieser tagen gemacht"/>
+              <role role="owner" ref="44" text="des Käufers"/>
+            </event>
+          </eventGroup>
+          <eventGroup event_id="8" class="ownership" start="64" end="65" ref="46" type="state" tense="unk" polarity="unk" modality="unk">
+            <event event_id="8.0">
+              <role role="property" ref="35" text="des Käufers hindern Hus zum Stegt"/>
+              <role role="owner" ref="48" text="des Käufers"/>
+            </event>
+          </eventGroup>
+          <eventGroup event_id="9" class="ownership" start="72" end="74" ref="50" type="state" tense="unk" polarity="unk" modality="unk">
+            <event event_id="9.0">
+              <role role="property" ref="36" text="Mathis Ryschachers hindern hus zum Frewolin oder alten Badstuben genant"/>
+              <role role="owner" ref="54" text="Mathis Ryschachers hindern"/>
+            </event>
+          </eventGroup>
+          <eventGroup event_id="10" class="ownership" start="94" end="94" ref="60" type="state" tense="unk" polarity="unk" modality="unk">
+            <event event_id="10.0">
+              <role role="property" ref="39" text="jres Höflins"/>
+              <role role="owner" ref="62" text="jres"/>
+            </event>
+          </eventGroup>
+        </eventGroups>
+      </document>
+      <document id="07fe6781-683c-43a3-8401-9882a484bcd2_20260615">
+        <metadata>
+          <street_id>HGB_1_169</street_id>
+          <dossier_id>HGB_1_169_006</dossier_id>
+          <year>1610</year>
+          <source>Felix Platter</source>
+          <language>german</language>
+          <checked_by_gpt>false</checked_by_gpt>
+          <text>Grünen, Ring, Gässlin. Lincke Seite von der freyen Strassher. Anfang dess Gässlins 23. Zun hinderen Streit. 24. Möschlini, hinder Hauss.</text>
+          <pages>
+            <page nr="4"><![CDATA[https://files.transkribus.eu/Get?fileType=view&id=ZIIGJYELOFXJGYZJIFUKBOCV]]></page>
+          </pages>
+        </metadata>
+        <text>
+          <token token_id="0">Grünen</token>
+          <token token_id="1">,</token>
+          <token token_id="2">Ring</token>
+          <token token_id="3">,</token>
+          <token token_id="4">Gässlin</token>
+          <token token_id="5">.</token>
+          <token token_id="6">Lincke</token>
+          <token token_id="7">Seite</token>
+          <token token_id="8">von</token>
+          <token token_id="9">der</token>
+          <token token_id="10">freyen</token>
+          <token token_id="11">Strassher</token>
+          <token token_id="12">.</token>
+          <token token_id="13">Anfang</token>
+          <token token_id="14">dess</token>
+          <token token_id="15">Gässlins</token>
+          <token token_id="16">23</token>
+          <token token_id="17">.</token>
+          <token token_id="18">Zun</token>
+          <token token_id="19">hinderen</token>
+          <token token_id="20">Streit</token>
+          <token token_id="21">.</token>
+          <token token_id="22">24</token>
+          <token token_id="23">.</token>
+          <token token_id="24">Möschlini</token>
+          <token token_id="25">,</token>
+          <token token_id="26">hinder</token>
+          <token token_id="27">Hauss</token>
+          <token token_id="28">.</token>
+        </text>
+        <spans>
+          <span id="0" start="0" end="4" element="reference" class="fac" confidence="0.7" text="Grünen , Ring , Gässlin" numerus="sgl" specificity="spc" subclass="">
+            <span id="6" start="0" end="2" element="head" class="nam" confidence="0.99" text="Grünen , Ring"/>
+            <span id="7" start="4" end="4" element="unk" class="type" confidence="0.52" text="Gässlin" norm="unk"/>
+          </span>
+          <span id="1" start="9" end="11" element="reference" class="fac" confidence="0.9" text="der freyen Strassher" numerus="sgl" specificity="spc" subclass="street">
+            <span id="8" start="10" end="11" element="head" class="nam" confidence="0.93" text="freyen Strassher"/>
+          </span>
+          <span id="2" start="14" end="15" element="reference" class="fac" confidence="0.75" text="dess Gässlins" numerus="sgl" specificity="spc" subclass="street">
+            <span id="9" start="14" end="15" element="head" class="type" confidence="0.93" text="dess Gässlins" norm="unk"/>
+          </span>
+          <span id="3" start="18" end="20" element="reference" class="fac" confidence="0.81" text="Zun hinderen Streit" numerus="sgl" specificity="spc" subclass="">
+            <span id="10" start="18" end="20" element="head" class="nam" confidence="0.79" text="Zun hinderen Streit"/>
+          </span>
+          <span id="4" start="24" end="24" element="reference" class="per" confidence="0.91" text="Möschlini" numerus="sgl" specificity="spc" subclass="">
+            <span id="11" start="24" end="24" element="head" class="nam" confidence="1.0" text="Möschlini"/>
+          </span>
+          <span id="5" start="26" end="27" element="reference" class="fac" confidence="0.89" text="hinder Hauss" numerus="sgl" specificity="spc" subclass="">
+            <span id="12" start="26" end="27" element="head" class="type" confidence="0.99" text="hinder Hauss" norm="unk"/>
+          </span>
+        </spans>
+        <relations/>
+        <eventGroups/>
+      </document>
+    </collection>
+    <collection id="HGB_1_169_008">
+      <metadata>
+        <dossiertype>Liegenschaft</dossiertype>
+        <location>POINT(2611418.3277275404 1267222.5290158824)</location>
+        <address>Ringgässlein 2</address>
+        <dossier_history>
+          <phase iteration="1">
+            <validity_period from="1610" to="1627"/>
+            <relationships>
+              <successor id="HGB_1_169_009"/>
+            </relationships>
+          </phase>
+          <phase iteration="2">
+            <validity_period from="1673" to="1810"/>
+            <relationships>
+              <predecessor id="HGB_1_169_009"/>
+            </relationships>
+          </phase>
+        </dossier_history>
+      </metadata>
+      <document id="516e0058-8597-4050-b644-2cb836b29ce4_20260615">
+        <metadata>
+          <street_id>HGB_1_169</street_id>
+          <dossier_id>HGB_1_169_008</dossier_id>
+          <year>1610</year>
+          <source>Felix Platter</source>
+          <language>german</language>
+          <checked_by_gpt>false</checked_by_gpt>
+          <text>Grünen, Ring, Gässlin. Rechte Seite von der freyen Strass her. Palasts aussgang. 25 hindere Paßast. 26. Der andere Theil dess hinderen Sallasts.</text>
+          <pages>
+            <page nr="3"><![CDATA[https://files.transkribus.eu/Get?fileType=view&id=XXWRAZPCCIKUDRXULVWMRCRX]]></page>
+          </pages>
+        </metadata>
+        <text>
+          <token token_id="0">Grünen</token>
+          <token token_id="1">,</token>
+          <token token_id="2">Ring</token>
+          <token token_id="3">,</token>
+          <token token_id="4">Gässlin</token>
+          <token token_id="5">.</token>
+          <token token_id="6">Rechte</token>
+          <token token_id="7">Seite</token>
+          <token token_id="8">von</token>
+          <token token_id="9">der</token>
+          <token token_id="10">freyen</token>
+          <token token_id="11">Strass</token>
+          <token token_id="12">her</token>
+          <token token_id="13">.</token>
+          <token token_id="14">Palasts</token>
+          <token token_id="15">aussgang</token>
+          <token token_id="16">.</token>
+          <token token_id="17">25</token>
+          <token token_id="18">hindere</token>
+          <token token_id="19">Paßast</token>
+          <token token_id="20">.</token>
+          <token token_id="21">26</token>
+          <token token_id="22">.</token>
+          <token token_id="23">Der</token>
+          <token token_id="24">andere</token>
+          <token token_id="25">Theil</token>
+          <token token_id="26">dess</token>
+          <token token_id="27">hinderen</token>
+          <token token_id="28">Sallasts</token>
+          <token token_id="29">.</token>
+        </text>
+        <spans>
+          <span id="0" start="0" end="4" element="reference" class="fac" confidence="0.8" text="Grünen , Ring , Gässlin" numerus="sgl" specificity="spc" subclass="">
+            <span id="5" start="0" end="2" element="head" class="nam" confidence="0.99" text="Grünen , Ring"/>
+            <span id="6" start="4" end="4" element="unk" class="type" confidence="0.5" text="Gässlin" norm="unk"/>
+          </span>
+          <span id="1" start="9" end="11" element="reference" class="fac" confidence="0.83" text="der freyen Strass" numerus="sgl" specificity="spc" subclass="street">
+            <span id="7" start="10" end="11" element="head" class="nam" confidence="0.98" text="freyen Strass"/>
+          </span>
+          <span id="2" start="14" end="15" element="reference" class="fac" confidence="0.94" text="Palasts aussgang" numerus="sgl" specificity="spc" subclass="">
+            <span id="8" start="14" end="15" element="head" class="nam" confidence="0.71" text="Palasts aussgang"/>
+          </span>
+          <span id="3" start="18" end="19" element="reference" class="fac" confidence="0.56" text="hindere Paßast" numerus="sgl" specificity="spc" subclass="">
+            <span id="9" start="18" end="19" element="head" class="nam" confidence="0.77" text="hindere Paßast"/>
+          </span>
+          <span id="4" start="23" end="28" element="reference" class="fac" confidence="0.64" text="Der andere Theil dess hinderen Sallasts" numerus="sgl" specificity="spc" subclass="">
+            <span id="10" start="25" end="28" element="head" class="type" confidence="0.79" text="Theil dess hinderen Sallasts" norm="unk"/>
+          </span>
+        </spans>
+        <relations/>
+        <eventGroups/>
+      </document>
+      <document id="7a27579e-a34c-4dfe-a4c0-9fa3201ffb65_20260615">
+        <metadata>
+          <street_id>HGB_1_169</street_id>
+          <dossier_id>HGB_1_169_008</dossier_id>
+          <year>1625</year>
+          <source>Gerichtsarchiv</source>
+          <language>german</language>
+          <checked_by_gpt>true</checked_by_gpt>
+          <text>Hans Jacob Keller, Stattschreiber zu Liechstall contra E. Zunft zu Schuemachern, wurde erkant dass es bey dem Fünferurteil von Anno 1456 verbleiben soll. Fünfergerichtsprot. 10. 16.</text>
+          <pages>
+            <page nr="4"><![CDATA[https://files.transkribus.eu/Get?fileType=view&id=DLBSLNEZUMCKINXRQOVXDUUB]]></page>
+          </pages>
+        </metadata>
+        <text>
+          <token token_id="0">Hans</token>
+          <token token_id="1">Jacob</token>
+          <token token_id="2">Keller</token>
+          <token token_id="3">,</token>
+          <token token_id="4">Stattschreiber</token>
+          <token token_id="5">zu</token>
+          <token token_id="6">Liechstall</token>
+          <token token_id="7">contra</token>
+          <token token_id="8">E</token>
+          <token token_id="9">.</token>
+          <token token_id="10">Zunft</token>
+          <token token_id="11">zu</token>
+          <token token_id="12">Schuemachern</token>
+          <token token_id="13">,</token>
+          <token token_id="14">wurde</token>
+          <token token_id="15">erkant</token>
+          <token token_id="16">dass</token>
+          <token token_id="17">es</token>
+          <token token_id="18">bey</token>
+          <token token_id="19">dem</token>
+          <token token_id="20">Fünferurteil</token>
+          <token token_id="21">von</token>
+          <token token_id="22">Anno</token>
+          <token token_id="23">1456</token>
+          <token token_id="24">verbleiben</token>
+          <token token_id="25">soll</token>
+          <token token_id="26">.</token>
+          <token token_id="27">Fünfergerichtsprot</token>
+          <token token_id="28">.</token>
+          <token token_id="29">10</token>
+          <token token_id="30">.</token>
+          <token token_id="31">16</token>
+          <token token_id="32">.</token>
+        </text>
+        <spans>
+          <span id="0" start="0" end="6" element="reference" class="per" confidence="0.95" text="Hans Jacob Keller , Stattschreiber zu Liechstall" numerus="sgl" specificity="spc" subclass="">
+            <span id="8" start="0" end="2" element="head" class="nam" confidence="1.0" text="Hans Jacob Keller"/>
+            <span id="9" start="4" end="6" element="appo" class="occ" confidence="0.98" text="Stattschreiber zu Liechstall">
+              <span id="10" start="4" end="4" element="head" class="occ" confidence="1.0" text="Stattschreiber" norm="stadtschreiber" OhdAB="https://database.factgrid.de/wiki/Item:Q689885"/>
+              <span id="11" start="5" end="6" element="attr" class="loc" confidence="0.92" text="zu Liechstall">
+                <span id="12" start="6" end="6" element="reference" class="gpe-loc" confidence="0.96" text="Liechstall" numerus="sgl" specificity="spc" subclass="">
+                  <span id="13" start="6" end="6" element="head" class="nam" confidence="1.0" text="Liechstall"/>
+                </span>
+              </span>
+            </span>
+          </span>
+          <span id="1" start="7" end="7" element="trigger" class="litigation" confidence="1.0" text="contra"/>
+          <span id="2" start="8" end="12" element="reference" class="per" confidence="0.63" text="E . Zunft zu Schuemachern" numerus="sgl" specificity="spc" subclass="occ">
+            <span id="14" start="8" end="12" element="head" class="nam" confidence="0.81" text="E . Zunft zu Schuemachern"/>
+          </span>
+          <span id="3" start="15" end="15" element="trigger" class="other" confidence="0.84" text="erkant"/>
+          <span id="4" start="17" end="17" element="reference" class="per" confidence="1.0" text="es" numerus="sgl" specificity="spc" subclass="">
+            <span id="4_head" start="17" end="17" element="head" class="pro" confidence="1.0" text="es"/>
+          </span>
+          <span id="5" start="22" end="23" element="value" class="date" confidence="0.89" text="Anno 1456"/>
+          <span id="6" start="24" end="25" element="other" class="other" confidence="0.75" text="verbleiben soll"/>
+          <span id="7" start="29" end="31" element="value" class="date" confidence="0.75" text="10 . 16"/>
+        </spans>
+        <relations>
+          <relation id="1" from="4" to="0" class="coref"/>
+        </relations>
+        <eventGroups>
+          <eventGroup event_id="0" class="litigation" start="0" end="25" ref="" type="event" tense="unk" polarity="unk" modality="unk">
+            <trigger ref="1" text="contra" start="7" end="7"/>
+            <event event_id="0.0">
+              <role role="party1" confidence="0.84" ref="0" text="Hans Jacob Keller , Stattschreiber zu Liechstall"/>
+              <role role="party2" confidence="1.0" ref="2" text="E . Zunft zu Schuemachern"/>
+              <role role="decision" ref="6" confidence="gpt-5.5" text="verbleiben soll"/>
+              <role role="date" ref="5" confidence="gpt-5.5" text="Anno 1456"/>
+            </event>
+          </eventGroup>
+          <eventGroup event_id="1" class="litigation" start="0" end="25" ref="" type="event" tense="unk" polarity="unk" modality="unk">
+            <trigger ref="3" text="erkant" start="15" end="15"/>
+            <event event_id="1.0">
+              <role role="party1" ref="0" confidence="gpt-5.5" text="Hans Jacob Keller , Stattschreiber zu Liechstall"/>
+              <role role="party2" ref="2" confidence="gpt-5.5" text="E . Zunft zu Schuemachern"/>
+              <role role="decision" ref="6" confidence="gpt-5.5" text="verbleiben soll"/>
+              <role role="date" ref="5" confidence="gpt-5.5" text="Anno 1456"/>
+            </event>
+          </eventGroup>
+          <eventGroup event_id="2" class="topological" start="0" end="6" ref="11" type="state" tense="unk" polarity="unk" modality="unk">
+            <event event_id="2.0">
+              <role role="location-a" ref="0" text="Hans Jacob Keller , Stattschreiber zu Liechstall"/>
+              <role role="location-b" ref="12" text="Liechstall"/>
+            </event>
+          </eventGroup>
+        </eventGroups>
+      </document>
+    </collection>
+    <collection id="HGB_1_169_009">
+      <metadata>
+        <dossiertype>Liegenschaft</dossiertype>
+        <location>POINT(2611410.39887904 1267219.5987892626)</location>
+        <address>Ringgässlein 2, 4</address>
+        <dossier_history>
+          <phase iteration="1">
+            <validity_period from="1627" to="1673"/>
+            <relationships>
+              <predecessor id="HGB_1_169_008"/>
+              <predecessor id="HGB_1_169_010"/>
+              <successor id="HGB_1_169_008"/>
+              <successor id="HGB_1_169_010"/>
+            </relationships>
+          </phase>
+        </dossier_history>
+      </metadata>
+      <document id="7d86f2bd-5f9d-495f-a251-d02aa7dcfd88_20260615">
+        <metadata>
+          <street_id>HGB_1_169</street_id>
+          <dossier_id>HGB_1_169_009</dossier_id>
+          <year>1638</year>
+          <source>Gerichtsarchiv</source>
+          <language>german</language>
+          <checked_by_gpt>false</checked_by_gpt>
+          <text>Hanns Jacob Keller der Rähten, contra die Zunft zu Schuemachern, betr. dem Tachstühl auf Klägers Haus u. prod ein Fünferbr. v. Anno 4</text>
+          <pages>
+            <page nr="3"><![CDATA[https://files.transkribus.eu/Get?fileType=view&id=OSBRTSAPTJOTOAJSLWWPHXER]]></page>
+          </pages>
+        </metadata>
+        <text>
+          <token token_id="0">Hanns</token>
+          <token token_id="1">Jacob</token>
+          <token token_id="2">Keller</token>
+          <token token_id="3">der</token>
+          <token token_id="4">Rähten</token>
+          <token token_id="5">,</token>
+          <token token_id="6">contra</token>
+          <token token_id="7">die</token>
+          <token token_id="8">Zunft</token>
+          <token token_id="9">zu</token>
+          <token token_id="10">Schuemachern</token>
+          <token token_id="11">,</token>
+          <token token_id="12">betr</token>
+          <token token_id="13">.</token>
+          <token token_id="14">dem</token>
+          <token token_id="15">Tachstühl</token>
+          <token token_id="16">auf</token>
+          <token token_id="17">Klägers</token>
+          <token token_id="18">Haus</token>
+          <token token_id="19">u</token>
+          <token token_id="20">.</token>
+          <token token_id="21">prod</token>
+          <token token_id="22">ein</token>
+          <token token_id="23">Fünferbr</token>
+          <token token_id="24">.</token>
+          <token token_id="25">v</token>
+          <token token_id="26">.</token>
+          <token token_id="27">Anno</token>
+          <token token_id="28">4</token>
+        </text>
+        <spans>
+          <span id="0" start="0" end="4" element="reference" class="per" confidence="1.0" text="Hanns Jacob Keller der Rähten" numerus="sgl" specificity="spc" subclass="">
+            <span id="6" start="0" end="2" element="head" class="nam" confidence="1.0" text="Hanns Jacob Keller"/>
+            <span id="7" start="3" end="4" element="attr" class="org-aff" confidence="0.58" text="der Rähten">
+              <span id="8" start="3" end="4" element="reference" class="org" confidence="0.75" text="der Rähten" numerus="sgl" specificity="spc" subclass="">
+                <span id="9" start="4" end="4" element="head" class="type" confidence="0.99" text="Rähten" norm="Stadtrat Basel"/>
+              </span>
+            </span>
+          </span>
+          <span id="1" start="6" end="6" element="trigger" class="litigation" confidence="1.0" text="contra"/>
+          <span id="2" start="7" end="10" element="reference" class="org" confidence="0.95" text="die Zunft zu Schuemachern" numerus="sgl" specificity="spc" subclass="occ">
+            <span id="10" start="8" end="10" element="head" class="nam" confidence="0.94" text="Zunft zu Schuemachern" norm="Schuhmacherzunft"/>
+          </span>
+          <span id="3" start="14" end="15" element="reference" class="fac" confidence="0.6" text="dem Tachstühl" numerus="sgl" specificity="spc" subclass="">
+            <span id="11" start="15" end="15" element="head" class="type" confidence="0.9" text="Tachstühl" norm="unk"/>
+          </span>
+          <span id="4" start="17" end="18" element="reference" class="fac" confidence="0.86" text="Klägers Haus" numerus="sgl" specificity="spc" subclass="">
+            <span id="12" start="17" end="17" element="attr" class="owner" confidence="0.96" text="Klägers">
+              <span id="14" start="17" end="17" element="reference" class="per" confidence="1.0" text="Klägers" numerus="sgl" specificity="spc" subclass="">
+                <span id="15" start="17" end="17" element="head" class="role" confidence="0.99" text="Klägers"/>
+              </span>
+            </span>
+            <span id="13" start="18" end="18" element="head" class="type" confidence="1.0" text="Haus" norm="Haus"/>
+          </span>
+          <span id="5" start="27" end="28" element="value" class="date" confidence="0.78" text="Anno 4"/>
+        </spans>
+        <relations/>
+        <eventGroups>
+          <eventGroup event_id="0" class="litigation" start="0" end="28" ref="" type="event" tense="unk" polarity="unk" modality="unk">
+            <trigger ref="1" text="contra"/>
+            <event event_id="0.0">
+              <role role="party1" confidence="0.91" ref="0" text="Hanns Jacob Keller der Rähten"/>
+              <role role="party2" confidence="1.0" ref="2" text="die Zunft zu Schuemachern"/>
+              <role role="subject" confidence="0.82" ref="3" text="dem Tachstühl"/>
+              <role role="date" confidence="0.96" ref="5" text="Anno 4"/>
+            </event>
+          </eventGroup>
+          <eventGroup event_id="1" class="membership" start="3" end="4" ref="7" type="state" tense="unk" polarity="unk" modality="unk">
+            <event event_id="1.0">
+              <role role="member" ref="0" text="Hanns Jacob Keller der Rähten"/>
+              <role role="organization" ref="8" text="der Rähten"/>
+            </event>
+          </eventGroup>
+          <eventGroup event_id="2" class="ownership" start="17" end="17" ref="12" type="state" tense="unk" polarity="unk" modality="unk">
+            <event event_id="2.0">
+              <role role="property" ref="4" text="Klägers Haus"/>
+              <role role="owner" ref="14" text="Klägers"/>
+            </event>
+          </eventGroup>
+        </eventGroups>
+      </document>
+      <document id="5cd64f92-65e7-452e-9fc6-f9684931ff18_20260615">
+        <metadata>
+          <street_id>HGB_1_169</street_id>
+          <dossier_id>HGB_1_169_009</dossier_id>
+          <year>1639</year>
+          <source>Gerichtsarchiv</source>
+          <language>german</language>
+          <checked_by_gpt>true</checked_by_gpt>
+          <text>Emanuel Schweitzer der Steinmetzmeister, contra C. Zunft zue Schuemacherin, umb willen die Herrn Rahtshr. Hans Jacob Keller seinem aufrichtenden neben ao gegen gedachter Zunft Mauren nidergelegt.</text>
+          <pages>
+            <page nr="4"><![CDATA[https://files.transkribus.eu/Get?fileType=view&id=ZAHLXBANXLJWLQCOSAGFRBEY]]></page>
+          </pages>
+        </metadata>
+        <text>
+          <token token_id="0">Emanuel</token>
+          <token token_id="1">Schweitzer</token>
+          <token token_id="2">der</token>
+          <token token_id="3">Steinmetzmeister</token>
+          <token token_id="4">,</token>
+          <token token_id="5">contra</token>
+          <token token_id="6">C</token>
+          <token token_id="7">.</token>
+          <token token_id="8">Zunft</token>
+          <token token_id="9">zue</token>
+          <token token_id="10">Schuemacherin</token>
+          <token token_id="11">,</token>
+          <token token_id="12">umb</token>
+          <token token_id="13">willen</token>
+          <token token_id="14">die</token>
+          <token token_id="15">Herrn</token>
+          <token token_id="16">Rahtshr</token>
+          <token token_id="17">.</token>
+          <token token_id="18">Hans</token>
+          <token token_id="19">Jacob</token>
+          <token token_id="20">Keller</token>
+          <token token_id="21">seinem</token>
+          <token token_id="22">aufrichtenden</token>
+          <token token_id="23">neben</token>
+          <token token_id="24">ao</token>
+          <token token_id="25">gegen</token>
+          <token token_id="26">gedachter</token>
+          <token token_id="27">Zunft</token>
+          <token token_id="28">Mauren</token>
+          <token token_id="29">nidergelegt</token>
+          <token token_id="30">.</token>
+        </text>
+        <spans>
+          <span id="0" start="0" end="3" element="reference" class="per" confidence="1.0" text="Emanuel Schweitzer der Steinmetzmeister" numerus="sgl" specificity="spc" subclass="">
+            <span id="6" start="0" end="1" element="head" class="nam" confidence="1.0" text="Emanuel Schweitzer"/>
+            <span id="7" start="2" end="3" element="appo" class="occ" confidence="1.0" text="der Steinmetzmeister">
+              <span id="8" start="3" end="3" element="head" class="occ" confidence="1.0" text="Steinmetzmeister" norm="steinmetzmeister" OhdAB="https://database.factgrid.de/wiki/Item:Q660149"/>
+            </span>
+          </span>
+          <span id="1" start="5" end="5" element="trigger" class="litigation" confidence="0.99" text="contra"/>
+          <span id="2" start="6" end="10" element="reference" class="per" confidence="0.65" text="C . Zunft zue Schuemacherin" numerus="sgl" specificity="spc" subclass="occ">
+            <span id="9" start="6" end="7" element="appo" class="title" confidence="0.88" text="C .">
+              <span id="11" start="6" end="7" element="head" class="title" confidence="1.0" text="C ."/>
+            </span>
+            <span id="10" start="8" end="10" element="head" class="nam" confidence="0.87" text="Zunft zue Schuemacherin"/>
+          </span>
+          <span id="3" start="14" end="21" element="reference" class="per" confidence="0.86" text="die Herrn Rahtshr . Hans Jacob Keller seinem" numerus="sgl" specificity="spc" subclass="">
+            <span id="12" start="16" end="17" element="appo" class="title" confidence="0.86" text="Rahtshr .">
+              <span id="15" start="16" end="17" element="head" class="title" confidence="1.0" text="Rahtshr ."/>
+            </span>
+            <span id="13" start="18" end="20" element="head" class="nam" confidence="1.0" text="Hans Jacob Keller"/>
+            <span id="14" start="21" end="21" element="attr" class="dead" confidence="0.52" text="seinem">
+              <span id="16" start="21" end="21" element="reference" class="unk" confidence="0.98" text="seinem" numerus="sgl" specificity="spc" subclass="">
+                <span id="16_head" start="21" end="21" element="head" class="pro" confidence="0.98" text="seinem"/>
+              </span>
+            </span>
+          </span>
+          <span id="4" start="26" end="28" element="reference" class="fac" confidence="0.68" text="gedachter Zunft Mauren" numerus="sgl" specificity="spc" subclass="occ">
+            <span id="17" start="27" end="28" element="head" class="nam" confidence="0.64" text="Zunft Mauren"/>
+          </span>
+          <span id="5" start="29" end="29" element="trigger" class="other" confidence="0.97" text="nidergelegt"/>
+        </spans>
+        <relations/>
+        <eventGroups>
+          <eventGroup event_id="0" class="litigation" start="0" end="29" ref="" type="event" tense="unk" polarity="unk" modality="unk">
+            <trigger ref="1" text="contra" start="5" end="5"/>
+            <event event_id="0.0">
+              <role role="party1" confidence="0.9" ref="0" text="Emanuel Schweitzer der Steinmetzmeister"/>
+              <role role="party2" confidence="1.0" ref="2" text="C . Zunft zue Schuemacherin"/>
+              <role role="subject" confidence="0.45" ref="5" text="nidergelegt"/>
+            </event>
+          </eventGroup>
+          <eventGroup event_id="1" class="construction" start="14" end="29" ref="" type="event" tense="unk" polarity="unk" modality="unk">
+            <trigger ref="5" text="nidergelegt" start="29" end="29"/>
+            <event event_id="1.0">
+              <role role="builder" ref="3" confidence="gpt-5.5" text="die Herrn Rahtshr . Hans Jacob Keller seinem"/>
+              <role role="structure" ref="4" confidence="gpt-5.5" text="gedachter Zunft Mauren"/>
+            </event>
+          </eventGroup>
+          <eventGroup event_id="2" class="dead" start="14" end="21" ref="14" tense="unk" polarity="unk" modality="unk">
+            <event event_id="2.0">
+              <role role="source" ref="3" text="die Herrn Rahtshr . Hans Jacob Keller seinem"/>
+              <role role="target" ref="16" text="seinem"/>
+            </event>
+          </eventGroup>
+        </eventGroups>
+      </document>
+    </collection>
+    <collection id="HGB_1_169_010" house_name_1862="zum innern Palast" variant_names="zum hinderen Sallast | zum hindern Ballast">
+      <metadata>
+        <dossiertype>Liegenschaft</dossiertype>
+        <location>POINT(2611400.918734093 1267215.806731284)</location>
+        <address>Ringgässlein 4</address>
+        <dossier_history>
+          <phase iteration="1">
+            <validity_period from="1610" to="1627"/>
+            <relationships>
+              <successor id="HGB_1_169_009"/>
+            </relationships>
+          </phase>
+          <phase iteration="2">
+            <validity_period from="1673" to="1810"/>
+            <relationships>
+              <predecessor id="HGB_1_169_009"/>
+            </relationships>
+          </phase>
+        </dossier_history>
+      </metadata>
+      <document id="af9d78d4-cd0d-4480-aee6-dce08ad3460d_20260615">
+        <metadata>
+          <street_id>HGB_1_169</street_id>
+          <dossier_id>HGB_1_169_010</dossier_id>
+          <year>1610</year>
+          <source>Felix Platter</source>
+          <language>german</language>
+          <checked_by_gpt>false</checked_by_gpt>
+          <text>Grünen Ring Gässlin Rechte Seite von der freyen Strassher. 25. hindere Pablast = 26. Der ander Theil dess hindern allasts. Ende dess Gässlins.</text>
+          <pages>
+            <page nr="3"><![CDATA[https://files.transkribus.eu/Get?fileType=view&id=DAGPVPBMEPEMENILRRDHGVMP]]></page>
+          </pages>
+        </metadata>
+        <text>
+          <token token_id="0">Grünen</token>
+          <token token_id="1">Ring</token>
+          <token token_id="2">Gässlin</token>
+          <token token_id="3">Rechte</token>
+          <token token_id="4">Seite</token>
+          <token token_id="5">von</token>
+          <token token_id="6">der</token>
+          <token token_id="7">freyen</token>
+          <token token_id="8">Strassher</token>
+          <token token_id="9">.</token>
+          <token token_id="10">25</token>
+          <token token_id="11">.</token>
+          <token token_id="12">hindere</token>
+          <token token_id="13">Pablast</token>
+          <token token_id="14">=</token>
+          <token token_id="15">26</token>
+          <token token_id="16">.</token>
+          <token token_id="17">Der</token>
+          <token token_id="18">ander</token>
+          <token token_id="19">Theil</token>
+          <token token_id="20">dess</token>
+          <token token_id="21">hindern</token>
+          <token token_id="22">allasts</token>
+          <token token_id="23">.</token>
+          <token token_id="24">Ende</token>
+          <token token_id="25">dess</token>
+          <token token_id="26">Gässlins</token>
+          <token token_id="27">.</token>
+        </text>
+        <spans>
+          <span id="0" start="0" end="2" element="reference" class="fac" confidence="0.76" text="Grünen Ring Gässlin" numerus="sgl" specificity="spc" subclass="street">
+            <span id="5" start="0" end="2" element="head" class="nam" confidence="1.0" text="Grünen Ring Gässlin"/>
+          </span>
+          <span id="1" start="6" end="8" element="reference" class="fac" confidence="0.85" text="der freyen Strassher" numerus="sgl" specificity="spc" subclass="street">
+            <span id="6" start="7" end="8" element="head" class="nam" confidence="0.95" text="freyen Strassher"/>
+          </span>
+          <span id="2" start="12" end="13" element="reference" class="fac" confidence="0.82" text="hindere Pablast" numerus="sgl" specificity="spc" subclass="">
+            <span id="7" start="12" end="13" element="head" class="nam" confidence="0.64" text="hindere Pablast"/>
+          </span>
+          <span id="3" start="17" end="22" element="reference" class="fac" confidence="0.67" text="Der ander Theil dess hindern allasts" numerus="sgl" specificity="spc" subclass="">
+            <span id="8" start="19" end="22" element="head" class="type" confidence="0.76" text="Theil dess hindern allasts" norm="unk"/>
+          </span>
+          <span id="4" start="25" end="26" element="reference" class="fac" confidence="0.86" text="dess Gässlins" numerus="sgl" specificity="spc" subclass="street">
+            <span id="9" start="25" end="26" element="head" class="type" confidence="0.95" text="dess Gässlins" norm="unk"/>
+          </span>
+        </spans>
+        <relations/>
+        <eventGroups/>
+      </document>
+      <document id="ec4c7707-98aa-4127-a2c5-fd60f5349ac9_20260615">
+        <metadata>
+          <street_id>HGB_1_169</street_id>
+          <dossier_id>HGB_1_169_010</dossier_id>
+          <year>1627</year>
+          <source>Gerichtsarchiv</source>
+          <language>german</language>
+          <checked_by_gpt>false</checked_by_gpt>
+          <text>Balthasar Gotthart u. seine Frau Margaretha Brannin verkaufen an Hans Jacob Kellern Stattschreiber zu Liestal u. seine Frau Helenae Rewlin die Behausung und Hofstatt zum hinderen Sallast genannt, an dem Ringgässlin, einseits neben dem Käufern selber, anderseiten Johann Hechtmeyern gelegen, hinden an ein ehren Zunfthaus zum Schuhmachern stossend, um 417 ℔. 10 sh. desgl. 50 ℔ Verehrung. darauf hatten Jacob Götz Flachslander Schaffner 100 ℔ Hptg. u. 20 ℔ versessene Zins. tem Baschen Müllers des Tuchscherers Kinder 150 ℔ Hptg. u. 22 ℔ 10sh. Zins jtem Hans Ulrich Respinger der Specierer, 100 ℔ Hptg. u. 15 ℔ zin endl. Samuel Braun der Scherer zu Liechstal 62 ℔ 10sh. Hptg. u. 12 ℔ 10sh. zu sonsten frey. ao 1635</text>
+          <mentioned_houses>
+            <house span_ref="38">zum hinderen Sallast</house>
+          </mentioned_houses>
+          <pages>
+            <page nr="4"><![CDATA[https://files.transkribus.eu/Get?fileType=view&id=EZWWDYUXOFLVOXSYRWFXNAPJ]]></page>
+          </pages>
+        </metadata>
+        <text>
+          <token token_id="0">Balthasar</token>
+          <token token_id="1">Gotthart</token>
+          <token token_id="2">u</token>
+          <token token_id="3">.</token>
+          <token token_id="4">seine</token>
+          <token token_id="5">Frau</token>
+          <token token_id="6">Margaretha</token>
+          <token token_id="7">Brannin</token>
+          <token token_id="8">verkaufen</token>
+          <token token_id="9">an</token>
+          <token token_id="10">Hans</token>
+          <token token_id="11">Jacob</token>
+          <token token_id="12">Kellern</token>
+          <token token_id="13">Stattschreiber</token>
+          <token token_id="14">zu</token>
+          <token token_id="15">Liestal</token>
+          <token token_id="16">u</token>
+          <token token_id="17">.</token>
+          <token token_id="18">seine</token>
+          <token token_id="19">Frau</token>
+          <token token_id="20">Helenae</token>
+          <token token_id="21">Rewlin</token>
+          <token token_id="22">die</token>
+          <token token_id="23">Behausung</token>
+          <token token_id="24">und</token>
+          <token token_id="25">Hofstatt</token>
+          <token token_id="26">zum</token>
+          <token token_id="27">hinderen</token>
+          <token token_id="28">Sallast</token>
+          <token token_id="29">genannt</token>
+          <token token_id="30">,</token>
+          <token token_id="31">an</token>
+          <token token_id="32">dem</token>
+          <token token_id="33">Ringgässlin</token>
+          <token token_id="34">,</token>
+          <token token_id="35">einseits</token>
+          <token token_id="36">neben</token>
+          <token token_id="37">dem</token>
+          <token token_id="38">Käufern</token>
+          <token token_id="39">selber</token>
+          <token token_id="40">,</token>
+          <token token_id="41">anderseiten</token>
+          <token token_id="42">Johann</token>
+          <token token_id="43">Hechtmeyern</token>
+          <token token_id="44">gelegen</token>
+          <token token_id="45">,</token>
+          <token token_id="46">hinden</token>
+          <token token_id="47">an</token>
+          <token token_id="48">ein</token>
+          <token token_id="49">ehren</token>
+          <token token_id="50">Zunfthaus</token>
+          <token token_id="51">zum</token>
+          <token token_id="52">Schuhmachern</token>
+          <token token_id="53">stossend</token>
+          <token token_id="54">,</token>
+          <token token_id="55">um</token>
+          <token token_id="56">417</token>
+          <token token_id="57">℔</token>
+          <token token_id="58">.</token>
+          <token token_id="59">10</token>
+          <token token_id="60">sh</token>
+          <token token_id="61">.</token>
+          <token token_id="62">desgl</token>
+          <token token_id="63">.</token>
+          <token token_id="64">50</token>
+          <token token_id="65">℔</token>
+          <token token_id="66">Verehrung</token>
+          <token token_id="67">.</token>
+          <token token_id="68">darauf</token>
+          <token token_id="69">hatten</token>
+          <token token_id="70">Jacob</token>
+          <token token_id="71">Götz</token>
+          <token token_id="72">Flachslander</token>
+          <token token_id="73">Schaffner</token>
+          <token token_id="74">100</token>
+          <token token_id="75">℔</token>
+          <token token_id="76">Hptg</token>
+          <token token_id="77">.</token>
+          <token token_id="78">u</token>
+          <token token_id="79">.</token>
+          <token token_id="80">20</token>
+          <token token_id="81">℔</token>
+          <token token_id="82">versessene</token>
+          <token token_id="83">Zins</token>
+          <token token_id="84">.</token>
+          <token token_id="85">tem</token>
+          <token token_id="86">Baschen</token>
+          <token token_id="87">Müllers</token>
+          <token token_id="88">des</token>
+          <token token_id="89">Tuchscherers</token>
+          <token token_id="90">Kinder</token>
+          <token token_id="91">150</token>
+          <token token_id="92">℔</token>
+          <token token_id="93">Hptg</token>
+          <token token_id="94">.</token>
+          <token token_id="95">u</token>
+          <token token_id="96">.</token>
+          <token token_id="97">22</token>
+          <token token_id="98">℔</token>
+          <token token_id="99">10sh</token>
+          <token token_id="100">.</token>
+          <token token_id="101">Zins</token>
+          <token token_id="102">jtem</token>
+          <token token_id="103">Hans</token>
+          <token token_id="104">Ulrich</token>
+          <token token_id="105">Respinger</token>
+          <token token_id="106">der</token>
+          <token token_id="107">Specierer</token>
+          <token token_id="108">,</token>
+          <token token_id="109">100</token>
+          <token token_id="110">℔</token>
+          <token token_id="111">Hptg</token>
+          <token token_id="112">.</token>
+          <token token_id="113">u</token>
+          <token token_id="114">.</token>
+          <token token_id="115">15</token>
+          <token token_id="116">℔</token>
+          <token token_id="117">zin</token>
+          <token token_id="118">endl</token>
+          <token token_id="119">.</token>
+          <token token_id="120">Samuel</token>
+          <token token_id="121">Braun</token>
+          <token token_id="122">der</token>
+          <token token_id="123">Scherer</token>
+          <token token_id="124">zu</token>
+          <token token_id="125">Liechstal</token>
+          <token token_id="126">62</token>
+          <token token_id="127">℔</token>
+          <token token_id="128">10sh</token>
+          <token token_id="129">.</token>
+          <token token_id="130">Hptg</token>
+          <token token_id="131">.</token>
+          <token token_id="132">u</token>
+          <token token_id="133">.</token>
+          <token token_id="134">12</token>
+          <token token_id="135">℔</token>
+          <token token_id="136">10sh</token>
+          <token token_id="137">.</token>
+          <token token_id="138">zu</token>
+          <token token_id="139">sonsten</token>
+          <token token_id="140">frey</token>
+          <token token_id="141">.</token>
+          <token token_id="142">ao</token>
+          <token token_id="143">1635</token>
+        </text>
+        <spans>
+          <span id="0" start="0" end="1" element="reference" class="per" confidence="1.0" text="Balthasar Gotthart" numerus="sgl" specificity="spc" subclass="">
+            <span id="21" start="0" end="1" element="head" class="nam" confidence="1.0" text="Balthasar Gotthart"/>
+          </span>
+          <span id="1" start="4" end="7" element="reference" class="per" confidence="1.0" text="seine Frau Margaretha Brannin" numerus="sgl" specificity="spc" subclass="">
+            <span id="22" start="4" end="5" element="appo" class="fam" confidence="1.0" text="seine Frau">
+              <span id="24" start="4" end="4" element="reference" class="per" confidence="1.0" text="seine" numerus="sgl" specificity="spc" subclass="">
+                <span id="24_head" start="4" end="4" element="head" class="pro" confidence="1.0" text="seine"/>
+              </span>
+              <span id="25" start="5" end="5" element="head" class="fam" confidence="1.0" text="Frau"/>
+            </span>
+            <span id="23" start="6" end="7" element="head" class="nam" confidence="1.0" text="Margaretha Brannin"/>
+          </span>
+          <span id="2" start="8" end="8" element="trigger" class="sale" confidence="0.99" text="verkaufen"/>
+          <span id="3" start="10" end="15" element="reference" class="per" confidence="1.0" text="Hans Jacob Kellern Stattschreiber zu Liestal" numerus="sgl" specificity="spc" subclass="">
+            <span id="26" start="10" end="12" element="head" class="nam" confidence="1.0" text="Hans Jacob Kellern"/>
+            <span id="27" start="13" end="15" element="appo" class="occ" confidence="0.95" text="Stattschreiber zu Liestal">
+              <span id="28" start="13" end="13" element="head" class="occ" confidence="1.0" text="Stattschreiber" norm="stadtschreiber" OhdAB="https://database.factgrid.de/wiki/Item:Q689885"/>
+              <span id="29" start="15" end="15" element="reference" class="gpe-org" confidence="0.87" text="Liestal" numerus="sgl" specificity="spc" subclass="">
+                <span id="30" start="15" end="15" element="head" class="nam" confidence="1.0" text="Liestal"/>
+              </span>
+            </span>
+          </span>
+          <span id="4" start="18" end="21" element="reference" class="per" confidence="1.0" text="seine Frau Helenae Rewlin" numerus="sgl" specificity="spc" subclass="">
+            <span id="31" start="18" end="19" element="appo" class="fam" confidence="1.0" text="seine Frau">
+              <span id="33" start="18" end="18" element="reference" class="per" confidence="1.0" text="seine" numerus="sgl" specificity="spc" subclass="">
+                <span id="33_head" start="18" end="18" element="head" class="pro" confidence="1.0" text="seine"/>
+              </span>
+              <span id="34" start="19" end="19" element="head" class="fam" confidence="1.0" text="Frau"/>
+            </span>
+            <span id="32" start="20" end="21" element="head" class="nam" confidence="1.0" text="Helenae Rewlin"/>
+          </span>
+          <span id="5" start="22" end="53" element="reference" class="fac" confidence="0.97" text="die Behausung und Hofstatt zum hinderen Sallast genannt , an dem Ringgässlin , einseits neben dem Käufern selber , anderseiten Johann Hechtmeyern gelegen , hinden an ein ehren Zunfthaus zum Schuhmachern stossend" numerus="sgl" specificity="spc" subclass="">
+            <span id="35" start="23" end="25" element="head" class="type" confidence="1.0" text="Behausung und Hofstatt" norm="Behausung|Hofstatt"/>
+            <span id="36" start="26" end="28" element="appo" class="nam" confidence="0.99" text="zum hinderen Sallast">
+              <span id="38" start="26" end="28" element="head" class="nam" confidence="0.99" text="zum hinderen Sallast"/>
+            </span>
+            <span id="37" start="31" end="53" element="attr" class="loc" confidence="0.97" text="an dem Ringgässlin , einseits neben dem Käufern selber , anderseiten Johann Hechtmeyern gelegen , hinden an ein ehren Zunfthaus zum Schuhmachern stossend">
+              <span id="39" start="32" end="33" element="reference" class="fac" confidence="0.88" text="dem Ringgässlin" numerus="sgl" specificity="spc" subclass="street">
+                <span id="43" start="33" end="33" element="head" class="nam" confidence="0.95" text="Ringgässlin"/>
+              </span>
+              <span id="40" start="37" end="39" element="reference" class="per" confidence="0.89" text="dem Käufern selber" numerus="sgl" specificity="spc" subclass="">
+                <span id="44" start="38" end="38" element="head" class="role" confidence="0.99" text="Käufern"/>
+              </span>
+              <span id="41" start="42" end="43" element="reference" class="per" confidence="0.99" text="Johann Hechtmeyern" numerus="sgl" specificity="spc" subclass="">
+                <span id="45" start="42" end="43" element="head" class="nam" confidence="1.0" text="Johann Hechtmeyern"/>
+              </span>
+              <span id="42" start="48" end="52" element="reference" class="fac" confidence="0.89" text="ein ehren Zunfthaus zum Schuhmachern" numerus="sgl" specificity="spc" subclass="occ">
+                <span id="46" start="50" end="52" element="head" class="nam" confidence="0.8" text="Zunfthaus zum Schuhmachern"/>
+              </span>
+            </span>
+          </span>
+          <span id="6" start="56" end="61" element="value" class="money" confidence="1.0" text="417 ℔ . 10 sh ." norm="417.0 Pfund|10.0 Schilling"/>
+          <span id="7" start="64" end="67" element="value" class="money" confidence="0.88" text="50 ℔ Verehrung ." norm="unk unk"/>
+          <span id="8" start="70" end="73" element="reference" class="per" confidence="1.0" text="Jacob Götz Flachslander Schaffner" numerus="sgl" specificity="spc" subclass="">
+            <span id="47" start="70" end="71" element="head" class="nam" confidence="1.0" text="Jacob Götz"/>
+            <span id="48" start="72" end="73" element="appo" class="occ" confidence="0.95" text="Flachslander Schaffner">
+              <span id="49" start="72" end="72" element="head" class="occ" confidence="0.96" text="Flachslander" norm="unk"/>
+              <span id="50" start="73" end="73" element="head" class="occ" confidence="0.93" text="Schaffner" norm="schaffner" OhdAB="https://database.factgrid.de/wiki/Item:Q690018"/>
+            </span>
+          </span>
+          <span id="9" start="74" end="75" element="value" class="money" confidence="1.0" text="100 ℔" norm="100.0 Pfund"/>
+          <span id="10" start="80" end="81" element="value" class="money" confidence="0.99" text="20 ℔" norm="20.0 Pfund"/>
+          <span id="11" start="86" end="90" element="reference" class="per" confidence="1.0" text="Baschen Müllers des Tuchscherers Kinder" numerus="sgl" specificity="spc" subclass="">
+            <span id="51" start="86" end="89" element="reference" class="per" confidence="0.83" text="Baschen Müllers des Tuchscherers" numerus="sgl" specificity="spc" subclass="">
+              <span id="53" start="86" end="87" element="head" class="nam" confidence="1.0" text="Baschen Müllers"/>
+              <span id="54" start="88" end="89" element="appo" class="occ" confidence="1.0" text="des Tuchscherers">
+                <span id="55" start="89" end="89" element="head" class="occ" confidence="1.0" text="Tuchscherers" norm="tuchscherer" OhdAB="https://database.factgrid.de/wiki/Item:Q670454"/>
+              </span>
+            </span>
+            <span id="52" start="90" end="90" element="head" class="fam" confidence="0.97" text="Kinder"/>
+          </span>
+          <span id="12" start="91" end="92" element="value" class="money" confidence="0.99" text="150 ℔" norm="150.0 Pfund"/>
+          <span id="13" start="97" end="100" element="value" class="money" confidence="1.0" text="22 ℔ 10sh ." norm="22.0 Pfund|10.0 Schilling"/>
+          <span id="14" start="103" end="107" element="reference" class="per" confidence="1.0" text="Hans Ulrich Respinger der Specierer" numerus="sgl" specificity="spc" subclass="">
+            <span id="56" start="103" end="105" element="head" class="nam" confidence="1.0" text="Hans Ulrich Respinger"/>
+            <span id="57" start="106" end="107" element="appo" class="occ" confidence="0.99" text="der Specierer">
+              <span id="58" start="107" end="107" element="head" class="occ" confidence="1.0" text="Specierer" norm="spezierer" OhdAB="https://database.factgrid.de/wiki/Item:Q684777"/>
+            </span>
+          </span>
+          <span id="15" start="109" end="110" element="value" class="money" confidence="1.0" text="100 ℔" norm="100.0 Pfund"/>
+          <span id="16" start="115" end="116" element="value" class="money" confidence="1.0" text="15 ℔" norm="15.0 Pfund"/>
+          <span id="17" start="120" end="125" element="reference" class="per" confidence="0.93" text="Samuel Braun der Scherer zu Liechstal" numerus="sgl" specificity="spc" subclass="">
+            <span id="59" start="120" end="121" element="head" class="nam" confidence="1.0" text="Samuel Braun"/>
+            <span id="60" start="122" end="123" element="appo" class="occ" confidence="1.0" text="der Scherer">
+              <span id="62" start="123" end="123" element="head" class="occ" confidence="1.0" text="Scherer" norm="scherer" OhdAB="https://database.factgrid.de/wiki/Item:Q692959"/>
+            </span>
+            <span id="61" start="124" end="125" element="attr" class="loc" confidence="0.75" text="zu Liechstal">
+              <span id="63" start="125" end="125" element="reference" class="gpe-loc" confidence="0.99" text="Liechstal" numerus="sgl" specificity="spc" subclass="">
+                <span id="64" start="125" end="125" element="head" class="nam" confidence="1.0" text="Liechstal"/>
+              </span>
+            </span>
+          </span>
+          <span id="18" start="126" end="129" element="value" class="money" confidence="1.0" text="62 ℔ 10sh ." norm="62.0 Pfund|10.0 Schilling"/>
+          <span id="19" start="134" end="137" element="value" class="money" confidence="0.99" text="12 ℔ 10sh ." norm="12.0 Pfund|10.0 Schilling"/>
+          <span id="20" start="142" end="143" element="value" class="date" confidence="0.64" text="ao 1635"/>
+        </spans>
+        <relations>
+          <relation id="1" from="24" to="0" class="coref"/>
+          <relation id="2" from="33" to="3" class="coref"/>
+        </relations>
+        <eventGroups>
+          <eventGroup event_id="0" class="property-purchase" start="0" end="143" ref="" type="event" tense="unk" polarity="unk" modality="unk">
+            <trigger ref="2" text="verkaufen"/>
+            <event event_id="0.0">
+              <role role="seller" confidence="0.99" ref="0" text="Balthasar Gotthart"/>
+              <role role="seller" confidence="1.0" ref="1" text="seine Frau Margaretha Brannin"/>
+              <role role="buyer" confidence="1.0" ref="3" text="Hans Jacob Kellern Stattschreiber zu Liestal"/>
+              <role role="buyer" confidence="1.0" ref="4" text="seine Frau Helenae Rewlin"/>
+              <role role="property" confidence="1.0" ref="5" text="die Behausung und Hofstatt zum hinderen Sallast genannt , an dem Ringgässlin , einseits neben dem Käufern selber , anderseiten Johann Hechtmeyern gelegen , hinden an ein ehren Zunfthaus zum Schuhmachern stossend"/>
+              <role role="price" confidence="1.0" ref="6" text="417 ℔ . 10 sh ."/>
+              <role role="price" confidence="0.95" ref="7" text="50 ℔ Verehrung ."/>
+              <role role="beneficiary" confidence="0.85" ref="8" text="Jacob Götz Flachslander Schaffner"/>
+              <role role="price" confidence="0.92" ref="10" text="20 ℔"/>
+              <role role="beneficiary" confidence="0.98" ref="11" text="Baschen Müllers des Tuchscherers Kinder"/>
+              <role role="capital" confidence="0.59" ref="12" text="150 ℔"/>
+              <role role="price" confidence="0.98" ref="13" text="22 ℔ 10sh ."/>
+              <role role="beneficiary" confidence="0.59" ref="14" text="Hans Ulrich Respinger der Specierer"/>
+              <role role="price" confidence="0.96" ref="16" text="15 ℔"/>
+              <role role="beneficiary" confidence="0.85" ref="17" text="Samuel Braun der Scherer zu Liechstal"/>
+              <role role="price" confidence="0.96" ref="19" text="12 ℔ 10sh ."/>
+              <role role="date" confidence="0.9" ref="20" text="ao 1635"/>
+            </event>
+          </eventGroup>
+          <eventGroup event_id="1" class="family" start="86" end="90" ref="11" type="state" tense="unk" polarity="unk" modality="unk">
+            <trigger start="90" end="90" text="Kinder" ref="52"/>
+            <event event_id="1.0">
+              <role role="family-a" ref="11" text="Baschen Müllers des Tuchscherers Kinder"/>
+              <role role="family-b" ref="51" text="Baschen Müllers des Tuchscherers"/>
+            </event>
+          </eventGroup>
+          <eventGroup event_id="2" class="family" start="4" end="5" ref="22" type="state" tense="unk" polarity="unk" modality="unk">
+            <trigger start="5" end="5" text="Frau" ref="25"/>
+            <event event_id="2.0">
+              <role role="family-a" ref="1" text="seine Frau Margaretha Brannin"/>
+              <role role="family-b" ref="24" text="seine"/>
+            </event>
+          </eventGroup>
+          <eventGroup event_id="3" class="employment" start="13" end="15" ref="27" type="state" tense="unk" polarity="unk" modality="unk">
+            <trigger start="13" end="13" text="Stattschreiber" ref="28"/>
+            <event event_id="3.0">
+              <role role="employee" ref="3" text="Hans Jacob Kellern Stattschreiber zu Liestal"/>
+              <role role="employer" ref="29" text="Liestal"/>
+            </event>
+          </eventGroup>
+          <eventGroup event_id="4" class="family" start="18" end="19" ref="31" type="state" tense="unk" polarity="unk" modality="unk">
+            <trigger start="19" end="19" text="Frau" ref="34"/>
+            <event event_id="4.0">
+              <role role="family-a" ref="4" text="seine Frau Helenae Rewlin"/>
+              <role role="family-b" ref="33" text="seine"/>
+            </event>
+          </eventGroup>
+          <eventGroup event_id="5" class="topological" start="31" end="53" ref="37" type="state" tense="unk" polarity="unk" modality="unk">
+            <event event_id="5.0">
+              <role role="location-a" ref="5" text="die Behausung und Hofstatt zum hinderen Sallast genannt , an dem Ringgässlin , einseits neben dem Käufern selber , anderseiten Johann Hechtmeyern gelegen , hinden an ein ehren Zunfthaus zum Schuhmachern stossend"/>
+              <role role="location-b" ref="39" text="dem Ringgässlin"/>
+              <role role="location-b" ref="40" text="dem Käufern selber"/>
+              <role role="location-b" ref="41" text="Johann Hechtmeyern"/>
+              <role role="location-b" ref="42" text="ein ehren Zunfthaus zum Schuhmachern"/>
+            </event>
+          </eventGroup>
+          <eventGroup event_id="6" class="topological" start="124" end="125" ref="61" type="state" tense="unk" polarity="unk" modality="unk">
+            <event event_id="6.0">
+              <role role="location-a" ref="17" text="Samuel Braun der Scherer zu Liechstal"/>
+              <role role="location-b" ref="63" text="Liechstal"/>
+            </event>
+          </eventGroup>
+        </eventGroups>
+      </document>
+      <document id="d46d3f7d-4d2d-4e40-9bd8-445f0dc62ad3_20260615">
+        <metadata>
+          <street_id>HGB_1_169</street_id>
+          <dossier_id>HGB_1_169_010</dossier_id>
+          <year>1673</year>
+          <source>Gerichtsarchiv</source>
+          <language>german</language>
+          <checked_by_gpt>false</checked_by_gpt>
+          <text>Kaufs Publicatio auf Wienachtfronfasten. Es hat verkauft H. Niclaus Gürtler der Han - delsman und zu Kaufen gegeben Mr. Hans Geörg Wilden dem Küefern eine Behausung am Ringgässlin zum hindern Ballast genant, 1s. neben dem untlern Ballost, anderseits neben dem Käufern selbsten gelegen.</text>
+          <mentioned_houses>
+            <house span_ref="19">zum hindern Ballast</house>
+          </mentioned_houses>
+          <pages>
+            <page nr="6"><![CDATA[https://files.transkribus.eu/Get?fileType=view&id=ESDQWMJLFBECWPFLVGJKUJKX]]></page>
+          </pages>
+        </metadata>
+        <text>
+          <token token_id="0">Kaufs</token>
+          <token token_id="1">Publicatio</token>
+          <token token_id="2">auf</token>
+          <token token_id="3">Wienachtfronfasten</token>
+          <token token_id="4">.</token>
+          <token token_id="5">Es</token>
+          <token token_id="6">hat</token>
+          <token token_id="7">verkauft</token>
+          <token token_id="8">H</token>
+          <token token_id="9">.</token>
+          <token token_id="10">Niclaus</token>
+          <token token_id="11">Gürtler</token>
+          <token token_id="12">der</token>
+          <token token_id="13">Han</token>
+          <token token_id="14">-</token>
+          <token token_id="15">delsman</token>
+          <token token_id="16">und</token>
+          <token token_id="17">zu</token>
+          <token token_id="18">Kaufen</token>
+          <token token_id="19">gegeben</token>
+          <token token_id="20">Mr</token>
+          <token token_id="21">.</token>
+          <token token_id="22">Hans</token>
+          <token token_id="23">Geörg</token>
+          <token token_id="24">Wilden</token>
+          <token token_id="25">dem</token>
+          <token token_id="26">Küefern</token>
+          <token token_id="27">eine</token>
+          <token token_id="28">Behausung</token>
+          <token token_id="29">am</token>
+          <token token_id="30">Ringgässlin</token>
+          <token token_id="31">zum</token>
+          <token token_id="32">hindern</token>
+          <token token_id="33">Ballast</token>
+          <token token_id="34">genant</token>
+          <token token_id="35">,</token>
+          <token token_id="36">1s</token>
+          <token token_id="37">.</token>
+          <token token_id="38">neben</token>
+          <token token_id="39">dem</token>
+          <token token_id="40">untlern</token>
+          <token token_id="41">Ballost</token>
+          <token token_id="42">,</token>
+          <token token_id="43">anderseits</token>
+          <token token_id="44">neben</token>
+          <token token_id="45">dem</token>
+          <token token_id="46">Käufern</token>
+          <token token_id="47">selbsten</token>
+          <token token_id="48">gelegen</token>
+          <token token_id="49">.</token>
+        </text>
+        <spans>
+          <span id="0" start="2" end="3" element="value" class="date" confidence="1.0" text="auf Wienachtfronfasten"/>
+          <span id="1" start="7" end="7" element="trigger" class="sale" confidence="1.0" text="verkauft"/>
+          <span id="2" start="8" end="15" element="reference" class="per" confidence="1.0" text="H . Niclaus Gürtler der Han - delsman" numerus="sgl" specificity="spc" subclass="">
+            <span id="5" start="10" end="11" element="head" class="nam" confidence="1.0" text="Niclaus Gürtler"/>
+            <span id="6" start="12" end="15" element="appo" class="occ" confidence="0.88" text="der Han - delsman">
+              <span id="7" start="13" end="15" element="head" class="occ" confidence="0.99" text="Han - delsman" norm="handelsmann" OhdAB="https://database.factgrid.de/wiki/Item:Q683545"/>
+            </span>
+          </span>
+          <span id="3" start="20" end="26" element="reference" class="per" confidence="1.0" text="Mr . Hans Geörg Wilden dem Küefern" numerus="sgl" specificity="spc" subclass="">
+            <span id="8" start="20" end="21" element="appo" class="title" confidence="0.93" text="Mr .">
+              <span id="11" start="20" end="21" element="head" class="title" confidence="1.0" text="Mr ."/>
+            </span>
+            <span id="9" start="22" end="24" element="head" class="nam" confidence="1.0" text="Hans Geörg Wilden"/>
+            <span id="10" start="25" end="26" element="appo" class="occ" confidence="1.0" text="dem Küefern">
+              <span id="12" start="26" end="26" element="head" class="occ" confidence="1.0" text="Küefern" norm="küfer" OhdAB="https://database.factgrid.de/wiki/Item:Q661668"/>
+            </span>
+          </span>
+          <span id="4" start="27" end="48" element="reference" class="fac" confidence="0.97" text="eine Behausung am Ringgässlin zum hindern Ballast genant , 1s . neben dem untlern Ballost , anderseits neben dem Käufern selbsten gelegen" numerus="sgl" specificity="spc" subclass="">
+            <span id="13" start="28" end="28" element="head" class="type" confidence="1.0" text="Behausung" norm="Behausung"/>
+            <span id="14" start="29" end="30" element="attr" class="loc" confidence="0.97" text="am Ringgässlin">
+              <span id="17" start="29" end="30" element="reference" class="fac" confidence="0.84" text="am Ringgässlin" numerus="sgl" specificity="spc" subclass="street">
+                <span id="18" start="30" end="30" element="head" class="nam" confidence="1.0" text="Ringgässlin"/>
+              </span>
+            </span>
+            <span id="15" start="31" end="33" element="appo" class="nam" confidence="0.85" text="zum hindern Ballast">
+              <span id="19" start="31" end="33" element="head" class="nam" confidence="0.99" text="zum hindern Ballast"/>
+            </span>
+            <span id="16" start="36" end="48" element="attr" class="loc" confidence="0.93" text="1s . neben dem untlern Ballost , anderseits neben dem Käufern selbsten gelegen">
+              <span id="20" start="39" end="41" element="reference" class="fac" confidence="0.92" text="dem untlern Ballost" numerus="sgl" specificity="spc" subclass="">
+                <span id="22" start="40" end="41" element="head" class="type" confidence="0.8" text="untlern Ballost" norm="unk"/>
+              </span>
+              <span id="21" start="45" end="47" element="reference" class="per" confidence="0.91" text="dem Käufern selbsten" numerus="sgl" specificity="spc" subclass="">
+                <span id="23" start="46" end="46" element="head" class="role" confidence="1.0" text="Käufern"/>
+              </span>
+            </span>
+          </span>
+        </spans>
+        <relations/>
+        <eventGroups>
+          <eventGroup event_id="0" class="property-purchase" start="7" end="48" ref="" type="event" tense="unk" polarity="unk" modality="unk">
+            <trigger ref="1" text="verkauft"/>
+            <event event_id="0.0">
+              <role role="seller" confidence="0.98" ref="2" text="H . Niclaus Gürtler der Han - delsman"/>
+              <role role="buyer" confidence="1.0" ref="3" text="Mr . Hans Geörg Wilden dem Küefern"/>
+              <role role="property" confidence="1.0" ref="4" text="eine Behausung am Ringgässlin zum hindern Ballast genant , 1s . neben dem untlern Ballost , anderseits neben dem Käufern selbsten gelegen"/>
+            </event>
+          </eventGroup>
+          <eventGroup event_id="1" class="topological" start="29" end="30" ref="14" type="state" tense="unk" polarity="unk" modality="unk">
+            <event event_id="1.0">
+              <role role="location-a" ref="4" text="eine Behausung am Ringgässlin zum hindern Ballast genant , 1s . neben dem untlern Ballost , anderseits neben dem Käufern selbsten gelegen"/>
+              <role role="location-b" ref="17" text="am Ringgässlin"/>
+            </event>
+          </eventGroup>
+          <eventGroup event_id="2" class="topological" start="36" end="48" ref="16" type="state" tense="unk" polarity="unk" modality="unk">
+            <event event_id="2.0">
+              <role role="location-a" ref="4" text="eine Behausung am Ringgässlin zum hindern Ballast genant , 1s . neben dem untlern Ballost , anderseits neben dem Käufern selbsten gelegen"/>
+              <role role="location-b" ref="20" text="dem untlern Ballost"/>
+              <role role="location-b" ref="21" text="dem Käufern selbsten"/>
+            </event>
+          </eventGroup>
+        </eventGroups>
+      </document>
+      <document id="11288c8f-989b-4d61-9dfc-a733f2d74208_20260615">
+        <metadata>
+          <street_id>HGB_1_169</street_id>
+          <dossier_id>HGB_1_169_010</dossier_id>
+          <year>1700</year>
+          <source>Gerichtsarchiv</source>
+          <language>german</language>
+          <checked_by_gpt>true</checked_by_gpt>
+          <text>Samuel Gürtler zum Fallasst bittet um Bewilligen eine Thüren in seinem Haus in dem Ringgässlein, einzubrechen.</text>
+          <pages>
+            <page nr="7"><![CDATA[https://files.transkribus.eu/Get?fileType=view&id=PIKWNVSSOXENBWUNGMIQLYKO]]></page>
+          </pages>
+        </metadata>
+        <text>
+          <token token_id="0">Samuel</token>
+          <token token_id="1">Gürtler</token>
+          <token token_id="2">zum</token>
+          <token token_id="3">Fallasst</token>
+          <token token_id="4">bittet</token>
+          <token token_id="5">um</token>
+          <token token_id="6">Bewilligen</token>
+          <token token_id="7">eine</token>
+          <token token_id="8">Thüren</token>
+          <token token_id="9">in</token>
+          <token token_id="10">seinem</token>
+          <token token_id="11">Haus</token>
+          <token token_id="12">in</token>
+          <token token_id="13">dem</token>
+          <token token_id="14">Ringgässlein</token>
+          <token token_id="15">,</token>
+          <token token_id="16">einzubrechen</token>
+          <token token_id="17">.</token>
+        </text>
+        <spans>
+          <span id="0" start="0" end="3" element="reference" class="per" confidence="0.95" text="Samuel Gürtler zum Fallasst" numerus="sgl" specificity="spc" subclass="">
+            <span id="3" start="0" end="1" element="head" class="nam" confidence="1.0" text="Samuel Gürtler"/>
+            <span id="4" start="2" end="3" element="attr" class="loc" confidence="0.96" text="zum Fallasst">
+              <span id="5" start="2" end="3" element="reference" class="loc" confidence="0.71" text="zum Fallasst" numerus="sgl" specificity="spc" subclass="">
+                <span id="6" start="3" end="3" element="head" class="nam" confidence="0.73" text="Fallasst"/>
+              </span>
+            </span>
+          </span>
+          <span id="1" start="4" end="4" element="trigger" class="other" confidence="0.85" text="bittet"/>
+          <span id="2" start="10" end="14" element="reference" class="fac" confidence="0.88" text="seinem Haus in dem Ringgässlein" numerus="sgl" specificity="spc" subclass="">
+            <span id="7" start="10" end="10" element="attr" class="owner" confidence="1.0" text="seinem">
+              <span id="10" start="10" end="10" element="reference" class="per" confidence="1.0" text="seinem" numerus="sgl" specificity="spc" subclass="">
+                <span id="10_head" start="10" end="10" element="head" class="pro" confidence="1.0" text="seinem"/>
+              </span>
+            </span>
+            <span id="8" start="11" end="11" element="head" class="type" confidence="1.0" text="Haus" norm="Haus"/>
+            <span id="9" start="12" end="14" element="attr" class="loc" confidence="0.98" text="in dem Ringgässlein">
+              <span id="11" start="13" end="14" element="reference" class="fac" confidence="0.92" text="dem Ringgässlein" numerus="sgl" specificity="spc" subclass="street">
+                <span id="12" start="14" end="14" element="head" class="nam" confidence="0.9" text="Ringgässlein"/>
+              </span>
+            </span>
+          </span>
+        </spans>
+        <relations>
+          <relation from="10" to="0" class="coref"/>
+        </relations>
+        <eventGroups>
+          <eventGroup event_id="0" class="consent" start="0" end="4" ref="" type="event" tense="unk" polarity="unk" modality="unk">
+            <trigger ref="1" text="bittet" start="4" end="4"/>
+            <event event_id="0.0">
+              <role role="addressee" ref="0" confidence="gpt-5.5" text="Samuel Gürtler zum Fallasst"/>
+            </event>
+          </eventGroup>
+          <eventGroup event_id="1" class="topological" start="0" end="3" ref="4" type="state" tense="unk" polarity="unk" modality="unk">
+            <event event_id="1.0">
+              <role role="location-a" ref="0" text="Samuel Gürtler zum Fallasst"/>
+              <role role="location-b" ref="5" text="zum Fallasst"/>
+            </event>
+          </eventGroup>
+          <eventGroup event_id="2" class="ownership" start="10" end="14" ref="7" type="state" tense="unk" polarity="unk" modality="unk">
+            <event event_id="2.0">
+              <role role="property" ref="2" text="seinem Haus in dem Ringgässlein"/>
+              <role role="owner" ref="10" text="seinem"/>
+            </event>
+          </eventGroup>
+          <eventGroup event_id="3" class="topological" start="10" end="14" ref="9" type="state" tense="unk" polarity="unk" modality="unk">
+            <event event_id="3.0">
+              <role role="location-a" ref="2" text="seinem Haus in dem Ringgässlein"/>
+              <role role="location-b" ref="11" text="dem Ringgässlein"/>
+            </event>
+          </eventGroup>
+          <eventGroup event_id="4" type="event" polarity="pos" tense="pres" modality="ass" ref="" class="construction" start="0" end="14">
+            <event event_id="4.0">
+              <role role="builder" ref="0" confidence="gpt-5.5" text="Samuel Gürtler zum Fallasst"/>
+              <role role="property" ref="2" confidence="gpt-5.5" text="seinem Haus in dem Ringgässlein"/>
+              <role role="place" ref="11" confidence="gpt-5.5" text="dem Ringgässlein"/>
+            </event>
+          </eventGroup>
+        </eventGroups>
+      </document>
+    </collection>
+  </series>
+</corpus>

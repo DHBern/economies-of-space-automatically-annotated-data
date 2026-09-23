@@ -2414,7 +2414,7 @@
         <relations/>
         <eventGroups/>
       </document>
-      <document id="21920ca9-bc5e-4a30-b37a-e656d1e6aecd_20260528">
+      <document id="580237eb-08df-4d1c-b505-08105988562a_20260615">
         <metadata>
           <street_id>HGB_1_001</street_id>
           <dossier_id>HGB_1_001_005</dossier_id>
@@ -2422,161 +2422,171 @@
           <source>Erklärung betr. Abtretung zu den Schanzen Politisches </source>
           <language>german</language>
           <checked_by_gpt>false</checked_by_gpt>
-          <text>u den Schanzen Belitischen P. 3 Rappenwerth. = Jacob Werdenberg Eig v. 49 = 59 Ao 1621 S. 95 Steinen - Guntier. Rappenweith h. Hans Ullrich Thurnegten, ist auch quetwillig. Wolff Stoltz ) Thurnegran With. Rappenwirt &amp; 1607 Bruder des folg. Joh. Ulr. Thurneysen, Joh. Ulr. 1552 + 1630 Rotgerber &amp; S. 2a fühli 2. Bast. Geschr 3. les Caspar sein jüngster Sohn Andreas 1592 + 1667 &amp; Anna Schlumberger</text>
+          <text>S. 95 Steinen - Guntier. Rappenweith h. Hans Ullrich Thurnegten, ist auch quetwillig. Wolff Stoltz ) Thurnegran With. Rappenwirt &amp; 1607 Bruder des folg. Joh. Ulr. Thurneysen, Joh. Ulr. 1552 + 1630 Rotgerber &amp; S. 2a fühli 2. Bast. Geschr 3. les Caspar sein jüngster Sohn Andreas 1592 + 1667 &amp; Anna Schlumberger u den Schanzen Belitischen P. 3 Rappenwerth. = Jacob Werdenberg Eig v. 49 = 59 Ao 1621</text>
           <pages>
-            <page nr="17">https://files.transkribus.eu/Get?fileType=view&amp;id=ODAZQXHUBPGDYVPFGLWYAEBZ</page>
+            <page nr="17"><![CDATA[https://files.transkribus.eu/Get?fileType=view&id=ODAZQXHUBPGDYVPFGLWYAEBZ]]></page>
           </pages>
         </metadata>
         <text>
-          <token token_id="0">u</token>
-          <token token_id="1">den</token>
-          <token token_id="2">Schanzen</token>
-          <token token_id="3">Belitischen</token>
-          <token token_id="4">P</token>
-          <token token_id="5">.</token>
-          <token token_id="6">3</token>
-          <token token_id="7">Rappenwerth</token>
-          <token token_id="8">.</token>
-          <token token_id="9">=</token>
-          <token token_id="10">Jacob</token>
-          <token token_id="11">Werdenberg</token>
-          <token token_id="12">Eig</token>
-          <token token_id="13">v</token>
-          <token token_id="14">.</token>
-          <token token_id="15">49</token>
-          <token token_id="16">=</token>
-          <token token_id="17">59</token>
-          <token token_id="18">Ao</token>
-          <token token_id="19">1621</token>
-          <token token_id="20">S</token>
-          <token token_id="21">.</token>
-          <token token_id="22">95</token>
-          <token token_id="23">Steinen</token>
-          <token token_id="24">-</token>
-          <token token_id="25">Guntier</token>
-          <token token_id="26">.</token>
-          <token token_id="27">Rappenweith</token>
-          <token token_id="28">h</token>
-          <token token_id="29">.</token>
-          <token token_id="30">Hans</token>
-          <token token_id="31">Ullrich</token>
-          <token token_id="32">Thurnegten</token>
-          <token token_id="33">,</token>
-          <token token_id="34">ist</token>
-          <token token_id="35">auch</token>
-          <token token_id="36">quetwillig</token>
-          <token token_id="37">.</token>
-          <token token_id="38">Wolff</token>
-          <token token_id="39">Stoltz</token>
-          <token token_id="40">)</token>
-          <token token_id="41">Thurnegran</token>
-          <token token_id="42">With</token>
-          <token token_id="43">.</token>
-          <token token_id="44">Rappenwirt</token>
+          <token token_id="0">S</token>
+          <token token_id="1">.</token>
+          <token token_id="2">95</token>
+          <token token_id="3">Steinen</token>
+          <token token_id="4">-</token>
+          <token token_id="5">Guntier</token>
+          <token token_id="6">.</token>
+          <token token_id="7">Rappenweith</token>
+          <token token_id="8">h</token>
+          <token token_id="9">.</token>
+          <token token_id="10">Hans</token>
+          <token token_id="11">Ullrich</token>
+          <token token_id="12">Thurnegten</token>
+          <token token_id="13">,</token>
+          <token token_id="14">ist</token>
+          <token token_id="15">auch</token>
+          <token token_id="16">quetwillig</token>
+          <token token_id="17">.</token>
+          <token token_id="18">Wolff</token>
+          <token token_id="19">Stoltz</token>
+          <token token_id="20">)</token>
+          <token token_id="21">Thurnegran</token>
+          <token token_id="22">With</token>
+          <token token_id="23">.</token>
+          <token token_id="24">Rappenwirt</token>
+          <token token_id="25">&amp;</token>
+          <token token_id="26">1607</token>
+          <token token_id="27">Bruder</token>
+          <token token_id="28">des</token>
+          <token token_id="29">folg</token>
+          <token token_id="30">.</token>
+          <token token_id="31">Joh</token>
+          <token token_id="32">.</token>
+          <token token_id="33">Ulr</token>
+          <token token_id="34">.</token>
+          <token token_id="35">Thurneysen</token>
+          <token token_id="36">,</token>
+          <token token_id="37">Joh</token>
+          <token token_id="38">.</token>
+          <token token_id="39">Ulr</token>
+          <token token_id="40">.</token>
+          <token token_id="41">1552</token>
+          <token token_id="42">+</token>
+          <token token_id="43">1630</token>
+          <token token_id="44">Rotgerber</token>
           <token token_id="45">&amp;</token>
-          <token token_id="46">1607</token>
-          <token token_id="47">Bruder</token>
-          <token token_id="48">des</token>
-          <token token_id="49">folg</token>
-          <token token_id="50">.</token>
-          <token token_id="51">Joh</token>
-          <token token_id="52">.</token>
-          <token token_id="53">Ulr</token>
-          <token token_id="54">.</token>
-          <token token_id="55">Thurneysen</token>
-          <token token_id="56">,</token>
-          <token token_id="57">Joh</token>
-          <token token_id="58">.</token>
-          <token token_id="59">Ulr</token>
-          <token token_id="60">.</token>
-          <token token_id="61">1552</token>
-          <token token_id="62">+</token>
-          <token token_id="63">1630</token>
-          <token token_id="64">Rotgerber</token>
-          <token token_id="65">&amp;</token>
-          <token token_id="66">S</token>
-          <token token_id="67">.</token>
-          <token token_id="68">2a</token>
-          <token token_id="69">fühli</token>
-          <token token_id="70">2</token>
-          <token token_id="71">.</token>
-          <token token_id="72">Bast</token>
-          <token token_id="73">.</token>
-          <token token_id="74">Geschr</token>
+          <token token_id="46">S</token>
+          <token token_id="47">.</token>
+          <token token_id="48">2a</token>
+          <token token_id="49">fühli</token>
+          <token token_id="50">2</token>
+          <token token_id="51">.</token>
+          <token token_id="52">Bast</token>
+          <token token_id="53">.</token>
+          <token token_id="54">Geschr</token>
+          <token token_id="55">3</token>
+          <token token_id="56">.</token>
+          <token token_id="57">les</token>
+          <token token_id="58">Caspar</token>
+          <token token_id="59">sein</token>
+          <token token_id="60">jüngster</token>
+          <token token_id="61">Sohn</token>
+          <token token_id="62">Andreas</token>
+          <token token_id="63">1592</token>
+          <token token_id="64">+</token>
+          <token token_id="65">1667</token>
+          <token token_id="66">&amp;</token>
+          <token token_id="67">Anna</token>
+          <token token_id="68">Schlumberger</token>
+          <token token_id="69">u</token>
+          <token token_id="70">den</token>
+          <token token_id="71">Schanzen</token>
+          <token token_id="72">Belitischen</token>
+          <token token_id="73">P</token>
+          <token token_id="74">.</token>
           <token token_id="75">3</token>
-          <token token_id="76">.</token>
-          <token token_id="77">les</token>
-          <token token_id="78">Caspar</token>
-          <token token_id="79">sein</token>
-          <token token_id="80">jüngster</token>
-          <token token_id="81">Sohn</token>
-          <token token_id="82">Andreas</token>
-          <token token_id="83">1592</token>
-          <token token_id="84">+</token>
-          <token token_id="85">1667</token>
-          <token token_id="86">&amp;</token>
-          <token token_id="87">Anna</token>
-          <token token_id="88">Schlumberger</token>
+          <token token_id="76">Rappenwerth</token>
+          <token token_id="77">.</token>
+          <token token_id="78">=</token>
+          <token token_id="79">Jacob</token>
+          <token token_id="80">Werdenberg</token>
+          <token token_id="81">Eig</token>
+          <token token_id="82">v</token>
+          <token token_id="83">.</token>
+          <token token_id="84">49</token>
+          <token token_id="85">=</token>
+          <token token_id="86">59</token>
+          <token token_id="87">Ao</token>
+          <token token_id="88">1621</token>
         </text>
         <spans>
-          <span id="0" start="10" end="11" element="reference" class="per" confidence="0.99" text="Jacob Werdenberg" numerus="sgl" specificity="spc" subclass="">
-            <span id="16" start="10" end="11" element="head" class="nam" confidence="1.0" text="Jacob Werdenberg"/>
+          <span id="0" start="0" end="3" element="reference" class="fac" confidence="0.43" text="S . 95 Steinen" numerus="sgl" specificity="spc" subclass="">
+            <span id="20" start="0" end="3" element="head" class="nam" confidence="0.85" text="S . 95 Steinen"/>
           </span>
-          <span id="1" start="25" end="25" element="reference" class="per" confidence="0.79" text="Guntier" numerus="sgl" specificity="spc" subclass="">
-            <span id="17" start="25" end="25" element="head" class="nam" confidence="0.9" text="Guntier"/>
+          <span id="1" start="5" end="5" element="reference" class="per" confidence="0.62" text="Guntier" numerus="sgl" specificity="spc" subclass="">
+            <span id="21" start="5" end="5" element="head" class="nam" confidence="0.9" text="Guntier"/>
           </span>
-          <span id="2" start="30" end="32" element="reference" class="per" confidence="0.97" text="Hans Ullrich Thurnegten" numerus="sgl" specificity="spc" subclass="">
-            <span id="18" start="30" end="32" element="head" class="nam" confidence="1.0" text="Hans Ullrich Thurnegten"/>
+          <span id="2" start="7" end="7" element="reference" class="per" confidence="0.89" text="Rappenweith" numerus="sgl" specificity="spc" subclass="">
+            <span id="22" start="7" end="7" element="head" class="nam" confidence="1.0" text="Rappenweith"/>
           </span>
-          <span id="3" start="38" end="39" element="reference" class="per" confidence="1.0" text="Wolff Stoltz" numerus="sgl" specificity="spc" subclass="">
-            <span id="19" start="38" end="39" element="head" class="nam" confidence="1.0" text="Wolff Stoltz"/>
+          <span id="3" start="10" end="12" element="reference" class="per" confidence="1.0" text="Hans Ullrich Thurnegten" numerus="sgl" specificity="spc" subclass="">
+            <span id="23" start="10" end="12" element="head" class="nam" confidence="1.0" text="Hans Ullrich Thurnegten"/>
           </span>
-          <span id="4" start="41" end="44" element="reference" class="per" confidence="0.81" text="Thurnegran With . Rappenwirt" numerus="sgl" specificity="spc" subclass="">
-            <span id="20" start="41" end="43" element="head" class="nam" confidence="0.86" text="Thurnegran With ."/>
-            <span id="21" start="44" end="44" element="appo" class="occ" confidence="0.91" text="Rappenwirt">
-              <span id="22" start="44" end="44" element="head" class="occ" confidence="1.0" text="Rappenwirt" norm="unk"/>
+          <span id="4" start="18" end="19" element="reference" class="per" confidence="1.0" text="Wolff Stoltz" numerus="sgl" specificity="spc" subclass="">
+            <span id="24" start="18" end="19" element="head" class="nam" confidence="1.0" text="Wolff Stoltz"/>
+          </span>
+          <span id="5" start="21" end="24" element="reference" class="per" confidence="0.86" text="Thurnegran With . Rappenwirt" numerus="sgl" specificity="spc" subclass="">
+            <span id="25" start="21" end="23" element="head" class="nam" confidence="0.86" text="Thurnegran With ."/>
+            <span id="26" start="24" end="24" element="appo" class="occ" confidence="0.91" text="Rappenwirt">
+              <span id="27" start="24" end="24" element="head" class="occ" confidence="1.0" text="Rappenwirt" norm="unk"/>
             </span>
           </span>
-          <span id="5" start="46" end="46" element="value" class="date" confidence="1.0" text="1607"/>
-          <span id="6" start="47" end="47" element="reference" class="per" confidence="0.91" text="Bruder" numerus="sgl" specificity="spc" subclass="">
-            <span id="23" start="47" end="47" element="head" class="fam" confidence="0.97" text="Bruder"/>
+          <span id="6" start="26" end="26" element="value" class="date" confidence="1.0" text="1607"/>
+          <span id="7" start="27" end="27" element="reference" class="per" confidence="0.95" text="Bruder" numerus="sgl" specificity="spc" subclass="">
+            <span id="28" start="27" end="27" element="head" class="fam" confidence="0.97" text="Bruder"/>
           </span>
-          <span id="7" start="51" end="55" element="reference" class="per" confidence="0.94" text="Joh . Ulr . Thurneysen" numerus="sgl" specificity="spc" subclass="">
-            <span id="24" start="51" end="55" element="head" class="nam" confidence="0.99" text="Joh . Ulr . Thurneysen"/>
+          <span id="8" start="31" end="35" element="reference" class="per" confidence="0.97" text="Joh . Ulr . Thurneysen" numerus="sgl" specificity="spc" subclass="">
+            <span id="29" start="31" end="35" element="head" class="nam" confidence="0.99" text="Joh . Ulr . Thurneysen"/>
           </span>
-          <span id="8" start="57" end="59" element="reference" class="per" confidence="0.76" text="Joh . Ulr" numerus="sgl" specificity="spc" subclass="">
-            <span id="25" start="57" end="59" element="head" class="nam" confidence="0.99" text="Joh . Ulr"/>
+          <span id="9" start="37" end="39" element="reference" class="per" confidence="0.79" text="Joh . Ulr" numerus="sgl" specificity="spc" subclass="">
+            <span id="30" start="37" end="39" element="head" class="nam" confidence="0.99" text="Joh . Ulr"/>
           </span>
-          <span id="9" start="61" end="61" element="value" class="date" confidence="1.0" text="1552"/>
-          <span id="10" start="63" end="63" element="value" class="date" confidence="0.98" text="1630"/>
-          <span id="11" start="64" end="64" element="reference" class="per" confidence="0.91" text="Rotgerber" numerus="sgl" specificity="spc" subclass="">
-            <span id="26" start="64" end="64" element="head" class="nam" confidence="0.81" text="Rotgerber"/>
+          <span id="10" start="41" end="41" element="value" class="date" confidence="1.0" text="1552"/>
+          <span id="11" start="43" end="43" element="value" class="date" confidence="0.98" text="1630"/>
+          <span id="12" start="44" end="44" element="reference" class="per" confidence="0.88" text="Rotgerber" numerus="sgl" specificity="spc" subclass="">
+            <span id="31" start="44" end="44" element="head" class="nam" confidence="0.81" text="Rotgerber"/>
           </span>
-          <span id="12" start="78" end="82" element="reference" class="per" confidence="0.77" text="Caspar sein jüngster Sohn Andreas" numerus="sgl" specificity="spc" subclass="">
-            <span id="27" start="78" end="78" element="unk" class="nam" confidence="0.99" text="Caspar"/>
-            <span id="28" start="79" end="81" element="appo" class="fam" confidence="0.99" text="sein jüngster Sohn">
-              <span id="30" start="79" end="79" element="reference" class="unk" confidence="1.0" text="sein" numerus="sgl" specificity="spc" subclass="">
-                <span id="30_head" start="79" end="79" element="head" class="pro" confidence="1.0" text="sein"/>
+          <span id="13" start="58" end="62" element="reference" class="per" confidence="0.77" text="Caspar sein jüngster Sohn Andreas" numerus="sgl" specificity="spc" subclass="">
+            <span id="32" start="58" end="58" element="unk" class="nam" confidence="0.99" text="Caspar"/>
+            <span id="33" start="59" end="61" element="appo" class="fam" confidence="0.99" text="sein jüngster Sohn">
+              <span id="35" start="59" end="59" element="reference" class="per" confidence="1.0" text="sein" numerus="sgl" specificity="spc" subclass="">
+                <span id="35_head" start="59" end="59" element="head" class="pro" confidence="1.0" text="sein"/>
               </span>
-              <span id="31" start="81" end="81" element="head" class="fam" confidence="0.96" text="Sohn"/>
+              <span id="36" start="61" end="61" element="head" class="fam" confidence="0.96" text="Sohn"/>
             </span>
-            <span id="29" start="82" end="82" element="head" class="nam" confidence="1.0" text="Andreas"/>
+            <span id="34" start="62" end="62" element="head" class="nam" confidence="1.0" text="Andreas"/>
           </span>
-          <span id="13" start="83" end="83" element="value" class="date" confidence="1.0" text="1592"/>
-          <span id="14" start="85" end="85" element="value" class="date" confidence="0.58" text="1667"/>
-          <span id="15" start="87" end="88" element="reference" class="per" confidence="1.0" text="Anna Schlumberger" numerus="sgl" specificity="spc" subclass="">
-            <span id="32" start="87" end="88" element="head" class="nam" confidence="1.0" text="Anna Schlumberger"/>
+          <span id="14" start="63" end="63" element="value" class="date" confidence="0.99" text="1592"/>
+          <span id="15" start="65" end="65" element="value" class="date" confidence="0.69" text="1667"/>
+          <span id="16" start="67" end="68" element="reference" class="per" confidence="1.0" text="Anna Schlumberger" numerus="sgl" specificity="spc" subclass="">
+            <span id="37" start="67" end="68" element="head" class="nam" confidence="1.0" text="Anna Schlumberger"/>
           </span>
+          <span id="17" start="70" end="72" element="reference" class="per" confidence="0.7" text="den Schanzen Belitischen" numerus="sgl" specificity="spc" subclass="">
+            <span id="38" start="71" end="72" element="head" class="nam" confidence="0.84" text="Schanzen Belitischen"/>
+          </span>
+          <span id="18" start="79" end="80" element="reference" class="per" confidence="0.99" text="Jacob Werdenberg" numerus="sgl" specificity="spc" subclass="">
+            <span id="39" start="79" end="80" element="head" class="nam" confidence="1.0" text="Jacob Werdenberg"/>
+          </span>
+          <span id="19" start="88" end="88" element="value" class="date" confidence="0.77" text="1621"/>
         </spans>
         <relations>
-          <relation from="30" to="11" class="coref" confidence="rulebased"/>
+          <relation from="35" to="12" class="coref" confidence="rulebased"/>
         </relations>
         <eventGroups>
-          <eventGroup event_id="0" class="family" start="79" end="81" ref="28" type="state" tense="unk" polarity="unk" modality="unk">
-            <trigger start="81" end="81" text="Sohn" ref="31"/>
+          <eventGroup event_id="0" class="family" start="59" end="61" ref="33" type="state" tense="unk" polarity="unk" modality="unk">
+            <trigger start="61" end="61" text="Sohn" ref="36"/>
             <event event_id="0.0">
-              <role role="family-a" ref="12" text="Caspar sein jüngster Sohn Andreas"/>
-              <role role="family-b" ref="30" text="sein"/>
+              <role role="family-a" ref="13" text="Caspar sein jüngster Sohn Andreas"/>
+              <role role="family-b" ref="35" text="sein"/>
             </event>
           </eventGroup>
         </eventGroups>
@@ -4229,7 +4239,7 @@
           </phase>
         </dossier_history>
       </metadata>
-      <document id="5c8db595-0c32-487b-ab26-2518261ffa33_20260528">
+      <document id="35f20576-2f05-4a95-ba7b-60927b71d12d_20260615">
         <metadata>
           <street_id>HGB_1_001</street_id>
           <dossier_id>HGB_1_001_027</dossier_id>
@@ -4237,390 +4247,390 @@
           <source>Gerichtsarchiv</source>
           <language>german</language>
           <checked_by_gpt>false</checked_by_gpt>
-          <text>1ß zins ȡ als einem träger von den herrn ze St. Alban; idem bung gonsessit. 8 esser. Item do gab ze koffender Anna eliche frowe Alban Blaser des winmans, Hansen Stege Speyerin unlesserlich Wort ) und Claren folg heltin siner elichen frowe iren dritteil so ke ) ir ze teil worden ist an demme garten so ze Eschener tor gelegen ist ze Basel in der vorstat zwfogels schent Hans Meigenthals gart und Henman Bung ( sic ) dem rebman so erbe ist von der bruderschafft ze sant Joh. uff Burg ze Basel dennen davon ganget 4ß zins ȡ pro 6 flor. et 2 ℔ ze wiß. u. Wisstergasse 13, 15, ß von des obgenannten garten ist ein teil erbe von den herrn Gerichtsbuch der mehrern Stadt A 45. ze St. Alban den davon der verköften teil gat 4ß u. 53 zins ȡ, item so ist ein stückli Desselben verköfte teils erbe von henman binig (? ) dem rebmann dem man davon gat</text>
+          <text>Item do gab ze koffender Anna eliche frowe Alban Blaser des winmans, Hansen Stege Speyerin unlesserlich Wort ) und Claren folg heltin siner elichen frowe iren dritteil so ke ) ir ze teil worden ist an demme garten so ze Eschener tor gelegen ist ze Basel in der vorstat zwfogels schent Hans Meigenthals gart und Henman Bung ( sic ) dem rebman so erbe ist von der bruderschafft ze sant Joh. uff Burg ze Basel dennen davon ganget 4ß zins ȡ pro 6 flor. et 2 ℔ ze wiß. u. Wisstergasse 13, 15, ß von des obgenannten garten ist ein teil erbe von den herrn Gerichtsbuch der mehrern Stadt A 45. ze St. Alban den davon der verköften teil gat 4ß u. 53 zins ȡ, item so ist ein stückli Desselben verköfte teils erbe von henman binig (? ) dem rebmann dem man davon gat 1ß zins ȡ als einem träger von den herrn ze St. Alban; idem bung gonsessit. 8 esser.</text>
           <pages>
-            <page nr="3">https://files.transkribus.eu/Get?fileType=view&amp;id=KQWEVIKYNQZYWEDJKPNANSXY</page>
-            <page nr="4">https://files.transkribus.eu/Get?fileType=view&amp;id=HMGGXKWERBFTFSLQYMHODRCB</page>
+            <page nr="3"><![CDATA[https://files.transkribus.eu/Get?fileType=view&id=KQWEVIKYNQZYWEDJKPNANSXY]]></page>
+            <page nr="4"><![CDATA[https://files.transkribus.eu/Get?fileType=view&id=HMGGXKWERBFTFSLQYMHODRCB]]></page>
           </pages>
         </metadata>
         <text>
-          <token token_id="0">1ß</token>
-          <token token_id="1">zins</token>
-          <token token_id="2">ȡ</token>
-          <token token_id="3">als</token>
-          <token token_id="4">einem</token>
-          <token token_id="5">träger</token>
-          <token token_id="6">von</token>
-          <token token_id="7">den</token>
-          <token token_id="8">herrn</token>
-          <token token_id="9">ze</token>
-          <token token_id="10">St</token>
-          <token token_id="11">.</token>
-          <token token_id="12">Alban</token>
-          <token token_id="13">;</token>
-          <token token_id="14">idem</token>
-          <token token_id="15">bung</token>
-          <token token_id="16">gonsessit</token>
-          <token token_id="17">.</token>
-          <token token_id="18">8</token>
-          <token token_id="19">esser</token>
-          <token token_id="20">.</token>
-          <token token_id="21">Item</token>
-          <token token_id="22">do</token>
-          <token token_id="23">gab</token>
-          <token token_id="24">ze</token>
-          <token token_id="25">koffender</token>
-          <token token_id="26">Anna</token>
-          <token token_id="27">eliche</token>
-          <token token_id="28">frowe</token>
-          <token token_id="29">Alban</token>
-          <token token_id="30">Blaser</token>
-          <token token_id="31">des</token>
-          <token token_id="32">winmans</token>
-          <token token_id="33">,</token>
-          <token token_id="34">Hansen</token>
-          <token token_id="35">Stege</token>
-          <token token_id="36">Speyerin</token>
-          <token token_id="37">unlesserlich</token>
-          <token token_id="38">Wort</token>
-          <token token_id="39">)</token>
-          <token token_id="40">und</token>
-          <token token_id="41">Claren</token>
-          <token token_id="42">folg</token>
-          <token token_id="43">heltin</token>
-          <token token_id="44">siner</token>
-          <token token_id="45">elichen</token>
-          <token token_id="46">frowe</token>
-          <token token_id="47">iren</token>
-          <token token_id="48">dritteil</token>
-          <token token_id="49">so</token>
-          <token token_id="50">ke</token>
-          <token token_id="51">)</token>
-          <token token_id="52">ir</token>
-          <token token_id="53">ze</token>
-          <token token_id="54">teil</token>
-          <token token_id="55">worden</token>
-          <token token_id="56">ist</token>
-          <token token_id="57">an</token>
-          <token token_id="58">demme</token>
-          <token token_id="59">garten</token>
-          <token token_id="60">so</token>
-          <token token_id="61">ze</token>
-          <token token_id="62">Eschener</token>
-          <token token_id="63">tor</token>
-          <token token_id="64">gelegen</token>
+          <token token_id="0">Item</token>
+          <token token_id="1">do</token>
+          <token token_id="2">gab</token>
+          <token token_id="3">ze</token>
+          <token token_id="4">koffender</token>
+          <token token_id="5">Anna</token>
+          <token token_id="6">eliche</token>
+          <token token_id="7">frowe</token>
+          <token token_id="8">Alban</token>
+          <token token_id="9">Blaser</token>
+          <token token_id="10">des</token>
+          <token token_id="11">winmans</token>
+          <token token_id="12">,</token>
+          <token token_id="13">Hansen</token>
+          <token token_id="14">Stege</token>
+          <token token_id="15">Speyerin</token>
+          <token token_id="16">unlesserlich</token>
+          <token token_id="17">Wort</token>
+          <token token_id="18">)</token>
+          <token token_id="19">und</token>
+          <token token_id="20">Claren</token>
+          <token token_id="21">folg</token>
+          <token token_id="22">heltin</token>
+          <token token_id="23">siner</token>
+          <token token_id="24">elichen</token>
+          <token token_id="25">frowe</token>
+          <token token_id="26">iren</token>
+          <token token_id="27">dritteil</token>
+          <token token_id="28">so</token>
+          <token token_id="29">ke</token>
+          <token token_id="30">)</token>
+          <token token_id="31">ir</token>
+          <token token_id="32">ze</token>
+          <token token_id="33">teil</token>
+          <token token_id="34">worden</token>
+          <token token_id="35">ist</token>
+          <token token_id="36">an</token>
+          <token token_id="37">demme</token>
+          <token token_id="38">garten</token>
+          <token token_id="39">so</token>
+          <token token_id="40">ze</token>
+          <token token_id="41">Eschener</token>
+          <token token_id="42">tor</token>
+          <token token_id="43">gelegen</token>
+          <token token_id="44">ist</token>
+          <token token_id="45">ze</token>
+          <token token_id="46">Basel</token>
+          <token token_id="47">in</token>
+          <token token_id="48">der</token>
+          <token token_id="49">vorstat</token>
+          <token token_id="50">zwfogels</token>
+          <token token_id="51">schent</token>
+          <token token_id="52">Hans</token>
+          <token token_id="53">Meigenthals</token>
+          <token token_id="54">gart</token>
+          <token token_id="55">und</token>
+          <token token_id="56">Henman</token>
+          <token token_id="57">Bung</token>
+          <token token_id="58">(</token>
+          <token token_id="59">sic</token>
+          <token token_id="60">)</token>
+          <token token_id="61">dem</token>
+          <token token_id="62">rebman</token>
+          <token token_id="63">so</token>
+          <token token_id="64">erbe</token>
           <token token_id="65">ist</token>
-          <token token_id="66">ze</token>
-          <token token_id="67">Basel</token>
-          <token token_id="68">in</token>
-          <token token_id="69">der</token>
-          <token token_id="70">vorstat</token>
-          <token token_id="71">zwfogels</token>
-          <token token_id="72">schent</token>
-          <token token_id="73">Hans</token>
-          <token token_id="74">Meigenthals</token>
-          <token token_id="75">gart</token>
-          <token token_id="76">und</token>
-          <token token_id="77">Henman</token>
-          <token token_id="78">Bung</token>
-          <token token_id="79">(</token>
-          <token token_id="80">sic</token>
-          <token token_id="81">)</token>
-          <token token_id="82">dem</token>
-          <token token_id="83">rebman</token>
-          <token token_id="84">so</token>
-          <token token_id="85">erbe</token>
-          <token token_id="86">ist</token>
-          <token token_id="87">von</token>
-          <token token_id="88">der</token>
-          <token token_id="89">bruderschafft</token>
+          <token token_id="66">von</token>
+          <token token_id="67">der</token>
+          <token token_id="68">bruderschafft</token>
+          <token token_id="69">ze</token>
+          <token token_id="70">sant</token>
+          <token token_id="71">Joh</token>
+          <token token_id="72">.</token>
+          <token token_id="73">uff</token>
+          <token token_id="74">Burg</token>
+          <token token_id="75">ze</token>
+          <token token_id="76">Basel</token>
+          <token token_id="77">dennen</token>
+          <token token_id="78">davon</token>
+          <token token_id="79">ganget</token>
+          <token token_id="80">4ß</token>
+          <token token_id="81">zins</token>
+          <token token_id="82">ȡ</token>
+          <token token_id="83">pro</token>
+          <token token_id="84">6</token>
+          <token token_id="85">flor</token>
+          <token token_id="86">.</token>
+          <token token_id="87">et</token>
+          <token token_id="88">2</token>
+          <token token_id="89">℔</token>
           <token token_id="90">ze</token>
-          <token token_id="91">sant</token>
-          <token token_id="92">Joh</token>
-          <token token_id="93">.</token>
-          <token token_id="94">uff</token>
-          <token token_id="95">Burg</token>
-          <token token_id="96">ze</token>
-          <token token_id="97">Basel</token>
-          <token token_id="98">dennen</token>
-          <token token_id="99">davon</token>
-          <token token_id="100">ganget</token>
-          <token token_id="101">4ß</token>
-          <token token_id="102">zins</token>
-          <token token_id="103">ȡ</token>
-          <token token_id="104">pro</token>
-          <token token_id="105">6</token>
-          <token token_id="106">flor</token>
-          <token token_id="107">.</token>
-          <token token_id="108">et</token>
-          <token token_id="109">2</token>
-          <token token_id="110">℔</token>
-          <token token_id="111">ze</token>
-          <token token_id="112">wiß</token>
-          <token token_id="113">.</token>
-          <token token_id="114">u</token>
-          <token token_id="115">.</token>
-          <token token_id="116">Wisstergasse</token>
-          <token token_id="117">13</token>
-          <token token_id="118">,</token>
-          <token token_id="119">15</token>
-          <token token_id="120">,</token>
-          <token token_id="121">ß</token>
-          <token token_id="122">von</token>
-          <token token_id="123">des</token>
-          <token token_id="124">obgenannten</token>
-          <token token_id="125">garten</token>
-          <token token_id="126">ist</token>
-          <token token_id="127">ein</token>
-          <token token_id="128">teil</token>
-          <token token_id="129">erbe</token>
-          <token token_id="130">von</token>
-          <token token_id="131">den</token>
-          <token token_id="132">herrn</token>
-          <token token_id="133">Gerichtsbuch</token>
-          <token token_id="134">der</token>
-          <token token_id="135">mehrern</token>
-          <token token_id="136">Stadt</token>
-          <token token_id="137">A</token>
-          <token token_id="138">45</token>
-          <token token_id="139">.</token>
-          <token token_id="140">ze</token>
-          <token token_id="141">St</token>
-          <token token_id="142">.</token>
-          <token token_id="143">Alban</token>
-          <token token_id="144">den</token>
-          <token token_id="145">davon</token>
-          <token token_id="146">der</token>
-          <token token_id="147">verköften</token>
-          <token token_id="148">teil</token>
-          <token token_id="149">gat</token>
-          <token token_id="150">4ß</token>
-          <token token_id="151">u</token>
-          <token token_id="152">.</token>
-          <token token_id="153">53</token>
-          <token token_id="154">zins</token>
-          <token token_id="155">ȡ</token>
-          <token token_id="156">,</token>
-          <token token_id="157">item</token>
-          <token token_id="158">so</token>
-          <token token_id="159">ist</token>
-          <token token_id="160">ein</token>
-          <token token_id="161">stückli</token>
-          <token token_id="162">Desselben</token>
-          <token token_id="163">verköfte</token>
-          <token token_id="164">teils</token>
-          <token token_id="165">erbe</token>
-          <token token_id="166">von</token>
-          <token token_id="167">henman</token>
-          <token token_id="168">binig</token>
-          <token token_id="169">(</token>
-          <token token_id="170">?</token>
-          <token token_id="171">)</token>
-          <token token_id="172">dem</token>
-          <token token_id="173">rebmann</token>
-          <token token_id="174">dem</token>
-          <token token_id="175">man</token>
-          <token token_id="176">davon</token>
-          <token token_id="177">gat</token>
+          <token token_id="91">wiß</token>
+          <token token_id="92">.</token>
+          <token token_id="93">u</token>
+          <token token_id="94">.</token>
+          <token token_id="95">Wisstergasse</token>
+          <token token_id="96">13</token>
+          <token token_id="97">,</token>
+          <token token_id="98">15</token>
+          <token token_id="99">,</token>
+          <token token_id="100">ß</token>
+          <token token_id="101">von</token>
+          <token token_id="102">des</token>
+          <token token_id="103">obgenannten</token>
+          <token token_id="104">garten</token>
+          <token token_id="105">ist</token>
+          <token token_id="106">ein</token>
+          <token token_id="107">teil</token>
+          <token token_id="108">erbe</token>
+          <token token_id="109">von</token>
+          <token token_id="110">den</token>
+          <token token_id="111">herrn</token>
+          <token token_id="112">Gerichtsbuch</token>
+          <token token_id="113">der</token>
+          <token token_id="114">mehrern</token>
+          <token token_id="115">Stadt</token>
+          <token token_id="116">A</token>
+          <token token_id="117">45</token>
+          <token token_id="118">.</token>
+          <token token_id="119">ze</token>
+          <token token_id="120">St</token>
+          <token token_id="121">.</token>
+          <token token_id="122">Alban</token>
+          <token token_id="123">den</token>
+          <token token_id="124">davon</token>
+          <token token_id="125">der</token>
+          <token token_id="126">verköften</token>
+          <token token_id="127">teil</token>
+          <token token_id="128">gat</token>
+          <token token_id="129">4ß</token>
+          <token token_id="130">u</token>
+          <token token_id="131">.</token>
+          <token token_id="132">53</token>
+          <token token_id="133">zins</token>
+          <token token_id="134">ȡ</token>
+          <token token_id="135">,</token>
+          <token token_id="136">item</token>
+          <token token_id="137">so</token>
+          <token token_id="138">ist</token>
+          <token token_id="139">ein</token>
+          <token token_id="140">stückli</token>
+          <token token_id="141">Desselben</token>
+          <token token_id="142">verköfte</token>
+          <token token_id="143">teils</token>
+          <token token_id="144">erbe</token>
+          <token token_id="145">von</token>
+          <token token_id="146">henman</token>
+          <token token_id="147">binig</token>
+          <token token_id="148">(</token>
+          <token token_id="149">?</token>
+          <token token_id="150">)</token>
+          <token token_id="151">dem</token>
+          <token token_id="152">rebmann</token>
+          <token token_id="153">dem</token>
+          <token token_id="154">man</token>
+          <token token_id="155">davon</token>
+          <token token_id="156">gat</token>
+          <token token_id="157">1ß</token>
+          <token token_id="158">zins</token>
+          <token token_id="159">ȡ</token>
+          <token token_id="160">als</token>
+          <token token_id="161">einem</token>
+          <token token_id="162">träger</token>
+          <token token_id="163">von</token>
+          <token token_id="164">den</token>
+          <token token_id="165">herrn</token>
+          <token token_id="166">ze</token>
+          <token token_id="167">St</token>
+          <token token_id="168">.</token>
+          <token token_id="169">Alban</token>
+          <token token_id="170">;</token>
+          <token token_id="171">idem</token>
+          <token token_id="172">bung</token>
+          <token token_id="173">gonsessit</token>
+          <token token_id="174">.</token>
+          <token token_id="175">8</token>
+          <token token_id="176">esser</token>
+          <token token_id="177">.</token>
         </text>
         <spans>
-          <span id="0" start="0" end="2" element="value" class="money" confidence="0.87" text="1ß zins ȡ" norm="1.0 Schilling-Denare"/>
-          <span id="1" start="7" end="12" element="reference" class="org" confidence="0.98" text="den herrn ze St . Alban" numerus="sgl" specificity="spc" subclass="rel">
-            <span id="22" start="8" end="12" element="head" class="nam" confidence="0.88" text="herrn ze St . Alban" norm="St. Alban"/>
-          </span>
-          <span id="2" start="25" end="25" element="trigger" class="sale" confidence="0.91" text="koffender"/>
-          <span id="3" start="26" end="32" element="reference" class="per" confidence="0.99" text="Anna eliche frowe Alban Blaser des winmans" numerus="sgl" specificity="spc" subclass="">
-            <span id="23" start="26" end="26" element="head" class="nam" confidence="1.0" text="Anna"/>
-            <span id="24" start="27" end="32" element="appo" class="fam" confidence="0.79" text="eliche frowe Alban Blaser des winmans">
-              <span id="25" start="27" end="28" element="head" class="fam" confidence="1.0" text="eliche frowe"/>
-              <span id="26" start="29" end="32" element="reference" class="per" confidence="0.88" text="Alban Blaser des winmans" numerus="sgl" specificity="spc" subclass="">
-                <span id="27" start="29" end="30" element="head" class="nam" confidence="1.0" text="Alban Blaser"/>
-                <span id="28" start="31" end="32" element="appo" class="occ" confidence="0.93" text="des winmans">
-                  <span id="29" start="32" end="32" element="head" class="occ" confidence="1.0" text="winmans" norm="weinmann" OhdAB="https://database.factgrid.de/wiki/Item:Q658170"/>
+          <span id="0" start="4" end="4" element="trigger" class="sale" confidence="0.92" text="koffender"/>
+          <span id="1" start="5" end="11" element="reference" class="per" confidence="0.98" text="Anna eliche frowe Alban Blaser des winmans" numerus="sgl" specificity="spc" subclass="">
+            <span id="21" start="5" end="5" element="head" class="nam" confidence="1.0" text="Anna"/>
+            <span id="22" start="6" end="11" element="appo" class="fam" confidence="0.79" text="eliche frowe Alban Blaser des winmans">
+              <span id="23" start="6" end="7" element="head" class="fam" confidence="1.0" text="eliche frowe"/>
+              <span id="24" start="8" end="11" element="reference" class="per" confidence="0.88" text="Alban Blaser des winmans" numerus="sgl" specificity="spc" subclass="">
+                <span id="25" start="8" end="9" element="head" class="nam" confidence="1.0" text="Alban Blaser"/>
+                <span id="26" start="10" end="11" element="appo" class="occ" confidence="0.93" text="des winmans">
+                  <span id="27" start="11" end="11" element="head" class="occ" confidence="1.0" text="winmans" norm="weinmann" OhdAB="https://database.factgrid.de/wiki/Item:Q658170"/>
                 </span>
               </span>
             </span>
           </span>
-          <span id="4" start="34" end="38" element="reference" class="per" confidence="0.96" text="Hansen Stege Speyerin unlesserlich Wort" numerus="sgl" specificity="spc" subclass="">
-            <span id="30" start="34" end="36" element="head" class="nam" confidence="0.99" text="Hansen Stege Speyerin"/>
-            <span id="31" start="38" end="38" element="unk" class="other" confidence="0.43" text="Wort"/>
+          <span id="2" start="13" end="17" element="reference" class="per" confidence="0.96" text="Hansen Stege Speyerin unlesserlich Wort" numerus="sgl" specificity="spc" subclass="">
+            <span id="28" start="13" end="15" element="head" class="nam" confidence="0.99" text="Hansen Stege Speyerin"/>
+            <span id="29" start="17" end="17" element="unk" class="other" confidence="0.43" text="Wort"/>
           </span>
-          <span id="5" start="41" end="46" element="reference" class="per" confidence="0.96" text="Claren folg heltin siner elichen frowe" numerus="sgl" specificity="spc" subclass="">
-            <span id="32" start="41" end="43" element="head" class="nam" confidence="1.0" text="Claren folg heltin"/>
-            <span id="33" start="44" end="46" element="appo" class="fam" confidence="1.0" text="siner elichen frowe">
-              <span id="34" start="44" end="44" element="reference" class="per" confidence="1.0" text="siner" numerus="sgl" specificity="spc" subclass="">
-                <span id="34_head" start="44" end="44" element="head" class="pro" confidence="1.0" text="siner"/>
+          <span id="3" start="20" end="25" element="reference" class="per" confidence="0.97" text="Claren folg heltin siner elichen frowe" numerus="sgl" specificity="spc" subclass="">
+            <span id="30" start="20" end="22" element="head" class="nam" confidence="1.0" text="Claren folg heltin"/>
+            <span id="31" start="23" end="25" element="appo" class="fam" confidence="1.0" text="siner elichen frowe">
+              <span id="32" start="23" end="23" element="reference" class="per" confidence="1.0" text="siner" numerus="sgl" specificity="spc" subclass="">
+                <span id="32_head" start="23" end="23" element="head" class="pro" confidence="1.0" text="siner"/>
               </span>
-              <span id="35" start="45" end="46" element="head" class="fam" confidence="0.98" text="elichen frowe"/>
+              <span id="33" start="24" end="25" element="head" class="fam" confidence="0.98" text="elichen frowe"/>
             </span>
           </span>
-          <span id="6" start="47" end="51" element="reference" class="fac" confidence="0.49" text="iren dritteil so ke )" numerus="sgl" specificity="spc" subclass="">
-            <span id="36" start="47" end="47" element="attr" class="owner" confidence="0.78" text="iren">
-              <span id="37" start="47" end="47" element="reference" class="per" confidence="1.0" text="iren" numerus="sgl" specificity="spc" subclass="">
-                <span id="37_head" start="47" end="47" element="head" class="pro" confidence="1.0" text="iren"/>
+          <span id="4" start="26" end="30" element="reference" class="fac" confidence="0.5" text="iren dritteil so ke )" numerus="sgl" specificity="spc" subclass="">
+            <span id="34" start="26" end="26" element="attr" class="owner" confidence="0.78" text="iren">
+              <span id="35" start="26" end="26" element="reference" class="per" confidence="1.0" text="iren" numerus="sgl" specificity="spc" subclass="">
+                <span id="35_head" start="26" end="26" element="head" class="pro" confidence="1.0" text="iren"/>
               </span>
             </span>
           </span>
-          <span id="7" start="52" end="52" element="reference" class="unk" confidence="0.97" text="ir" numerus="sgl" specificity="spc" subclass="">
-            <span id="7_head" start="52" end="52" element="head" class="pro" confidence="0.97" text="ir"/>
+          <span id="5" start="31" end="31" element="reference" class="unk" confidence="0.95" text="ir" numerus="sgl" specificity="spc" subclass="">
+            <span id="5_head" start="31" end="31" element="head" class="pro" confidence="0.95" text="ir"/>
           </span>
-          <span id="8" start="58" end="103" element="reference" class="fac" confidence="0.86" text="demme garten so ze Eschener tor gelegen ist ze Basel in der vorstat zwfogels schent Hans Meigenthals gart und Henman Bung ( sic ) dem rebman so erbe ist von der bruderschafft ze sant Joh . uff Burg ze Basel dennen davon ganget 4ß zins ȡ" numerus="sgl" specificity="spc" subclass="">
-            <span id="38" start="59" end="59" element="head" class="type" confidence="1.0" text="garten" norm="Garten"/>
-            <span id="39" start="60" end="83" element="attr" class="loc" confidence="0.91" text="so ze Eschener tor gelegen ist ze Basel in der vorstat zwfogels schent Hans Meigenthals gart und Henman Bung ( sic ) dem rebman">
-              <span id="41" start="62" end="63" element="reference" class="fac" confidence="0.77" text="Eschener tor" numerus="sgl" specificity="spc" subclass="">
-                <span id="47" start="62" end="63" element="head" class="nam" confidence="1.0" text="Eschener tor"/>
+          <span id="6" start="37" end="82" element="reference" class="fac" confidence="0.9" text="demme garten so ze Eschener tor gelegen ist ze Basel in der vorstat zwfogels schent Hans Meigenthals gart und Henman Bung ( sic ) dem rebman so erbe ist von der bruderschafft ze sant Joh . uff Burg ze Basel dennen davon ganget 4ß zins ȡ" numerus="sgl" specificity="spc" subclass="">
+            <span id="36" start="38" end="38" element="head" class="type" confidence="1.0" text="garten" norm="Garten"/>
+            <span id="37" start="39" end="62" element="attr" class="loc" confidence="0.91" text="so ze Eschener tor gelegen ist ze Basel in der vorstat zwfogels schent Hans Meigenthals gart und Henman Bung ( sic ) dem rebman">
+              <span id="39" start="41" end="42" element="reference" class="fac" confidence="0.77" text="Eschener tor" numerus="sgl" specificity="spc" subclass="">
+                <span id="45" start="41" end="42" element="head" class="nam" confidence="1.0" text="Eschener tor"/>
               </span>
-              <span id="42" start="67" end="67" element="reference" class="gpe-loc" confidence="1.0" text="Basel" numerus="sgl" specificity="spc" subclass="">
-                <span id="48" start="67" end="67" element="head" class="nam" confidence="1.0" text="Basel"/>
+              <span id="40" start="46" end="46" element="reference" class="gpe-loc" confidence="1.0" text="Basel" numerus="sgl" specificity="spc" subclass="">
+                <span id="46" start="46" end="46" element="head" class="nam" confidence="1.0" text="Basel"/>
               </span>
-              <span id="43" start="69" end="71" element="reference" class="fac" confidence="0.85" text="der vorstat zwfogels" numerus="sgl" specificity="spc" subclass="vorstadt">
-                <span id="49" start="70" end="71" element="head" class="nam" confidence="0.96" text="vorstat zwfogels"/>
+              <span id="41" start="48" end="50" element="reference" class="fac" confidence="0.85" text="der vorstat zwfogels" numerus="sgl" specificity="spc" subclass="vorstadt">
+                <span id="47" start="49" end="50" element="head" class="nam" confidence="0.96" text="vorstat zwfogels"/>
               </span>
-              <span id="44" start="73" end="75" element="reference" class="fac" confidence="0.85" text="Hans Meigenthals gart" numerus="sgl" specificity="spc" subclass="">
-                <span id="50" start="73" end="74" element="attr" class="owner" confidence="1.0" text="Hans Meigenthals">
-                  <span id="52" start="73" end="74" element="reference" class="per" confidence="1.0" text="Hans Meigenthals" numerus="sgl" specificity="spc" subclass="">
-                    <span id="53" start="73" end="74" element="head" class="nam" confidence="1.0" text="Hans Meigenthals"/>
+              <span id="42" start="52" end="54" element="reference" class="fac" confidence="0.85" text="Hans Meigenthals gart" numerus="sgl" specificity="spc" subclass="">
+                <span id="48" start="52" end="53" element="attr" class="owner" confidence="1.0" text="Hans Meigenthals">
+                  <span id="50" start="52" end="53" element="reference" class="per" confidence="1.0" text="Hans Meigenthals" numerus="sgl" specificity="spc" subclass="">
+                    <span id="51" start="52" end="53" element="head" class="nam" confidence="1.0" text="Hans Meigenthals"/>
                   </span>
                 </span>
-                <span id="51" start="75" end="75" element="head" class="type" confidence="1.0" text="gart" norm="Garten"/>
+                <span id="49" start="54" end="54" element="head" class="type" confidence="1.0" text="gart" norm="Garten"/>
               </span>
-              <span id="45" start="77" end="78" element="reference" class="per" confidence="0.96" text="Henman Bung" numerus="sgl" specificity="spc" subclass="">
-                <span id="54" start="77" end="78" element="head" class="nam" confidence="1.0" text="Henman Bung"/>
+              <span id="43" start="56" end="57" element="reference" class="per" confidence="0.96" text="Henman Bung" numerus="sgl" specificity="spc" subclass="">
+                <span id="52" start="56" end="57" element="head" class="nam" confidence="1.0" text="Henman Bung"/>
               </span>
-              <span id="46" start="80" end="83" element="reference" class="per" confidence="0.8" text="sic ) dem rebman" numerus="sgl" specificity="spc" subclass="">
-                <span id="56" start="83" end="83" element="head" class="occ" confidence="1.0" text="rebman" norm="rebmann" OhdAB="https://database.factgrid.de/wiki/Item:Q658152"/>
+              <span id="44" start="59" end="62" element="reference" class="per" confidence="0.8" text="sic ) dem rebman" numerus="sgl" specificity="spc" subclass="">
+                <span id="54" start="62" end="62" element="head" class="occ" confidence="1.0" text="rebman" norm="rebmann" OhdAB="https://database.factgrid.de/wiki/Item:Q658152"/>
               </span>
             </span>
-            <span id="40" start="84" end="103" element="attr" class="dues" confidence="0.96" text="so erbe ist von der bruderschafft ze sant Joh . uff Burg ze Basel dennen davon ganget 4ß zins ȡ">
-              <span id="57" start="84" end="87" element="other" class="other" confidence="0.79" text="so erbe ist von"/>
-              <span id="58" start="88" end="97" element="reference" class="org" confidence="0.9" text="der bruderschafft ze sant Joh . uff Burg ze Basel" numerus="sgl" specificity="spc" subclass="rel">
-                <span id="61" start="89" end="93" element="head" class="nam" confidence="0.82" text="bruderschafft ze sant Joh ." norm="Bruderschaft St. Johann"/>
-                <span id="62" start="94" end="95" element="attr" class="loc" confidence="0.73" text="uff Burg">
-                  <span id="64" start="95" end="95" element="reference" class="loc" confidence="0.99" text="Burg" numerus="sgl" specificity="spc" subclass="">
-                    <span id="65" start="95" end="95" element="head" class="nam" confidence="1.0" text="Burg"/>
+            <span id="38" start="63" end="82" element="attr" class="dues" confidence="0.96" text="so erbe ist von der bruderschafft ze sant Joh . uff Burg ze Basel dennen davon ganget 4ß zins ȡ">
+              <span id="55" start="63" end="66" element="other" class="other" confidence="0.79" text="so erbe ist von"/>
+              <span id="56" start="67" end="76" element="reference" class="org" confidence="0.9" text="der bruderschafft ze sant Joh . uff Burg ze Basel" numerus="sgl" specificity="spc" subclass="rel">
+                <span id="59" start="68" end="72" element="head" class="nam" confidence="0.82" text="bruderschafft ze sant Joh ." norm="Bruderschaft St. Johann"/>
+                <span id="60" start="73" end="74" element="attr" class="loc" confidence="0.73" text="uff Burg">
+                  <span id="62" start="74" end="74" element="reference" class="loc" confidence="0.99" text="Burg" numerus="sgl" specificity="spc" subclass="">
+                    <span id="63" start="74" end="74" element="head" class="nam" confidence="1.0" text="Burg"/>
                   </span>
                 </span>
-                <span id="63" start="96" end="97" element="attr" class="loc" confidence="0.77" text="ze Basel">
-                  <span id="66" start="97" end="97" element="reference" class="gpe-loc" confidence="1.0" text="Basel" numerus="sgl" specificity="spc" subclass="">
-                    <span id="67" start="97" end="97" element="head" class="nam" confidence="1.0" text="Basel"/>
+                <span id="61" start="75" end="76" element="attr" class="loc" confidence="0.77" text="ze Basel">
+                  <span id="64" start="76" end="76" element="reference" class="gpe-loc" confidence="1.0" text="Basel" numerus="sgl" specificity="spc" subclass="">
+                    <span id="65" start="76" end="76" element="head" class="nam" confidence="1.0" text="Basel"/>
                   </span>
                 </span>
               </span>
-              <span id="59" start="100" end="100" element="trigger" class="due" confidence="1.0" text="ganget"/>
-              <span id="60" start="101" end="103" element="value" class="money" confidence="0.99" text="4ß zins ȡ" norm="4.0 Schilling-Denare"/>
+              <span id="57" start="79" end="79" element="trigger" class="due" confidence="1.0" text="ganget"/>
+              <span id="58" start="80" end="82" element="value" class="money" confidence="0.99" text="4ß zins ȡ" norm="4.0 Schilling-Denare"/>
             </span>
           </span>
-          <span id="9" start="105" end="107" element="value" class="money" confidence="0.98" text="6 flor ." norm="6.0 Gulden"/>
-          <span id="10" start="109" end="110" element="value" class="money" confidence="0.99" text="2 ℔" norm="2.0 Pfund"/>
-          <span id="11" start="111" end="113" element="other" class="other" confidence="0.71" text="ze wiß ."/>
-          <span id="12" start="116" end="117" element="reference" class="fac" confidence="0.61" text="Wisstergasse 13" numerus="sgl" specificity="spc" subclass="street">
-            <span id="68" start="116" end="117" element="head" class="nam" confidence="1.0" text="Wisstergasse 13"/>
+          <span id="7" start="84" end="86" element="value" class="money" confidence="0.97" text="6 flor ." norm="6.0 Gulden"/>
+          <span id="8" start="88" end="89" element="value" class="money" confidence="0.99" text="2 ℔" norm="2.0 Pfund"/>
+          <span id="9" start="90" end="92" element="other" class="other" confidence="0.71" text="ze wiß ."/>
+          <span id="10" start="95" end="104" element="reference" class="fac" confidence="0.6" text="Wisstergasse 13 , 15 , ß von des obgenannten garten" numerus="sgl" specificity="spc" subclass="">
+            <span id="66" start="95" end="95" element="unk" class="nam" confidence="0.99" text="Wisstergasse"/>
+            <span id="67" start="104" end="104" element="head" class="type" confidence="1.0" text="garten" norm="Garten"/>
           </span>
-          <span id="13" start="119" end="121" element="value" class="money" confidence="0.56" text="15 , ß" norm="15.0 Schilling"/>
-          <span id="14" start="123" end="125" element="reference" class="fac" confidence="0.69" text="des obgenannten garten" numerus="sgl" specificity="spc" subclass="">
-            <span id="69" start="125" end="125" element="head" class="type" confidence="1.0" text="garten" norm="Garten"/>
-          </span>
-          <span id="15" start="127" end="148" element="other" class="other" confidence="0.67" text="ein teil erbe von den herrn Gerichtsbuch der mehrern Stadt A 45 . ze St . Alban den davon der verköften teil"/>
-          <span id="16" start="149" end="149" element="trigger" class="due" confidence="0.85" text="gat"/>
-          <span id="17" start="150" end="150" element="value" class="money" confidence="1.0" text="4ß" norm="4.0 Schilling"/>
-          <span id="18" start="153" end="155" element="value" class="money" confidence="0.98" text="53 zins ȡ" norm="53.0 Denare"/>
-          <span id="19" start="160" end="161" element="reference" class="fac" confidence="0.59" text="ein stückli" numerus="sgl" specificity="spc" subclass="">
-            <span id="70" start="161" end="161" element="head" class="type" confidence="1.0" text="stückli" norm="unk"/>
-          </span>
-          <span id="20" start="167" end="173" element="reference" class="per" confidence="0.91" text="henman binig ( ? ) dem rebmann" numerus="sgl" specificity="spc" subclass="">
-            <span id="71" start="167" end="168" element="head" class="nam" confidence="1.0" text="henman binig"/>
-            <span id="72" start="172" end="173" element="appo" class="occ" confidence="0.99" text="dem rebmann">
-              <span id="73" start="173" end="173" element="head" class="occ" confidence="1.0" text="rebmann" norm="rebmann" OhdAB="https://database.factgrid.de/wiki/Item:Q658152"/>
+          <span id="11" start="106" end="127" element="other" class="other" confidence="0.76" text="ein teil erbe von den herrn Gerichtsbuch der mehrern Stadt A 45 . ze St . Alban den davon der verköften teil"/>
+          <span id="12" start="128" end="128" element="trigger" class="due" confidence="0.7" text="gat"/>
+          <span id="13" start="129" end="129" element="value" class="money" confidence="1.0" text="4ß" norm="4.0 Schilling"/>
+          <span id="14" start="132" end="134" element="value" class="money" confidence="0.98" text="53 zins ȡ" norm="53.0 Denare"/>
+          <span id="15" start="138" end="145" element="other" class="other" confidence="0.53" text="ist ein stückli Desselben verköfte teils erbe von"/>
+          <span id="16" start="146" end="152" element="reference" class="per" confidence="0.87" text="henman binig ( ? ) dem rebmann" numerus="sgl" specificity="spc" subclass="">
+            <span id="68" start="146" end="147" element="head" class="nam" confidence="1.0" text="henman binig"/>
+            <span id="69" start="151" end="152" element="appo" class="occ" confidence="0.99" text="dem rebmann">
+              <span id="70" start="152" end="152" element="head" class="occ" confidence="1.0" text="rebmann" norm="rebmann" OhdAB="https://database.factgrid.de/wiki/Item:Q658152"/>
             </span>
           </span>
-          <span id="21" start="177" end="177" element="trigger" class="due" confidence="0.71" text="gat"/>
+          <span id="17" start="153" end="153" element="reference" class="per" confidence="0.93" text="dem" numerus="sgl" specificity="spc" subclass="">
+            <span id="17_head" start="153" end="153" element="head" class="pro" confidence="0.93" text="dem"/>
+          </span>
+          <span id="18" start="156" end="156" element="trigger" class="due" confidence="0.99" text="gat"/>
+          <span id="19" start="157" end="159" element="value" class="money" confidence="0.98" text="1ß zins ȡ" norm="1.0 Schilling-Denare"/>
+          <span id="20" start="160" end="177" element="other" class="other" confidence="0.73" text="als einem träger von den herrn ze St . Alban ; idem bung gonsessit . 8 esser ."/>
         </spans>
         <relations>
-          <relation id="1" from="34" to="3" class="coref"/>
-          <relation id="2" from="34" to="4" class="coref"/>
-          <relation id="3" from="37" to="3" class="coref"/>
-          <relation from="14" to="44" class="coref" confidence="rulebased:0.85"/>
+          <relation id="1" from="32" to="1" class="coref"/>
+          <relation id="2" from="32" to="2" class="coref"/>
+          <relation id="3" from="35" to="1" class="coref"/>
+          <relation id="4" from="17" to="16" class="coref"/>
+          <relation from="10" to="42" class="coref" confidence="rulebased:0.85"/>
         </relations>
         <eventGroups>
-          <eventGroup event_id="0" class="due-obligation" start="84" end="103" ref="40" type="state" tense="unk" polarity="unk" modality="unk">
-            <trigger ref="59" text="ganget"/>
+          <eventGroup event_id="0" class="due-obligation" start="63" end="82" ref="38" type="state" tense="unk" polarity="unk" modality="unk">
+            <trigger ref="57" text="ganget"/>
             <event event_id="0.0">
-              <role role="detail_other" confidence="1.0" ref="57" text="so erbe ist von"/>
-              <role role="interest" confidence="0.99" ref="60" text="4ß zins ȡ"/>
+              <role role="detail_other" confidence="1.0" ref="55" text="so erbe ist von"/>
+              <role role="interest" confidence="0.99" ref="58" text="4ß zins ȡ"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="1" class="property-purchase" start="25" end="148" ref="" type="event" tense="unk" polarity="unk" modality="unk">
-            <trigger ref="2" text="koffender"/>
+          <eventGroup event_id="1" class="property-purchase" start="4" end="127" ref="" type="event" tense="unk" polarity="unk" modality="unk">
+            <trigger ref="0" text="koffender"/>
             <event event_id="1.0">
-              <role role="seller" confidence="0.86" ref="3" text="Anna eliche frowe Alban Blaser des winmans"/>
-              <role role="buyer" confidence="0.97" ref="4" text="Hansen Stege Speyerin unlesserlich Wort"/>
-              <role role="buyer" confidence="0.98" ref="5" text="Claren folg heltin siner elichen frowe"/>
-              <role role="property" confidence="0.98" ref="6" text="iren dritteil so ke )"/>
-              <role role="property" confidence="0.98" ref="8" text="demme garten so ze Eschener tor gelegen ist ze Basel in der vorstat zwfogels schent Hans Meigenthals gart und Henman Bung ( sic ) dem rebman so erbe ist von der bruderschafft ze sant Joh . uff Burg ze Basel dennen davon ganget 4ß zins ȡ"/>
-              <role role="price" confidence="1.0" ref="9" text="6 flor ."/>
-              <role role="price" confidence="0.68" ref="10" text="2 ℔"/>
-              <role role="cause" confidence="0.88" ref="11" text="ze wiß ."/>
-              <role role="detail_other" confidence="0.98" ref="15" text="ein teil erbe von den herrn Gerichtsbuch der mehrern Stadt A 45 . ze St . Alban den davon der verköften teil"/>
+              <role role="seller" confidence="0.98" ref="1" text="Anna eliche frowe Alban Blaser des winmans"/>
+              <role role="buyer" confidence="0.95" ref="2" text="Hansen Stege Speyerin unlesserlich Wort"/>
+              <role role="buyer" confidence="0.99" ref="3" text="Claren folg heltin siner elichen frowe"/>
+              <role role="property" confidence="0.98" ref="4" text="iren dritteil so ke )"/>
+              <role role="property" confidence="0.99" ref="6" text="demme garten so ze Eschener tor gelegen ist ze Basel in der vorstat zwfogels schent Hans Meigenthals gart und Henman Bung ( sic ) dem rebman so erbe ist von der bruderschafft ze sant Joh . uff Burg ze Basel dennen davon ganget 4ß zins ȡ"/>
+              <role role="price" confidence="1.0" ref="7" text="6 flor ."/>
+              <role role="cause" confidence="0.87" ref="9" text="ze wiß ."/>
+              <role role="detail_other" confidence="0.98" ref="11" text="ein teil erbe von den herrn Gerichtsbuch der mehrern Stadt A 45 . ze St . Alban den davon der verköften teil"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="2" class="due-obligation" start="149" end="155" ref="" type="state" tense="unk" polarity="unk" modality="unk">
-            <trigger ref="16" text="gat"/>
+          <eventGroup event_id="2" class="due-obligation" start="128" end="134" ref="" type="state" tense="unk" polarity="unk" modality="unk">
+            <trigger ref="12" text="gat"/>
             <event event_id="2.0">
-              <role role="interest" confidence="0.99" ref="17" text="4ß"/>
-              <role role="interest" confidence="0.9" ref="18" text="53 zins ȡ"/>
+              <role role="interest" confidence="0.98" ref="13" text="4ß"/>
+              <role role="interest" confidence="0.78" ref="14" text="53 zins ȡ"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="3" class="due-obligation" start="177" end="177" ref="" type="state" tense="unk" polarity="unk" modality="unk">
-            <trigger ref="21" text="gat"/>
-            <event event_id="3.0"/>
+          <eventGroup event_id="3" class="due-obligation" start="153" end="177" ref="" type="state" tense="unk" polarity="unk" modality="unk">
+            <trigger ref="18" text="gat"/>
+            <event event_id="3.0">
+              <role role="beneficiary" confidence="0.99" ref="17" text="dem"/>
+              <role role="interest" confidence="0.99" ref="19" text="1ß zins ȡ"/>
+              <role role="detail_other" confidence="0.87" ref="20" text="als einem träger von den herrn ze St . Alban ; idem bung gonsessit . 8 esser ."/>
+            </event>
           </eventGroup>
-          <eventGroup event_id="4" class="family" start="27" end="32" ref="24" type="state" tense="unk" polarity="unk" modality="unk">
-            <trigger start="27" end="28" text="eliche frowe" ref="25"/>
+          <eventGroup event_id="4" class="family" start="6" end="11" ref="22" type="state" tense="unk" polarity="unk" modality="unk">
+            <trigger start="6" end="7" text="eliche frowe" ref="23"/>
             <event event_id="4.0">
-              <role role="family-a" ref="3" text="Anna eliche frowe Alban Blaser des winmans"/>
-              <role role="family-b" ref="26" text="Alban Blaser des winmans"/>
+              <role role="family-a" ref="1" text="Anna eliche frowe Alban Blaser des winmans"/>
+              <role role="family-b" ref="24" text="Alban Blaser des winmans"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="5" class="family" start="44" end="46" ref="33" type="state" tense="unk" polarity="unk" modality="unk">
-            <trigger start="45" end="46" text="elichen frowe" ref="35"/>
+          <eventGroup event_id="5" class="family" start="23" end="25" ref="31" type="state" tense="unk" polarity="unk" modality="unk">
+            <trigger start="24" end="25" text="elichen frowe" ref="33"/>
             <event event_id="5.0">
-              <role role="family-a" ref="5" text="Claren folg heltin siner elichen frowe"/>
-              <role role="family-b" ref="34" text="siner"/>
+              <role role="family-a" ref="3" text="Claren folg heltin siner elichen frowe"/>
+              <role role="family-b" ref="32" text="siner"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="6" class="ownership" start="47" end="47" ref="36" type="state" tense="unk" polarity="unk" modality="unk">
+          <eventGroup event_id="6" class="ownership" start="26" end="26" ref="34" type="state" tense="unk" polarity="unk" modality="unk">
             <event event_id="6.0">
-              <role role="property" ref="6" text="iren dritteil so ke )"/>
-              <role role="owner" ref="37" text="iren"/>
+              <role role="property" ref="4" text="iren dritteil so ke )"/>
+              <role role="owner" ref="35" text="iren"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="7" class="topological" start="60" end="83" ref="39" type="state" tense="unk" polarity="unk" modality="unk">
+          <eventGroup event_id="7" class="topological" start="39" end="62" ref="37" type="state" tense="unk" polarity="unk" modality="unk">
             <event event_id="7.0">
-              <role role="location-a" ref="8" text="demme garten so ze Eschener tor gelegen ist ze Basel in der vorstat zwfogels schent Hans Meigenthals gart und Henman Bung ( sic ) dem rebman so erbe ist von der bruderschafft ze sant Joh . uff Burg ze Basel dennen davon ganget 4ß zins ȡ"/>
-              <role role="location-b" ref="41" text="Eschener tor"/>
-              <role role="location-b" ref="42" text="Basel"/>
-              <role role="location-b" ref="43" text="der vorstat zwfogels"/>
-              <role role="location-b" ref="44" text="Hans Meigenthals gart"/>
-              <role role="location-b" ref="45" text="Henman Bung"/>
-              <role role="location-b" ref="46" text="sic ) dem rebman"/>
+              <role role="location-a" ref="6" text="demme garten so ze Eschener tor gelegen ist ze Basel in der vorstat zwfogels schent Hans Meigenthals gart und Henman Bung ( sic ) dem rebman so erbe ist von der bruderschafft ze sant Joh . uff Burg ze Basel dennen davon ganget 4ß zins ȡ"/>
+              <role role="location-b" ref="39" text="Eschener tor"/>
+              <role role="location-b" ref="40" text="Basel"/>
+              <role role="location-b" ref="41" text="der vorstat zwfogels"/>
+              <role role="location-b" ref="42" text="Hans Meigenthals gart"/>
+              <role role="location-b" ref="43" text="Henman Bung"/>
+              <role role="location-b" ref="44" text="sic ) dem rebman"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="8" class="ownership" start="73" end="74" ref="50" type="state" tense="unk" polarity="unk" modality="unk">
+          <eventGroup event_id="8" class="ownership" start="52" end="53" ref="48" type="state" tense="unk" polarity="unk" modality="unk">
             <event event_id="8.0">
-              <role role="property" ref="44" text="Hans Meigenthals gart"/>
-              <role role="owner" ref="52" text="Hans Meigenthals"/>
+              <role role="property" ref="42" text="Hans Meigenthals gart"/>
+              <role role="owner" ref="50" text="Hans Meigenthals"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="9" class="topological" start="94" end="95" ref="62" type="state" tense="unk" polarity="unk" modality="unk">
+          <eventGroup event_id="9" class="topological" start="73" end="74" ref="60" type="state" tense="unk" polarity="unk" modality="unk">
             <event event_id="9.0">
-              <role role="location-a" ref="58" text="der bruderschafft ze sant Joh . uff Burg ze Basel"/>
-              <role role="location-b" ref="64" text="Burg"/>
+              <role role="location-a" ref="56" text="der bruderschafft ze sant Joh . uff Burg ze Basel"/>
+              <role role="location-b" ref="62" text="Burg"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="10" class="topological" start="96" end="97" ref="63" type="state" tense="unk" polarity="unk" modality="unk">
+          <eventGroup event_id="10" class="topological" start="75" end="76" ref="61" type="state" tense="unk" polarity="unk" modality="unk">
             <event event_id="10.0">
-              <role role="location-a" ref="58" text="der bruderschafft ze sant Joh . uff Burg ze Basel"/>
-              <role role="location-b" ref="66" text="Basel"/>
+              <role role="location-a" ref="56" text="der bruderschafft ze sant Joh . uff Burg ze Basel"/>
+              <role role="location-b" ref="64" text="Basel"/>
             </event>
           </eventGroup>
         </eventGroups>

@@ -9225,7 +9225,7 @@
           </eventGroup>
         </eventGroups>
       </document>
-      <document id="624e16e6-5a05-4f36-8e75-e4d6d58b0ccf_20260528">
+      <document id="95eb7f30-954a-4c06-98f7-3376823bfd5c_20260615">
         <metadata>
           <street_id>HGB_1_114</street_id>
           <dossier_id>HGB_1_114_014</dossier_id>
@@ -9233,206 +9233,209 @@
           <source>St. Leonhard</source>
           <language>mixed</language>
           <checked_by_gpt>false</checked_by_gpt>
-          <text>1544 Ebenso. Extantz. 1545 Petter Geysser Zimerman git obigen zins. S. Leonhard Corpus. darüber geschrieben Curbatzin. 1531 Petter Geysser Zimermann git 10 sh. von dem Orthus em Bruggly jerl. 2 ℔. Extantz. 1532. Ebenso. Extantz 2½ ℔. 1533 Register defect. 1534 Wie oben. Extantz 10 sh. 1535 Ebenfals. Extantz. 1536 Ebenso. Extantz. 1537 Register defect. 1538 Wie oben. Extantz. 1539 Ebenso. Extantz. 1540 Ebenso. Extantz. 1541 Ebenso. Extantz. 1542 Ebenso. Extantz. 1543 Ebenso. Extantz.</text>
+          <text>1531 Petter Geysser Zimermann git 10 sh. von dem Orthus em Bruggly jerl. 2 ℔. Extantz. 1532. Ebenso. Extantz 2½ ℔. 1533 Register defect. 1534 Wie oben. Extantz 10 sh. 1535 Ebenfals. Extantz. 1536 Ebenso. Extantz. 1537 Register defect. 1538 Wie oben. Extantz. 1539 Ebenso. Extantz. 1540 Ebenso. Extantz. 1541 Ebenso. Extantz. 1542 Ebenso. Extantz. 1543 Ebenso. Extantz. 1544 Ebenso. Extantz. 1545 Petter Geysser Zimerman git obigen zins. S. Leonhard Corpus. darüber geschrieben Curbatzin.</text>
           <mentioned_houses>
-            <house span_ref="34">Orthus em Bruggly</house>
+            <house span_ref="31">Orthus em Bruggly</house>
           </mentioned_houses>
           <pages>
-            <page nr="26">https://files.transkribus.eu/Get?fileType=view&amp;id=WJZKATSNVJNKIKNPQHIPZOMK</page>
-            <page nr="27">https://files.transkribus.eu/Get?fileType=view&amp;id=FARCUAENCVSKGQTDBHVMIPDG</page>
+            <page nr="26"><![CDATA[https://files.transkribus.eu/Get?fileType=view&id=WJZKATSNVJNKIKNPQHIPZOMK]]></page>
+            <page nr="27"><![CDATA[https://files.transkribus.eu/Get?fileType=view&id=FARCUAENCVSKGQTDBHVMIPDG]]></page>
           </pages>
         </metadata>
         <text>
-          <token token_id="0">1544</token>
-          <token token_id="1">Ebenso</token>
-          <token token_id="2">.</token>
-          <token token_id="3">Extantz</token>
-          <token token_id="4">.</token>
-          <token token_id="5">1545</token>
-          <token token_id="6">Petter</token>
-          <token token_id="7">Geysser</token>
-          <token token_id="8">Zimerman</token>
-          <token token_id="9">git</token>
-          <token token_id="10">obigen</token>
-          <token token_id="11">zins</token>
-          <token token_id="12">.</token>
-          <token token_id="13">S</token>
+          <token token_id="0">1531</token>
+          <token token_id="1">Petter</token>
+          <token token_id="2">Geysser</token>
+          <token token_id="3">Zimermann</token>
+          <token token_id="4">git</token>
+          <token token_id="5">10</token>
+          <token token_id="6">sh</token>
+          <token token_id="7">.</token>
+          <token token_id="8">von</token>
+          <token token_id="9">dem</token>
+          <token token_id="10">Orthus</token>
+          <token token_id="11">em</token>
+          <token token_id="12">Bruggly</token>
+          <token token_id="13">jerl</token>
           <token token_id="14">.</token>
-          <token token_id="15">Leonhard</token>
-          <token token_id="16">Corpus</token>
+          <token token_id="15">2</token>
+          <token token_id="16">℔</token>
           <token token_id="17">.</token>
-          <token token_id="18">darüber</token>
-          <token token_id="19">geschrieben</token>
-          <token token_id="20">Curbatzin</token>
+          <token token_id="18">Extantz</token>
+          <token token_id="19">.</token>
+          <token token_id="20">1532</token>
           <token token_id="21">.</token>
-          <token token_id="22">1531</token>
-          <token token_id="23">Petter</token>
-          <token token_id="24">Geysser</token>
-          <token token_id="25">Zimermann</token>
-          <token token_id="26">git</token>
-          <token token_id="27">10</token>
-          <token token_id="28">sh</token>
-          <token token_id="29">.</token>
-          <token token_id="30">von</token>
-          <token token_id="31">dem</token>
-          <token token_id="32">Orthus</token>
-          <token token_id="33">em</token>
-          <token token_id="34">Bruggly</token>
-          <token token_id="35">jerl</token>
-          <token token_id="36">.</token>
-          <token token_id="37">2</token>
-          <token token_id="38">℔</token>
+          <token token_id="22">Ebenso</token>
+          <token token_id="23">.</token>
+          <token token_id="24">Extantz</token>
+          <token token_id="25">2½</token>
+          <token token_id="26">℔</token>
+          <token token_id="27">.</token>
+          <token token_id="28">1533</token>
+          <token token_id="29">Register</token>
+          <token token_id="30">defect</token>
+          <token token_id="31">.</token>
+          <token token_id="32">1534</token>
+          <token token_id="33">Wie</token>
+          <token token_id="34">oben</token>
+          <token token_id="35">.</token>
+          <token token_id="36">Extantz</token>
+          <token token_id="37">10</token>
+          <token token_id="38">sh</token>
           <token token_id="39">.</token>
-          <token token_id="40">Extantz</token>
-          <token token_id="41">.</token>
-          <token token_id="42">1532</token>
-          <token token_id="43">.</token>
-          <token token_id="44">Ebenso</token>
-          <token token_id="45">.</token>
-          <token token_id="46">Extantz</token>
-          <token token_id="47">2½</token>
-          <token token_id="48">℔</token>
+          <token token_id="40">1535</token>
+          <token token_id="41">Ebenfals</token>
+          <token token_id="42">.</token>
+          <token token_id="43">Extantz</token>
+          <token token_id="44">.</token>
+          <token token_id="45">1536</token>
+          <token token_id="46">Ebenso</token>
+          <token token_id="47">.</token>
+          <token token_id="48">Extantz</token>
           <token token_id="49">.</token>
-          <token token_id="50">1533</token>
+          <token token_id="50">1537</token>
           <token token_id="51">Register</token>
           <token token_id="52">defect</token>
           <token token_id="53">.</token>
-          <token token_id="54">1534</token>
+          <token token_id="54">1538</token>
           <token token_id="55">Wie</token>
           <token token_id="56">oben</token>
           <token token_id="57">.</token>
           <token token_id="58">Extantz</token>
-          <token token_id="59">10</token>
-          <token token_id="60">sh</token>
-          <token token_id="61">.</token>
-          <token token_id="62">1535</token>
-          <token token_id="63">Ebenfals</token>
+          <token token_id="59">.</token>
+          <token token_id="60">1539</token>
+          <token token_id="61">Ebenso</token>
+          <token token_id="62">.</token>
+          <token token_id="63">Extantz</token>
           <token token_id="64">.</token>
-          <token token_id="65">Extantz</token>
-          <token token_id="66">.</token>
-          <token token_id="67">1536</token>
-          <token token_id="68">Ebenso</token>
+          <token token_id="65">1540</token>
+          <token token_id="66">Ebenso</token>
+          <token token_id="67">.</token>
+          <token token_id="68">Extantz</token>
           <token token_id="69">.</token>
-          <token token_id="70">Extantz</token>
-          <token token_id="71">.</token>
-          <token token_id="72">1537</token>
-          <token token_id="73">Register</token>
-          <token token_id="74">defect</token>
-          <token token_id="75">.</token>
-          <token token_id="76">1538</token>
-          <token token_id="77">Wie</token>
-          <token token_id="78">oben</token>
+          <token token_id="70">1541</token>
+          <token token_id="71">Ebenso</token>
+          <token token_id="72">.</token>
+          <token token_id="73">Extantz</token>
+          <token token_id="74">.</token>
+          <token token_id="75">1542</token>
+          <token token_id="76">Ebenso</token>
+          <token token_id="77">.</token>
+          <token token_id="78">Extantz</token>
           <token token_id="79">.</token>
-          <token token_id="80">Extantz</token>
-          <token token_id="81">.</token>
-          <token token_id="82">1539</token>
-          <token token_id="83">Ebenso</token>
+          <token token_id="80">1543</token>
+          <token token_id="81">Ebenso</token>
+          <token token_id="82">.</token>
+          <token token_id="83">Extantz</token>
           <token token_id="84">.</token>
-          <token token_id="85">Extantz</token>
-          <token token_id="86">.</token>
-          <token token_id="87">1540</token>
-          <token token_id="88">Ebenso</token>
+          <token token_id="85">1544</token>
+          <token token_id="86">Ebenso</token>
+          <token token_id="87">.</token>
+          <token token_id="88">Extantz</token>
           <token token_id="89">.</token>
-          <token token_id="90">Extantz</token>
-          <token token_id="91">.</token>
-          <token token_id="92">1541</token>
-          <token token_id="93">Ebenso</token>
-          <token token_id="94">.</token>
-          <token token_id="95">Extantz</token>
-          <token token_id="96">.</token>
-          <token token_id="97">1542</token>
-          <token token_id="98">Ebenso</token>
+          <token token_id="90">1545</token>
+          <token token_id="91">Petter</token>
+          <token token_id="92">Geysser</token>
+          <token token_id="93">Zimerman</token>
+          <token token_id="94">git</token>
+          <token token_id="95">obigen</token>
+          <token token_id="96">zins</token>
+          <token token_id="97">.</token>
+          <token token_id="98">S</token>
           <token token_id="99">.</token>
-          <token token_id="100">Extantz</token>
-          <token token_id="101">.</token>
-          <token token_id="102">1543</token>
-          <token token_id="103">Ebenso</token>
-          <token token_id="104">.</token>
-          <token token_id="105">Extantz</token>
+          <token token_id="100">Leonhard</token>
+          <token token_id="101">Corpus</token>
+          <token token_id="102">.</token>
+          <token token_id="103">darüber</token>
+          <token token_id="104">geschrieben</token>
+          <token token_id="105">Curbatzin</token>
           <token token_id="106">.</token>
         </text>
         <spans>
-          <span id="0" start="0" end="0" element="value" class="date" confidence="1.0" text="1544"/>
-          <span id="1" start="5" end="5" element="value" class="date" confidence="1.0" text="1545"/>
-          <span id="2" start="6" end="8" element="reference" class="per" confidence="0.98" text="Petter Geysser Zimerman" numerus="sgl" specificity="spc" subclass="">
-            <span id="27" start="6" end="7" element="head" class="nam" confidence="1.0" text="Petter Geysser"/>
-            <span id="28" start="8" end="8" element="appo" class="occ" confidence="0.69" text="Zimerman">
-              <span id="29" start="8" end="8" element="head" class="occ" confidence="1.0" text="Zimerman" norm="zimmermann" OhdAB="https://database.factgrid.de/wiki/Item:Q675892"/>
+          <span id="0" start="0" end="0" element="value" class="date" confidence="1.0" text="1531"/>
+          <span id="1" start="1" end="3" element="reference" class="per" confidence="0.97" text="Petter Geysser Zimermann" numerus="sgl" specificity="spc" subclass="">
+            <span id="28" start="1" end="2" element="head" class="nam" confidence="1.0" text="Petter Geysser"/>
+            <span id="29" start="3" end="3" element="appo" class="occ" confidence="0.93" text="Zimermann">
+              <span id="30" start="3" end="3" element="head" class="occ" confidence="1.0" text="Zimermann" norm="zimmermann" OhdAB="https://database.factgrid.de/wiki/Item:Q675892"/>
             </span>
           </span>
-          <span id="3" start="9" end="9" element="trigger" class="due" confidence="1.0" text="git"/>
-          <span id="4" start="11" end="11" element="trigger" class="due" confidence="1.0" text="zins"/>
-          <span id="5" start="13" end="15" element="reference" class="org" confidence="0.58" text="S . Leonhard" numerus="sgl" specificity="spc" subclass="rel">
-            <span id="30" start="13" end="15" element="head" class="nam" confidence="0.97" text="S . Leonhard" norm="Kirche St. Leonhard"/>
+          <span id="2" start="4" end="4" element="trigger" class="due" confidence="1.0" text="git"/>
+          <span id="3" start="5" end="7" element="value" class="money" confidence="1.0" text="10 sh ." norm="10.0 Schilling"/>
+          <span id="4" start="9" end="12" element="reference" class="fac" confidence="0.87" text="dem Orthus em Bruggly" numerus="sgl" specificity="spc" subclass="">
+            <span id="31" start="10" end="12" element="head" class="nam" confidence="0.76" text="Orthus em Bruggly"/>
           </span>
-          <span id="6" start="22" end="22" element="value" class="date" confidence="1.0" text="1531"/>
-          <span id="7" start="23" end="25" element="reference" class="per" confidence="0.98" text="Petter Geysser Zimermann" numerus="sgl" specificity="spc" subclass="">
-            <span id="31" start="23" end="24" element="head" class="nam" confidence="1.0" text="Petter Geysser"/>
-            <span id="32" start="25" end="25" element="appo" class="occ" confidence="0.96" text="Zimermann">
-              <span id="33" start="25" end="25" element="head" class="occ" confidence="1.0" text="Zimermann" norm="zimmermann" OhdAB="https://database.factgrid.de/wiki/Item:Q675892"/>
+          <span id="5" start="13" end="14" element="value" class="time" confidence="1.0" text="jerl ."/>
+          <span id="6" start="15" end="17" element="value" class="money" confidence="1.0" text="2 ℔ ." norm="2.0 Pfund"/>
+          <span id="7" start="20" end="20" element="value" class="date" confidence="1.0" text="1532"/>
+          <span id="8" start="25" end="27" element="value" class="money" confidence="1.0" text="2½ ℔ ." norm="2.5 Pfund"/>
+          <span id="9" start="28" end="28" element="value" class="date" confidence="1.0" text="1533"/>
+          <span id="10" start="32" end="32" element="value" class="date" confidence="1.0" text="1534"/>
+          <span id="11" start="37" end="39" element="value" class="money" confidence="0.99" text="10 sh ." norm="10.0 Schilling"/>
+          <span id="12" start="40" end="40" element="value" class="date" confidence="1.0" text="1535"/>
+          <span id="13" start="45" end="45" element="value" class="date" confidence="1.0" text="1536"/>
+          <span id="14" start="50" end="50" element="value" class="date" confidence="1.0" text="1537"/>
+          <span id="15" start="54" end="54" element="value" class="date" confidence="1.0" text="1538"/>
+          <span id="16" start="60" end="60" element="value" class="date" confidence="1.0" text="1539"/>
+          <span id="17" start="65" end="65" element="value" class="date" confidence="1.0" text="1540"/>
+          <span id="18" start="70" end="70" element="value" class="date" confidence="1.0" text="1541"/>
+          <span id="19" start="75" end="75" element="value" class="date" confidence="1.0" text="1542"/>
+          <span id="20" start="80" end="80" element="value" class="date" confidence="1.0" text="1543"/>
+          <span id="21" start="85" end="85" element="value" class="date" confidence="1.0" text="1544"/>
+          <span id="22" start="90" end="90" element="value" class="date" confidence="1.0" text="1545"/>
+          <span id="23" start="91" end="93" element="reference" class="per" confidence="0.99" text="Petter Geysser Zimerman" numerus="sgl" specificity="spc" subclass="">
+            <span id="32" start="91" end="92" element="head" class="nam" confidence="1.0" text="Petter Geysser"/>
+            <span id="33" start="93" end="93" element="appo" class="occ" confidence="0.69" text="Zimerman">
+              <span id="34" start="93" end="93" element="head" class="occ" confidence="1.0" text="Zimerman" norm="zimmermann" OhdAB="https://database.factgrid.de/wiki/Item:Q675892"/>
             </span>
           </span>
-          <span id="8" start="26" end="26" element="trigger" class="due" confidence="1.0" text="git"/>
-          <span id="9" start="27" end="29" element="value" class="money" confidence="1.0" text="10 sh ." norm="10.0 Schilling"/>
-          <span id="10" start="31" end="34" element="reference" class="fac" confidence="0.91" text="dem Orthus em Bruggly" numerus="sgl" specificity="spc" subclass="">
-            <span id="34" start="32" end="34" element="head" class="nam" confidence="0.76" text="Orthus em Bruggly"/>
+          <span id="24" start="94" end="94" element="trigger" class="due" confidence="1.0" text="git"/>
+          <span id="25" start="96" end="96" element="trigger" class="due" confidence="1.0" text="zins"/>
+          <span id="26" start="98" end="100" element="reference" class="org" confidence="0.76" text="S . Leonhard" numerus="sgl" specificity="spc" subclass="rel">
+            <span id="35" start="98" end="100" element="head" class="nam" confidence="0.97" text="S . Leonhard" norm="Kirche St. Leonhard"/>
           </span>
-          <span id="11" start="35" end="36" element="value" class="time" confidence="1.0" text="jerl ."/>
-          <span id="12" start="37" end="39" element="value" class="money" confidence="1.0" text="2 ℔ ." norm="2.0 Pfund"/>
-          <span id="13" start="42" end="42" element="value" class="date" confidence="1.0" text="1532"/>
-          <span id="14" start="47" end="49" element="value" class="money" confidence="1.0" text="2½ ℔ ." norm="2.5 Pfund"/>
-          <span id="15" start="50" end="50" element="value" class="date" confidence="1.0" text="1533"/>
-          <span id="16" start="54" end="54" element="value" class="date" confidence="1.0" text="1534"/>
-          <span id="17" start="59" end="61" element="value" class="money" confidence="0.99" text="10 sh ." norm="10.0 Schilling"/>
-          <span id="18" start="62" end="62" element="value" class="date" confidence="1.0" text="1535"/>
-          <span id="19" start="67" end="67" element="value" class="date" confidence="1.0" text="1536"/>
-          <span id="20" start="72" end="72" element="value" class="date" confidence="1.0" text="1537"/>
-          <span id="21" start="76" end="76" element="value" class="date" confidence="1.0" text="1538"/>
-          <span id="22" start="82" end="82" element="value" class="date" confidence="1.0" text="1539"/>
-          <span id="23" start="87" end="87" element="value" class="date" confidence="1.0" text="1540"/>
-          <span id="24" start="92" end="92" element="value" class="date" confidence="1.0" text="1541"/>
-          <span id="25" start="97" end="97" element="value" class="date" confidence="1.0" text="1542"/>
-          <span id="26" start="102" end="102" element="value" class="date" confidence="1.0" text="1543"/>
+          <span id="27" start="105" end="105" element="reference" class="per" confidence="0.94" text="Curbatzin" numerus="sgl" specificity="spc" subclass="">
+            <span id="36" start="105" end="105" element="head" class="nam" confidence="0.98" text="Curbatzin"/>
+          </span>
         </spans>
         <relations/>
         <eventGroups>
-          <eventGroup event_id="0" class="due-payment" start="0" end="11" ref="" type="event" tense="unk" polarity="unk" modality="unk">
-            <trigger ref="3" text="git"/>
+          <eventGroup event_id="0" class="due-payment" start="0" end="85" ref="" type="event" tense="unk" polarity="unk" modality="unk">
+            <trigger ref="2" text="git"/>
             <event event_id="0.0">
-              <role role="date-missing" confidence="0.73" ref="0" text="1544"/>
-              <role role="date" confidence="1.0" ref="1" text="1545"/>
-              <role role="payer" confidence="0.99" ref="2" text="Petter Geysser Zimerman"/>
-              <role role="previous-due" confidence="1.0" ref="4" text="zins"/>
+              <role role="date" confidence="1.0" ref="0" text="1531"/>
+              <role role="payer" confidence="0.98" ref="1" text="Petter Geysser Zimermann"/>
+              <role role="interest" confidence="0.96" ref="3" text="10 sh ."/>
+              <role role="property" confidence="1.0" ref="4" text="dem Orthus em Bruggly"/>
+              <role role="interval" confidence="1.0" ref="5" text="jerl ."/>
+              <role role="interest" confidence="0.99" ref="6" text="2 ℔ ."/>
+              <role role="date-missing" confidence="0.6" ref="7" text="1532"/>
+              <role role="capital" confidence="0.94" ref="8" text="2½ ℔ ."/>
+              <role role="date-missing" confidence="0.94" ref="9" text="1533"/>
+              <role role="date" confidence="0.99" ref="10" text="1534"/>
+              <role role="capital" confidence="0.87" ref="11" text="10 sh ."/>
+              <role role="date-missing" confidence="0.93" ref="12" text="1535"/>
+              <role role="date-missing" confidence="1.0" ref="13" text="1536"/>
+              <role role="date-missing" confidence="0.98" ref="14" text="1537"/>
+              <role role="date" confidence="0.98" ref="15" text="1538"/>
+              <role role="date-missing" confidence="1.0" ref="16" text="1539"/>
+              <role role="date-missing" confidence="1.0" ref="17" text="1540"/>
+              <role role="date-missing" confidence="1.0" ref="18" text="1541"/>
+              <role role="date-missing" confidence="1.0" ref="19" text="1542"/>
+              <role role="date-missing" confidence="1.0" ref="20" text="1543"/>
+              <role role="date-missing" confidence="0.99" ref="21" text="1544"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="1" class="due-obligation" start="11" end="11" ref="" type="state" tense="unk" polarity="unk" modality="unk">
-            <trigger ref="4" text="zins"/>
-            <event event_id="1.0"/>
-          </eventGroup>
-          <eventGroup event_id="2" class="due-payment" start="22" end="102" ref="" type="event" tense="unk" polarity="unk" modality="unk">
-            <trigger ref="8" text="git"/>
-            <event event_id="2.0">
-              <role role="date" confidence="1.0" ref="6" text="1531"/>
-              <role role="payer" confidence="1.0" ref="7" text="Petter Geysser Zimermann"/>
-              <role role="interest" confidence="0.94" ref="9" text="10 sh ."/>
-              <role role="property" confidence="1.0" ref="10" text="dem Orthus em Bruggly"/>
-              <role role="interval" confidence="1.0" ref="11" text="jerl ."/>
-              <role role="interest" confidence="0.98" ref="12" text="2 ℔ ."/>
-              <role role="date-missing" confidence="0.56" ref="13" text="1532"/>
-              <role role="capital" confidence="0.97" ref="14" text="2½ ℔ ."/>
-              <role role="date-missing" confidence="0.93" ref="15" text="1533"/>
-              <role role="date" confidence="0.99" ref="16" text="1534"/>
-              <role role="capital" confidence="0.94" ref="17" text="10 sh ."/>
-              <role role="date-missing" confidence="0.89" ref="18" text="1535"/>
-              <role role="date-missing" confidence="0.99" ref="19" text="1536"/>
-              <role role="date-missing" confidence="0.97" ref="20" text="1537"/>
-              <role role="date" confidence="0.98" ref="21" text="1538"/>
-              <role role="date-missing" confidence="0.99" ref="22" text="1539"/>
-              <role role="date-missing" confidence="0.99" ref="23" text="1540"/>
-              <role role="date-missing" confidence="1.0" ref="24" text="1541"/>
-              <role role="date-missing" confidence="0.99" ref="25" text="1542"/>
-              <role role="date-missing" confidence="0.99" ref="26" text="1543"/>
+          <eventGroup event_id="1" class="due-payment" start="90" end="96" ref="" type="event" tense="unk" polarity="unk" modality="unk">
+            <trigger ref="24" text="git"/>
+            <event event_id="1.0">
+              <role role="date" confidence="1.0" ref="22" text="1545"/>
+              <role role="payer" confidence="1.0" ref="23" text="Petter Geysser Zimerman"/>
+              <role role="previous-due" confidence="1.0" ref="25" text="zins"/>
             </event>
+          </eventGroup>
+          <eventGroup event_id="2" class="due-obligation" start="96" end="96" ref="" type="state" tense="unk" polarity="unk" modality="unk">
+            <trigger ref="25" text="zins"/>
+            <event event_id="2.0"/>
           </eventGroup>
         </eventGroups>
       </document>

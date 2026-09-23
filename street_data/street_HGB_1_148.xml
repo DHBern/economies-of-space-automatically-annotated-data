@@ -10511,7 +10511,7 @@
           </eventGroup>
         </eventGroups>
       </document>
-      <document id="5f86811d-a9bf-48fe-b382-d2def0b9ae96_20260528">
+      <document id="8749eebf-2014-4a06-bbbb-6398f144fd0e_20260615">
         <metadata>
           <street_id>HGB_1_148</street_id>
           <dossier_id>HGB_1_148_023</dossier_id>
@@ -10519,152 +10519,151 @@
           <source>Gerichtsarchiv</source>
           <language>german</language>
           <checked_by_gpt>false</checked_by_gpt>
-          <text>Ecke gegember = Petersgr 18 Da hat der Schaffner ze Clingental, der von Berenfels Hus genant zem schönen Ort, an dem Ort gegen dem Brunnen über als man jn die nüwen Fr. Statt gat will, umb versessenen zins und um ein andern Hauptschuldner an wilent Fr. Wernlis zem Wyher stat, gefrönt. Frönungen und Verbote fol. 95</text>
+          <text>Da hat der Schaffner ze Clingental, der von Berenfels Hus genant zem schönen Ort, an dem Ort gegen dem Brunnen über als man jn die nüwen Fr. Statt gat will, umb versessenen zins und um ein andern Hauptschuldner an wilent Fr. Wernlis zem Wyher stat, gefrönt. Frönungen und Verbote fol. 95 Ecke gegember = Petersgr 18</text>
           <mentioned_houses>
-            <house span_ref="15">zem schönen Ort</house>
+            <house span_ref="14">zem schönen Ort</house>
           </mentioned_houses>
           <pages>
-            <page nr="10">https://files.transkribus.eu/Get?fileType=view&amp;id=RYQVIJWRUSYNGHXSAPYICYML</page>
+            <page nr="10"><![CDATA[https://files.transkribus.eu/Get?fileType=view&id=RYQVIJWRUSYNGHXSAPYICYML]]></page>
           </pages>
         </metadata>
         <text>
-          <token token_id="0">Ecke</token>
-          <token token_id="1">gegember</token>
-          <token token_id="2">=</token>
-          <token token_id="3">Petersgr</token>
-          <token token_id="4">18</token>
-          <token token_id="5">Da</token>
-          <token token_id="6">hat</token>
+          <token token_id="0">Da</token>
+          <token token_id="1">hat</token>
+          <token token_id="2">der</token>
+          <token token_id="3">Schaffner</token>
+          <token token_id="4">ze</token>
+          <token token_id="5">Clingental</token>
+          <token token_id="6">,</token>
           <token token_id="7">der</token>
-          <token token_id="8">Schaffner</token>
-          <token token_id="9">ze</token>
-          <token token_id="10">Clingental</token>
-          <token token_id="11">,</token>
-          <token token_id="12">der</token>
-          <token token_id="13">von</token>
-          <token token_id="14">Berenfels</token>
-          <token token_id="15">Hus</token>
-          <token token_id="16">genant</token>
-          <token token_id="17">zem</token>
-          <token token_id="18">schönen</token>
-          <token token_id="19">Ort</token>
-          <token token_id="20">,</token>
-          <token token_id="21">an</token>
-          <token token_id="22">dem</token>
-          <token token_id="23">Ort</token>
-          <token token_id="24">gegen</token>
-          <token token_id="25">dem</token>
-          <token token_id="26">Brunnen</token>
-          <token token_id="27">über</token>
-          <token token_id="28">als</token>
-          <token token_id="29">man</token>
-          <token token_id="30">jn</token>
-          <token token_id="31">die</token>
-          <token token_id="32">nüwen</token>
-          <token token_id="33">Fr</token>
-          <token token_id="34">.</token>
-          <token token_id="35">Statt</token>
-          <token token_id="36">gat</token>
-          <token token_id="37">will</token>
-          <token token_id="38">,</token>
-          <token token_id="39">umb</token>
-          <token token_id="40">versessenen</token>
-          <token token_id="41">zins</token>
-          <token token_id="42">und</token>
-          <token token_id="43">um</token>
-          <token token_id="44">ein</token>
-          <token token_id="45">andern</token>
-          <token token_id="46">Hauptschuldner</token>
-          <token token_id="47">an</token>
-          <token token_id="48">wilent</token>
-          <token token_id="49">Fr</token>
-          <token token_id="50">.</token>
-          <token token_id="51">Wernlis</token>
-          <token token_id="52">zem</token>
-          <token token_id="53">Wyher</token>
-          <token token_id="54">stat</token>
-          <token token_id="55">,</token>
-          <token token_id="56">gefrönt</token>
+          <token token_id="8">von</token>
+          <token token_id="9">Berenfels</token>
+          <token token_id="10">Hus</token>
+          <token token_id="11">genant</token>
+          <token token_id="12">zem</token>
+          <token token_id="13">schönen</token>
+          <token token_id="14">Ort</token>
+          <token token_id="15">,</token>
+          <token token_id="16">an</token>
+          <token token_id="17">dem</token>
+          <token token_id="18">Ort</token>
+          <token token_id="19">gegen</token>
+          <token token_id="20">dem</token>
+          <token token_id="21">Brunnen</token>
+          <token token_id="22">über</token>
+          <token token_id="23">als</token>
+          <token token_id="24">man</token>
+          <token token_id="25">jn</token>
+          <token token_id="26">die</token>
+          <token token_id="27">nüwen</token>
+          <token token_id="28">Fr</token>
+          <token token_id="29">.</token>
+          <token token_id="30">Statt</token>
+          <token token_id="31">gat</token>
+          <token token_id="32">will</token>
+          <token token_id="33">,</token>
+          <token token_id="34">umb</token>
+          <token token_id="35">versessenen</token>
+          <token token_id="36">zins</token>
+          <token token_id="37">und</token>
+          <token token_id="38">um</token>
+          <token token_id="39">ein</token>
+          <token token_id="40">andern</token>
+          <token token_id="41">Hauptschuldner</token>
+          <token token_id="42">an</token>
+          <token token_id="43">wilent</token>
+          <token token_id="44">Fr</token>
+          <token token_id="45">.</token>
+          <token token_id="46">Wernlis</token>
+          <token token_id="47">zem</token>
+          <token token_id="48">Wyher</token>
+          <token token_id="49">stat</token>
+          <token token_id="50">,</token>
+          <token token_id="51">gefrönt</token>
+          <token token_id="52">.</token>
+          <token token_id="53">Frönungen</token>
+          <token token_id="54">und</token>
+          <token token_id="55">Verbote</token>
+          <token token_id="56">fol</token>
           <token token_id="57">.</token>
-          <token token_id="58">Frönungen</token>
-          <token token_id="59">und</token>
-          <token token_id="60">Verbote</token>
-          <token token_id="61">fol</token>
-          <token token_id="62">.</token>
-          <token token_id="63">95</token>
+          <token token_id="58">95</token>
+          <token token_id="59">Ecke</token>
+          <token token_id="60">gegember</token>
+          <token token_id="61">=</token>
+          <token token_id="62">Petersgr</token>
+          <token token_id="63">18</token>
         </text>
         <spans>
-          <span id="0" start="3" end="4" element="value" class="date" confidence="0.6" text="Petersgr 18"/>
-          <span id="1" start="7" end="10" element="reference" class="per" confidence="0.86" text="der Schaffner ze Clingental" numerus="sgl" specificity="spc" subclass="">
-            <span id="6" start="8" end="8" element="head" class="occ" confidence="1.0" text="Schaffner" norm="schaffner" OhdAB="https://database.factgrid.de/wiki/Item:Q690018"/>
-            <span id="7" start="10" end="10" element="reference" class="org" confidence="0.72" text="Clingental" numerus="sgl" specificity="spc" subclass="rel">
-              <span id="8" start="10" end="10" element="head" class="nam" confidence="1.0" text="Clingental" norm="Kloster Klingental"/>
+          <span id="0" start="2" end="5" element="reference" class="per" confidence="0.85" text="der Schaffner ze Clingental" numerus="sgl" specificity="spc" subclass="">
+            <span id="5" start="3" end="3" element="head" class="occ" confidence="1.0" text="Schaffner" norm="schaffner" OhdAB="https://database.factgrid.de/wiki/Item:Q690018"/>
+            <span id="6" start="5" end="5" element="reference" class="org" confidence="0.73" text="Clingental" numerus="sgl" specificity="spc" subclass="rel">
+              <span id="7" start="5" end="5" element="head" class="nam" confidence="1.0" text="Clingental" norm="Kloster Klingental"/>
             </span>
           </span>
-          <span id="2" start="12" end="37" element="reference" class="fac" confidence="0.81" text="der von Berenfels Hus genant zem schönen Ort , an dem Ort gegen dem Brunnen über als man jn die nüwen Fr . Statt gat will" numerus="sgl" specificity="spc" subclass="">
-            <span id="9" start="12" end="14" element="attr" class="owner" confidence="0.93" text="der von Berenfels">
-              <span id="13" start="12" end="14" element="reference" class="per" confidence="0.8" text="der von Berenfels" numerus="sgl" specificity="spc" subclass="">
-                <span id="14" start="13" end="14" element="head" class="nam" confidence="0.83" text="von Berenfels"/>
+          <span id="1" start="7" end="32" element="reference" class="fac" confidence="0.86" text="der von Berenfels Hus genant zem schönen Ort , an dem Ort gegen dem Brunnen über als man jn die nüwen Fr . Statt gat will" numerus="sgl" specificity="spc" subclass="">
+            <span id="8" start="7" end="9" element="attr" class="owner" confidence="0.93" text="der von Berenfels">
+              <span id="12" start="7" end="9" element="reference" class="per" confidence="0.8" text="der von Berenfels" numerus="sgl" specificity="spc" subclass="">
+                <span id="13" start="8" end="9" element="head" class="nam" confidence="0.83" text="von Berenfels"/>
               </span>
             </span>
-            <span id="10" start="15" end="15" element="head" class="type" confidence="1.0" text="Hus" norm="Haus"/>
-            <span id="11" start="17" end="19" element="appo" class="nam" confidence="1.0" text="zem schönen Ort">
-              <span id="15" start="17" end="19" element="head" class="nam" confidence="1.0" text="zem schönen Ort"/>
+            <span id="9" start="10" end="10" element="head" class="type" confidence="1.0" text="Hus" norm="Haus"/>
+            <span id="10" start="12" end="14" element="appo" class="nam" confidence="1.0" text="zem schönen Ort">
+              <span id="14" start="12" end="14" element="head" class="nam" confidence="1.0" text="zem schönen Ort"/>
             </span>
-            <span id="12" start="21" end="37" element="attr" class="loc" confidence="0.96" text="an dem Ort gegen dem Brunnen über als man jn die nüwen Fr . Statt gat will">
-              <span id="16" start="22" end="23" element="reference" class="loc" confidence="0.82" text="dem Ort" numerus="sgl" specificity="spc" subclass="">
-                <span id="19" start="23" end="23" element="head" class="type" confidence="0.98" text="Ort"/>
+            <span id="11" start="16" end="32" element="attr" class="loc" confidence="0.96" text="an dem Ort gegen dem Brunnen über als man jn die nüwen Fr . Statt gat will">
+              <span id="15" start="17" end="18" element="reference" class="loc" confidence="0.82" text="dem Ort" numerus="sgl" specificity="spc" subclass="">
+                <span id="18" start="18" end="18" element="head" class="type" confidence="0.98" text="Ort"/>
               </span>
-              <span id="17" start="25" end="26" element="reference" class="fac" confidence="0.96" text="dem Brunnen" numerus="sgl" specificity="spc" subclass="">
-                <span id="20" start="26" end="26" element="head" class="type" confidence="1.0" text="Brunnen" norm="Brunnen"/>
+              <span id="16" start="20" end="21" element="reference" class="fac" confidence="0.96" text="dem Brunnen" numerus="sgl" specificity="spc" subclass="">
+                <span id="19" start="21" end="21" element="head" class="type" confidence="1.0" text="Brunnen" norm="Brunnen"/>
               </span>
-              <span id="18" start="31" end="35" element="reference" class="fac" confidence="0.8" text="die nüwen Fr . Statt" numerus="sgl" specificity="spc" subclass="">
-                <span id="21" start="32" end="35" element="head" class="nam" confidence="0.79" text="nüwen Fr . Statt"/>
+              <span id="17" start="26" end="30" element="reference" class="fac" confidence="0.8" text="die nüwen Fr . Statt" numerus="sgl" specificity="spc" subclass="">
+                <span id="20" start="27" end="30" element="head" class="nam" confidence="0.79" text="nüwen Fr . Statt"/>
               </span>
             </span>
           </span>
-          <span id="3" start="41" end="41" element="trigger" class="due" confidence="0.99" text="zins"/>
-          <span id="4" start="49" end="54" element="reference" class="per" confidence="0.89" text="Fr . Wernlis zem Wyher stat" numerus="sgl" specificity="spc" subclass="">
-            <span id="22" start="49" end="50" element="appo" class="title" confidence="0.71" text="Fr .">
-              <span id="24" start="49" end="50" element="head" class="title" confidence="1.0" text="Fr ."/>
+          <span id="2" start="36" end="36" element="trigger" class="due" confidence="1.0" text="zins"/>
+          <span id="3" start="44" end="49" element="reference" class="per" confidence="0.81" text="Fr . Wernlis zem Wyher stat" numerus="sgl" specificity="spc" subclass="">
+            <span id="21" start="44" end="45" element="appo" class="title" confidence="0.71" text="Fr .">
+              <span id="23" start="44" end="45" element="head" class="title" confidence="1.0" text="Fr ."/>
             </span>
-            <span id="23" start="51" end="54" element="head" class="nam" confidence="0.98" text="Wernlis zem Wyher stat"/>
+            <span id="22" start="46" end="49" element="head" class="nam" confidence="0.98" text="Wernlis zem Wyher stat"/>
           </span>
-          <span id="5" start="56" end="56" element="trigger" class="seizure" confidence="1.0" text="gefrönt"/>
+          <span id="4" start="51" end="51" element="trigger" class="seizure" confidence="1.0" text="gefrönt"/>
         </spans>
         <relations/>
         <eventGroups>
-          <eventGroup event_id="0" class="due-obligation" start="41" end="41" ref="" type="state" tense="unk" polarity="unk" modality="unk">
-            <trigger ref="3" text="zins"/>
+          <eventGroup event_id="0" class="due-obligation" start="36" end="36" ref="" type="state" tense="unk" polarity="unk" modality="unk">
+            <trigger ref="2" text="zins"/>
             <event event_id="0.0"/>
           </eventGroup>
-          <eventGroup event_id="1" class="seizure" start="7" end="56" ref="" type="event" tense="unk" polarity="unk" modality="unk">
-            <trigger ref="5" text="gefrönt"/>
+          <eventGroup event_id="1" class="seizure" start="2" end="51" ref="" type="event" tense="unk" polarity="unk" modality="unk">
+            <trigger ref="4" text="gefrönt"/>
             <event event_id="1.0">
-              <role role="claimant" confidence="0.99" ref="1" text="der Schaffner ze Clingental"/>
-              <role role="property" confidence="0.99" ref="2" text="der von Berenfels Hus genant zem schönen Ort , an dem Ort gegen dem Brunnen über als man jn die nüwen Fr . Statt gat will"/>
-              <role role="cause" confidence="1.0" ref="3" text="zins"/>
+              <role role="claimant" confidence="1.0" ref="0" text="der Schaffner ze Clingental"/>
+              <role role="property" confidence="0.99" ref="1" text="der von Berenfels Hus genant zem schönen Ort , an dem Ort gegen dem Brunnen über als man jn die nüwen Fr . Statt gat will"/>
+              <role role="cause" confidence="1.0" ref="2" text="zins"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="2" class="employment" start="7" end="10" ref="1" type="state" tense="unk" polarity="unk" modality="unk">
-            <trigger start="8" end="8" text="Schaffner" ref="6"/>
+          <eventGroup event_id="2" class="employment" start="2" end="5" ref="0" type="state" tense="unk" polarity="unk" modality="unk">
+            <trigger start="3" end="3" text="Schaffner" ref="5"/>
             <event event_id="2.0">
-              <role role="employee" ref="1" text="der Schaffner ze Clingental"/>
-              <role role="employer" ref="7" text="Clingental"/>
+              <role role="employee" ref="0" text="der Schaffner ze Clingental"/>
+              <role role="employer" ref="6" text="Clingental"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="3" class="ownership" start="12" end="14" ref="9" type="state" tense="unk" polarity="unk" modality="unk">
+          <eventGroup event_id="3" class="ownership" start="7" end="9" ref="8" type="state" tense="unk" polarity="unk" modality="unk">
             <event event_id="3.0">
-              <role role="property" ref="2" text="der von Berenfels Hus genant zem schönen Ort , an dem Ort gegen dem Brunnen über als man jn die nüwen Fr . Statt gat will"/>
-              <role role="owner" ref="13" text="der von Berenfels"/>
+              <role role="property" ref="1" text="der von Berenfels Hus genant zem schönen Ort , an dem Ort gegen dem Brunnen über als man jn die nüwen Fr . Statt gat will"/>
+              <role role="owner" ref="12" text="der von Berenfels"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="4" class="topological" start="21" end="37" ref="12" type="state" tense="unk" polarity="unk" modality="unk">
+          <eventGroup event_id="4" class="topological" start="16" end="32" ref="11" type="state" tense="unk" polarity="unk" modality="unk">
             <event event_id="4.0">
-              <role role="location-a" ref="2" text="der von Berenfels Hus genant zem schönen Ort , an dem Ort gegen dem Brunnen über als man jn die nüwen Fr . Statt gat will"/>
-              <role role="location-b" ref="16" text="dem Ort"/>
-              <role role="location-b" ref="17" text="dem Brunnen"/>
-              <role role="location-b" ref="18" text="die nüwen Fr . Statt"/>
+              <role role="location-a" ref="1" text="der von Berenfels Hus genant zem schönen Ort , an dem Ort gegen dem Brunnen über als man jn die nüwen Fr . Statt gat will"/>
+              <role role="location-b" ref="15" text="dem Ort"/>
+              <role role="location-b" ref="16" text="dem Brunnen"/>
+              <role role="location-b" ref="17" text="die nüwen Fr . Statt"/>
             </event>
           </eventGroup>
         </eventGroups>

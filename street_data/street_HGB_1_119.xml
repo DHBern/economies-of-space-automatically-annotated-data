@@ -7980,115 +7980,125 @@
           </eventGroup>
         </eventGroups>
       </document>
-      <document id="0b0af9e0-7425-4185-994e-f56a1b057180_20260528">
+      <document id="86a53ebf-42eb-4747-858d-dd7b88646bbb_20260615">
         <metadata>
           <street_id>HGB_1_119</street_id>
           <dossier_id>HGB_1_119_010</dossier_id>
           <year>1680</year>
           <source>Gerichtsarchiv</source>
           <language>german</language>
-          <checked_by_gpt>false</checked_by_gpt>
-          <text>Bericht über eine presthafte Mauren an des Wachtknechts Wohnung beim Eschemerthor in dem gässlin gegen Johann Vogold als Besitzer des Kettenenhoofs, welche letzterer mit dem Lohnktibt die Mauer verbessern lassen sollte. 1680. Septb. 6. 1680. Septb. 6.</text>
+          <checked_by_gpt>true</checked_by_gpt>
+          <text>1680. Septb. 6. 1680. Septb. 6. Bericht über eine presthafte Mauren an des Wachtknechts Wohnung beim Eschemerthor in dem gässlin gegen Johann Vogold als Besitzer des Kettenenhoofs, welche letzterer mit dem Lohnktibt die Mauer verbessern lassen sollte.</text>
           <pages>
-            <page nr="14">https://files.transkribus.eu/Get?fileType=view&amp;id=BNQEFRWXMUSIKTBHOLPJRTSO</page>
+            <page nr="14"><![CDATA[https://files.transkribus.eu/Get?fileType=view&id=BNQEFRWXMUSIKTBHOLPJRTSO]]></page>
           </pages>
         </metadata>
         <text>
-          <token token_id="0">Bericht</token>
-          <token token_id="1">über</token>
-          <token token_id="2">eine</token>
-          <token token_id="3">presthafte</token>
-          <token token_id="4">Mauren</token>
-          <token token_id="5">an</token>
-          <token token_id="6">des</token>
-          <token token_id="7">Wachtknechts</token>
-          <token token_id="8">Wohnung</token>
-          <token token_id="9">beim</token>
-          <token token_id="10">Eschemerthor</token>
-          <token token_id="11">in</token>
-          <token token_id="12">dem</token>
-          <token token_id="13">gässlin</token>
-          <token token_id="14">gegen</token>
-          <token token_id="15">Johann</token>
-          <token token_id="16">Vogold</token>
-          <token token_id="17">als</token>
-          <token token_id="18">Besitzer</token>
-          <token token_id="19">des</token>
-          <token token_id="20">Kettenenhoofs</token>
-          <token token_id="21">,</token>
-          <token token_id="22">welche</token>
-          <token token_id="23">letzterer</token>
-          <token token_id="24">mit</token>
-          <token token_id="25">dem</token>
-          <token token_id="26">Lohnktibt</token>
-          <token token_id="27">die</token>
-          <token token_id="28">Mauer</token>
-          <token token_id="29">verbessern</token>
-          <token token_id="30">lassen</token>
-          <token token_id="31">sollte</token>
-          <token token_id="32">.</token>
-          <token token_id="33">1680</token>
-          <token token_id="34">.</token>
-          <token token_id="35">Septb</token>
-          <token token_id="36">.</token>
-          <token token_id="37">6</token>
-          <token token_id="38">.</token>
-          <token token_id="39">1680</token>
-          <token token_id="40">.</token>
-          <token token_id="41">Septb</token>
-          <token token_id="42">.</token>
-          <token token_id="43">6</token>
+          <token token_id="0">1680</token>
+          <token token_id="1">.</token>
+          <token token_id="2">Septb</token>
+          <token token_id="3">.</token>
+          <token token_id="4">6</token>
+          <token token_id="5">.</token>
+          <token token_id="6">1680</token>
+          <token token_id="7">.</token>
+          <token token_id="8">Septb</token>
+          <token token_id="9">.</token>
+          <token token_id="10">6</token>
+          <token token_id="11">.</token>
+          <token token_id="12">Bericht</token>
+          <token token_id="13">über</token>
+          <token token_id="14">eine</token>
+          <token token_id="15">presthafte</token>
+          <token token_id="16">Mauren</token>
+          <token token_id="17">an</token>
+          <token token_id="18">des</token>
+          <token token_id="19">Wachtknechts</token>
+          <token token_id="20">Wohnung</token>
+          <token token_id="21">beim</token>
+          <token token_id="22">Eschemerthor</token>
+          <token token_id="23">in</token>
+          <token token_id="24">dem</token>
+          <token token_id="25">gässlin</token>
+          <token token_id="26">gegen</token>
+          <token token_id="27">Johann</token>
+          <token token_id="28">Vogold</token>
+          <token token_id="29">als</token>
+          <token token_id="30">Besitzer</token>
+          <token token_id="31">des</token>
+          <token token_id="32">Kettenenhoofs</token>
+          <token token_id="33">,</token>
+          <token token_id="34">welche</token>
+          <token token_id="35">letzterer</token>
+          <token token_id="36">mit</token>
+          <token token_id="37">dem</token>
+          <token token_id="38">Lohnktibt</token>
+          <token token_id="39">die</token>
+          <token token_id="40">Mauer</token>
+          <token token_id="41">verbessern</token>
+          <token token_id="42">lassen</token>
+          <token token_id="43">sollte</token>
           <token token_id="44">.</token>
         </text>
         <spans>
-          <span id="0" start="6" end="13" element="reference" class="fac" confidence="0.78" text="des Wachtknechts Wohnung beim Eschemerthor in dem gässlin" numerus="sgl" specificity="spc" subclass="">
-            <span id="4" start="6" end="7" element="attr" class="owner" confidence="0.75" text="des Wachtknechts">
-              <span id="7" start="6" end="7" element="reference" class="per" confidence="0.96" text="des Wachtknechts" numerus="sgl" specificity="spc" subclass="">
-                <span id="8" start="7" end="7" element="head" class="occ" confidence="0.85" text="Wachtknechts" norm="wachtknecht" OhdAB="https://database.factgrid.de/wiki/Item:Q681423"/>
+          <span id="0" start="0" end="4" element="value" class="date" confidence="0.95" text="1680 . Septb . 6"/>
+          <span id="1" start="6" end="10" element="value" class="date" confidence="0.98" text="1680 . Septb . 6"/>
+          <span id="2" start="18" end="25" element="reference" class="fac" confidence="0.82" text="des Wachtknechts Wohnung beim Eschemerthor in dem gässlin" numerus="sgl" specificity="spc" subclass="">
+            <span id="5" start="18" end="19" element="attr" class="owner" confidence="0.75" text="des Wachtknechts">
+              <span id="8" start="18" end="19" element="reference" class="per" confidence="0.96" text="des Wachtknechts" numerus="sgl" specificity="spc" subclass="">
+                <span id="9" start="19" end="19" element="head" class="occ" confidence="0.85" text="Wachtknechts" norm="wachtknecht" OhdAB="https://database.factgrid.de/wiki/Item:Q681423"/>
               </span>
             </span>
-            <span id="5" start="8" end="8" element="head" class="type" confidence="1.0" text="Wohnung" norm="unk"/>
-            <span id="6" start="9" end="13" element="attr" class="loc" confidence="0.98" text="beim Eschemerthor in dem gässlin">
-              <span id="9" start="10" end="10" element="reference" class="fac" confidence="0.92" text="Eschemerthor" numerus="sgl" specificity="spc" subclass="">
-                <span id="11" start="10" end="10" element="head" class="nam" confidence="1.0" text="Eschemerthor"/>
+            <span id="6" start="20" end="20" element="head" class="type" confidence="1.0" text="Wohnung" norm="unk"/>
+            <span id="7" start="21" end="25" element="attr" class="loc" confidence="0.98" text="beim Eschemerthor in dem gässlin">
+              <span id="10" start="22" end="22" element="reference" class="fac" confidence="0.92" text="Eschemerthor" numerus="sgl" specificity="spc" subclass="">
+                <span id="12" start="22" end="22" element="head" class="nam" confidence="1.0" text="Eschemerthor"/>
               </span>
-              <span id="10" start="12" end="13" element="reference" class="fac" confidence="0.86" text="dem gässlin" numerus="sgl" specificity="spc" subclass="street">
-                <span id="12" start="13" end="13" element="head" class="type" confidence="0.51" text="gässlin" norm="unk"/>
-              </span>
-            </span>
-          </span>
-          <span id="1" start="15" end="20" element="reference" class="per" confidence="0.85" text="Johann Vogold als Besitzer des Kettenenhoofs" numerus="sgl" specificity="spc" subclass="">
-            <span id="13" start="15" end="16" element="head" class="nam" confidence="1.0" text="Johann Vogold"/>
-            <span id="14" start="18" end="20" element="appo" class="owner" confidence="0.89" text="Besitzer des Kettenenhoofs">
-              <span id="15" start="18" end="18" element="head" class="owner" confidence="1.0" text="Besitzer"/>
-              <span id="16" start="19" end="20" element="reference" class="fac" confidence="0.95" text="des Kettenenhoofs" numerus="sgl" specificity="spc" subclass="">
-                <span id="17" start="20" end="20" element="head" class="type" confidence="0.94" text="Kettenenhoofs" norm="unk"/>
+              <span id="11" start="24" end="25" element="reference" class="fac" confidence="0.86" text="dem gässlin" numerus="sgl" specificity="spc" subclass="street">
+                <span id="13" start="25" end="25" element="head" class="type" confidence="0.51" text="gässlin" norm="unk"/>
               </span>
             </span>
           </span>
-          <span id="2" start="22" end="31" element="other" class="other" confidence="0.69" text="welche letzterer mit dem Lohnktibt die Mauer verbessern lassen sollte"/>
-          <span id="3" start="33" end="44" element="value" class="date" confidence="0.96" text="1680 . Septb . 6 . 1680 . Septb . 6 ."/>
+          <span id="3" start="27" end="32" element="reference" class="per" confidence="0.89" text="Johann Vogold als Besitzer des Kettenenhoofs" numerus="sgl" specificity="spc" subclass="">
+            <span id="14" start="27" end="28" element="head" class="nam" confidence="1.0" text="Johann Vogold"/>
+            <span id="15" start="30" end="32" element="appo" class="owner" confidence="0.89" text="Besitzer des Kettenenhoofs">
+              <span id="16" start="30" end="30" element="head" class="owner" confidence="1.0" text="Besitzer"/>
+              <span id="17" start="31" end="32" element="reference" class="fac" confidence="0.95" text="des Kettenenhoofs" numerus="sgl" specificity="spc" subclass="">
+                <span id="18" start="32" end="32" element="head" class="type" confidence="0.94" text="Kettenenhoofs" norm="unk"/>
+              </span>
+            </span>
+          </span>
+          <span id="4" start="34" end="43" element="other" class="other" confidence="0.67" text="welche letzterer mit dem Lohnktibt die Mauer verbessern lassen sollte"/>
         </spans>
-        <relations/>
+        <relations>
+          <relation from="1" to="0" class="coref"/>
+        </relations>
         <eventGroups>
-          <eventGroup event_id="0" class="ownership" start="18" end="20" ref="14" type="state" tense="unk" polarity="unk" modality="unk">
-            <trigger start="18" end="18" text="Besitzer" ref="15"/>
+          <eventGroup event_id="0" class="ownership" start="27" end="32" ref="15" type="state" tense="unk" polarity="unk" modality="unk">
+            <trigger start="30" end="30" text="Besitzer" ref="16"/>
             <event event_id="0.0">
-              <role role="owner" ref="1" text="Johann Vogold als Besitzer des Kettenenhoofs"/>
-              <role role="property" ref="16" text="des Kettenenhoofs"/>
+              <role role="owner" ref="3" text="Johann Vogold als Besitzer des Kettenenhoofs"/>
+              <role role="property" ref="17" text="des Kettenenhoofs"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="1" class="ownership" start="6" end="7" ref="4" type="state" tense="unk" polarity="unk" modality="unk">
+          <eventGroup event_id="1" class="ownership" start="18" end="25" ref="5" type="state" tense="unk" polarity="unk" modality="unk">
             <event event_id="1.0">
-              <role role="property" ref="0" text="des Wachtknechts Wohnung beim Eschemerthor in dem gässlin"/>
-              <role role="owner" ref="7" text="des Wachtknechts"/>
+              <role role="property" ref="2" text="des Wachtknechts Wohnung beim Eschemerthor in dem gässlin"/>
+              <role role="owner" ref="8" text="des Wachtknechts"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="2" class="topological" start="9" end="13" ref="6" type="state" tense="unk" polarity="unk" modality="unk">
+          <eventGroup event_id="2" class="topological" start="18" end="25" ref="7" type="state" tense="unk" polarity="unk" modality="unk">
             <event event_id="2.0">
-              <role role="location-a" ref="0" text="des Wachtknechts Wohnung beim Eschemerthor in dem gässlin"/>
-              <role role="location-b" ref="9" text="Eschemerthor"/>
-              <role role="location-b" ref="10" text="dem gässlin"/>
+              <role role="location-a" ref="2" text="des Wachtknechts Wohnung beim Eschemerthor in dem gässlin"/>
+              <role role="location-b" ref="10" text="Eschemerthor"/>
+              <role role="location-b" ref="11" text="dem gässlin"/>
+            </event>
+          </eventGroup>
+          <eventGroup event_id="3" type="event" polarity="pos" tense="pres" modality="ass" ref="" class="sanction" start="0" end="43">
+            <event event_id="3.0">
+              <role role="date" ref="0" confidence="gpt-5.5" text="1680 . Septb . 6"/>
+              <role role="sanctioned" ref="3" confidence="gpt-5.5" text="Johann Vogold als Besitzer des Kettenenhoofs"/>
+              <role role="decision" ref="4" confidence="gpt-5.5" text="welche letzterer mit dem Lohnktibt die Mauer verbessern lassen sollte"/>
             </event>
           </eventGroup>
         </eventGroups>

@@ -8999,7 +8999,7 @@
           </eventGroup>
         </eventGroups>
       </document>
-      <document id="5e236680-5c46-4661-a37c-ccaa8e9d84dc_20260528">
+      <document id="9c14df27-44c0-4494-ac68-30b88f8a809c_20260615">
         <metadata>
           <street_id>HGB_1_023</street_id>
           <dossier_id>HGB_1_023_008</dossier_id>
@@ -9007,120 +9007,120 @@
           <source>St. Alban</source>
           <language>german</language>
           <checked_by_gpt>false</checked_by_gpt>
-          <text>1590. Meyster Matthis Conradt, der Keyffer, 7 forhin Jerg Grimm, der Wagner, in dem Lechlin, gitt jehrlichen uf oli in der Vassten, 12 ℔ 10 ß. ( 1592. ) von 200 ﬂ. ( 1591 fehlt. ) Wie oben: 1592 41592. hinder dem Spittal</text>
+          <text>41592. hinder dem Spittal 1590. Meyster Matthis Conradt, der Keyffer, 7 forhin Jerg Grimm, der Wagner, in dem Lechlin, gitt jehrlichen uf oli in der Vassten, 12 ℔ 10 ß. ( 1592. ) von 200 ﬂ. ( 1591 fehlt. ) Wie oben: 1592</text>
           <pages>
-            <page nr="52">https://files.transkribus.eu/Get?fileType=view&amp;id=KQXQKBCUAUQLLIDTOQGZVPRA</page>
+            <page nr="52"><![CDATA[https://files.transkribus.eu/Get?fileType=view&id=KQXQKBCUAUQLLIDTOQGZVPRA]]></page>
           </pages>
         </metadata>
         <text>
-          <token token_id="0">1590</token>
+          <token token_id="0">41592</token>
           <token token_id="1">.</token>
-          <token token_id="2">Meyster</token>
-          <token token_id="3">Matthis</token>
-          <token token_id="4">Conradt</token>
-          <token token_id="5">,</token>
-          <token token_id="6">der</token>
-          <token token_id="7">Keyffer</token>
-          <token token_id="8">,</token>
-          <token token_id="9">7</token>
-          <token token_id="10">forhin</token>
-          <token token_id="11">Jerg</token>
-          <token token_id="12">Grimm</token>
+          <token token_id="2">hinder</token>
+          <token token_id="3">dem</token>
+          <token token_id="4">Spittal</token>
+          <token token_id="5">1590</token>
+          <token token_id="6">.</token>
+          <token token_id="7">Meyster</token>
+          <token token_id="8">Matthis</token>
+          <token token_id="9">Conradt</token>
+          <token token_id="10">,</token>
+          <token token_id="11">der</token>
+          <token token_id="12">Keyffer</token>
           <token token_id="13">,</token>
-          <token token_id="14">der</token>
-          <token token_id="15">Wagner</token>
-          <token token_id="16">,</token>
-          <token token_id="17">in</token>
-          <token token_id="18">dem</token>
-          <token token_id="19">Lechlin</token>
-          <token token_id="20">,</token>
-          <token token_id="21">gitt</token>
-          <token token_id="22">jehrlichen</token>
-          <token token_id="23">uf</token>
-          <token token_id="24">oli</token>
-          <token token_id="25">in</token>
-          <token token_id="26">der</token>
-          <token token_id="27">Vassten</token>
-          <token token_id="28">,</token>
-          <token token_id="29">12</token>
-          <token token_id="30">℔</token>
-          <token token_id="31">10</token>
-          <token token_id="32">ß</token>
-          <token token_id="33">.</token>
-          <token token_id="34">(</token>
-          <token token_id="35">1592</token>
-          <token token_id="36">.</token>
-          <token token_id="37">)</token>
-          <token token_id="38">von</token>
-          <token token_id="39">200</token>
-          <token token_id="40">ﬂ</token>
+          <token token_id="14">7</token>
+          <token token_id="15">forhin</token>
+          <token token_id="16">Jerg</token>
+          <token token_id="17">Grimm</token>
+          <token token_id="18">,</token>
+          <token token_id="19">der</token>
+          <token token_id="20">Wagner</token>
+          <token token_id="21">,</token>
+          <token token_id="22">in</token>
+          <token token_id="23">dem</token>
+          <token token_id="24">Lechlin</token>
+          <token token_id="25">,</token>
+          <token token_id="26">gitt</token>
+          <token token_id="27">jehrlichen</token>
+          <token token_id="28">uf</token>
+          <token token_id="29">oli</token>
+          <token token_id="30">in</token>
+          <token token_id="31">der</token>
+          <token token_id="32">Vassten</token>
+          <token token_id="33">,</token>
+          <token token_id="34">12</token>
+          <token token_id="35">℔</token>
+          <token token_id="36">10</token>
+          <token token_id="37">ß</token>
+          <token token_id="38">.</token>
+          <token token_id="39">(</token>
+          <token token_id="40">1592</token>
           <token token_id="41">.</token>
-          <token token_id="42">(</token>
-          <token token_id="43">1591</token>
-          <token token_id="44">fehlt</token>
-          <token token_id="45">.</token>
-          <token token_id="46">)</token>
-          <token token_id="47">Wie</token>
-          <token token_id="48">oben</token>
-          <token token_id="49">:</token>
-          <token token_id="50">1592</token>
-          <token token_id="51">41592</token>
-          <token token_id="52">.</token>
-          <token token_id="53">hinder</token>
-          <token token_id="54">dem</token>
-          <token token_id="55">Spittal</token>
+          <token token_id="42">)</token>
+          <token token_id="43">von</token>
+          <token token_id="44">200</token>
+          <token token_id="45">ﬂ</token>
+          <token token_id="46">.</token>
+          <token token_id="47">(</token>
+          <token token_id="48">1591</token>
+          <token token_id="49">fehlt</token>
+          <token token_id="50">.</token>
+          <token token_id="51">)</token>
+          <token token_id="52">Wie</token>
+          <token token_id="53">oben</token>
+          <token token_id="54">:</token>
+          <token token_id="55">1592</token>
         </text>
         <spans>
-          <span id="0" start="0" end="0" element="value" class="date" confidence="1.0" text="1590"/>
-          <span id="1" start="2" end="7" element="reference" class="per" confidence="0.92" text="Meyster Matthis Conradt , der Keyffer" numerus="sgl" specificity="spc" subclass="">
-            <span id="15" start="2" end="2" element="appo" class="title" confidence="1.0" text="Meyster">
-              <span id="18" start="2" end="2" element="head" class="title" confidence="1.0" text="Meyster"/>
-            </span>
-            <span id="16" start="3" end="4" element="head" class="nam" confidence="1.0" text="Matthis Conradt"/>
-            <span id="17" start="6" end="7" element="appo" class="occ" confidence="0.98" text="der Keyffer">
-              <span id="19" start="7" end="7" element="head" class="occ" confidence="1.0" text="Keyffer" norm="küfer" OhdAB="https://database.factgrid.de/wiki/Item:Q661668"/>
-            </span>
+          <span id="0" start="0" end="0" element="value" class="date" confidence="1.0" text="41592"/>
+          <span id="1" start="3" end="4" element="reference" class="org" confidence="0.69" text="dem Spittal" numerus="sgl" specificity="spc" subclass="">
+            <span id="15" start="4" end="4" element="head" class="type" confidence="0.92" text="Spittal" norm="Heiliggeist-Spital"/>
           </span>
-          <span id="2" start="9" end="9" element="value" class="money" confidence="0.98" text="7" norm="unk unk"/>
-          <span id="3" start="11" end="15" element="reference" class="per" confidence="0.93" text="Jerg Grimm , der Wagner" numerus="sgl" specificity="spc" subclass="">
-            <span id="20" start="11" end="12" element="head" class="nam" confidence="1.0" text="Jerg Grimm"/>
-            <span id="21" start="14" end="15" element="appo" class="occ" confidence="1.0" text="der Wagner">
-              <span id="22" start="15" end="15" element="head" class="occ" confidence="1.0" text="Wagner" norm="wagner" OhdAB="https://database.factgrid.de/wiki/Item:Q661667"/>
+          <span id="2" start="5" end="5" element="value" class="date" confidence="1.0" text="1590"/>
+          <span id="3" start="7" end="12" element="reference" class="per" confidence="0.92" text="Meyster Matthis Conradt , der Keyffer" numerus="sgl" specificity="spc" subclass="">
+            <span id="16" start="7" end="7" element="appo" class="title" confidence="0.99" text="Meyster">
+              <span id="19" start="7" end="7" element="head" class="title" confidence="1.0" text="Meyster"/>
+            </span>
+            <span id="17" start="8" end="9" element="head" class="nam" confidence="1.0" text="Matthis Conradt"/>
+            <span id="18" start="11" end="12" element="appo" class="occ" confidence="0.98" text="der Keyffer">
+              <span id="20" start="12" end="12" element="head" class="occ" confidence="1.0" text="Keyffer" norm="küfer" OhdAB="https://database.factgrid.de/wiki/Item:Q661668"/>
             </span>
           </span>
-          <span id="4" start="18" end="19" element="reference" class="fac" confidence="0.67" text="dem Lechlin" numerus="sgl" specificity="spc" subclass="">
-            <span id="23" start="19" end="19" element="head" class="type" confidence="0.83" text="Lechlin" norm="unk"/>
+          <span id="4" start="14" end="14" element="value" class="money" confidence="0.99" text="7" norm="unk unk"/>
+          <span id="5" start="16" end="20" element="reference" class="per" confidence="0.93" text="Jerg Grimm , der Wagner" numerus="sgl" specificity="spc" subclass="">
+            <span id="21" start="16" end="17" element="head" class="nam" confidence="1.0" text="Jerg Grimm"/>
+            <span id="22" start="19" end="20" element="appo" class="occ" confidence="1.0" text="der Wagner">
+              <span id="23" start="20" end="20" element="head" class="occ" confidence="1.0" text="Wagner" norm="wagner" OhdAB="https://database.factgrid.de/wiki/Item:Q661667"/>
+            </span>
           </span>
-          <span id="5" start="21" end="21" element="trigger" class="due" confidence="1.0" text="gitt"/>
-          <span id="6" start="22" end="22" element="value" class="time" confidence="0.96" text="jehrlichen"/>
-          <span id="7" start="23" end="27" element="value" class="date" confidence="0.96" text="uf oli in der Vassten"/>
-          <span id="8" start="29" end="33" element="value" class="money" confidence="1.0" text="12 ℔ 10 ß ." norm="12.0 Pfund|10.0 Schilling"/>
-          <span id="9" start="35" end="35" element="value" class="date" confidence="1.0" text="1592"/>
-          <span id="10" start="39" end="41" element="value" class="money" confidence="0.99" text="200 ﬂ ." norm="200.0 Gulden"/>
-          <span id="11" start="43" end="43" element="value" class="date" confidence="1.0" text="1591"/>
-          <span id="12" start="50" end="50" element="value" class="date" confidence="1.0" text="1592"/>
-          <span id="13" start="51" end="51" element="value" class="date" confidence="1.0" text="41592"/>
-          <span id="14" start="54" end="55" element="reference" class="org" confidence="0.77" text="dem Spittal" numerus="sgl" specificity="spc" subclass="">
-            <span id="24" start="55" end="55" element="head" class="type" confidence="0.95" text="Spittal" norm="Heiliggeist-Spital"/>
+          <span id="6" start="23" end="24" element="reference" class="fac" confidence="0.69" text="dem Lechlin" numerus="sgl" specificity="spc" subclass="">
+            <span id="24" start="24" end="24" element="head" class="type" confidence="0.83" text="Lechlin" norm="unk"/>
           </span>
+          <span id="7" start="26" end="26" element="trigger" class="due" confidence="1.0" text="gitt"/>
+          <span id="8" start="27" end="27" element="value" class="time" confidence="0.95" text="jehrlichen"/>
+          <span id="9" start="28" end="32" element="value" class="date" confidence="0.96" text="uf oli in der Vassten"/>
+          <span id="10" start="34" end="38" element="value" class="money" confidence="1.0" text="12 ℔ 10 ß ." norm="12.0 Pfund|10.0 Schilling"/>
+          <span id="11" start="40" end="40" element="value" class="date" confidence="1.0" text="1592"/>
+          <span id="12" start="44" end="46" element="value" class="money" confidence="0.99" text="200 ﬂ ." norm="200.0 Gulden"/>
+          <span id="13" start="48" end="48" element="value" class="date" confidence="1.0" text="1591"/>
+          <span id="14" start="55" end="55" element="value" class="date" confidence="1.0" text="1592"/>
         </spans>
         <relations/>
         <eventGroups>
-          <eventGroup event_id="0" class="due-payment" start="0" end="51" ref="" type="event" tense="unk" polarity="unk" modality="unk">
-            <trigger ref="5" text="gitt"/>
+          <eventGroup event_id="0" class="due-payment" start="0" end="55" ref="" type="event" tense="unk" polarity="unk" modality="unk">
+            <trigger ref="7" text="gitt"/>
             <event event_id="0.0">
-              <role role="date" confidence="1.0" ref="0" text="1590"/>
-              <role role="payer" confidence="1.0" ref="1" text="Meyster Matthis Conradt , der Keyffer"/>
-              <role role="interest" confidence="0.99" ref="2" text="7"/>
-              <role role="previous-payer" confidence="0.67" ref="3" text="Jerg Grimm , der Wagner"/>
-              <role role="interval" confidence="1.0" ref="6" text="jehrlichen"/>
-              <role role="due-date" confidence="0.99" ref="7" text="uf oli in der Vassten"/>
-              <role role="interest" confidence="0.98" ref="8" text="12 ℔ 10 ß ."/>
-              <role role="date-missing" confidence="0.64" ref="9" text="1592"/>
-              <role role="capital" confidence="0.32" ref="10" text="200 ﬂ ."/>
-              <role role="date-missing" confidence="1.0" ref="11" text="1591"/>
-              <role role="date" confidence="1.0" ref="12" text="1592"/>
-              <role role="date" confidence="0.99" ref="13" text="41592"/>
+              <role role="date" confidence="0.96" ref="0" text="41592"/>
+              <role role="date" confidence="0.99" ref="2" text="1590"/>
+              <role role="payer" confidence="1.0" ref="3" text="Meyster Matthis Conradt , der Keyffer"/>
+              <role role="interest" confidence="0.99" ref="4" text="7"/>
+              <role role="previous-payer" confidence="0.7" ref="5" text="Jerg Grimm , der Wagner"/>
+              <role role="interval" confidence="1.0" ref="8" text="jehrlichen"/>
+              <role role="due-date" confidence="0.99" ref="9" text="uf oli in der Vassten"/>
+              <role role="interest" confidence="0.98" ref="10" text="12 ℔ 10 ß ."/>
+              <role role="date-missing" confidence="0.66" ref="11" text="1592"/>
+              <role role="capital" confidence="0.38" ref="12" text="200 ﬂ ."/>
+              <role role="date-missing" confidence="1.0" ref="13" text="1591"/>
+              <role role="date" confidence="1.0" ref="14" text="1592"/>
             </event>
           </eventGroup>
         </eventGroups>
@@ -13631,7 +13631,7 @@
           </phase>
         </dossier_history>
       </metadata>
-      <document id="078b2bdb-a048-4549-ba3d-d79903ce46b3_20260528">
+      <document id="ca4a7af4-fef8-40bc-9522-adc7c9d6622f_20260615">
         <metadata>
           <street_id>HGB_1_023</street_id>
           <dossier_id>HGB_1_023_010</dossier_id>
@@ -13639,424 +13639,419 @@
           <source>Gerichtsarchiv</source>
           <language>german</language>
           <checked_by_gpt>true</checked_by_gpt>
-          <text>em capplan unser frowen altar in eod mon so denne die übrigen 5ß dem gotzhuse und closter ze sant Alban Osterricher consensit Item do gab ze koffende Jost Frige von Wisen horn burger ze Basel Peter Stoß von Mentz und Katherinen Sunelerin eig uxor das huse so man nemmet Haseloch so gelegen ist ze Basel in der stat obnen an den swellen in dem magton wider die Barfüssen ze einer siten an Valmis von Kolmis huse des sniders und an Zschan von Telsperg des küffers huse umb 62ge sibi sitz da die eigenß gehört den armen lüten an der Birse dem da von gangent 10ß zins d geltz angarati von der eigenß 10ß ze erschatz so sich die hand verwandelt, so denne von der erbschaft 15ß der egl müntz als hie nach ger stat deß ersten 5ß eim capplan des heiligen crützes altar in unser frowen münster so denne</text>
+          <text>Item do gab ze koffende Jost Frige von Wisen horn burger ze Basel Peter Stoß von Mentz und Katherinen Sunelerin eig uxor das huse so man nemmet Haseloch so gelegen ist ze Basel in der stat obnen an den swellen in dem magton wider die Barfüssen ze einer siten an Valmis von Kolmis huse des sniders und an Zschan von Telsperg des küffers huse umb 62ge sibi sitz da die eigenß gehört den armen lüten an der Birse dem da von gangent 10ß zins d geltz angarati von der eigenß 10ß ze erschatz so sich die hand verwandelt, so denne von der erbschaft 15ß der egl müntz als hie nach ger stat deß ersten 5ß eim capplan des heiligen crützes altar in unser frowen münster so denne em capplan unser frowen altar in eod mon so denne die übrigen 5ß dem gotzhuse und closter ze sant Alban Osterricher consensit</text>
           <mentioned_houses>
-            <house span_ref="36">Haseloch</house>
+            <house span_ref="31">Haseloch</house>
           </mentioned_houses>
           <pages>
-            <page nr="4">https://files.transkribus.eu/Get?fileType=view&amp;id=KISZKVDGNLQVCUFPOVGMCZVD</page>
-            <page nr="5">https://files.transkribus.eu/Get?fileType=view&amp;id=EXQBEZODXWWDTETSCXTRFYKH</page>
+            <page nr="4"><![CDATA[https://files.transkribus.eu/Get?fileType=view&id=KISZKVDGNLQVCUFPOVGMCZVD]]></page>
+            <page nr="5"><![CDATA[https://files.transkribus.eu/Get?fileType=view&id=EXQBEZODXWWDTETSCXTRFYKH]]></page>
           </pages>
         </metadata>
         <text>
-          <token token_id="0">em</token>
-          <token token_id="1">capplan</token>
-          <token token_id="2">unser</token>
-          <token token_id="3">frowen</token>
-          <token token_id="4">altar</token>
-          <token token_id="5">in</token>
-          <token token_id="6">eod</token>
-          <token token_id="7">mon</token>
-          <token token_id="8">so</token>
-          <token token_id="9">denne</token>
-          <token token_id="10">die</token>
-          <token token_id="11">übrigen</token>
-          <token token_id="12">5ß</token>
-          <token token_id="13">dem</token>
-          <token token_id="14">gotzhuse</token>
-          <token token_id="15">und</token>
-          <token token_id="16">closter</token>
-          <token token_id="17">ze</token>
-          <token token_id="18">sant</token>
-          <token token_id="19">Alban</token>
-          <token token_id="20">Osterricher</token>
-          <token token_id="21">consensit</token>
-          <token token_id="22">Item</token>
-          <token token_id="23">do</token>
-          <token token_id="24">gab</token>
-          <token token_id="25">ze</token>
-          <token token_id="26">koffende</token>
-          <token token_id="27">Jost</token>
-          <token token_id="28">Frige</token>
-          <token token_id="29">von</token>
-          <token token_id="30">Wisen</token>
-          <token token_id="31">horn</token>
-          <token token_id="32">burger</token>
-          <token token_id="33">ze</token>
-          <token token_id="34">Basel</token>
-          <token token_id="35">Peter</token>
-          <token token_id="36">Stoß</token>
-          <token token_id="37">von</token>
-          <token token_id="38">Mentz</token>
-          <token token_id="39">und</token>
-          <token token_id="40">Katherinen</token>
-          <token token_id="41">Sunelerin</token>
-          <token token_id="42">eig</token>
-          <token token_id="43">uxor</token>
-          <token token_id="44">das</token>
-          <token token_id="45">huse</token>
-          <token token_id="46">so</token>
-          <token token_id="47">man</token>
-          <token token_id="48">nemmet</token>
-          <token token_id="49">Haseloch</token>
-          <token token_id="50">so</token>
-          <token token_id="51">gelegen</token>
-          <token token_id="52">ist</token>
-          <token token_id="53">ze</token>
-          <token token_id="54">Basel</token>
-          <token token_id="55">in</token>
-          <token token_id="56">der</token>
-          <token token_id="57">stat</token>
-          <token token_id="58">obnen</token>
-          <token token_id="59">an</token>
-          <token token_id="60">den</token>
-          <token token_id="61">swellen</token>
-          <token token_id="62">in</token>
-          <token token_id="63">dem</token>
-          <token token_id="64">magton</token>
-          <token token_id="65">wider</token>
-          <token token_id="66">die</token>
-          <token token_id="67">Barfüssen</token>
-          <token token_id="68">ze</token>
-          <token token_id="69">einer</token>
-          <token token_id="70">siten</token>
-          <token token_id="71">an</token>
-          <token token_id="72">Valmis</token>
-          <token token_id="73">von</token>
-          <token token_id="74">Kolmis</token>
-          <token token_id="75">huse</token>
-          <token token_id="76">des</token>
-          <token token_id="77">sniders</token>
-          <token token_id="78">und</token>
-          <token token_id="79">an</token>
-          <token token_id="80">Zschan</token>
-          <token token_id="81">von</token>
-          <token token_id="82">Telsperg</token>
-          <token token_id="83">des</token>
-          <token token_id="84">küffers</token>
-          <token token_id="85">huse</token>
-          <token token_id="86">umb</token>
-          <token token_id="87">62ge</token>
-          <token token_id="88">sibi</token>
-          <token token_id="89">sitz</token>
-          <token token_id="90">da</token>
-          <token token_id="91">die</token>
-          <token token_id="92">eigenß</token>
-          <token token_id="93">gehört</token>
-          <token token_id="94">den</token>
-          <token token_id="95">armen</token>
-          <token token_id="96">lüten</token>
-          <token token_id="97">an</token>
-          <token token_id="98">der</token>
-          <token token_id="99">Birse</token>
-          <token token_id="100">dem</token>
-          <token token_id="101">da</token>
-          <token token_id="102">von</token>
-          <token token_id="103">gangent</token>
-          <token token_id="104">10ß</token>
-          <token token_id="105">zins</token>
-          <token token_id="106">d</token>
-          <token token_id="107">geltz</token>
-          <token token_id="108">angarati</token>
-          <token token_id="109">von</token>
-          <token token_id="110">der</token>
-          <token token_id="111">eigenß</token>
-          <token token_id="112">10ß</token>
-          <token token_id="113">ze</token>
-          <token token_id="114">erschatz</token>
-          <token token_id="115">so</token>
-          <token token_id="116">sich</token>
-          <token token_id="117">die</token>
-          <token token_id="118">hand</token>
-          <token token_id="119">verwandelt</token>
-          <token token_id="120">,</token>
-          <token token_id="121">so</token>
-          <token token_id="122">denne</token>
-          <token token_id="123">von</token>
-          <token token_id="124">der</token>
-          <token token_id="125">erbschaft</token>
-          <token token_id="126">15ß</token>
-          <token token_id="127">der</token>
-          <token token_id="128">egl</token>
-          <token token_id="129">müntz</token>
-          <token token_id="130">als</token>
-          <token token_id="131">hie</token>
-          <token token_id="132">nach</token>
-          <token token_id="133">ger</token>
-          <token token_id="134">stat</token>
-          <token token_id="135">deß</token>
-          <token token_id="136">ersten</token>
-          <token token_id="137">5ß</token>
-          <token token_id="138">eim</token>
-          <token token_id="139">capplan</token>
-          <token token_id="140">des</token>
-          <token token_id="141">heiligen</token>
-          <token token_id="142">crützes</token>
-          <token token_id="143">altar</token>
-          <token token_id="144">in</token>
-          <token token_id="145">unser</token>
-          <token token_id="146">frowen</token>
-          <token token_id="147">münster</token>
-          <token token_id="148">so</token>
-          <token token_id="149">denne</token>
+          <token token_id="0">Item</token>
+          <token token_id="1">do</token>
+          <token token_id="2">gab</token>
+          <token token_id="3">ze</token>
+          <token token_id="4">koffende</token>
+          <token token_id="5">Jost</token>
+          <token token_id="6">Frige</token>
+          <token token_id="7">von</token>
+          <token token_id="8">Wisen</token>
+          <token token_id="9">horn</token>
+          <token token_id="10">burger</token>
+          <token token_id="11">ze</token>
+          <token token_id="12">Basel</token>
+          <token token_id="13">Peter</token>
+          <token token_id="14">Stoß</token>
+          <token token_id="15">von</token>
+          <token token_id="16">Mentz</token>
+          <token token_id="17">und</token>
+          <token token_id="18">Katherinen</token>
+          <token token_id="19">Sunelerin</token>
+          <token token_id="20">eig</token>
+          <token token_id="21">uxor</token>
+          <token token_id="22">das</token>
+          <token token_id="23">huse</token>
+          <token token_id="24">so</token>
+          <token token_id="25">man</token>
+          <token token_id="26">nemmet</token>
+          <token token_id="27">Haseloch</token>
+          <token token_id="28">so</token>
+          <token token_id="29">gelegen</token>
+          <token token_id="30">ist</token>
+          <token token_id="31">ze</token>
+          <token token_id="32">Basel</token>
+          <token token_id="33">in</token>
+          <token token_id="34">der</token>
+          <token token_id="35">stat</token>
+          <token token_id="36">obnen</token>
+          <token token_id="37">an</token>
+          <token token_id="38">den</token>
+          <token token_id="39">swellen</token>
+          <token token_id="40">in</token>
+          <token token_id="41">dem</token>
+          <token token_id="42">magton</token>
+          <token token_id="43">wider</token>
+          <token token_id="44">die</token>
+          <token token_id="45">Barfüssen</token>
+          <token token_id="46">ze</token>
+          <token token_id="47">einer</token>
+          <token token_id="48">siten</token>
+          <token token_id="49">an</token>
+          <token token_id="50">Valmis</token>
+          <token token_id="51">von</token>
+          <token token_id="52">Kolmis</token>
+          <token token_id="53">huse</token>
+          <token token_id="54">des</token>
+          <token token_id="55">sniders</token>
+          <token token_id="56">und</token>
+          <token token_id="57">an</token>
+          <token token_id="58">Zschan</token>
+          <token token_id="59">von</token>
+          <token token_id="60">Telsperg</token>
+          <token token_id="61">des</token>
+          <token token_id="62">küffers</token>
+          <token token_id="63">huse</token>
+          <token token_id="64">umb</token>
+          <token token_id="65">62ge</token>
+          <token token_id="66">sibi</token>
+          <token token_id="67">sitz</token>
+          <token token_id="68">da</token>
+          <token token_id="69">die</token>
+          <token token_id="70">eigenß</token>
+          <token token_id="71">gehört</token>
+          <token token_id="72">den</token>
+          <token token_id="73">armen</token>
+          <token token_id="74">lüten</token>
+          <token token_id="75">an</token>
+          <token token_id="76">der</token>
+          <token token_id="77">Birse</token>
+          <token token_id="78">dem</token>
+          <token token_id="79">da</token>
+          <token token_id="80">von</token>
+          <token token_id="81">gangent</token>
+          <token token_id="82">10ß</token>
+          <token token_id="83">zins</token>
+          <token token_id="84">d</token>
+          <token token_id="85">geltz</token>
+          <token token_id="86">angarati</token>
+          <token token_id="87">von</token>
+          <token token_id="88">der</token>
+          <token token_id="89">eigenß</token>
+          <token token_id="90">10ß</token>
+          <token token_id="91">ze</token>
+          <token token_id="92">erschatz</token>
+          <token token_id="93">so</token>
+          <token token_id="94">sich</token>
+          <token token_id="95">die</token>
+          <token token_id="96">hand</token>
+          <token token_id="97">verwandelt</token>
+          <token token_id="98">,</token>
+          <token token_id="99">so</token>
+          <token token_id="100">denne</token>
+          <token token_id="101">von</token>
+          <token token_id="102">der</token>
+          <token token_id="103">erbschaft</token>
+          <token token_id="104">15ß</token>
+          <token token_id="105">der</token>
+          <token token_id="106">egl</token>
+          <token token_id="107">müntz</token>
+          <token token_id="108">als</token>
+          <token token_id="109">hie</token>
+          <token token_id="110">nach</token>
+          <token token_id="111">ger</token>
+          <token token_id="112">stat</token>
+          <token token_id="113">deß</token>
+          <token token_id="114">ersten</token>
+          <token token_id="115">5ß</token>
+          <token token_id="116">eim</token>
+          <token token_id="117">capplan</token>
+          <token token_id="118">des</token>
+          <token token_id="119">heiligen</token>
+          <token token_id="120">crützes</token>
+          <token token_id="121">altar</token>
+          <token token_id="122">in</token>
+          <token token_id="123">unser</token>
+          <token token_id="124">frowen</token>
+          <token token_id="125">münster</token>
+          <token token_id="126">so</token>
+          <token token_id="127">denne</token>
+          <token token_id="128">em</token>
+          <token token_id="129">capplan</token>
+          <token token_id="130">unser</token>
+          <token token_id="131">frowen</token>
+          <token token_id="132">altar</token>
+          <token token_id="133">in</token>
+          <token token_id="134">eod</token>
+          <token token_id="135">mon</token>
+          <token token_id="136">so</token>
+          <token token_id="137">denne</token>
+          <token token_id="138">die</token>
+          <token token_id="139">übrigen</token>
+          <token token_id="140">5ß</token>
+          <token token_id="141">dem</token>
+          <token token_id="142">gotzhuse</token>
+          <token token_id="143">und</token>
+          <token token_id="144">closter</token>
+          <token token_id="145">ze</token>
+          <token token_id="146">sant</token>
+          <token token_id="147">Alban</token>
+          <token token_id="148">Osterricher</token>
+          <token token_id="149">consensit</token>
         </text>
         <spans>
-          <span id="0" start="0" end="7" element="reference" class="per" confidence="0.67" text="em capplan unser frowen altar in eod mon" numerus="sgl" specificity="spc" subclass="">
-            <span id="11" start="1" end="1" element="head" class="occ" confidence="1.0" text="capplan" norm="kaplan" OhdAB="https://database.factgrid.de/wiki/Item:Q694255"/>
-            <span id="12" start="2" end="4" element="reference" class="org" confidence="0.95" text="unser frowen altar" numerus="sgl" specificity="spc" subclass="rel">
-              <span id="14" start="2" end="4" element="head" class="nam" confidence="0.69" text="unser frowen altar" norm="Marienaltar"/>
-            </span>
-            <span id="13" start="5" end="7" element="appo" class="occ" confidence="0.64" text="in eod mon"/>
-          </span>
-          <span id="1" start="12" end="12" element="value" class="money" confidence="0.91" text="5ß" norm="5.0 Schilling"/>
-          <span id="2" start="13" end="20" element="reference" class="org" confidence="0.9" text="dem gotzhuse und closter ze sant Alban Osterricher" numerus="sgl" specificity="spc" subclass="rel">
-            <span id="15" start="14" end="20" element="head" class="nam" confidence="0.82" text="gotzhuse und closter ze sant Alban Osterricher" norm="St. Alban"/>
-          </span>
-          <span id="3" start="21" end="21" element="trigger" class="other" confidence="0.48" text="consensit"/>
-          <span id="4" start="26" end="26" element="trigger" class="sale" confidence="0.96" text="koffende"/>
-          <span id="5" start="27" end="34" element="reference" class="per" confidence="1.0" text="Jost Frige von Wisen horn burger ze Basel" numerus="sgl" specificity="spc" subclass="">
-            <span id="16" start="27" end="28" element="head" class="nam" confidence="1.0" text="Jost Frige"/>
-            <span id="17" start="29" end="31" element="attr" class="loc" confidence="0.98" text="von Wisen horn">
-              <span id="19" start="30" end="31" element="reference" class="gpe-loc" confidence="0.98" text="Wisen horn" numerus="sgl" specificity="spc" subclass="">
-                <span id="20" start="30" end="31" element="head" class="nam" confidence="1.0" text="Wisen horn"/>
+          <span id="0" start="4" end="4" element="trigger" class="sale" confidence="0.97" text="koffende"/>
+          <span id="1" start="5" end="12" element="reference" class="per" confidence="1.0" text="Jost Frige von Wisen horn burger ze Basel" numerus="sgl" specificity="spc" subclass="">
+            <span id="11" start="5" end="6" element="head" class="nam" confidence="1.0" text="Jost Frige"/>
+            <span id="12" start="7" end="9" element="attr" class="loc" confidence="0.98" text="von Wisen horn">
+              <span id="14" start="8" end="9" element="reference" class="gpe-loc" confidence="0.98" text="Wisen horn" numerus="sgl" specificity="spc" subclass="">
+                <span id="15" start="8" end="9" element="head" class="nam" confidence="1.0" text="Wisen horn"/>
               </span>
             </span>
-            <span id="18" start="32" end="34" element="appo" class="org-aff" confidence="1.0" text="burger ze Basel">
-              <span id="21" start="32" end="32" element="head" class="org-aff" confidence="1.0" text="burger"/>
-              <span id="22" start="34" end="34" element="reference" class="gpe-org" confidence="1.0" text="Basel" numerus="sgl" specificity="spc" subclass="">
-                <span id="23" start="34" end="34" element="head" class="nam" confidence="1.0" text="Basel"/>
+            <span id="13" start="10" end="12" element="appo" class="org-aff" confidence="1.0" text="burger ze Basel">
+              <span id="16" start="10" end="10" element="head" class="org-aff" confidence="1.0" text="burger"/>
+              <span id="17" start="12" end="12" element="reference" class="gpe-org" confidence="1.0" text="Basel" numerus="sgl" specificity="spc" subclass="">
+                <span id="18" start="12" end="12" element="head" class="nam" confidence="1.0" text="Basel"/>
               </span>
             </span>
           </span>
-          <span id="6" start="35" end="38" element="reference" class="per" confidence="1.0" text="Peter Stoß von Mentz" numerus="sgl" specificity="spc" subclass="">
-            <span id="24" start="35" end="36" element="head" class="nam" confidence="1.0" text="Peter Stoß"/>
-            <span id="25" start="37" end="38" element="attr" class="loc" confidence="0.99" text="von Mentz">
-              <span id="26" start="38" end="38" element="reference" class="gpe-loc" confidence="1.0" text="Mentz" numerus="sgl" specificity="spc" subclass="">
-                <span id="27" start="38" end="38" element="head" class="nam" confidence="1.0" text="Mentz"/>
+          <span id="2" start="13" end="16" element="reference" class="per" confidence="1.0" text="Peter Stoß von Mentz" numerus="sgl" specificity="spc" subclass="">
+            <span id="19" start="13" end="14" element="head" class="nam" confidence="1.0" text="Peter Stoß"/>
+            <span id="20" start="15" end="16" element="attr" class="loc" confidence="0.99" text="von Mentz">
+              <span id="21" start="16" end="16" element="reference" class="gpe-loc" confidence="1.0" text="Mentz" numerus="sgl" specificity="spc" subclass="">
+                <span id="22" start="16" end="16" element="head" class="nam" confidence="1.0" text="Mentz"/>
               </span>
             </span>
           </span>
-          <span id="7" start="40" end="43" element="reference" class="per" confidence="0.98" text="Katherinen Sunelerin eig uxor" numerus="sgl" specificity="spc" subclass="">
-            <span id="28" start="40" end="41" element="head" class="nam" confidence="1.0" text="Katherinen Sunelerin"/>
-            <span id="29" start="42" end="43" element="appo" class="fam" confidence="0.99" text="eig uxor">
-              <span id="30" start="42" end="42" element="reference" class="per" confidence="1.0" text="eig" numerus="sgl" specificity="spc" subclass="">
-                <span id="30_head" start="42" end="42" element="head" class="pro" confidence="1.0" text="eig"/>
+          <span id="3" start="18" end="21" element="reference" class="per" confidence="0.97" text="Katherinen Sunelerin eig uxor" numerus="sgl" specificity="spc" subclass="">
+            <span id="23" start="18" end="19" element="head" class="nam" confidence="1.0" text="Katherinen Sunelerin"/>
+            <span id="24" start="20" end="21" element="appo" class="fam" confidence="0.99" text="eig uxor">
+              <span id="25" start="20" end="20" element="reference" class="per" confidence="1.0" text="eig" numerus="sgl" specificity="spc" subclass="">
+                <span id="25_head" start="20" end="20" element="head" class="pro" confidence="1.0" text="eig"/>
               </span>
-              <span id="31" start="43" end="43" element="head" class="fam" confidence="1.0" text="uxor"/>
+              <span id="26" start="21" end="21" element="head" class="fam" confidence="1.0" text="uxor"/>
             </span>
           </span>
-          <span id="8" start="44" end="129" element="reference" class="fac" confidence="0.83" text="das huse so man nemmet Haseloch so gelegen ist ze Basel in der stat obnen an den swellen in dem magton wider die Barfüssen ze einer siten an Valmis von Kolmis huse des sniders und an Zschan von Telsperg des küffers huse umb 62ge sibi sitz da die eigenß gehört den armen lüten an der Birse dem da von gangent 10ß zins d geltz angarati von der eigenß 10ß ze erschatz so sich die hand verwandelt , so denne von der erbschaft 15ß der egl müntz" numerus="sgl" specificity="spc" subclass="">
-            <span id="32" start="45" end="45" element="head" class="type" confidence="1.0" text="huse" norm="Haus"/>
-            <span id="33" start="49" end="49" element="appo" class="nam" confidence="1.0" text="Haseloch">
-              <span id="36" start="49" end="49" element="head" class="nam" confidence="1.0" text="Haseloch"/>
+          <span id="4" start="22" end="107" element="reference" class="fac" confidence="0.83" text="das huse so man nemmet Haseloch so gelegen ist ze Basel in der stat obnen an den swellen in dem magton wider die Barfüssen ze einer siten an Valmis von Kolmis huse des sniders und an Zschan von Telsperg des küffers huse umb 62ge sibi sitz da die eigenß gehört den armen lüten an der Birse dem da von gangent 10ß zins d geltz angarati von der eigenß 10ß ze erschatz so sich die hand verwandelt , so denne von der erbschaft 15ß der egl müntz" numerus="sgl" specificity="spc" subclass="">
+            <span id="27" start="23" end="23" element="head" class="type" confidence="1.0" text="huse" norm="Haus"/>
+            <span id="28" start="27" end="27" element="appo" class="nam" confidence="1.0" text="Haseloch">
+              <span id="31" start="27" end="27" element="head" class="nam" confidence="1.0" text="Haseloch"/>
             </span>
-            <span id="34" start="50" end="86" element="attr" class="loc" confidence="0.98" text="so gelegen ist ze Basel in der stat obnen an den swellen in dem magton wider die Barfüssen ze einer siten an Valmis von Kolmis huse des sniders und an Zschan von Telsperg des küffers huse umb">
-              <span id="37" start="54" end="54" element="reference" class="gpe-loc" confidence="1.0" text="Basel" numerus="sgl" specificity="spc" subclass="">
-                <span id="44" start="54" end="54" element="head" class="nam" confidence="1.0" text="Basel"/>
+            <span id="29" start="28" end="64" element="attr" class="loc" confidence="0.98" text="so gelegen ist ze Basel in der stat obnen an den swellen in dem magton wider die Barfüssen ze einer siten an Valmis von Kolmis huse des sniders und an Zschan von Telsperg des küffers huse umb">
+              <span id="32" start="32" end="32" element="reference" class="gpe-loc" confidence="1.0" text="Basel" numerus="sgl" specificity="spc" subclass="">
+                <span id="39" start="32" end="32" element="head" class="nam" confidence="1.0" text="Basel"/>
               </span>
-              <span id="38" start="56" end="57" element="reference" class="gpe-loc" confidence="0.9" text="der stat" numerus="sgl" specificity="spc" subclass="">
-                <span id="45" start="57" end="57" element="head" class="type" confidence="0.99" text="stat"/>
+              <span id="33" start="34" end="35" element="reference" class="gpe-loc" confidence="0.9" text="der stat" numerus="sgl" specificity="spc" subclass="">
+                <span id="40" start="35" end="35" element="head" class="type" confidence="0.99" text="stat"/>
               </span>
-              <span id="39" start="60" end="61" element="reference" class="loc" confidence="0.98" text="den swellen" numerus="sgl" specificity="spc" subclass="">
-                <span id="46" start="61" end="61" element="head" class="nam" confidence="1.0" text="swellen"/>
+              <span id="34" start="38" end="39" element="reference" class="loc" confidence="0.98" text="den swellen" numerus="sgl" specificity="spc" subclass="">
+                <span id="41" start="39" end="39" element="head" class="nam" confidence="1.0" text="swellen"/>
               </span>
-              <span id="40" start="63" end="64" element="reference" class="fac" confidence="0.7" text="dem magton" numerus="sgl" specificity="spc" subclass="">
-                <span id="47" start="64" end="64" element="head" class="type" confidence="0.93" text="magton" norm="unk"/>
+              <span id="35" start="41" end="42" element="reference" class="fac" confidence="0.7" text="dem magton" numerus="sgl" specificity="spc" subclass="">
+                <span id="42" start="42" end="42" element="head" class="type" confidence="0.93" text="magton" norm="unk"/>
               </span>
-              <span id="41" start="66" end="67" element="reference" class="fac" confidence="0.56" text="die Barfüssen" numerus="sgl" specificity="spc" subclass="">
-                <span id="48" start="67" end="67" element="head" class="nam" confidence="1.0" text="Barfüssen"/>
+              <span id="36" start="44" end="45" element="reference" class="fac" confidence="0.56" text="die Barfüssen" numerus="sgl" specificity="spc" subclass="">
+                <span id="43" start="45" end="45" element="head" class="nam" confidence="1.0" text="Barfüssen"/>
               </span>
-              <span id="42" start="72" end="77" element="reference" class="fac" confidence="0.92" text="Valmis von Kolmis huse des sniders" numerus="sgl" specificity="spc" subclass="">
-                <span id="49" start="72" end="74" element="attr" class="owner" confidence="1.0" text="Valmis von Kolmis">
-                  <span id="52" start="72" end="74" element="reference" class="per" confidence="1.0" text="Valmis von Kolmis" numerus="sgl" specificity="spc" subclass="">
-                    <span id="53" start="72" end="74" element="head" class="nam" confidence="0.98" text="Valmis von Kolmis"/>
+              <span id="37" start="50" end="55" element="reference" class="fac" confidence="0.92" text="Valmis von Kolmis huse des sniders" numerus="sgl" specificity="spc" subclass="">
+                <span id="44" start="50" end="52" element="attr" class="owner" confidence="1.0" text="Valmis von Kolmis">
+                  <span id="47" start="50" end="52" element="reference" class="per" confidence="1.0" text="Valmis von Kolmis" numerus="sgl" specificity="spc" subclass="">
+                    <span id="48" start="50" end="52" element="head" class="nam" confidence="0.98" text="Valmis von Kolmis"/>
                   </span>
                 </span>
-                <span id="50" start="75" end="75" element="head" class="type" confidence="1.0" text="huse" norm="Haus"/>
-                <span id="51" start="76" end="77" element="attr" class="owner" confidence="0.95" text="des sniders">
-                  <span id="54" start="76" end="77" element="reference" class="per" confidence="0.9" text="des sniders" numerus="sgl" specificity="spc" subclass="">
-                    <span id="55" start="77" end="77" element="head" class="occ" confidence="0.87" text="sniders" norm="schneider" OhdAB="https://database.factgrid.de/wiki/Item:Q671445"/>
+                <span id="45" start="53" end="53" element="head" class="type" confidence="1.0" text="huse" norm="Haus"/>
+                <span id="46" start="54" end="55" element="attr" class="owner" confidence="0.95" text="des sniders">
+                  <span id="49" start="54" end="55" element="reference" class="per" confidence="0.9" text="des sniders" numerus="sgl" specificity="spc" subclass="">
+                    <span id="50" start="55" end="55" element="head" class="occ" confidence="0.87" text="sniders" norm="schneider" OhdAB="https://database.factgrid.de/wiki/Item:Q671445"/>
                   </span>
                 </span>
               </span>
-              <span id="43" start="80" end="85" element="reference" class="fac" confidence="0.86" text="Zschan von Telsperg des küffers huse" numerus="sgl" specificity="spc" subclass="">
-                <span id="56" start="80" end="84" element="attr" class="owner" confidence="1.0" text="Zschan von Telsperg des küffers">
-                  <span id="58" start="80" end="84" element="reference" class="per" confidence="1.0" text="Zschan von Telsperg des küffers" numerus="sgl" specificity="spc" subclass="">
-                    <span id="59" start="80" end="80" element="head" class="nam" confidence="1.0" text="Zschan"/>
-                    <span id="60" start="81" end="82" element="attr" class="loc" confidence="0.8" text="von Telsperg">
-                      <span id="62" start="82" end="82" element="reference" class="gpe-loc" confidence="1.0" text="Telsperg" numerus="sgl" specificity="spc" subclass="">
-                        <span id="63" start="82" end="82" element="head" class="nam" confidence="1.0" text="Telsperg"/>
+              <span id="38" start="58" end="63" element="reference" class="fac" confidence="0.86" text="Zschan von Telsperg des küffers huse" numerus="sgl" specificity="spc" subclass="">
+                <span id="51" start="58" end="62" element="attr" class="owner" confidence="1.0" text="Zschan von Telsperg des küffers">
+                  <span id="53" start="58" end="62" element="reference" class="per" confidence="1.0" text="Zschan von Telsperg des küffers" numerus="sgl" specificity="spc" subclass="">
+                    <span id="54" start="58" end="58" element="head" class="nam" confidence="1.0" text="Zschan"/>
+                    <span id="55" start="59" end="60" element="attr" class="loc" confidence="0.8" text="von Telsperg">
+                      <span id="57" start="60" end="60" element="reference" class="gpe-loc" confidence="1.0" text="Telsperg" numerus="sgl" specificity="spc" subclass="">
+                        <span id="58" start="60" end="60" element="head" class="nam" confidence="1.0" text="Telsperg"/>
                       </span>
                     </span>
-                    <span id="61" start="83" end="84" element="appo" class="occ" confidence="0.99" text="des küffers">
-                      <span id="64" start="84" end="84" element="head" class="occ" confidence="1.0" text="küffers" norm="küfer" OhdAB="https://database.factgrid.de/wiki/Item:Q661668"/>
+                    <span id="56" start="61" end="62" element="appo" class="occ" confidence="0.99" text="des küffers">
+                      <span id="59" start="62" end="62" element="head" class="occ" confidence="1.0" text="küffers" norm="küfer" OhdAB="https://database.factgrid.de/wiki/Item:Q661668"/>
                     </span>
                   </span>
                 </span>
-                <span id="57" start="85" end="85" element="head" class="type" confidence="1.0" text="huse" norm="Haus"/>
+                <span id="52" start="63" end="63" element="head" class="type" confidence="1.0" text="huse" norm="Haus"/>
               </span>
             </span>
-            <span id="35" start="87" end="129" element="attr" class="dues" confidence="0.9" text="62ge sibi sitz da die eigenß gehört den armen lüten an der Birse dem da von gangent 10ß zins d geltz angarati von der eigenß 10ß ze erschatz so sich die hand verwandelt , so denne von der erbschaft 15ß der egl müntz">
-              <span id="65" start="94" end="99" element="reference" class="org" confidence="0.91" text="den armen lüten an der Birse" numerus="sgl" specificity="spc" subclass="">
-                <span id="76" start="96" end="96" element="head" class="type" confidence="0.45" text="lüten" norm="Arme Leute"/>
-                <span id="77" start="97" end="99" element="attr" class="loc" confidence="0.92" text="an der Birse">
-                  <span id="78" start="98" end="99" element="reference" class="loc" confidence="0.95" text="der Birse" numerus="sgl" specificity="spc" subclass="">
-                    <span id="79" start="99" end="99" element="head" class="nam" confidence="1.0" text="Birse"/>
+            <span id="30" start="65" end="107" element="attr" class="dues" confidence="0.9" text="62ge sibi sitz da die eigenß gehört den armen lüten an der Birse dem da von gangent 10ß zins d geltz angarati von der eigenß 10ß ze erschatz so sich die hand verwandelt , so denne von der erbschaft 15ß der egl müntz">
+              <span id="60" start="72" end="77" element="reference" class="org" confidence="0.91" text="den armen lüten an der Birse" numerus="sgl" specificity="spc" subclass="">
+                <span id="71" start="74" end="74" element="head" class="type" confidence="0.45" text="lüten" norm="Arme Leute"/>
+                <span id="72" start="75" end="77" element="attr" class="loc" confidence="0.92" text="an der Birse">
+                  <span id="73" start="76" end="77" element="reference" class="loc" confidence="0.95" text="der Birse" numerus="sgl" specificity="spc" subclass="">
+                    <span id="74" start="77" end="77" element="head" class="nam" confidence="1.0" text="Birse"/>
                   </span>
                 </span>
               </span>
-              <span id="66" start="100" end="100" element="reference" class="org" confidence="0.98" text="dem" numerus="sgl" specificity="spc" subclass="">
-                <span id="66_head" start="100" end="100" element="head" class="pro" confidence="0.98" text="dem" norm="unk"/>
+              <span id="61" start="78" end="78" element="reference" class="org" confidence="0.98" text="dem" numerus="sgl" specificity="spc" subclass="">
+                <span id="61_head" start="78" end="78" element="head" class="pro" confidence="0.98" text="dem" norm="unk"/>
               </span>
-              <span id="67" start="103" end="103" element="trigger" class="due" confidence="1.0" text="gangent"/>
-              <span id="68" start="104" end="106" element="value" class="money" confidence="0.97" text="10ß zins d" norm="10.0 Schilling-Denare"/>
-              <span id="69" start="108" end="108" element="value" class="date" confidence="0.57" text="angarati"/>
-              <span id="70" start="109" end="111" element="other" class="other" confidence="0.69" text="von der eigenß"/>
-              <span id="71" start="112" end="112" element="value" class="money" confidence="0.97" text="10ß" norm="10.0 Schilling"/>
-              <span id="72" start="113" end="114" element="other" class="other" confidence="0.91" text="ze erschatz"/>
-              <span id="73" start="123" end="125" element="other" class="other" confidence="0.79" text="von der erbschaft"/>
-              <span id="74" start="126" end="126" element="value" class="money" confidence="0.95" text="15ß" norm="15.0 Schilling"/>
-              <span id="75" start="127" end="129" element="reference" class="org" confidence="0.6" text="der egl müntz" numerus="sgl" specificity="spc" subclass="rel">
-                <span id="80" start="129" end="129" element="head" class="type" confidence="0.98" text="müntz" norm="Münster"/>
-              </span>
-            </span>
-          </span>
-          <span id="9" start="137" end="137" element="value" class="money" confidence="1.0" text="5ß" norm="5.0 Schilling"/>
-          <span id="10" start="138" end="147" element="reference" class="per" confidence="0.91" text="eim capplan des heiligen crützes altar in unser frowen münster" numerus="sgl" specificity="spc" subclass="">
-            <span id="81" start="139" end="139" element="head" class="occ" confidence="1.0" text="capplan" norm="kaplan" OhdAB="https://database.factgrid.de/wiki/Item:Q694255"/>
-            <span id="82" start="140" end="143" element="reference" class="org" confidence="0.95" text="des heiligen crützes altar" numerus="sgl" specificity="spc" subclass="rel">
-              <span id="84" start="141" end="143" element="head" class="nam" confidence="0.81" text="heiligen crützes altar" norm="unk"/>
-            </span>
-            <span id="83" start="144" end="147" element="appo" class="occ" confidence="0.74" text="in unser frowen münster">
-              <span id="85" start="145" end="147" element="reference" class="org" confidence="0.85" text="unser frowen münster" numerus="sgl" specificity="spc" subclass="rel">
-                <span id="86" start="145" end="147" element="head" class="nam" confidence="0.72" text="unser frowen münster" norm="Hochstift"/>
+              <span id="62" start="81" end="81" element="trigger" class="due" confidence="1.0" text="gangent"/>
+              <span id="63" start="82" end="84" element="value" class="money" confidence="0.97" text="10ß zins d" norm="10.0 Schilling-Denare"/>
+              <span id="64" start="86" end="86" element="value" class="date" confidence="0.57" text="angarati"/>
+              <span id="65" start="87" end="89" element="other" class="other" confidence="0.69" text="von der eigenß"/>
+              <span id="66" start="90" end="90" element="value" class="money" confidence="0.97" text="10ß" norm="10.0 Schilling"/>
+              <span id="67" start="91" end="92" element="other" class="other" confidence="0.91" text="ze erschatz"/>
+              <span id="68" start="101" end="103" element="other" class="other" confidence="0.79" text="von der erbschaft"/>
+              <span id="69" start="104" end="104" element="value" class="money" confidence="0.95" text="15ß" norm="15.0 Schilling"/>
+              <span id="70" start="105" end="107" element="reference" class="org" confidence="0.6" text="der egl müntz" numerus="sgl" specificity="spc" subclass="rel">
+                <span id="75" start="107" end="107" element="head" class="type" confidence="0.98" text="müntz" norm="Münster"/>
               </span>
             </span>
           </span>
+          <span id="5" start="115" end="115" element="value" class="money" confidence="0.95" text="5ß" norm="5.0 Schilling"/>
+          <span id="6" start="116" end="125" element="reference" class="per" confidence="0.88" text="eim capplan des heiligen crützes altar in unser frowen münster" numerus="sgl" specificity="spc" subclass="">
+            <span id="76" start="117" end="117" element="head" class="occ" confidence="1.0" text="capplan" norm="kaplan" OhdAB="https://database.factgrid.de/wiki/Item:Q694255"/>
+            <span id="77" start="118" end="121" element="reference" class="org" confidence="0.95" text="des heiligen crützes altar" numerus="sgl" specificity="spc" subclass="rel">
+              <span id="79" start="119" end="121" element="head" class="nam" confidence="0.81" text="heiligen crützes altar" norm="unk"/>
+            </span>
+            <span id="78" start="122" end="125" element="appo" class="occ" confidence="0.75" text="in unser frowen münster">
+              <span id="80" start="123" end="125" element="reference" class="org" confidence="0.86" text="unser frowen münster" numerus="sgl" specificity="spc" subclass="rel">
+                <span id="81" start="123" end="125" element="head" class="nam" confidence="0.73" text="unser frowen münster" norm="Hochstift"/>
+              </span>
+            </span>
+          </span>
+          <span id="7" start="128" end="135" element="reference" class="per" confidence="0.8" text="em capplan unser frowen altar in eod mon" numerus="sgl" specificity="spc" subclass="">
+            <span id="82" start="129" end="129" element="head" class="occ" confidence="1.0" text="capplan" norm="kaplan" OhdAB="https://database.factgrid.de/wiki/Item:Q694255"/>
+            <span id="83" start="130" end="132" element="reference" class="org" confidence="0.95" text="unser frowen altar" numerus="sgl" specificity="spc" subclass="rel">
+              <span id="85" start="130" end="132" element="head" class="nam" confidence="0.68" text="unser frowen altar" norm="Marienaltar"/>
+            </span>
+            <span id="84" start="133" end="135" element="attr" class="loc" confidence="0.58" text="in eod mon"/>
+          </span>
+          <span id="8" start="140" end="140" element="value" class="money" confidence="0.86" text="5ß" norm="5.0 Schilling"/>
+          <span id="9" start="141" end="148" element="reference" class="org" confidence="0.83" text="dem gotzhuse und closter ze sant Alban Osterricher" numerus="sgl" specificity="spc" subclass="rel">
+            <span id="86" start="142" end="148" element="head" class="nam" confidence="0.81" text="gotzhuse und closter ze sant Alban Osterricher" norm="St. Alban"/>
+          </span>
+          <span id="10" start="149" end="149" element="trigger" class="other" confidence="0.32" text="consensit"/>
         </spans>
         <relations>
-          <relation id="1" from="30" to="5" class="coref"/>
-          <relation id="2" from="30" to="6" class="coref"/>
-          <relation id="3" from="66" to="65" class="coref"/>
+          <relation id="1" from="25" to="1" class="coref"/>
+          <relation id="2" from="25" to="2" class="coref"/>
+          <relation id="3" from="61" to="60" class="coref"/>
         </relations>
         <eventGroups>
-          <eventGroup event_id="0" class="due-obligation" start="100" end="147" ref="35" type="state" tense="unk" polarity="unk" modality="unk">
-            <trigger ref="67" text="gangent" start="103" end="103"/>
+          <eventGroup event_id="0" class="due-obligation" start="78" end="140" ref="30" type="state" tense="unk" polarity="unk" modality="unk">
+            <trigger ref="62" text="gangent" start="81" end="81"/>
             <event event_id="0.0">
-              <role role="interest" confidence="0.99" ref="68" text="10ß zins d"/>
-              <role role="interest" ref="9" confidence="gpt-5.5" text="5ß"/>
-              <role role="beneficiary" ref="10" confidence="gpt-5.5" text="eim capplan des heiligen crützes altar in unser frowen münster"/>
+              <role role="interest" confidence="0.99" ref="63" text="10ß zins d"/>
+              <role role="interest" ref="5" confidence="gpt-5.5" text="5ß"/>
+              <role role="interest" ref="8" confidence="gpt-5.5" text="5ß"/>
             </event>
             <event event_id="0.1">
-              <role role="beneficiary" confidence="0.99" ref="66" text="dem"/>
-              <role role="interest" confidence="1.0" ref="71" text="10ß"/>
-              <role role="cause" confidence="1.0" ref="72" text="ze erschatz"/>
+              <role role="beneficiary" confidence="0.99" ref="61" text="dem"/>
+              <role role="interest" confidence="1.0" ref="66" text="10ß"/>
+              <role role="cause" confidence="1.0" ref="67" text="ze erschatz"/>
             </event>
             <event event_id="0.2">
-              <role role="interest" confidence="0.99" ref="74" text="15ß"/>
-              <role role="beneficiary" confidence="0.97" ref="75" text="der egl müntz"/>
+              <role role="interest" confidence="0.99" ref="69" text="15ß"/>
+              <role role="beneficiary" confidence="0.97" ref="70" text="der egl müntz"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="1" class="consent" start="14" end="21" ref="" type="event" tense="unk" polarity="unk" modality="unk">
-            <trigger ref="3" text="consensit" start="21" end="21"/>
+          <eventGroup event_id="1" class="property-purchase" start="4" end="148" ref="" type="event" tense="unk" polarity="unk" modality="unk">
+            <trigger ref="0" text="koffende" start="4" end="4"/>
             <event event_id="1.0">
-          </event>
-          </eventGroup>
-          <eventGroup event_id="2" class="property-purchase" start="26" end="129" ref="" type="event" tense="unk" polarity="unk" modality="unk">
-            <trigger ref="4" text="koffende" start="26" end="26"/>
-            <event event_id="2.0">
-              <role role="seller" confidence="0.99" ref="5" text="Jost Frige von Wisen horn burger ze Basel"/>
-              <role role="buyer" confidence="1.0" ref="6" text="Peter Stoß von Mentz"/>
-              <role role="buyer" confidence="0.98" ref="7" text="Katherinen Sunelerin eig uxor"/>
-              <role role="property" confidence="1.0" ref="8" text="das huse so man nemmet Haseloch so gelegen ist ze Basel in der stat obnen an den swellen in dem magton wider die Barfüssen ze einer siten an Valmis von Kolmis huse des sniders und an Zschan von Telsperg des küffers huse umb 62ge sibi sitz da die eigenß gehört den armen lüten an der Birse dem da von gangent 10ß zins d geltz angarati von der eigenß 10ß ze erschatz so sich die hand verwandelt , so denne von der erbschaft 15ß der egl müntz"/>
+              <role role="seller" confidence="1.0" ref="1" text="Jost Frige von Wisen horn burger ze Basel"/>
+              <role role="buyer" confidence="0.99" ref="2" text="Peter Stoß von Mentz"/>
+              <role role="buyer" confidence="0.94" ref="3" text="Katherinen Sunelerin eig uxor"/>
+              <role role="property" confidence="1.0" ref="4" text="das huse so man nemmet Haseloch so gelegen ist ze Basel in der stat obnen an den swellen in dem magton wider die Barfüssen ze einer siten an Valmis von Kolmis huse des sniders und an Zschan von Telsperg des küffers huse umb 62ge sibi sitz da die eigenß gehört den armen lüten an der Birse dem da von gangent 10ß zins d geltz angarati von der eigenß 10ß ze erschatz so sich die hand verwandelt , so denne von der erbschaft 15ß der egl müntz"/>
+              <role role="beneficiary" confidence="0.93" ref="7" text="em capplan unser frowen altar in eod mon"/>
+              <role role="beneficiary" confidence="0.93" ref="9" text="dem gotzhuse und closter ze sant Alban Osterricher"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="3" class="employment" start="0" end="7" ref="0" type="state" tense="unk" polarity="unk" modality="unk">
-            <trigger start="1" end="1" text="capplan" ref="11"/>
+          <eventGroup event_id="2" class="other" start="149" end="149" ref="" type="event" tense="unk" polarity="unk" modality="unk">
+            <trigger ref="10" text="consensit" start="149" end="149"/>
+            <event event_id="2.0"/>
+          </eventGroup>
+          <eventGroup event_id="3" class="employment" start="116" end="125" ref="6" type="state" tense="unk" polarity="unk" modality="unk">
+            <trigger start="117" end="117" text="capplan" ref="76"/>
             <event event_id="3.0">
-              <role role="employee" ref="0" text="em capplan unser frowen altar in eod mon"/>
-              <role role="employer" ref="12" text="unser frowen altar"/>
+              <role role="employee" ref="6" text="eim capplan des heiligen crützes altar in unser frowen münster"/>
+              <role role="employer" ref="77" text="des heiligen crützes altar"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="4" class="employment" start="138" end="147" ref="10" type="state" tense="unk" polarity="unk" modality="unk">
-            <trigger start="139" end="139" text="capplan" ref="81"/>
+          <eventGroup event_id="4" class="employment" start="128" end="135" ref="7" type="state" tense="unk" polarity="unk" modality="unk">
+            <trigger start="129" end="129" text="capplan" ref="82"/>
             <event event_id="4.0">
-              <role role="employee" ref="10" text="eim capplan des heiligen crützes altar in unser frowen münster"/>
-              <role role="employer" ref="82" text="des heiligen crützes altar"/>
+              <role role="employee" ref="7" text="em capplan unser frowen altar in eod mon"/>
+              <role role="employer" ref="83" text="unser frowen altar"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="5" class="civic-affiliation" start="27" end="34" ref="18" type="state" tense="unk" polarity="unk" modality="unk">
-            <trigger start="32" end="32" text="burger" ref="21"/>
+          <eventGroup event_id="5" class="civic-affiliation" start="5" end="12" ref="13" type="state" tense="unk" polarity="unk" modality="unk">
+            <trigger start="10" end="10" text="burger" ref="16"/>
             <event event_id="5.0">
-              <role role="resident" ref="5" text="Jost Frige von Wisen horn burger ze Basel"/>
-              <role role="geopolitical-entity" ref="22" text="Basel"/>
+              <role role="resident" ref="1" text="Jost Frige von Wisen horn burger ze Basel"/>
+              <role role="geopolitical-entity" ref="17" text="Basel"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="6" class="family" start="40" end="43" ref="29" type="state" tense="unk" polarity="unk" modality="unk">
-            <trigger start="43" end="43" text="uxor" ref="31"/>
+          <eventGroup event_id="6" class="family" start="18" end="21" ref="24" type="state" tense="unk" polarity="unk" modality="unk">
+            <trigger start="21" end="21" text="uxor" ref="26"/>
             <event event_id="6.0">
-              <role role="family-a" ref="7" text="Katherinen Sunelerin eig uxor"/>
-              <role role="family-b" ref="30" text="eig"/>
+              <role role="family-a" ref="3" text="Katherinen Sunelerin eig uxor"/>
+              <role role="family-b" ref="25" text="eig"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="7" class="topological" start="27" end="34" ref="17" type="state" tense="unk" polarity="unk" modality="unk">
+          <eventGroup event_id="7" class="topological" start="5" end="12" ref="12" type="state" tense="unk" polarity="unk" modality="unk">
             <event event_id="7.0">
-              <role role="location-a" ref="5" text="Jost Frige von Wisen horn burger ze Basel"/>
-              <role role="location-b" ref="19" text="Wisen horn"/>
+              <role role="location-a" ref="1" text="Jost Frige von Wisen horn burger ze Basel"/>
+              <role role="location-b" ref="14" text="Wisen horn"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="8" class="topological" start="35" end="38" ref="25" type="state" tense="unk" polarity="unk" modality="unk">
+          <eventGroup event_id="8" class="topological" start="13" end="16" ref="20" type="state" tense="unk" polarity="unk" modality="unk">
             <event event_id="8.0">
-              <role role="location-a" ref="6" text="Peter Stoß von Mentz"/>
-              <role role="location-b" ref="26" text="Mentz"/>
+              <role role="location-a" ref="2" text="Peter Stoß von Mentz"/>
+              <role role="location-b" ref="21" text="Mentz"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="9" class="topological" start="44" end="129" ref="34" type="state" tense="unk" polarity="unk" modality="unk">
+          <eventGroup event_id="9" class="topological" start="22" end="107" ref="29" type="state" tense="unk" polarity="unk" modality="unk">
             <event event_id="9.0">
-              <role role="location-a" ref="8" text="das huse so man nemmet Haseloch so gelegen ist ze Basel in der stat obnen an den swellen in dem magton wider die Barfüssen ze einer siten an Valmis von Kolmis huse des sniders und an Zschan von Telsperg des küffers huse umb 62ge sibi sitz da die eigenß gehört den armen lüten an der Birse dem da von gangent 10ß zins d geltz angarati von der eigenß 10ß ze erschatz so sich die hand verwandelt , so denne von der erbschaft 15ß der egl müntz"/>
-              <role role="location-b" ref="37" text="Basel"/>
-              <role role="location-b" ref="38" text="der stat"/>
-              <role role="location-b" ref="39" text="den swellen"/>
-              <role role="location-b" ref="40" text="dem magton"/>
-              <role role="location-b" ref="41" text="die Barfüssen"/>
-              <role role="location-b" ref="42" text="Valmis von Kolmis huse des sniders"/>
-              <role role="location-b" ref="43" text="Zschan von Telsperg des küffers huse"/>
+              <role role="location-a" ref="4" text="das huse so man nemmet Haseloch so gelegen ist ze Basel in der stat obnen an den swellen in dem magton wider die Barfüssen ze einer siten an Valmis von Kolmis huse des sniders und an Zschan von Telsperg des küffers huse umb 62ge sibi sitz da die eigenß gehört den armen lüten an der Birse dem da von gangent 10ß zins d geltz angarati von der eigenß 10ß ze erschatz so sich die hand verwandelt , so denne von der erbschaft 15ß der egl müntz"/>
+              <role role="location-b" ref="32" text="Basel"/>
+              <role role="location-b" ref="33" text="der stat"/>
+              <role role="location-b" ref="34" text="den swellen"/>
+              <role role="location-b" ref="35" text="dem magton"/>
+              <role role="location-b" ref="36" text="die Barfüssen"/>
+              <role role="location-b" ref="37" text="Valmis von Kolmis huse des sniders"/>
+              <role role="location-b" ref="38" text="Zschan von Telsperg des küffers huse"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="10" class="ownership" start="72" end="77" ref="49" type="state" tense="unk" polarity="unk" modality="unk">
+          <eventGroup event_id="10" class="ownership" start="50" end="55" ref="44" type="state" tense="unk" polarity="unk" modality="unk">
             <event event_id="10.0">
-              <role role="property" ref="42" text="Valmis von Kolmis huse des sniders"/>
-              <role role="owner" ref="52" text="Valmis von Kolmis"/>
+              <role role="property" ref="37" text="Valmis von Kolmis huse des sniders"/>
+              <role role="owner" ref="47" text="Valmis von Kolmis"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="11" class="ownership" start="72" end="77" ref="51" type="state" tense="unk" polarity="unk" modality="unk">
+          <eventGroup event_id="11" class="ownership" start="50" end="55" ref="46" type="state" tense="unk" polarity="unk" modality="unk">
             <event event_id="11.0">
-              <role role="property" ref="42" text="Valmis von Kolmis huse des sniders"/>
-              <role role="owner" ref="54" text="des sniders"/>
+              <role role="property" ref="37" text="Valmis von Kolmis huse des sniders"/>
+              <role role="owner" ref="49" text="des sniders"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="12" class="ownership" start="80" end="85" ref="56" type="state" tense="unk" polarity="unk" modality="unk">
+          <eventGroup event_id="12" class="ownership" start="58" end="63" ref="51" type="state" tense="unk" polarity="unk" modality="unk">
             <event event_id="12.0">
-              <role role="property" ref="43" text="Zschan von Telsperg des küffers huse"/>
-              <role role="owner" ref="58" text="Zschan von Telsperg des küffers"/>
+              <role role="property" ref="38" text="Zschan von Telsperg des küffers huse"/>
+              <role role="owner" ref="53" text="Zschan von Telsperg des küffers"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="13" class="topological" start="80" end="84" ref="60" type="state" tense="unk" polarity="unk" modality="unk">
+          <eventGroup event_id="13" class="topological" start="58" end="62" ref="55" type="state" tense="unk" polarity="unk" modality="unk">
             <event event_id="13.0">
-              <role role="location-a" ref="58" text="Zschan von Telsperg des küffers"/>
-              <role role="location-b" ref="62" text="Telsperg"/>
+              <role role="location-a" ref="53" text="Zschan von Telsperg des küffers"/>
+              <role role="location-b" ref="57" text="Telsperg"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="14" class="topological" start="94" end="99" ref="77" type="state" tense="unk" polarity="unk" modality="unk">
+          <eventGroup event_id="14" class="topological" start="72" end="77" ref="72" type="state" tense="unk" polarity="unk" modality="unk">
             <event event_id="14.0">
-              <role role="location-a" ref="65" text="den armen lüten an der Birse"/>
-              <role role="location-b" ref="78" text="der Birse"/>
-            </event>
-          </eventGroup>
-          <eventGroup event_id="15" type="event" polarity="pos" tense="pres" modality="ass" ref="" class="payment" start="12" end="20">
-            <event event_id="15.0">
-              <role role="sum" ref="1" confidence="gpt-5.5" text="5ß"/>
-              <role role="beneficiary" ref="2" confidence="gpt-5.5" text="dem gotzhuse und closter ze sant Alban Osterricher"/>
+              <role role="location-a" ref="60" text="den armen lüten an der Birse"/>
+              <role role="location-b" ref="73" text="der Birse"/>
             </event>
           </eventGroup>
         </eventGroups>

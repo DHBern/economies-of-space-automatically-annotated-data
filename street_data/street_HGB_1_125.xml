@@ -1198,7 +1198,7 @@
           </eventGroup>
         </eventGroups>
       </document>
-      <document id="302e4881-831f-41ee-87db-242f8b19fd0e_20260528">
+      <document id="3a8de002-bd24-40a5-9ae4-d4a019a6d6f3_20260615">
         <metadata>
           <street_id>HGB_1_125</street_id>
           <dossier_id>HGB_1_125_008</dossier_id>
@@ -1206,461 +1206,471 @@
           <source>Gerichtsarchiv</source>
           <language>german</language>
           <checked_by_gpt>false</checked_by_gpt>
-          <text>den herren von s. Lienh. 15sh. u. einem lutpriester s. Martin. 1sh. von selgeret wegen gend ze kaufen Heuman Bratteler Schultheis ze Basel, soden Hans Schaltenbrand mit Ludwig Rütlinger dem Sunder, frow Clerlin Rosseggin Rudolf zem Luft ewirtin, u. a. i. an Mathys Schülern Martins Kirschaplan des altar u. 6 frauen u. der hl. Küng dem man sprichet sant gergien altar gelegen in der Kilchen ze sant Martin. die zwei hüser mit dem Höflin, gelegen an dem sprung by s. Martinkyschen an dem ort und man nempt zer alten Brämen sunder das ein nebent s. Clartin brunnen, nebent dem Hus so man nempt Gloggenberg, sodenne daz ander daran irstosset an die nidren gassen gegen des Zybollen hus über, ze einersiten nebent Schönezgers hus dez etwen was Classen von Küntzbach sum 120 fl. fertigungsbuch pg. von den frowen ze Clingental denen darab gat 1 ℔ 8sh. 332 2ring brot wisung u. 10 sh erschatz, u. dem gant ab der erbschaft</text>
+          <text>gend ze kaufen Heuman Bratteler Schultheis ze Basel, soden Hans Schaltenbrand mit Ludwig Rütlinger dem Sunder, frow Clerlin Rosseggin Rudolf zem Luft ewirtin, u. a. i. an Mathys Schülern Martins Kirschaplan des altar u. 6 frauen u. der hl. Küng dem man sprichet sant gergien altar gelegen in der Kilchen ze sant Martin. die zwei hüser mit dem Höflin, gelegen an dem sprung by s. Martinkyschen an dem ort und man nempt zer alten Brämen sunder das ein nebent s. Clartin brunnen, nebent dem Hus so man nempt Gloggenberg, sodenne daz ander daran irstosset an die nidren gassen gegen des Zybollen hus über, ze einersiten nebent Schönezgers hus dez etwen was Classen von Küntzbach sum 120 fl. fertigungsbuch pg. von den frowen ze Clingental denen darab gat 1 ℔ 8sh. 332 2ring brot wisung u. 10 sh erschatz, u. dem gant ab der erbschaft den herren von s. Lienh. 15sh. u. einem lutpriester s. Martin. 1sh. von selgeret wegen</text>
           <mentioned_houses>
-            <house span_ref="66">zer alten Brämen</house>
+            <house span_ref="64">zer alten Brämen</house>
           </mentioned_houses>
           <pages>
-            <page nr="10">https://files.transkribus.eu/Get?fileType=view&amp;id=ZIJDPFJJKCTSWFPRFQIMPQYW</page>
-            <page nr="11">https://files.transkribus.eu/Get?fileType=view&amp;id=ZVMCVKUXJVMZGBPXCHTJHDSO</page>
+            <page nr="10"><![CDATA[https://files.transkribus.eu/Get?fileType=view&id=ZIJDPFJJKCTSWFPRFQIMPQYW]]></page>
+            <page nr="11"><![CDATA[https://files.transkribus.eu/Get?fileType=view&id=ZVMCVKUXJVMZGBPXCHTJHDSO]]></page>
           </pages>
         </metadata>
         <text>
-          <token token_id="0">den</token>
-          <token token_id="1">herren</token>
-          <token token_id="2">von</token>
-          <token token_id="3">s</token>
-          <token token_id="4">.</token>
-          <token token_id="5">Lienh</token>
-          <token token_id="6">.</token>
-          <token token_id="7">15sh</token>
-          <token token_id="8">.</token>
-          <token token_id="9">u</token>
-          <token token_id="10">.</token>
-          <token token_id="11">einem</token>
-          <token token_id="12">lutpriester</token>
-          <token token_id="13">s</token>
-          <token token_id="14">.</token>
-          <token token_id="15">Martin</token>
-          <token token_id="16">.</token>
-          <token token_id="17">1sh</token>
-          <token token_id="18">.</token>
-          <token token_id="19">von</token>
-          <token token_id="20">selgeret</token>
-          <token token_id="21">wegen</token>
-          <token token_id="22">gend</token>
-          <token token_id="23">ze</token>
-          <token token_id="24">kaufen</token>
-          <token token_id="25">Heuman</token>
-          <token token_id="26">Bratteler</token>
-          <token token_id="27">Schultheis</token>
-          <token token_id="28">ze</token>
-          <token token_id="29">Basel</token>
-          <token token_id="30">,</token>
-          <token token_id="31">soden</token>
-          <token token_id="32">Hans</token>
-          <token token_id="33">Schaltenbrand</token>
-          <token token_id="34">mit</token>
-          <token token_id="35">Ludwig</token>
-          <token token_id="36">Rütlinger</token>
-          <token token_id="37">dem</token>
-          <token token_id="38">Sunder</token>
-          <token token_id="39">,</token>
-          <token token_id="40">frow</token>
-          <token token_id="41">Clerlin</token>
-          <token token_id="42">Rosseggin</token>
-          <token token_id="43">Rudolf</token>
-          <token token_id="44">zem</token>
-          <token token_id="45">Luft</token>
-          <token token_id="46">ewirtin</token>
-          <token token_id="47">,</token>
-          <token token_id="48">u</token>
-          <token token_id="49">.</token>
-          <token token_id="50">a</token>
-          <token token_id="51">.</token>
-          <token token_id="52">i</token>
-          <token token_id="53">.</token>
-          <token token_id="54">an</token>
-          <token token_id="55">Mathys</token>
-          <token token_id="56">Schülern</token>
-          <token token_id="57">Martins</token>
-          <token token_id="58">Kirschaplan</token>
-          <token token_id="59">des</token>
-          <token token_id="60">altar</token>
-          <token token_id="61">u</token>
+          <token token_id="0">gend</token>
+          <token token_id="1">ze</token>
+          <token token_id="2">kaufen</token>
+          <token token_id="3">Heuman</token>
+          <token token_id="4">Bratteler</token>
+          <token token_id="5">Schultheis</token>
+          <token token_id="6">ze</token>
+          <token token_id="7">Basel</token>
+          <token token_id="8">,</token>
+          <token token_id="9">soden</token>
+          <token token_id="10">Hans</token>
+          <token token_id="11">Schaltenbrand</token>
+          <token token_id="12">mit</token>
+          <token token_id="13">Ludwig</token>
+          <token token_id="14">Rütlinger</token>
+          <token token_id="15">dem</token>
+          <token token_id="16">Sunder</token>
+          <token token_id="17">,</token>
+          <token token_id="18">frow</token>
+          <token token_id="19">Clerlin</token>
+          <token token_id="20">Rosseggin</token>
+          <token token_id="21">Rudolf</token>
+          <token token_id="22">zem</token>
+          <token token_id="23">Luft</token>
+          <token token_id="24">ewirtin</token>
+          <token token_id="25">,</token>
+          <token token_id="26">u</token>
+          <token token_id="27">.</token>
+          <token token_id="28">a</token>
+          <token token_id="29">.</token>
+          <token token_id="30">i</token>
+          <token token_id="31">.</token>
+          <token token_id="32">an</token>
+          <token token_id="33">Mathys</token>
+          <token token_id="34">Schülern</token>
+          <token token_id="35">Martins</token>
+          <token token_id="36">Kirschaplan</token>
+          <token token_id="37">des</token>
+          <token token_id="38">altar</token>
+          <token token_id="39">u</token>
+          <token token_id="40">.</token>
+          <token token_id="41">6</token>
+          <token token_id="42">frauen</token>
+          <token token_id="43">u</token>
+          <token token_id="44">.</token>
+          <token token_id="45">der</token>
+          <token token_id="46">hl</token>
+          <token token_id="47">.</token>
+          <token token_id="48">Küng</token>
+          <token token_id="49">dem</token>
+          <token token_id="50">man</token>
+          <token token_id="51">sprichet</token>
+          <token token_id="52">sant</token>
+          <token token_id="53">gergien</token>
+          <token token_id="54">altar</token>
+          <token token_id="55">gelegen</token>
+          <token token_id="56">in</token>
+          <token token_id="57">der</token>
+          <token token_id="58">Kilchen</token>
+          <token token_id="59">ze</token>
+          <token token_id="60">sant</token>
+          <token token_id="61">Martin</token>
           <token token_id="62">.</token>
-          <token token_id="63">6</token>
-          <token token_id="64">frauen</token>
-          <token token_id="65">u</token>
-          <token token_id="66">.</token>
-          <token token_id="67">der</token>
-          <token token_id="68">hl</token>
-          <token token_id="69">.</token>
-          <token token_id="70">Küng</token>
-          <token token_id="71">dem</token>
-          <token token_id="72">man</token>
-          <token token_id="73">sprichet</token>
-          <token token_id="74">sant</token>
-          <token token_id="75">gergien</token>
-          <token token_id="76">altar</token>
-          <token token_id="77">gelegen</token>
-          <token token_id="78">in</token>
-          <token token_id="79">der</token>
-          <token token_id="80">Kilchen</token>
-          <token token_id="81">ze</token>
-          <token token_id="82">sant</token>
-          <token token_id="83">Martin</token>
-          <token token_id="84">.</token>
-          <token token_id="85">die</token>
-          <token token_id="86">zwei</token>
-          <token token_id="87">hüser</token>
-          <token token_id="88">mit</token>
-          <token token_id="89">dem</token>
-          <token token_id="90">Höflin</token>
-          <token token_id="91">,</token>
-          <token token_id="92">gelegen</token>
-          <token token_id="93">an</token>
-          <token token_id="94">dem</token>
-          <token token_id="95">sprung</token>
-          <token token_id="96">by</token>
-          <token token_id="97">s</token>
-          <token token_id="98">.</token>
-          <token token_id="99">Martinkyschen</token>
-          <token token_id="100">an</token>
-          <token token_id="101">dem</token>
-          <token token_id="102">ort</token>
-          <token token_id="103">und</token>
-          <token token_id="104">man</token>
-          <token token_id="105">nempt</token>
-          <token token_id="106">zer</token>
-          <token token_id="107">alten</token>
-          <token token_id="108">Brämen</token>
-          <token token_id="109">sunder</token>
-          <token token_id="110">das</token>
-          <token token_id="111">ein</token>
-          <token token_id="112">nebent</token>
-          <token token_id="113">s</token>
-          <token token_id="114">.</token>
-          <token token_id="115">Clartin</token>
-          <token token_id="116">brunnen</token>
-          <token token_id="117">,</token>
-          <token token_id="118">nebent</token>
-          <token token_id="119">dem</token>
-          <token token_id="120">Hus</token>
-          <token token_id="121">so</token>
-          <token token_id="122">man</token>
-          <token token_id="123">nempt</token>
-          <token token_id="124">Gloggenberg</token>
-          <token token_id="125">,</token>
-          <token token_id="126">sodenne</token>
-          <token token_id="127">daz</token>
-          <token token_id="128">ander</token>
-          <token token_id="129">daran</token>
-          <token token_id="130">irstosset</token>
-          <token token_id="131">an</token>
-          <token token_id="132">die</token>
-          <token token_id="133">nidren</token>
-          <token token_id="134">gassen</token>
-          <token token_id="135">gegen</token>
-          <token token_id="136">des</token>
-          <token token_id="137">Zybollen</token>
-          <token token_id="138">hus</token>
-          <token token_id="139">über</token>
-          <token token_id="140">,</token>
-          <token token_id="141">ze</token>
-          <token token_id="142">einersiten</token>
-          <token token_id="143">nebent</token>
-          <token token_id="144">Schönezgers</token>
-          <token token_id="145">hus</token>
-          <token token_id="146">dez</token>
-          <token token_id="147">etwen</token>
-          <token token_id="148">was</token>
-          <token token_id="149">Classen</token>
-          <token token_id="150">von</token>
-          <token token_id="151">Küntzbach</token>
-          <token token_id="152">sum</token>
-          <token token_id="153">120</token>
-          <token token_id="154">fl</token>
-          <token token_id="155">.</token>
-          <token token_id="156">fertigungsbuch</token>
-          <token token_id="157">pg</token>
-          <token token_id="158">.</token>
-          <token token_id="159">von</token>
-          <token token_id="160">den</token>
-          <token token_id="161">frowen</token>
-          <token token_id="162">ze</token>
-          <token token_id="163">Clingental</token>
-          <token token_id="164">denen</token>
-          <token token_id="165">darab</token>
-          <token token_id="166">gat</token>
-          <token token_id="167">1</token>
-          <token token_id="168">℔</token>
-          <token token_id="169">8sh</token>
+          <token token_id="63">die</token>
+          <token token_id="64">zwei</token>
+          <token token_id="65">hüser</token>
+          <token token_id="66">mit</token>
+          <token token_id="67">dem</token>
+          <token token_id="68">Höflin</token>
+          <token token_id="69">,</token>
+          <token token_id="70">gelegen</token>
+          <token token_id="71">an</token>
+          <token token_id="72">dem</token>
+          <token token_id="73">sprung</token>
+          <token token_id="74">by</token>
+          <token token_id="75">s</token>
+          <token token_id="76">.</token>
+          <token token_id="77">Martinkyschen</token>
+          <token token_id="78">an</token>
+          <token token_id="79">dem</token>
+          <token token_id="80">ort</token>
+          <token token_id="81">und</token>
+          <token token_id="82">man</token>
+          <token token_id="83">nempt</token>
+          <token token_id="84">zer</token>
+          <token token_id="85">alten</token>
+          <token token_id="86">Brämen</token>
+          <token token_id="87">sunder</token>
+          <token token_id="88">das</token>
+          <token token_id="89">ein</token>
+          <token token_id="90">nebent</token>
+          <token token_id="91">s</token>
+          <token token_id="92">.</token>
+          <token token_id="93">Clartin</token>
+          <token token_id="94">brunnen</token>
+          <token token_id="95">,</token>
+          <token token_id="96">nebent</token>
+          <token token_id="97">dem</token>
+          <token token_id="98">Hus</token>
+          <token token_id="99">so</token>
+          <token token_id="100">man</token>
+          <token token_id="101">nempt</token>
+          <token token_id="102">Gloggenberg</token>
+          <token token_id="103">,</token>
+          <token token_id="104">sodenne</token>
+          <token token_id="105">daz</token>
+          <token token_id="106">ander</token>
+          <token token_id="107">daran</token>
+          <token token_id="108">irstosset</token>
+          <token token_id="109">an</token>
+          <token token_id="110">die</token>
+          <token token_id="111">nidren</token>
+          <token token_id="112">gassen</token>
+          <token token_id="113">gegen</token>
+          <token token_id="114">des</token>
+          <token token_id="115">Zybollen</token>
+          <token token_id="116">hus</token>
+          <token token_id="117">über</token>
+          <token token_id="118">,</token>
+          <token token_id="119">ze</token>
+          <token token_id="120">einersiten</token>
+          <token token_id="121">nebent</token>
+          <token token_id="122">Schönezgers</token>
+          <token token_id="123">hus</token>
+          <token token_id="124">dez</token>
+          <token token_id="125">etwen</token>
+          <token token_id="126">was</token>
+          <token token_id="127">Classen</token>
+          <token token_id="128">von</token>
+          <token token_id="129">Küntzbach</token>
+          <token token_id="130">sum</token>
+          <token token_id="131">120</token>
+          <token token_id="132">fl</token>
+          <token token_id="133">.</token>
+          <token token_id="134">fertigungsbuch</token>
+          <token token_id="135">pg</token>
+          <token token_id="136">.</token>
+          <token token_id="137">von</token>
+          <token token_id="138">den</token>
+          <token token_id="139">frowen</token>
+          <token token_id="140">ze</token>
+          <token token_id="141">Clingental</token>
+          <token token_id="142">denen</token>
+          <token token_id="143">darab</token>
+          <token token_id="144">gat</token>
+          <token token_id="145">1</token>
+          <token token_id="146">℔</token>
+          <token token_id="147">8sh</token>
+          <token token_id="148">.</token>
+          <token token_id="149">332</token>
+          <token token_id="150">2ring</token>
+          <token token_id="151">brot</token>
+          <token token_id="152">wisung</token>
+          <token token_id="153">u</token>
+          <token token_id="154">.</token>
+          <token token_id="155">10</token>
+          <token token_id="156">sh</token>
+          <token token_id="157">erschatz</token>
+          <token token_id="158">,</token>
+          <token token_id="159">u</token>
+          <token token_id="160">.</token>
+          <token token_id="161">dem</token>
+          <token token_id="162">gant</token>
+          <token token_id="163">ab</token>
+          <token token_id="164">der</token>
+          <token token_id="165">erbschaft</token>
+          <token token_id="166">den</token>
+          <token token_id="167">herren</token>
+          <token token_id="168">von</token>
+          <token token_id="169">s</token>
           <token token_id="170">.</token>
-          <token token_id="171">332</token>
-          <token token_id="172">2ring</token>
-          <token token_id="173">brot</token>
-          <token token_id="174">wisung</token>
+          <token token_id="171">Lienh</token>
+          <token token_id="172">.</token>
+          <token token_id="173">15sh</token>
+          <token token_id="174">.</token>
           <token token_id="175">u</token>
           <token token_id="176">.</token>
-          <token token_id="177">10</token>
-          <token token_id="178">sh</token>
-          <token token_id="179">erschatz</token>
-          <token token_id="180">,</token>
-          <token token_id="181">u</token>
+          <token token_id="177">einem</token>
+          <token token_id="178">lutpriester</token>
+          <token token_id="179">s</token>
+          <token token_id="180">.</token>
+          <token token_id="181">Martin</token>
           <token token_id="182">.</token>
-          <token token_id="183">dem</token>
-          <token token_id="184">gant</token>
-          <token token_id="185">ab</token>
-          <token token_id="186">der</token>
-          <token token_id="187">erbschaft</token>
+          <token token_id="183">1sh</token>
+          <token token_id="184">.</token>
+          <token token_id="185">von</token>
+          <token token_id="186">selgeret</token>
+          <token token_id="187">wegen</token>
         </text>
         <spans>
-          <span id="0" start="0" end="6" element="reference" class="org" confidence="0.94" text="den herren von s . Lienh ." numerus="sgl" specificity="spc" subclass="rel">
-            <span id="23" start="1" end="6" element="head" class="nam" confidence="0.97" text="herren von s . Lienh ." norm="Kirche St. Leonhard"/>
-          </span>
-          <span id="1" start="7" end="8" element="value" class="money" confidence="1.0" text="15sh ." norm="15.0 Schilling"/>
-          <span id="2" start="11" end="15" element="reference" class="per" confidence="0.65" text="einem lutpriester s . Martin" numerus="sgl" specificity="spc" subclass="">
-            <span id="24" start="12" end="12" element="head" class="occ" confidence="1.0" text="lutpriester" norm="leuthpriester" OhdAB="https://database.factgrid.de/wiki/Item:Q694308"/>
-            <span id="25" start="13" end="15" element="reference" class="org" confidence="0.99" text="s . Martin" numerus="sgl" specificity="spc" subclass="rel">
-              <span id="26" start="13" end="15" element="head" class="nam" confidence="0.97" text="s . Martin" norm="Kirche St. Martin"/>
+          <span id="0" start="2" end="2" element="trigger" class="sale" confidence="0.64" text="kaufen"/>
+          <span id="1" start="3" end="7" element="reference" class="per" confidence="0.99" text="Heuman Bratteler Schultheis ze Basel" numerus="sgl" specificity="spc" subclass="">
+            <span id="22" start="3" end="4" element="head" class="nam" confidence="1.0" text="Heuman Bratteler"/>
+            <span id="23" start="5" end="5" element="appo" class="occ" confidence="0.99" text="Schultheis">
+              <span id="25" start="5" end="5" element="head" class="occ" confidence="1.0" text="Schultheis" norm="schultheiss" OhdAB="https://database.factgrid.de/wiki/Item:Q686092"/>
             </span>
-          </span>
-          <span id="3" start="17" end="18" element="value" class="money" confidence="1.0" text="1sh ." norm="1.0 Schilling"/>
-          <span id="4" start="24" end="24" element="trigger" class="sale" confidence="0.76" text="kaufen"/>
-          <span id="5" start="25" end="29" element="reference" class="per" confidence="0.99" text="Heuman Bratteler Schultheis ze Basel" numerus="sgl" specificity="spc" subclass="">
-            <span id="27" start="25" end="26" element="head" class="nam" confidence="1.0" text="Heuman Bratteler"/>
-            <span id="28" start="27" end="27" element="appo" class="occ" confidence="0.99" text="Schultheis">
-              <span id="30" start="27" end="27" element="head" class="occ" confidence="1.0" text="Schultheis" norm="schultheiss" OhdAB="https://database.factgrid.de/wiki/Item:Q686092"/>
-            </span>
-            <span id="29" start="28" end="29" element="appo" class="org-aff" confidence="0.7" text="ze Basel">
-              <span id="31" start="29" end="29" element="reference" class="gpe-org" confidence="1.0" text="Basel" numerus="sgl" specificity="spc" subclass="">
-                <span id="32" start="29" end="29" element="head" class="nam" confidence="1.0" text="Basel"/>
+            <span id="24" start="6" end="7" element="appo" class="org-aff" confidence="0.68" text="ze Basel">
+              <span id="26" start="7" end="7" element="reference" class="gpe-org" confidence="1.0" text="Basel" numerus="sgl" specificity="spc" subclass="">
+                <span id="27" start="7" end="7" element="head" class="nam" confidence="1.0" text="Basel"/>
               </span>
             </span>
           </span>
-          <span id="6" start="32" end="33" element="reference" class="per" confidence="1.0" text="Hans Schaltenbrand" numerus="sgl" specificity="spc" subclass="">
-            <span id="33" start="32" end="33" element="head" class="nam" confidence="1.0" text="Hans Schaltenbrand"/>
+          <span id="2" start="10" end="11" element="reference" class="per" confidence="1.0" text="Hans Schaltenbrand" numerus="sgl" specificity="spc" subclass="">
+            <span id="28" start="10" end="11" element="head" class="nam" confidence="1.0" text="Hans Schaltenbrand"/>
           </span>
-          <span id="7" start="35" end="38" element="reference" class="per" confidence="1.0" text="Ludwig Rütlinger dem Sunder" numerus="sgl" specificity="spc" subclass="">
-            <span id="34" start="35" end="36" element="head" class="nam" confidence="1.0" text="Ludwig Rütlinger"/>
-            <span id="35" start="37" end="38" element="appo" class="occ" confidence="0.99" text="dem Sunder">
-              <span id="36" start="38" end="38" element="head" class="occ" confidence="1.0" text="Sunder" norm="unk" OhdAB=""/>
+          <span id="3" start="13" end="16" element="reference" class="per" confidence="1.0" text="Ludwig Rütlinger dem Sunder" numerus="sgl" specificity="spc" subclass="">
+            <span id="29" start="13" end="14" element="head" class="nam" confidence="1.0" text="Ludwig Rütlinger"/>
+            <span id="30" start="15" end="16" element="appo" class="occ" confidence="0.99" text="dem Sunder">
+              <span id="31" start="16" end="16" element="head" class="occ" confidence="1.0" text="Sunder" norm="unk" OhdAB=""/>
             </span>
           </span>
-          <span id="8" start="40" end="46" element="reference" class="per" confidence="0.96" text="frow Clerlin Rosseggin Rudolf zem Luft ewirtin" numerus="sgl" specificity="spc" subclass="">
-            <span id="37" start="41" end="42" element="head" class="nam" confidence="1.0" text="Clerlin Rosseggin"/>
-            <span id="38" start="43" end="46" element="appo" class="fam" confidence="0.98" text="Rudolf zem Luft ewirtin">
-              <span id="39" start="43" end="45" element="reference" class="per" confidence="0.99" text="Rudolf zem Luft" numerus="sgl" specificity="spc" subclass="">
-                <span id="41" start="43" end="45" element="head" class="nam" confidence="1.0" text="Rudolf zem Luft"/>
+          <span id="4" start="18" end="24" element="reference" class="per" confidence="0.96" text="frow Clerlin Rosseggin Rudolf zem Luft ewirtin" numerus="sgl" specificity="spc" subclass="">
+            <span id="32" start="19" end="20" element="head" class="nam" confidence="1.0" text="Clerlin Rosseggin"/>
+            <span id="33" start="21" end="24" element="appo" class="fam" confidence="0.98" text="Rudolf zem Luft ewirtin">
+              <span id="34" start="21" end="23" element="reference" class="per" confidence="0.99" text="Rudolf zem Luft" numerus="sgl" specificity="spc" subclass="">
+                <span id="36" start="21" end="23" element="head" class="nam" confidence="1.0" text="Rudolf zem Luft"/>
               </span>
-              <span id="40" start="46" end="46" element="head" class="fam" confidence="1.0" text="ewirtin"/>
+              <span id="35" start="24" end="24" element="head" class="fam" confidence="1.0" text="ewirtin"/>
             </span>
           </span>
-          <span id="9" start="55" end="64" element="reference" class="per" confidence="0.85" text="Mathys Schülern Martins Kirschaplan des altar u . 6 frauen" numerus="sgl" specificity="spc" subclass="">
-            <span id="42" start="55" end="57" element="head" class="nam" confidence="0.92" text="Mathys Schülern Martins"/>
-            <span id="43" start="58" end="64" element="appo" class="occ" confidence="0.89" text="Kirschaplan des altar u . 6 frauen">
-              <span id="44" start="58" end="58" element="head" class="occ" confidence="1.0" text="Kirschaplan" norm="unk"/>
-              <span id="45" start="59" end="60" element="reference" class="org" confidence="0.98" text="des altar" numerus="sgl" specificity="spc" subclass="rel">
-                <span id="47" start="60" end="60" element="head" class="type" confidence="0.99" text="altar" norm="unk"/>
+          <span id="5" start="33" end="61" element="reference" class="per" confidence="0.88" text="Mathys Schülern Martins Kirschaplan des altar u . 6 frauen u . der hl . Küng dem man sprichet sant gergien altar gelegen in der Kilchen ze sant Martin" numerus="sgl" specificity="spc" subclass="">
+            <span id="37" start="33" end="35" element="head" class="nam" confidence="0.79" text="Mathys Schülern Martins"/>
+            <span id="38" start="36" end="42" element="appo" class="occ" confidence="0.69" text="Kirschaplan des altar u . 6 frauen">
+              <span id="41" start="36" end="36" element="head" class="occ" confidence="1.0" text="Kirschaplan" norm="unk"/>
+              <span id="42" start="37" end="38" element="reference" class="org" confidence="0.98" text="des altar" numerus="sgl" specificity="spc" subclass="rel">
+                <span id="44" start="38" end="38" element="head" class="type" confidence="0.99" text="altar" norm="unk"/>
               </span>
-              <span id="46" start="63" end="64" element="reference" class="org" confidence="0.65" text="6 frauen" numerus="sgl" specificity="spc" subclass="rel">
-                <span id="48" start="63" end="64" element="head" class="type" confidence="0.59" text="6 frauen" norm="unk"/>
+              <span id="43" start="41" end="42" element="reference" class="org" confidence="0.65" text="6 frauen" numerus="sgl" specificity="spc" subclass="rel">
+                <span id="45" start="41" end="42" element="head" class="type" confidence="0.59" text="6 frauen" norm="unk"/>
               </span>
             </span>
-          </span>
-          <span id="10" start="67" end="83" element="reference" class="per" confidence="0.84" text="der hl . Küng dem man sprichet sant gergien altar gelegen in der Kilchen ze sant Martin" numerus="sgl" specificity="spc" subclass="">
-            <span id="49" start="70" end="70" element="head" class="nam" confidence="0.53" text="Küng"/>
-            <span id="50" start="74" end="83" element="appo" class="occ" confidence="0.65" text="sant gergien altar gelegen in der Kilchen ze sant Martin">
-              <span id="51" start="74" end="76" element="head" class="nam" confidence="0.8" text="sant gergien altar"/>
-              <span id="52" start="77" end="83" element="attr" class="loc" confidence="0.9" text="gelegen in der Kilchen ze sant Martin">
-                <span id="53" start="79" end="83" element="reference" class="fac" confidence="0.87" text="der Kilchen ze sant Martin" numerus="sgl" specificity="spc" subclass="rel">
-                  <span id="54" start="80" end="83" element="head" class="nam" confidence="0.76" text="Kilchen ze sant Martin"/>
+            <span id="39" start="45" end="48" element="reference" class="per" confidence="0.36" text="der hl . Küng" numerus="sgl" specificity="spc" subclass="">
+              <span id="46" start="46" end="47" element="appo" class="title" confidence="0.58" text="hl .">
+                <span id="48" start="46" end="47" element="head" class="title" confidence="1.0" text="hl ."/>
+              </span>
+              <span id="47" start="48" end="48" element="head" class="heir" confidence="0.48" text="Küng"/>
+            </span>
+            <span id="40" start="52" end="61" element="appo" class="occ" confidence="0.84" text="sant gergien altar gelegen in der Kilchen ze sant Martin">
+              <span id="49" start="52" end="54" element="head" class="nam" confidence="0.8" text="sant gergien altar"/>
+              <span id="50" start="55" end="61" element="attr" class="loc" confidence="0.9" text="gelegen in der Kilchen ze sant Martin">
+                <span id="51" start="57" end="61" element="reference" class="fac" confidence="0.87" text="der Kilchen ze sant Martin" numerus="sgl" specificity="spc" subclass="rel">
+                  <span id="52" start="58" end="61" element="head" class="nam" confidence="0.76" text="Kilchen ze sant Martin"/>
                 </span>
               </span>
             </span>
           </span>
-          <span id="11" start="85" end="124" element="reference" class="fac" confidence="0.93" text="die zwei hüser mit dem Höflin , gelegen an dem sprung by s . Martinkyschen an dem ort und man nempt zer alten Brämen sunder das ein nebent s . Clartin brunnen , nebent dem Hus so man nempt Gloggenberg" numerus="grp" specificity="spc" subclass="">
-            <span id="55" start="87" end="87" element="head" class="type" confidence="0.98" text="hüser" norm="Häuser"/>
-            <span id="56" start="88" end="90" element="attr" class="includes" confidence="0.99" text="mit dem Höflin">
-              <span id="60" start="89" end="90" element="reference" class="fac" confidence="1.0" text="dem Höflin" numerus="sgl" specificity="spc" subclass="">
-                <span id="61" start="90" end="90" element="head" class="type" confidence="1.0" text="Höflin" norm="Hof"/>
+          <span id="6" start="63" end="102" element="reference" class="fac" confidence="0.95" text="die zwei hüser mit dem Höflin , gelegen an dem sprung by s . Martinkyschen an dem ort und man nempt zer alten Brämen sunder das ein nebent s . Clartin brunnen , nebent dem Hus so man nempt Gloggenberg" numerus="grp" specificity="spc" subclass="">
+            <span id="53" start="65" end="65" element="head" class="type" confidence="0.98" text="hüser" norm="Häuser"/>
+            <span id="54" start="66" end="68" element="attr" class="includes" confidence="0.99" text="mit dem Höflin">
+              <span id="58" start="67" end="68" element="reference" class="fac" confidence="1.0" text="dem Höflin" numerus="sgl" specificity="spc" subclass="">
+                <span id="59" start="68" end="68" element="head" class="type" confidence="1.0" text="Höflin" norm="Hof"/>
               </span>
             </span>
-            <span id="57" start="92" end="102" element="attr" class="loc" confidence="0.99" text="gelegen an dem sprung by s . Martinkyschen an dem ort">
-              <span id="62" start="94" end="95" element="reference" class="loc" confidence="0.73" text="dem sprung" numerus="sgl" specificity="spc" subclass="">
-                <span id="64" start="95" end="95" element="head" class="nam" confidence="0.87" text="sprung"/>
+            <span id="55" start="70" end="80" element="attr" class="loc" confidence="0.99" text="gelegen an dem sprung by s . Martinkyschen an dem ort">
+              <span id="60" start="72" end="73" element="reference" class="loc" confidence="0.73" text="dem sprung" numerus="sgl" specificity="spc" subclass="">
+                <span id="62" start="73" end="73" element="head" class="nam" confidence="0.87" text="sprung"/>
               </span>
-              <span id="63" start="97" end="99" element="reference" class="fac" confidence="0.78" text="s . Martinkyschen" numerus="sgl" specificity="spc" subclass="">
-                <span id="65" start="97" end="99" element="head" class="nam" confidence="0.84" text="s . Martinkyschen"/>
+              <span id="61" start="75" end="77" element="reference" class="fac" confidence="0.78" text="s . Martinkyschen" numerus="sgl" specificity="spc" subclass="">
+                <span id="63" start="75" end="77" element="head" class="nam" confidence="0.84" text="s . Martinkyschen"/>
               </span>
             </span>
-            <span id="58" start="106" end="108" element="appo" class="nam" confidence="0.99" text="zer alten Brämen">
-              <span id="66" start="106" end="108" element="head" class="nam" confidence="1.0" text="zer alten Brämen"/>
+            <span id="56" start="84" end="86" element="appo" class="nam" confidence="0.99" text="zer alten Brämen">
+              <span id="64" start="84" end="86" element="head" class="nam" confidence="1.0" text="zer alten Brämen"/>
             </span>
-            <span id="59" start="109" end="124" element="attr" class="loc" confidence="0.85" text="sunder das ein nebent s . Clartin brunnen , nebent dem Hus so man nempt Gloggenberg">
-              <span id="67" start="113" end="116" element="reference" class="fac" confidence="0.83" text="s . Clartin brunnen" numerus="sgl" specificity="spc" subclass="">
-                <span id="69" start="113" end="116" element="head" class="nam" confidence="0.93" text="s . Clartin brunnen"/>
+            <span id="57" start="87" end="102" element="attr" class="loc" confidence="0.85" text="sunder das ein nebent s . Clartin brunnen , nebent dem Hus so man nempt Gloggenberg">
+              <span id="65" start="91" end="94" element="reference" class="fac" confidence="0.83" text="s . Clartin brunnen" numerus="sgl" specificity="spc" subclass="">
+                <span id="67" start="91" end="94" element="head" class="nam" confidence="0.93" text="s . Clartin brunnen"/>
               </span>
-              <span id="68" start="119" end="124" element="reference" class="fac" confidence="0.95" text="dem Hus so man nempt Gloggenberg" numerus="sgl" specificity="spc" subclass="">
-                <span id="70" start="120" end="120" element="head" class="type" confidence="1.0" text="Hus" norm="Haus"/>
-                <span id="71" start="124" end="124" element="appo" class="nam" confidence="1.0" text="Gloggenberg">
-                  <span id="72" start="124" end="124" element="head" class="nam" confidence="1.0" text="Gloggenberg"/>
+              <span id="66" start="97" end="102" element="reference" class="fac" confidence="0.95" text="dem Hus so man nempt Gloggenberg" numerus="sgl" specificity="spc" subclass="">
+                <span id="68" start="98" end="98" element="head" class="type" confidence="1.0" text="Hus" norm="Haus"/>
+                <span id="69" start="102" end="102" element="appo" class="nam" confidence="1.0" text="Gloggenberg">
+                  <span id="70" start="102" end="102" element="head" class="nam" confidence="1.0" text="Gloggenberg"/>
                 </span>
               </span>
             </span>
           </span>
-          <span id="12" start="127" end="159" element="reference" class="fac" confidence="0.85" text="daz ander daran irstosset an die nidren gassen gegen des Zybollen hus über , ze einersiten nebent Schönezgers hus dez etwen was Classen von Küntzbach sum 120 fl . fertigungsbuch pg . von" numerus="sgl" specificity="spc" subclass="">
-            <span id="73" start="128" end="128" element="head" class="type" confidence="0.89" text="ander" norm="Andere"/>
-            <span id="74" start="129" end="151" element="attr" class="loc" confidence="0.96" text="daran irstosset an die nidren gassen gegen des Zybollen hus über , ze einersiten nebent Schönezgers hus dez etwen was Classen von Küntzbach">
-              <span id="76" start="132" end="134" element="reference" class="fac" confidence="0.77" text="die nidren gassen" numerus="sgl" specificity="spc" subclass="street">
-                <span id="79" start="133" end="134" element="head" class="nam" confidence="1.0" text="nidren gassen"/>
+          <span id="7" start="105" end="141" element="reference" class="fac" confidence="0.85" text="daz ander daran irstosset an die nidren gassen gegen des Zybollen hus über , ze einersiten nebent Schönezgers hus dez etwen was Classen von Küntzbach sum 120 fl . fertigungsbuch pg . von den frowen ze Clingental" numerus="sgl" specificity="spc" subclass="">
+            <span id="71" start="106" end="106" element="head" class="type" confidence="0.86" text="ander" norm="Andere"/>
+            <span id="72" start="107" end="129" element="attr" class="loc" confidence="0.95" text="daran irstosset an die nidren gassen gegen des Zybollen hus über , ze einersiten nebent Schönezgers hus dez etwen was Classen von Küntzbach">
+              <span id="74" start="110" end="112" element="reference" class="fac" confidence="0.77" text="die nidren gassen" numerus="sgl" specificity="spc" subclass="street">
+                <span id="77" start="111" end="112" element="head" class="nam" confidence="1.0" text="nidren gassen"/>
               </span>
-              <span id="77" start="136" end="138" element="reference" class="fac" confidence="0.96" text="des Zybollen hus" numerus="sgl" specificity="spc" subclass="">
-                <span id="80" start="136" end="137" element="attr" class="owner" confidence="0.99" text="des Zybollen">
-                  <span id="82" start="136" end="137" element="reference" class="per" confidence="0.98" text="des Zybollen" numerus="sgl" specificity="spc" subclass="">
-                    <span id="83" start="137" end="137" element="head" class="nam" confidence="0.99" text="Zybollen"/>
+              <span id="75" start="114" end="116" element="reference" class="fac" confidence="0.96" text="des Zybollen hus" numerus="sgl" specificity="spc" subclass="">
+                <span id="78" start="114" end="115" element="attr" class="owner" confidence="0.99" text="des Zybollen">
+                  <span id="80" start="114" end="115" element="reference" class="per" confidence="0.98" text="des Zybollen" numerus="sgl" specificity="spc" subclass="">
+                    <span id="81" start="115" end="115" element="head" class="nam" confidence="0.99" text="Zybollen"/>
                   </span>
                 </span>
-                <span id="81" start="138" end="138" element="head" class="type" confidence="1.0" text="hus" norm="Haus"/>
+                <span id="79" start="116" end="116" element="head" class="type" confidence="1.0" text="hus" norm="Haus"/>
               </span>
-              <span id="78" start="144" end="151" element="reference" class="fac" confidence="0.91" text="Schönezgers hus dez etwen was Classen von Küntzbach" numerus="sgl" specificity="spc" subclass="">
-                <span id="84" start="144" end="144" element="attr" class="owner" confidence="1.0" text="Schönezgers">
-                  <span id="87" start="144" end="144" element="reference" class="per" confidence="1.0" text="Schönezgers" numerus="sgl" specificity="spc" subclass="">
-                    <span id="88" start="144" end="144" element="head" class="nam" confidence="1.0" text="Schönezgers"/>
+              <span id="76" start="122" end="129" element="reference" class="fac" confidence="0.91" text="Schönezgers hus dez etwen was Classen von Küntzbach" numerus="sgl" specificity="spc" subclass="">
+                <span id="82" start="122" end="122" element="attr" class="owner" confidence="1.0" text="Schönezgers">
+                  <span id="85" start="122" end="122" element="reference" class="per" confidence="1.0" text="Schönezgers" numerus="sgl" specificity="spc" subclass="">
+                    <span id="86" start="122" end="122" element="head" class="nam" confidence="1.0" text="Schönezgers"/>
                   </span>
                 </span>
-                <span id="85" start="145" end="145" element="head" class="type" confidence="1.0" text="hus" norm="Haus"/>
-                <span id="86" start="146" end="151" element="attr" class="owner" confidence="0.77" text="dez etwen was Classen von Küntzbach">
-                  <span id="89" start="149" end="151" element="reference" class="per" confidence="0.97" text="Classen von Küntzbach" numerus="sgl" specificity="spc" subclass="">
-                    <span id="90" start="149" end="151" element="head" class="nam" confidence="0.99" text="Classen von Küntzbach"/>
+                <span id="83" start="123" end="123" element="head" class="type" confidence="1.0" text="hus" norm="Haus"/>
+                <span id="84" start="124" end="129" element="attr" class="owner" confidence="0.77" text="dez etwen was Classen von Küntzbach">
+                  <span id="87" start="127" end="129" element="reference" class="per" confidence="0.97" text="Classen von Küntzbach" numerus="sgl" specificity="spc" subclass="">
+                    <span id="88" start="127" end="129" element="head" class="nam" confidence="0.99" text="Classen von Küntzbach"/>
                   </span>
                 </span>
               </span>
             </span>
-            <span id="75" start="152" end="159" element="attr" class="dues" confidence="0.86" text="sum 120 fl . fertigungsbuch pg . von">
-              <span id="91" start="153" end="158" element="value" class="money" confidence="0.86" text="120 fl . fertigungsbuch pg ." norm="unk unk"/>
+            <span id="73" start="130" end="141" element="attr" class="dues" confidence="0.88" text="sum 120 fl . fertigungsbuch pg . von den frowen ze Clingental">
+              <span id="89" start="131" end="133" element="value" class="money" confidence="1.0" text="120 fl ." norm="120.0 Gulden"/>
+              <span id="90" start="138" end="141" element="reference" class="org" confidence="0.99" text="den frowen ze Clingental" numerus="sgl" specificity="spc" subclass="rel">
+                <span id="91" start="139" end="141" element="head" class="nam" confidence="0.81" text="frowen ze Clingental" norm="Kloster Klingental"/>
+              </span>
             </span>
           </span>
-          <span id="13" start="160" end="163" element="reference" class="org" confidence="0.83" text="den frowen ze Clingental" numerus="sgl" specificity="spc" subclass="rel">
-            <span id="92" start="161" end="163" element="head" class="nam" confidence="0.81" text="frowen ze Clingental" norm="Kloster Klingental"/>
+          <span id="8" start="142" end="142" element="reference" class="unk" confidence="1.0" text="denen" numerus="sgl" specificity="spc" subclass="">
+            <span id="8_head" start="142" end="142" element="head" class="pro" confidence="1.0" text="denen"/>
           </span>
-          <span id="14" start="164" end="164" element="reference" class="unk" confidence="1.0" text="denen" numerus="sgl" specificity="spc" subclass="">
-            <span id="14_head" start="164" end="164" element="head" class="pro" confidence="1.0" text="denen"/>
+          <span id="9" start="144" end="144" element="trigger" class="due" confidence="0.98" text="gat"/>
+          <span id="10" start="145" end="149" element="value" class="money" confidence="0.97" text="1 ℔ 8sh . 332" norm="1.0 Pfund|8.0 Schilling|unk unk"/>
+          <span id="11" start="150" end="151" element="value" class="money" confidence="0.96" text="2ring brot" norm="2.0 Ringe-Brot"/>
+          <span id="12" start="152" end="152" element="other" class="other" confidence="0.99" text="wisung"/>
+          <span id="13" start="155" end="156" element="value" class="money" confidence="0.97" text="10 sh" norm="10.0 Schilling"/>
+          <span id="14" start="157" end="157" element="other" class="other" confidence="0.99" text="erschatz"/>
+          <span id="15" start="162" end="162" element="trigger" class="due" confidence="0.99" text="gant"/>
+          <span id="16" start="164" end="165" element="other" class="other" confidence="0.72" text="der erbschaft"/>
+          <span id="17" start="166" end="172" element="reference" class="org" confidence="0.93" text="den herren von s . Lienh ." numerus="sgl" specificity="spc" subclass="rel">
+            <span id="92" start="167" end="172" element="head" class="nam" confidence="0.97" text="herren von s . Lienh ." norm="Kirche St. Leonhard"/>
           </span>
-          <span id="15" start="165" end="165" element="reference" class="unk" confidence="0.87" text="darab" numerus="sgl" specificity="spc" subclass="">
-            <span id="15_head" start="165" end="165" element="head" class="pro" confidence="0.87" text="darab"/>
+          <span id="18" start="173" end="174" element="value" class="money" confidence="0.99" text="15sh ." norm="15.0 Schilling"/>
+          <span id="19" start="177" end="181" element="reference" class="per" confidence="0.9" text="einem lutpriester s . Martin" numerus="sgl" specificity="spc" subclass="">
+            <span id="93" start="178" end="178" element="head" class="occ" confidence="1.0" text="lutpriester" norm="leuthpriester" OhdAB="https://database.factgrid.de/wiki/Item:Q694308"/>
+            <span id="94" start="179" end="181" element="reference" class="org" confidence="0.99" text="s . Martin" numerus="sgl" specificity="spc" subclass="rel">
+              <span id="95" start="179" end="181" element="head" class="nam" confidence="0.97" text="s . Martin" norm="Kirche St. Martin"/>
+            </span>
           </span>
-          <span id="16" start="166" end="166" element="trigger" class="due" confidence="0.97" text="gat"/>
-          <span id="17" start="167" end="171" element="value" class="money" confidence="0.97" text="1 ℔ 8sh . 332" norm="1.0 Pfund|8.0 Schilling|unk unk"/>
-          <span id="18" start="172" end="173" element="value" class="money" confidence="0.97" text="2ring brot" norm="2.0 Ringe-Brot"/>
-          <span id="19" start="174" end="174" element="other" class="other" confidence="1.0" text="wisung"/>
-          <span id="20" start="177" end="178" element="value" class="money" confidence="0.97" text="10 sh" norm="10.0 Schilling"/>
-          <span id="21" start="179" end="179" element="other" class="other" confidence="1.0" text="erschatz"/>
-          <span id="22" start="184" end="184" element="trigger" class="due" confidence="0.9" text="gant"/>
+          <span id="20" start="183" end="184" element="value" class="money" confidence="1.0" text="1sh ." norm="1.0 Schilling"/>
+          <span id="21" start="185" end="187" element="other" class="other" confidence="0.82" text="von selgeret wegen"/>
         </spans>
         <relations/>
         <eventGroups>
-          <eventGroup event_id="0" class="property-purchase" start="11" end="124" ref="" type="event" tense="unk" polarity="unk" modality="unk">
-            <trigger ref="4" text="kaufen"/>
+          <eventGroup event_id="0" class="property-purchase" start="2" end="102" ref="" type="event" tense="unk" polarity="unk" modality="unk">
+            <trigger ref="0" text="kaufen"/>
             <event event_id="0.0">
-              <role role="buyer" confidence="0.78" ref="2" text="einem lutpriester s . Martin"/>
-              <role role="seller" confidence="0.91" ref="5" text="Heuman Bratteler Schultheis ze Basel"/>
-              <role role="buyer" confidence="0.9" ref="6" text="Hans Schaltenbrand"/>
-              <role role="seller" confidence="0.35" ref="7" text="Ludwig Rütlinger dem Sunder"/>
-              <role role="buyer" confidence="0.95" ref="8" text="frow Clerlin Rosseggin Rudolf zem Luft ewirtin"/>
-              <role role="buyer" confidence="0.99" ref="9" text="Mathys Schülern Martins Kirschaplan des altar u . 6 frauen"/>
-              <role role="buyer" confidence="0.89" ref="10" text="der hl . Küng dem man sprichet sant gergien altar gelegen in der Kilchen ze sant Martin"/>
-              <role role="property" confidence="0.99" ref="11" text="die zwei hüser mit dem Höflin , gelegen an dem sprung by s . Martinkyschen an dem ort und man nempt zer alten Brämen sunder das ein nebent s . Clartin brunnen , nebent dem Hus so man nempt Gloggenberg"/>
+              <role role="seller" confidence="1.0" ref="1" text="Heuman Bratteler Schultheis ze Basel"/>
+              <role role="seller" confidence="0.64" ref="2" text="Hans Schaltenbrand"/>
+              <role role="seller" confidence="0.7" ref="3" text="Ludwig Rütlinger dem Sunder"/>
+              <role role="buyer" confidence="0.98" ref="4" text="frow Clerlin Rosseggin Rudolf zem Luft ewirtin"/>
+              <role role="buyer" confidence="1.0" ref="5" text="Mathys Schülern Martins Kirschaplan des altar u . 6 frauen u . der hl . Küng dem man sprichet sant gergien altar gelegen in der Kilchen ze sant Martin"/>
+              <role role="property" confidence="1.0" ref="6" text="die zwei hüser mit dem Höflin , gelegen an dem sprung by s . Martinkyschen an dem ort und man nempt zer alten Brämen sunder das ein nebent s . Clartin brunnen , nebent dem Hus so man nempt Gloggenberg"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="1" class="due-obligation" start="160" end="179" ref="" type="state" tense="unk" polarity="unk" modality="unk">
-            <trigger ref="16" text="gat"/>
+          <eventGroup event_id="1" class="due-obligation" start="142" end="157" ref="" type="state" tense="unk" polarity="unk" modality="unk">
+            <trigger ref="9" text="gat"/>
             <event event_id="1.0">
-              <role role="beneficiary" confidence="1.0" ref="14" text="denen"/>
-              <role role="interest" confidence="0.97" ref="17" text="1 ℔ 8sh . 332"/>
+              <role role="beneficiary" confidence="1.0" ref="8" text="denen"/>
+              <role role="interest" confidence="0.97" ref="10" text="1 ℔ 8sh . 332"/>
             </event>
             <event event_id="1.1">
-              <role role="interest" confidence="0.9" ref="18" text="2ring brot"/>
-              <role role="cause" confidence="1.0" ref="19" text="wisung"/>
+              <role role="interest" confidence="0.82" ref="11" text="2ring brot"/>
+              <role role="cause" confidence="1.0" ref="12" text="wisung"/>
             </event>
             <event event_id="1.2">
-              <role role="interest" confidence="0.94" ref="20" text="10 sh"/>
-              <role role="cause" confidence="1.0" ref="21" text="erschatz"/>
+              <role role="interest" confidence="0.92" ref="13" text="10 sh"/>
+              <role role="cause" confidence="1.0" ref="14" text="erschatz"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="2" class="due-obligation" start="184" end="184" ref="" type="state" tense="unk" polarity="unk" modality="unk">
-            <trigger ref="22" text="gant"/>
-            <event event_id="2.0"/>
-          </eventGroup>
-          <eventGroup event_id="3" class="employment" start="11" end="15" ref="2" type="state" tense="unk" polarity="unk" modality="unk">
-            <trigger start="12" end="12" text="lutpriester" ref="24"/>
-            <event event_id="3.0">
-              <role role="employee" ref="2" text="einem lutpriester s . Martin"/>
-              <role role="employer" ref="25" text="s . Martin"/>
+          <eventGroup event_id="2" class="due-obligation" start="162" end="187" ref="" type="state" tense="unk" polarity="unk" modality="unk">
+            <trigger ref="15" text="gant"/>
+            <event event_id="2.0">
+              <role role="cause" confidence="0.76" ref="16" text="der erbschaft"/>
+              <role role="beneficiary" confidence="1.0" ref="17" text="den herren von s . Lienh ."/>
+              <role role="interest" confidence="0.99" ref="18" text="15sh ."/>
+            </event>
+            <event event_id="2.1">
+              <role role="beneficiary" confidence="1.0" ref="19" text="einem lutpriester s . Martin"/>
+              <role role="interest" confidence="0.97" ref="20" text="1sh ."/>
+              <role role="cause" confidence="0.98" ref="21" text="von selgeret wegen"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="4" class="family" start="43" end="46" ref="38" type="state" tense="unk" polarity="unk" modality="unk">
-            <trigger start="46" end="46" text="ewirtin" ref="40"/>
+          <eventGroup event_id="4" class="employment" start="177" end="181" ref="19" type="state" tense="unk" polarity="unk" modality="unk">
+            <trigger start="178" end="178" text="lutpriester" ref="93"/>
             <event event_id="4.0">
-              <role role="family-a" ref="8" text="frow Clerlin Rosseggin Rudolf zem Luft ewirtin"/>
-              <role role="family-b" ref="39" text="Rudolf zem Luft"/>
+              <role role="employee" ref="19" text="einem lutpriester s . Martin"/>
+              <role role="employer" ref="94" text="s . Martin"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="5" class="employment" start="58" end="64" ref="43" type="state" tense="unk" polarity="unk" modality="unk">
-            <trigger start="58" end="58" text="Kirschaplan" ref="44"/>
+          <eventGroup event_id="5" class="family" start="21" end="24" ref="33" type="state" tense="unk" polarity="unk" modality="unk">
+            <trigger start="24" end="24" text="ewirtin" ref="35"/>
             <event event_id="5.0">
-              <role role="employee" ref="9" text="Mathys Schülern Martins Kirschaplan des altar u . 6 frauen"/>
-              <role role="employer" ref="45" text="des altar"/>
-              <role role="employer" ref="46" text="6 frauen"/>
+              <role role="family-a" ref="4" text="frow Clerlin Rosseggin Rudolf zem Luft ewirtin"/>
+              <role role="family-b" ref="34" text="Rudolf zem Luft"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="6" class="topological" start="77" end="83" ref="52" type="state" tense="unk" polarity="unk" modality="unk">
+          <eventGroup event_id="6" class="employment" start="36" end="42" ref="38" type="state" tense="unk" polarity="unk" modality="unk">
+            <trigger start="36" end="36" text="Kirschaplan" ref="41"/>
             <event event_id="6.0">
-              <role role="location-a" ref="10" text="der hl . Küng dem man sprichet sant gergien altar gelegen in der Kilchen ze sant Martin"/>
-              <role role="location-b" ref="53" text="der Kilchen ze sant Martin"/>
+              <role role="employee" ref="5" text="Mathys Schülern Martins Kirschaplan des altar u . 6 frauen u . der hl . Küng dem man sprichet sant gergien altar gelegen in der Kilchen ze sant Martin"/>
+              <role role="employer" ref="42" text="des altar"/>
+              <role role="employer" ref="43" text="6 frauen"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="7" class="part_whole" start="88" end="90" ref="56" type="state" tense="unk" polarity="unk" modality="unk">
+          <eventGroup event_id="7" class="topological" start="55" end="61" ref="50" type="state" tense="unk" polarity="unk" modality="unk">
             <event event_id="7.0">
-              <role role="whole" ref="11" text="die zwei hüser mit dem Höflin , gelegen an dem sprung by s . Martinkyschen an dem ort und man nempt zer alten Brämen sunder das ein nebent s . Clartin brunnen , nebent dem Hus so man nempt Gloggenberg"/>
-              <role role="part" ref="60" text="dem Höflin"/>
+              <role role="location-a" ref="5" text="Mathys Schülern Martins Kirschaplan des altar u . 6 frauen u . der hl . Küng dem man sprichet sant gergien altar gelegen in der Kilchen ze sant Martin"/>
+              <role role="location-b" ref="51" text="der Kilchen ze sant Martin"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="8" class="topological" start="92" end="102" ref="57" type="state" tense="unk" polarity="unk" modality="unk">
+          <eventGroup event_id="8" class="part_whole" start="66" end="68" ref="54" type="state" tense="unk" polarity="unk" modality="unk">
             <event event_id="8.0">
-              <role role="location-a" ref="11" text="die zwei hüser mit dem Höflin , gelegen an dem sprung by s . Martinkyschen an dem ort und man nempt zer alten Brämen sunder das ein nebent s . Clartin brunnen , nebent dem Hus so man nempt Gloggenberg"/>
-              <role role="location-b" ref="62" text="dem sprung"/>
-              <role role="location-b" ref="63" text="s . Martinkyschen"/>
+              <role role="whole" ref="6" text="die zwei hüser mit dem Höflin , gelegen an dem sprung by s . Martinkyschen an dem ort und man nempt zer alten Brämen sunder das ein nebent s . Clartin brunnen , nebent dem Hus so man nempt Gloggenberg"/>
+              <role role="part" ref="58" text="dem Höflin"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="9" class="topological" start="109" end="124" ref="59" type="state" tense="unk" polarity="unk" modality="unk">
+          <eventGroup event_id="9" class="topological" start="70" end="80" ref="55" type="state" tense="unk" polarity="unk" modality="unk">
             <event event_id="9.0">
-              <role role="location-a" ref="11" text="die zwei hüser mit dem Höflin , gelegen an dem sprung by s . Martinkyschen an dem ort und man nempt zer alten Brämen sunder das ein nebent s . Clartin brunnen , nebent dem Hus so man nempt Gloggenberg"/>
-              <role role="location-b" ref="67" text="s . Clartin brunnen"/>
-              <role role="location-b" ref="68" text="dem Hus so man nempt Gloggenberg"/>
+              <role role="location-a" ref="6" text="die zwei hüser mit dem Höflin , gelegen an dem sprung by s . Martinkyschen an dem ort und man nempt zer alten Brämen sunder das ein nebent s . Clartin brunnen , nebent dem Hus so man nempt Gloggenberg"/>
+              <role role="location-b" ref="60" text="dem sprung"/>
+              <role role="location-b" ref="61" text="s . Martinkyschen"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="10" class="topological" start="129" end="151" ref="74" type="state" tense="unk" polarity="unk" modality="unk">
+          <eventGroup event_id="10" class="topological" start="87" end="102" ref="57" type="state" tense="unk" polarity="unk" modality="unk">
             <event event_id="10.0">
-              <role role="location-a" ref="12" text="daz ander daran irstosset an die nidren gassen gegen des Zybollen hus über , ze einersiten nebent Schönezgers hus dez etwen was Classen von Küntzbach sum 120 fl . fertigungsbuch pg . von"/>
-              <role role="location-b" ref="76" text="die nidren gassen"/>
-              <role role="location-b" ref="77" text="des Zybollen hus"/>
-              <role role="location-b" ref="78" text="Schönezgers hus dez etwen was Classen von Küntzbach"/>
+              <role role="location-a" ref="6" text="die zwei hüser mit dem Höflin , gelegen an dem sprung by s . Martinkyschen an dem ort und man nempt zer alten Brämen sunder das ein nebent s . Clartin brunnen , nebent dem Hus so man nempt Gloggenberg"/>
+              <role role="location-b" ref="65" text="s . Clartin brunnen"/>
+              <role role="location-b" ref="66" text="dem Hus so man nempt Gloggenberg"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="11" class="ownership" start="136" end="137" ref="80" type="state" tense="unk" polarity="unk" modality="unk">
+          <eventGroup event_id="11" class="topological" start="107" end="129" ref="72" type="state" tense="unk" polarity="unk" modality="unk">
             <event event_id="11.0">
-              <role role="property" ref="77" text="des Zybollen hus"/>
-              <role role="owner" ref="82" text="des Zybollen"/>
+              <role role="location-a" ref="7" text="daz ander daran irstosset an die nidren gassen gegen des Zybollen hus über , ze einersiten nebent Schönezgers hus dez etwen was Classen von Küntzbach sum 120 fl . fertigungsbuch pg . von den frowen ze Clingental"/>
+              <role role="location-b" ref="74" text="die nidren gassen"/>
+              <role role="location-b" ref="75" text="des Zybollen hus"/>
+              <role role="location-b" ref="76" text="Schönezgers hus dez etwen was Classen von Küntzbach"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="12" class="ownership" start="144" end="144" ref="84" type="state" tense="unk" polarity="unk" modality="unk">
+          <eventGroup event_id="12" class="ownership" start="114" end="115" ref="78" type="state" tense="unk" polarity="unk" modality="unk">
             <event event_id="12.0">
-              <role role="property" ref="78" text="Schönezgers hus dez etwen was Classen von Küntzbach"/>
-              <role role="owner" ref="87" text="Schönezgers"/>
+              <role role="property" ref="75" text="des Zybollen hus"/>
+              <role role="owner" ref="80" text="des Zybollen"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="13" class="ownership" start="146" end="151" ref="86" type="state" tense="unk" polarity="unk" modality="unk">
+          <eventGroup event_id="13" class="ownership" start="122" end="122" ref="82" type="state" tense="unk" polarity="unk" modality="unk">
             <event event_id="13.0">
-              <role role="property" ref="78" text="Schönezgers hus dez etwen was Classen von Küntzbach"/>
-              <role role="owner" ref="89" text="Classen von Küntzbach"/>
+              <role role="property" ref="76" text="Schönezgers hus dez etwen was Classen von Küntzbach"/>
+              <role role="owner" ref="85" text="Schönezgers"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="14" class="due-obligation" start="152" end="159" ref="75" type="state" tense="unk" polarity="unk" modality="unk">
+          <eventGroup event_id="14" class="ownership" start="124" end="129" ref="84" type="state" tense="unk" polarity="unk" modality="unk">
             <event event_id="14.0">
-              <role role="property" ref="12" text="daz ander daran irstosset an die nidren gassen gegen des Zybollen hus über , ze einersiten nebent Schönezgers hus dez etwen was Classen von Küntzbach sum 120 fl . fertigungsbuch pg . von"/>
-              <role role="interest" ref="91" text="120 fl . fertigungsbuch pg ."/>
+              <role role="property" ref="76" text="Schönezgers hus dez etwen was Classen von Küntzbach"/>
+              <role role="owner" ref="87" text="Classen von Küntzbach"/>
+            </event>
+          </eventGroup>
+          <eventGroup event_id="15" class="due-obligation" start="130" end="141" ref="73" type="state" tense="unk" polarity="unk" modality="unk">
+            <event event_id="15.0">
+              <role role="property" ref="7" text="daz ander daran irstosset an die nidren gassen gegen des Zybollen hus über , ze einersiten nebent Schönezgers hus dez etwen was Classen von Küntzbach sum 120 fl . fertigungsbuch pg . von den frowen ze Clingental"/>
+              <role role="interest" ref="89" text="120 fl ."/>
+              <role role="beneficiary" ref="90" text="den frowen ze Clingental"/>
             </event>
           </eventGroup>
         </eventGroups>
@@ -2708,356 +2718,382 @@
           </eventGroup>
         </eventGroups>
       </document>
-      <document id="70dfd4c5-08de-4da0-8c42-53559d47bda6_20260528">
+      <document id="187cc27d-a150-4baa-8c17-77ecb8fbc2fb_20260615">
         <metadata>
           <street_id>HGB_1_125</street_id>
           <dossier_id>HGB_1_125_008</dossier_id>
           <year>1692</year>
           <source>Basler Urkundenbuch</source>
           <language>german</language>
-          <checked_by_gpt>false</checked_by_gpt>
-          <text>des volligen von beyden Häusern schuldigen järlichen Bodenzinses von 14ß gelts und 2 ring brodts gehn. Clingenthal gelegene Bewohnung sich haiter und klar vor sich und ze Erben vorbehalten: ) underem 23. Septembris besagt 1692 Jahrs für uns umb 566 ℔ getraffenen Rhaufschilling und 10 Ro Ihr der frawen anbedingen Trinckgeld Zormlich Expedierte Kaufbrief und Kauf quittung. eine schriftliche Kleine Raths Erkhandtnus. wegen des von meister Hans Lux Jselin dem Buchbinder und dessen Ehefrow Salome Rüedin erkaufen sollenden hindern Hauses hart neben dem Pfarrhaus zu sant Marin gelegen zu Künftiger Bewohnung eines Siegristen allde, so also lautet die Herren am Bau Ambt sollen trachten bestmöglich mit dem Jselin zu überkhomen und zekünftigen Frühling mit dem Bau fortfahren, die Kösten aber des Kaufschillings em der Reparation vom Directorio hargeschossen werdenSodan darauf hien von denen Herren am Bau Ambt mit ihme Hans Lux Jselin und seiner Ehefraw umb solche Ihre hindere Wohnbehausung by dem Brunnen oben und hart neben dem dartigen Pfarrhaus sant Martin gelegen allermassen sie Ehegemächten die vordere an dem Rheynsprung jedoch mit Ubernahmb.</text>
+          <checked_by_gpt>true</checked_by_gpt>
+          <text>eine schriftliche Kleine Raths Erkhandtnus. wegen des von meister Hans Lux Jselin dem Buchbinder und dessen Ehefrow Salome Rüedin erkaufen sollenden hindern Hauses hart neben dem Pfarrhaus zu sant Marin gelegen zu Künftiger Bewohnung eines Siegristen allde, so also lautet die Herren am Bau Ambt sollen trachten bestmöglich mit dem Jselin zu überkhomen und zekünftigen Frühling mit dem Bau fortfahren, die Kösten aber des Kaufschillings em der Reparation vom Directorio hargeschossen werdenSodan darauf hien von denen Herren am Bau Ambt mit ihme Hans Lux Jselin und seiner Ehefraw umb solche Ihre hindere Wohnbehausung by dem Brunnen oben und hart neben dem dartigen Pfarrhaus sant Martin gelegen allermassen sie Ehegemächten die vordere an dem Rheynsprung jedoch mit Ubernahmb. des volligen von beyden Häusern schuldigen järlichen Bodenzinses von 14ß gelts und 2 ring brodts gehn. Clingenthal gelegene Bewohnung sich haiter und klar vor sich und ze Erben vorbehalten: ) underem 23. Septembris besagt 1692 Jahrs für uns umb 566 ℔ getraffenen Rhaufschilling und 10 Ro Ihr der frawen anbedingen Trinckgeld Zormlich Expedierte Kaufbrief und Kauf quittung.</text>
           <pages>
-            <page nr="19">https://files.transkribus.eu/Get?fileType=view&amp;id=YAMMUQOLAWTGJHAARRZGDZXI</page>
-            <page nr="20">https://files.transkribus.eu/Get?fileType=view&amp;id=KGIZJIXKECLXUKFAWBWQMWEM</page>
+            <page nr="19"><![CDATA[https://files.transkribus.eu/Get?fileType=view&id=YAMMUQOLAWTGJHAARRZGDZXI]]></page>
+            <page nr="20"><![CDATA[https://files.transkribus.eu/Get?fileType=view&id=KGIZJIXKECLXUKFAWBWQMWEM]]></page>
           </pages>
         </metadata>
         <text>
-          <token token_id="0">des</token>
-          <token token_id="1">volligen</token>
-          <token token_id="2">von</token>
-          <token token_id="3">beyden</token>
-          <token token_id="4">Häusern</token>
-          <token token_id="5">schuldigen</token>
-          <token token_id="6">järlichen</token>
-          <token token_id="7">Bodenzinses</token>
+          <token token_id="0">eine</token>
+          <token token_id="1">schriftliche</token>
+          <token token_id="2">Kleine</token>
+          <token token_id="3">Raths</token>
+          <token token_id="4">Erkhandtnus</token>
+          <token token_id="5">.</token>
+          <token token_id="6">wegen</token>
+          <token token_id="7">des</token>
           <token token_id="8">von</token>
-          <token token_id="9">14ß</token>
-          <token token_id="10">gelts</token>
-          <token token_id="11">und</token>
-          <token token_id="12">2</token>
-          <token token_id="13">ring</token>
-          <token token_id="14">brodts</token>
-          <token token_id="15">gehn</token>
-          <token token_id="16">.</token>
-          <token token_id="17">Clingenthal</token>
-          <token token_id="18">gelegene</token>
-          <token token_id="19">Bewohnung</token>
-          <token token_id="20">sich</token>
-          <token token_id="21">haiter</token>
-          <token token_id="22">und</token>
-          <token token_id="23">klar</token>
-          <token token_id="24">vor</token>
-          <token token_id="25">sich</token>
-          <token token_id="26">und</token>
-          <token token_id="27">ze</token>
-          <token token_id="28">Erben</token>
-          <token token_id="29">vorbehalten</token>
-          <token token_id="30">:</token>
-          <token token_id="31">)</token>
-          <token token_id="32">underem</token>
-          <token token_id="33">23</token>
-          <token token_id="34">.</token>
-          <token token_id="35">Septembris</token>
-          <token token_id="36">besagt</token>
-          <token token_id="37">1692</token>
-          <token token_id="38">Jahrs</token>
-          <token token_id="39">für</token>
-          <token token_id="40">uns</token>
-          <token token_id="41">umb</token>
-          <token token_id="42">566</token>
-          <token token_id="43">℔</token>
-          <token token_id="44">getraffenen</token>
-          <token token_id="45">Rhaufschilling</token>
-          <token token_id="46">und</token>
-          <token token_id="47">10</token>
-          <token token_id="48">Ro</token>
-          <token token_id="49">Ihr</token>
-          <token token_id="50">der</token>
-          <token token_id="51">frawen</token>
-          <token token_id="52">anbedingen</token>
-          <token token_id="53">Trinckgeld</token>
-          <token token_id="54">Zormlich</token>
-          <token token_id="55">Expedierte</token>
-          <token token_id="56">Kaufbrief</token>
-          <token token_id="57">und</token>
-          <token token_id="58">Kauf</token>
-          <token token_id="59">quittung</token>
-          <token token_id="60">.</token>
-          <token token_id="61">eine</token>
-          <token token_id="62">schriftliche</token>
-          <token token_id="63">Kleine</token>
-          <token token_id="64">Raths</token>
-          <token token_id="65">Erkhandtnus</token>
-          <token token_id="66">.</token>
-          <token token_id="67">wegen</token>
-          <token token_id="68">des</token>
-          <token token_id="69">von</token>
-          <token token_id="70">meister</token>
-          <token token_id="71">Hans</token>
-          <token token_id="72">Lux</token>
-          <token token_id="73">Jselin</token>
-          <token token_id="74">dem</token>
-          <token token_id="75">Buchbinder</token>
-          <token token_id="76">und</token>
-          <token token_id="77">dessen</token>
-          <token token_id="78">Ehefrow</token>
-          <token token_id="79">Salome</token>
-          <token token_id="80">Rüedin</token>
-          <token token_id="81">erkaufen</token>
-          <token token_id="82">sollenden</token>
-          <token token_id="83">hindern</token>
-          <token token_id="84">Hauses</token>
-          <token token_id="85">hart</token>
-          <token token_id="86">neben</token>
-          <token token_id="87">dem</token>
-          <token token_id="88">Pfarrhaus</token>
-          <token token_id="89">zu</token>
-          <token token_id="90">sant</token>
-          <token token_id="91">Marin</token>
-          <token token_id="92">gelegen</token>
-          <token token_id="93">zu</token>
-          <token token_id="94">Künftiger</token>
-          <token token_id="95">Bewohnung</token>
-          <token token_id="96">eines</token>
-          <token token_id="97">Siegristen</token>
-          <token token_id="98">allde</token>
-          <token token_id="99">,</token>
-          <token token_id="100">so</token>
-          <token token_id="101">also</token>
-          <token token_id="102">lautet</token>
-          <token token_id="103">die</token>
-          <token token_id="104">Herren</token>
-          <token token_id="105">am</token>
-          <token token_id="106">Bau</token>
-          <token token_id="107">Ambt</token>
-          <token token_id="108">sollen</token>
-          <token token_id="109">trachten</token>
-          <token token_id="110">bestmöglich</token>
-          <token token_id="111">mit</token>
-          <token token_id="112">dem</token>
-          <token token_id="113">Jselin</token>
-          <token token_id="114">zu</token>
-          <token token_id="115">überkhomen</token>
-          <token token_id="116">und</token>
-          <token token_id="117">zekünftigen</token>
-          <token token_id="118">Frühling</token>
-          <token token_id="119">mit</token>
-          <token token_id="120">dem</token>
-          <token token_id="121">Bau</token>
-          <token token_id="122">fortfahren</token>
-          <token token_id="123">,</token>
-          <token token_id="124">die</token>
-          <token token_id="125">Kösten</token>
-          <token token_id="126">aber</token>
-          <token token_id="127">des</token>
-          <token token_id="128">Kaufschillings</token>
-          <token token_id="129">em</token>
-          <token token_id="130">der</token>
-          <token token_id="131">Reparation</token>
-          <token token_id="132">vom</token>
-          <token token_id="133">Directorio</token>
-          <token token_id="134">hargeschossen</token>
-          <token token_id="135">werdenSodan</token>
-          <token token_id="136">darauf</token>
-          <token token_id="137">hien</token>
-          <token token_id="138">von</token>
-          <token token_id="139">denen</token>
-          <token token_id="140">Herren</token>
-          <token token_id="141">am</token>
-          <token token_id="142">Bau</token>
-          <token token_id="143">Ambt</token>
-          <token token_id="144">mit</token>
-          <token token_id="145">ihme</token>
-          <token token_id="146">Hans</token>
-          <token token_id="147">Lux</token>
-          <token token_id="148">Jselin</token>
-          <token token_id="149">und</token>
-          <token token_id="150">seiner</token>
-          <token token_id="151">Ehefraw</token>
-          <token token_id="152">umb</token>
-          <token token_id="153">solche</token>
-          <token token_id="154">Ihre</token>
-          <token token_id="155">hindere</token>
-          <token token_id="156">Wohnbehausung</token>
-          <token token_id="157">by</token>
-          <token token_id="158">dem</token>
-          <token token_id="159">Brunnen</token>
-          <token token_id="160">oben</token>
-          <token token_id="161">und</token>
-          <token token_id="162">hart</token>
-          <token token_id="163">neben</token>
-          <token token_id="164">dem</token>
-          <token token_id="165">dartigen</token>
-          <token token_id="166">Pfarrhaus</token>
-          <token token_id="167">sant</token>
-          <token token_id="168">Martin</token>
-          <token token_id="169">gelegen</token>
-          <token token_id="170">allermassen</token>
-          <token token_id="171">sie</token>
-          <token token_id="172">Ehegemächten</token>
-          <token token_id="173">die</token>
-          <token token_id="174">vordere</token>
-          <token token_id="175">an</token>
-          <token token_id="176">dem</token>
-          <token token_id="177">Rheynsprung</token>
-          <token token_id="178">jedoch</token>
-          <token token_id="179">mit</token>
-          <token token_id="180">Ubernahmb</token>
+          <token token_id="9">meister</token>
+          <token token_id="10">Hans</token>
+          <token token_id="11">Lux</token>
+          <token token_id="12">Jselin</token>
+          <token token_id="13">dem</token>
+          <token token_id="14">Buchbinder</token>
+          <token token_id="15">und</token>
+          <token token_id="16">dessen</token>
+          <token token_id="17">Ehefrow</token>
+          <token token_id="18">Salome</token>
+          <token token_id="19">Rüedin</token>
+          <token token_id="20">erkaufen</token>
+          <token token_id="21">sollenden</token>
+          <token token_id="22">hindern</token>
+          <token token_id="23">Hauses</token>
+          <token token_id="24">hart</token>
+          <token token_id="25">neben</token>
+          <token token_id="26">dem</token>
+          <token token_id="27">Pfarrhaus</token>
+          <token token_id="28">zu</token>
+          <token token_id="29">sant</token>
+          <token token_id="30">Marin</token>
+          <token token_id="31">gelegen</token>
+          <token token_id="32">zu</token>
+          <token token_id="33">Künftiger</token>
+          <token token_id="34">Bewohnung</token>
+          <token token_id="35">eines</token>
+          <token token_id="36">Siegristen</token>
+          <token token_id="37">allde</token>
+          <token token_id="38">,</token>
+          <token token_id="39">so</token>
+          <token token_id="40">also</token>
+          <token token_id="41">lautet</token>
+          <token token_id="42">die</token>
+          <token token_id="43">Herren</token>
+          <token token_id="44">am</token>
+          <token token_id="45">Bau</token>
+          <token token_id="46">Ambt</token>
+          <token token_id="47">sollen</token>
+          <token token_id="48">trachten</token>
+          <token token_id="49">bestmöglich</token>
+          <token token_id="50">mit</token>
+          <token token_id="51">dem</token>
+          <token token_id="52">Jselin</token>
+          <token token_id="53">zu</token>
+          <token token_id="54">überkhomen</token>
+          <token token_id="55">und</token>
+          <token token_id="56">zekünftigen</token>
+          <token token_id="57">Frühling</token>
+          <token token_id="58">mit</token>
+          <token token_id="59">dem</token>
+          <token token_id="60">Bau</token>
+          <token token_id="61">fortfahren</token>
+          <token token_id="62">,</token>
+          <token token_id="63">die</token>
+          <token token_id="64">Kösten</token>
+          <token token_id="65">aber</token>
+          <token token_id="66">des</token>
+          <token token_id="67">Kaufschillings</token>
+          <token token_id="68">em</token>
+          <token token_id="69">der</token>
+          <token token_id="70">Reparation</token>
+          <token token_id="71">vom</token>
+          <token token_id="72">Directorio</token>
+          <token token_id="73">hargeschossen</token>
+          <token token_id="74">werdenSodan</token>
+          <token token_id="75">darauf</token>
+          <token token_id="76">hien</token>
+          <token token_id="77">von</token>
+          <token token_id="78">denen</token>
+          <token token_id="79">Herren</token>
+          <token token_id="80">am</token>
+          <token token_id="81">Bau</token>
+          <token token_id="82">Ambt</token>
+          <token token_id="83">mit</token>
+          <token token_id="84">ihme</token>
+          <token token_id="85">Hans</token>
+          <token token_id="86">Lux</token>
+          <token token_id="87">Jselin</token>
+          <token token_id="88">und</token>
+          <token token_id="89">seiner</token>
+          <token token_id="90">Ehefraw</token>
+          <token token_id="91">umb</token>
+          <token token_id="92">solche</token>
+          <token token_id="93">Ihre</token>
+          <token token_id="94">hindere</token>
+          <token token_id="95">Wohnbehausung</token>
+          <token token_id="96">by</token>
+          <token token_id="97">dem</token>
+          <token token_id="98">Brunnen</token>
+          <token token_id="99">oben</token>
+          <token token_id="100">und</token>
+          <token token_id="101">hart</token>
+          <token token_id="102">neben</token>
+          <token token_id="103">dem</token>
+          <token token_id="104">dartigen</token>
+          <token token_id="105">Pfarrhaus</token>
+          <token token_id="106">sant</token>
+          <token token_id="107">Martin</token>
+          <token token_id="108">gelegen</token>
+          <token token_id="109">allermassen</token>
+          <token token_id="110">sie</token>
+          <token token_id="111">Ehegemächten</token>
+          <token token_id="112">die</token>
+          <token token_id="113">vordere</token>
+          <token token_id="114">an</token>
+          <token token_id="115">dem</token>
+          <token token_id="116">Rheynsprung</token>
+          <token token_id="117">jedoch</token>
+          <token token_id="118">mit</token>
+          <token token_id="119">Ubernahmb</token>
+          <token token_id="120">.</token>
+          <token token_id="121">des</token>
+          <token token_id="122">volligen</token>
+          <token token_id="123">von</token>
+          <token token_id="124">beyden</token>
+          <token token_id="125">Häusern</token>
+          <token token_id="126">schuldigen</token>
+          <token token_id="127">järlichen</token>
+          <token token_id="128">Bodenzinses</token>
+          <token token_id="129">von</token>
+          <token token_id="130">14ß</token>
+          <token token_id="131">gelts</token>
+          <token token_id="132">und</token>
+          <token token_id="133">2</token>
+          <token token_id="134">ring</token>
+          <token token_id="135">brodts</token>
+          <token token_id="136">gehn</token>
+          <token token_id="137">.</token>
+          <token token_id="138">Clingenthal</token>
+          <token token_id="139">gelegene</token>
+          <token token_id="140">Bewohnung</token>
+          <token token_id="141">sich</token>
+          <token token_id="142">haiter</token>
+          <token token_id="143">und</token>
+          <token token_id="144">klar</token>
+          <token token_id="145">vor</token>
+          <token token_id="146">sich</token>
+          <token token_id="147">und</token>
+          <token token_id="148">ze</token>
+          <token token_id="149">Erben</token>
+          <token token_id="150">vorbehalten</token>
+          <token token_id="151">:</token>
+          <token token_id="152">)</token>
+          <token token_id="153">underem</token>
+          <token token_id="154">23</token>
+          <token token_id="155">.</token>
+          <token token_id="156">Septembris</token>
+          <token token_id="157">besagt</token>
+          <token token_id="158">1692</token>
+          <token token_id="159">Jahrs</token>
+          <token token_id="160">für</token>
+          <token token_id="161">uns</token>
+          <token token_id="162">umb</token>
+          <token token_id="163">566</token>
+          <token token_id="164">℔</token>
+          <token token_id="165">getraffenen</token>
+          <token token_id="166">Rhaufschilling</token>
+          <token token_id="167">und</token>
+          <token token_id="168">10</token>
+          <token token_id="169">Ro</token>
+          <token token_id="170">Ihr</token>
+          <token token_id="171">der</token>
+          <token token_id="172">frawen</token>
+          <token token_id="173">anbedingen</token>
+          <token token_id="174">Trinckgeld</token>
+          <token token_id="175">Zormlich</token>
+          <token token_id="176">Expedierte</token>
+          <token token_id="177">Kaufbrief</token>
+          <token token_id="178">und</token>
+          <token token_id="179">Kauf</token>
+          <token token_id="180">quittung</token>
           <token token_id="181">.</token>
         </text>
         <spans>
-          <span id="0" start="3" end="4" element="reference" class="fac" confidence="0.77" text="beyden Häusern" numerus="grp" specificity="spc" subclass="">
-            <span id="21" start="4" end="4" element="head" class="type" confidence="0.99" text="Häusern" norm="unk"/>
-          </span>
-          <span id="1" start="6" end="6" element="value" class="time" confidence="0.99" text="järlichen"/>
-          <span id="2" start="9" end="10" element="value" class="money" confidence="0.96" text="14ß gelts" norm="14.0 Schilling"/>
-          <span id="3" start="12" end="14" element="value" class="money" confidence="1.0" text="2 ring brodts" norm="2.0 Ringe-Brot"/>
-          <span id="4" start="17" end="19" element="reference" class="fac" confidence="0.55" text="Clingenthal gelegene Bewohnung" numerus="sgl" specificity="spc" subclass="">
-            <span id="22" start="17" end="17" element="head" class="nam" confidence="0.98" text="Clingenthal"/>
-            <span id="23" start="19" end="19" element="unk" class="type" confidence="0.89" text="Bewohnung" norm="unk"/>
-          </span>
-          <span id="5" start="25" end="25" element="reference" class="unk" confidence="0.78" text="sich" numerus="sgl" specificity="spc" subclass="">
-            <span id="5_head" start="25" end="25" element="head" class="pro" confidence="0.78" text="sich"/>
-          </span>
-          <span id="6" start="33" end="35" element="value" class="date" confidence="0.93" text="23 . Septembris"/>
-          <span id="7" start="37" end="38" element="value" class="date" confidence="0.76" text="1692 Jahrs"/>
-          <span id="8" start="42" end="43" element="value" class="money" confidence="0.99" text="566 ℔" norm="unk unk"/>
-          <span id="9" start="44" end="53" element="other" class="other" confidence="0.75" text="getraffenen Rhaufschilling und 10 Ro Ihr der frawen anbedingen Trinckgeld"/>
-          <span id="10" start="70" end="75" element="reference" class="per" confidence="0.99" text="meister Hans Lux Jselin dem Buchbinder" numerus="sgl" specificity="spc" subclass="">
-            <span id="24" start="70" end="70" element="appo" class="title" confidence="1.0" text="meister">
-              <span id="27" start="70" end="70" element="head" class="title" confidence="1.0" text="meister"/>
+          <span id="0" start="9" end="14" element="reference" class="per" confidence="0.99" text="meister Hans Lux Jselin dem Buchbinder" numerus="sgl" specificity="spc" subclass="">
+            <span id="20" start="9" end="9" element="appo" class="title" confidence="1.0" text="meister">
+              <span id="23" start="9" end="9" element="head" class="title" confidence="1.0" text="meister"/>
             </span>
-            <span id="25" start="71" end="73" element="head" class="nam" confidence="1.0" text="Hans Lux Jselin"/>
-            <span id="26" start="74" end="75" element="appo" class="occ" confidence="1.0" text="dem Buchbinder">
-              <span id="28" start="75" end="75" element="head" class="occ" confidence="1.0" text="Buchbinder" norm="buchbinder" OhdAB="https://database.factgrid.de/wiki/Item:Q663193"/>
+            <span id="21" start="10" end="12" element="head" class="nam" confidence="1.0" text="Hans Lux Jselin"/>
+            <span id="22" start="13" end="14" element="appo" class="occ" confidence="1.0" text="dem Buchbinder">
+              <span id="24" start="14" end="14" element="head" class="occ" confidence="1.0" text="Buchbinder" norm="buchbinder" OhdAB="https://database.factgrid.de/wiki/Item:Q663193"/>
             </span>
           </span>
-          <span id="11" start="77" end="80" element="reference" class="per" confidence="0.99" text="dessen Ehefrow Salome Rüedin" numerus="sgl" specificity="spc" subclass="">
-            <span id="29" start="77" end="78" element="appo" class="fam" confidence="0.99" text="dessen Ehefrow">
-              <span id="31" start="77" end="77" element="reference" class="per" confidence="1.0" text="dessen" numerus="sgl" specificity="spc" subclass="">
-                <span id="31_head" start="77" end="77" element="head" class="pro" confidence="1.0" text="dessen"/>
+          <span id="1" start="16" end="19" element="reference" class="per" confidence="0.99" text="dessen Ehefrow Salome Rüedin" numerus="sgl" specificity="spc" subclass="">
+            <span id="25" start="16" end="17" element="appo" class="fam" confidence="0.99" text="dessen Ehefrow">
+              <span id="27" start="16" end="16" element="reference" class="per" confidence="1.0" text="dessen" numerus="sgl" specificity="spc" subclass="">
+                <span id="27_head" start="16" end="16" element="head" class="pro" confidence="1.0" text="dessen"/>
               </span>
-              <span id="32" start="78" end="78" element="head" class="fam" confidence="1.0" text="Ehefrow"/>
+              <span id="28" start="17" end="17" element="head" class="fam" confidence="1.0" text="Ehefrow"/>
             </span>
-            <span id="30" start="79" end="80" element="head" class="nam" confidence="1.0" text="Salome Rüedin"/>
+            <span id="26" start="18" end="19" element="head" class="nam" confidence="1.0" text="Salome Rüedin"/>
           </span>
-          <span id="12" start="82" end="92" element="reference" class="fac" confidence="0.9" text="sollenden hindern Hauses hart neben dem Pfarrhaus zu sant Marin gelegen" numerus="sgl" specificity="spc" subclass="">
-            <span id="33" start="83" end="84" element="head" class="type" confidence="0.92" text="hindern Hauses" norm="unk"/>
-            <span id="34" start="85" end="92" element="attr" class="loc" confidence="0.89" text="hart neben dem Pfarrhaus zu sant Marin gelegen">
-              <span id="35" start="87" end="91" element="reference" class="fac" confidence="0.91" text="dem Pfarrhaus zu sant Marin" numerus="sgl" specificity="spc" subclass="">
-                <span id="36" start="88" end="91" element="head" class="nam" confidence="0.93" text="Pfarrhaus zu sant Marin"/>
+          <span id="2" start="21" end="31" element="reference" class="fac" confidence="0.94" text="sollenden hindern Hauses hart neben dem Pfarrhaus zu sant Marin gelegen" numerus="sgl" specificity="spc" subclass="">
+            <span id="29" start="22" end="23" element="head" class="type" confidence="0.92" text="hindern Hauses" norm="unk"/>
+            <span id="30" start="24" end="31" element="attr" class="loc" confidence="0.89" text="hart neben dem Pfarrhaus zu sant Marin gelegen">
+              <span id="31" start="26" end="30" element="reference" class="fac" confidence="0.91" text="dem Pfarrhaus zu sant Marin" numerus="sgl" specificity="spc" subclass="">
+                <span id="32" start="27" end="30" element="head" class="nam" confidence="0.93" text="Pfarrhaus zu sant Marin"/>
               </span>
             </span>
           </span>
-          <span id="13" start="103" end="107" element="reference" class="org" confidence="0.71" text="die Herren am Bau Ambt" numerus="sgl" specificity="spc" subclass="gov">
-            <span id="37" start="104" end="107" element="head" class="nam" confidence="0.77" text="Herren am Bau Ambt" norm="unk"/>
+          <span id="3" start="42" end="46" element="reference" class="org" confidence="0.78" text="die Herren am Bau Ambt" numerus="sgl" specificity="spc" subclass="gov">
+            <span id="33" start="43" end="46" element="head" class="nam" confidence="0.77" text="Herren am Bau Ambt" norm="unk"/>
           </span>
-          <span id="14" start="112" end="113" element="reference" class="per" confidence="0.84" text="dem Jselin" numerus="sgl" specificity="spc" subclass="">
-            <span id="38" start="113" end="113" element="head" class="nam" confidence="0.99" text="Jselin"/>
+          <span id="4" start="51" end="52" element="reference" class="per" confidence="0.81" text="dem Jselin" numerus="sgl" specificity="spc" subclass="">
+            <span id="34" start="52" end="52" element="head" class="nam" confidence="0.99" text="Jselin"/>
           </span>
-          <span id="15" start="120" end="134" element="other" class="other" confidence="0.79" text="dem Bau fortfahren , die Kösten aber des Kaufschillings em der Reparation vom Directorio hargeschossen"/>
-          <span id="16" start="139" end="143" element="reference" class="org" confidence="0.85" text="denen Herren am Bau Ambt" numerus="sgl" specificity="spc" subclass="gov">
-            <span id="39" start="140" end="143" element="head" class="type" confidence="0.8" text="Herren am Bau Ambt" norm="unk"/>
+          <span id="5" start="71" end="72" element="reference" class="org" confidence="0.81" text="vom Directorio" numerus="sgl" specificity="spc" subclass="">
+            <span id="35" start="72" end="72" element="head" class="type" confidence="1.0" text="Directorio" norm="unk"/>
           </span>
-          <span id="17" start="145" end="145" element="reference" class="org" confidence="0.99" text="ihme" numerus="sgl" specificity="spc" subclass="">
-            <span id="17_head" start="145" end="145" element="head" class="pro" confidence="0.99" text="ihme" norm="unk"/>
+          <span id="6" start="78" end="82" element="reference" class="org" confidence="0.86" text="denen Herren am Bau Ambt" numerus="sgl" specificity="spc" subclass="gov">
+            <span id="36" start="79" end="82" element="head" class="type" confidence="0.8" text="Herren am Bau Ambt" norm="unk"/>
           </span>
-          <span id="18" start="146" end="148" element="reference" class="per" confidence="0.93" text="Hans Lux Jselin" numerus="sgl" specificity="spc" subclass="">
-            <span id="40" start="146" end="148" element="head" class="nam" confidence="1.0" text="Hans Lux Jselin"/>
+          <span id="7" start="84" end="84" element="reference" class="per" confidence="0.98" text="ihme" numerus="sgl" specificity="spc" subclass="">
+            <span id="7_head" start="84" end="84" element="head" class="pro" confidence="0.98" text="ihme" norm="unk"/>
           </span>
-          <span id="19" start="150" end="151" element="reference" class="per" confidence="0.78" text="seiner Ehefraw" numerus="sgl" specificity="spc" subclass="">
-            <span id="41" start="150" end="150" element="reference" class="per" confidence="0.99" text="seiner" numerus="sgl" specificity="spc" subclass="">
-              <span id="41_head" start="150" end="150" element="head" class="pro" confidence="0.99" text="seiner"/>
+          <span id="8" start="85" end="87" element="reference" class="per" confidence="0.9" text="Hans Lux Jselin" numerus="sgl" specificity="spc" subclass="">
+            <span id="37" start="85" end="87" element="head" class="nam" confidence="1.0" text="Hans Lux Jselin"/>
+          </span>
+          <span id="9" start="89" end="90" element="reference" class="per" confidence="0.71" text="seiner Ehefraw" numerus="sgl" specificity="spc" subclass="">
+            <span id="38" start="89" end="89" element="reference" class="per" confidence="0.99" text="seiner" numerus="sgl" specificity="spc" subclass="">
+              <span id="38_head" start="89" end="89" element="head" class="pro" confidence="0.99" text="seiner"/>
             </span>
-            <span id="42" start="151" end="151" element="head" class="fam" confidence="1.0" text="Ehefraw"/>
+            <span id="39" start="90" end="90" element="head" class="fam" confidence="1.0" text="Ehefraw"/>
           </span>
-          <span id="20" start="154" end="177" element="reference" class="fac" confidence="0.87" text="Ihre hindere Wohnbehausung by dem Brunnen oben und hart neben dem dartigen Pfarrhaus sant Martin gelegen allermassen sie Ehegemächten die vordere an dem Rheynsprung" numerus="sgl" specificity="spc" subclass="">
-            <span id="43" start="154" end="154" element="attr" class="owner" confidence="1.0" text="Ihre">
-              <span id="46" start="154" end="154" element="reference" class="per" confidence="1.0" text="Ihre" numerus="sgl" specificity="spc" subclass="">
-                <span id="46_head" start="154" end="154" element="head" class="pro" confidence="1.0" text="Ihre"/>
+          <span id="10" start="93" end="116" element="reference" class="fac" confidence="0.83" text="Ihre hindere Wohnbehausung by dem Brunnen oben und hart neben dem dartigen Pfarrhaus sant Martin gelegen allermassen sie Ehegemächten die vordere an dem Rheynsprung" numerus="sgl" specificity="spc" subclass="">
+            <span id="40" start="93" end="93" element="attr" class="owner" confidence="1.0" text="Ihre">
+              <span id="43" start="93" end="93" element="reference" class="per" confidence="1.0" text="Ihre" numerus="sgl" specificity="spc" subclass="">
+                <span id="43_head" start="93" end="93" element="head" class="pro" confidence="1.0" text="Ihre"/>
               </span>
             </span>
-            <span id="44" start="156" end="156" element="head" class="type" confidence="1.0" text="Wohnbehausung" norm="Wohnbehausung"/>
-            <span id="45" start="157" end="177" element="attr" class="loc" confidence="0.86" text="by dem Brunnen oben und hart neben dem dartigen Pfarrhaus sant Martin gelegen allermassen sie Ehegemächten die vordere an dem Rheynsprung">
-              <span id="47" start="158" end="159" element="reference" class="fac" confidence="0.98" text="dem Brunnen" numerus="sgl" specificity="spc" subclass="">
-                <span id="51" start="159" end="159" element="head" class="type" confidence="1.0" text="Brunnen" norm="Brunnen"/>
+            <span id="41" start="95" end="95" element="head" class="type" confidence="1.0" text="Wohnbehausung" norm="Wohnbehausung"/>
+            <span id="42" start="96" end="116" element="attr" class="loc" confidence="0.87" text="by dem Brunnen oben und hart neben dem dartigen Pfarrhaus sant Martin gelegen allermassen sie Ehegemächten die vordere an dem Rheynsprung">
+              <span id="44" start="97" end="98" element="reference" class="fac" confidence="0.98" text="dem Brunnen" numerus="sgl" specificity="spc" subclass="">
+                <span id="48" start="98" end="98" element="head" class="type" confidence="1.0" text="Brunnen" norm="Brunnen"/>
               </span>
-              <span id="48" start="164" end="168" element="reference" class="fac" confidence="0.91" text="dem dartigen Pfarrhaus sant Martin" numerus="sgl" specificity="spc" subclass="">
-                <span id="52" start="166" end="168" element="head" class="nam" confidence="0.93" text="Pfarrhaus sant Martin"/>
+              <span id="45" start="103" end="107" element="reference" class="fac" confidence="0.9" text="dem dartigen Pfarrhaus sant Martin" numerus="sgl" specificity="spc" subclass="">
+                <span id="49" start="105" end="107" element="head" class="nam" confidence="0.93" text="Pfarrhaus sant Martin"/>
               </span>
-              <span id="49" start="171" end="172" element="reference" class="per" confidence="0.68" text="sie Ehegemächten" numerus="sgl" specificity="spc" subclass="">
-                <span id="53" start="171" end="171" element="reference" class="per" confidence="0.93" text="sie" numerus="sgl" specificity="spc" subclass="">
-                  <span id="53_head" start="171" end="171" element="head" class="pro" confidence="0.93" text="sie"/>
+              <span id="46" start="110" end="111" element="reference" class="per" confidence="0.68" text="sie Ehegemächten" numerus="sgl" specificity="spc" subclass="">
+                <span id="50" start="110" end="110" element="reference" class="unk" confidence="0.93" text="sie" numerus="sgl" specificity="spc" subclass="">
+                  <span id="50_head" start="110" end="110" element="head" class="pro" confidence="0.93" text="sie"/>
                 </span>
-                <span id="54" start="172" end="172" element="head" class="fam" confidence="0.35" text="Ehegemächten"/>
+                <span id="51" start="111" end="111" element="head" class="fam" confidence="0.35" text="Ehegemächten"/>
               </span>
-              <span id="50" start="173" end="177" element="reference" class="fac" confidence="0.85" text="die vordere an dem Rheynsprung" numerus="grp" specificity="spc" subclass="">
-                <span id="55" start="174" end="174" element="head" class="type" confidence="0.95" text="vordere" norm="unk"/>
-                <span id="56" start="175" end="177" element="attr" class="loc" confidence="0.98" text="an dem Rheynsprung">
-                  <span id="57" start="176" end="177" element="reference" class="fac" confidence="0.68" text="dem Rheynsprung" numerus="sgl" specificity="spc" subclass="">
-                    <span id="58" start="177" end="177" element="head" class="nam" confidence="1.0" text="Rheynsprung"/>
+              <span id="47" start="112" end="116" element="reference" class="fac" confidence="0.85" text="die vordere an dem Rheynsprung" numerus="grp" specificity="spc" subclass="">
+                <span id="52" start="113" end="113" element="head" class="type" confidence="0.95" text="vordere" norm="unk"/>
+                <span id="53" start="114" end="116" element="attr" class="loc" confidence="0.97" text="an dem Rheynsprung">
+                  <span id="54" start="115" end="116" element="reference" class="fac" confidence="0.67" text="dem Rheynsprung" numerus="sgl" specificity="spc" subclass="">
+                    <span id="55" start="116" end="116" element="head" class="nam" confidence="1.0" text="Rheynsprung"/>
                   </span>
                 </span>
               </span>
             </span>
           </span>
+          <span id="11" start="121" end="125" element="reference" class="fac" confidence="0.8" text="des volligen von beyden Häusern" numerus="grp" specificity="spc" subclass="">
+            <span id="56" start="125" end="125" element="head" class="type" confidence="0.98" text="Häusern" norm="unk"/>
+          </span>
+          <span id="12" start="127" end="127" element="value" class="time" confidence="0.98" text="järlichen"/>
+          <span id="13" start="130" end="131" element="value" class="money" confidence="0.94" text="14ß gelts" norm="14.0 Schilling"/>
+          <span id="14" start="133" end="135" element="value" class="money" confidence="1.0" text="2 ring brodts" norm="2.0 Ringe-Brot"/>
+          <span id="15" start="154" end="156" element="value" class="date" confidence="0.96" text="23 . Septembris"/>
+          <span id="16" start="158" end="159" element="value" class="date" confidence="0.76" text="1692 Jahrs"/>
+          <span id="17" start="161" end="161" element="reference" class="unk" confidence="0.88" text="uns" numerus="sgl" specificity="spc" subclass="">
+            <span id="17_head" start="161" end="161" element="head" class="pro" confidence="0.88" text="uns"/>
+          </span>
+          <span id="18" start="163" end="163" element="value" class="money" confidence="0.97" text="566" norm="unk unk"/>
+          <span id="19" start="164" end="174" element="other" class="other" confidence="0.81" text="℔ getraffenen Rhaufschilling und 10 Ro Ihr der frawen anbedingen Trinckgeld"/>
         </spans>
         <relations>
-          <relation id="1" from="31" to="10" class="coref"/>
-          <relation id="2" from="17" to="16" class="coref"/>
-          <relation id="3" from="41" to="18" class="coref"/>
-          <relation id="4" from="46" to="18" class="coref"/>
-          <relation id="5" from="46" to="19" class="coref"/>
-          <relation id="6" from="53" to="18" class="coref"/>
+          <relation id="1" from="27" to="0" class="coref"/>
+          <relation id="3" from="38" to="8" class="coref"/>
+          <relation id="4" from="43" to="8" class="coref"/>
+          <relation id="5" from="43" to="9" class="coref"/>
+          <relation from="3" to="6" class="coref"/>
+          <relation from="4" to="8" class="coref"/>
+          <relation from="7" to="8" class="coref"/>
         </relations>
         <eventGroups>
-          <eventGroup event_id="0" class="family" start="150" end="151" ref="19" type="state" tense="unk" polarity="unk" modality="unk">
-            <trigger start="151" end="151" text="Ehefraw" ref="42"/>
+          <eventGroup event_id="0" class="family" start="89" end="90" ref="9" type="state" tense="unk" polarity="unk" modality="unk">
+            <trigger start="90" end="90" text="Ehefraw" ref="39"/>
             <event event_id="0.0">
-              <role role="family-a" ref="19" text="seiner Ehefraw"/>
-              <role role="family-b" ref="41" text="seiner"/>
+              <role role="family-a" ref="9" text="seiner Ehefraw"/>
+              <role role="family-b" ref="38" text="seiner"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="1" class="family" start="171" end="172" ref="49" type="state" tense="unk" polarity="unk" modality="unk">
-            <trigger start="172" end="172" text="Ehegemächten" ref="54"/>
+          <eventGroup event_id="1" class="family" start="110" end="111" ref="46" type="state" tense="unk" polarity="unk" modality="unk">
+            <trigger start="111" end="111" text="Ehegemächten" ref="51"/>
             <event event_id="1.0">
-              <role role="family-a" ref="49" text="sie Ehegemächten"/>
-              <role role="family-b" ref="53" text="sie"/>
+              <role role="family-a" ref="46" text="sie Ehegemächten"/>
+              <role role="family-b" ref="50" text="sie"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="2" class="family" start="77" end="78" ref="29" type="state" tense="unk" polarity="unk" modality="unk">
-            <trigger start="78" end="78" text="Ehefrow" ref="32"/>
+          <eventGroup event_id="2" class="family" start="16" end="19" ref="25" type="state" tense="unk" polarity="unk" modality="unk">
+            <trigger start="17" end="17" text="Ehefrow" ref="28"/>
             <event event_id="2.0">
-              <role role="family-a" ref="11" text="dessen Ehefrow Salome Rüedin"/>
-              <role role="family-b" ref="31" text="dessen"/>
+              <role role="family-a" ref="1" text="dessen Ehefrow Salome Rüedin"/>
+              <role role="family-b" ref="27" text="dessen"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="3" class="topological" start="85" end="92" ref="34" type="state" tense="unk" polarity="unk" modality="unk">
+          <eventGroup event_id="3" class="topological" start="21" end="31" ref="30" type="state" tense="unk" polarity="unk" modality="unk">
             <event event_id="3.0">
-              <role role="location-a" ref="12" text="sollenden hindern Hauses hart neben dem Pfarrhaus zu sant Marin gelegen"/>
-              <role role="location-b" ref="35" text="dem Pfarrhaus zu sant Marin"/>
+              <role role="location-a" ref="2" text="sollenden hindern Hauses hart neben dem Pfarrhaus zu sant Marin gelegen"/>
+              <role role="location-b" ref="31" text="dem Pfarrhaus zu sant Marin"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="4" class="ownership" start="154" end="154" ref="43" type="state" tense="unk" polarity="unk" modality="unk">
+          <eventGroup event_id="4" class="ownership" start="93" end="116" ref="40" type="state" tense="unk" polarity="unk" modality="unk">
             <event event_id="4.0">
-              <role role="property" ref="20" text="Ihre hindere Wohnbehausung by dem Brunnen oben und hart neben dem dartigen Pfarrhaus sant Martin gelegen allermassen sie Ehegemächten die vordere an dem Rheynsprung"/>
-              <role role="owner" ref="46" text="Ihre"/>
+              <role role="property" ref="10" text="Ihre hindere Wohnbehausung by dem Brunnen oben und hart neben dem dartigen Pfarrhaus sant Martin gelegen allermassen sie Ehegemächten die vordere an dem Rheynsprung"/>
+              <role role="owner" ref="43" text="Ihre"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="5" class="topological" start="157" end="177" ref="45" type="state" tense="unk" polarity="unk" modality="unk">
+          <eventGroup event_id="5" class="topological" start="93" end="116" ref="42" type="state" tense="unk" polarity="unk" modality="unk">
             <event event_id="5.0">
-              <role role="location-a" ref="20" text="Ihre hindere Wohnbehausung by dem Brunnen oben und hart neben dem dartigen Pfarrhaus sant Martin gelegen allermassen sie Ehegemächten die vordere an dem Rheynsprung"/>
-              <role role="location-b" ref="47" text="dem Brunnen"/>
-              <role role="location-b" ref="48" text="dem dartigen Pfarrhaus sant Martin"/>
-              <role role="location-b" ref="49" text="sie Ehegemächten"/>
-              <role role="location-b" ref="50" text="die vordere an dem Rheynsprung"/>
+              <role role="location-a" ref="10" text="Ihre hindere Wohnbehausung by dem Brunnen oben und hart neben dem dartigen Pfarrhaus sant Martin gelegen allermassen sie Ehegemächten die vordere an dem Rheynsprung"/>
+              <role role="location-b" ref="44" text="dem Brunnen"/>
+              <role role="location-b" ref="45" text="dem dartigen Pfarrhaus sant Martin"/>
+              <role role="location-b" ref="46" text="sie Ehegemächten"/>
+              <role role="location-b" ref="47" text="die vordere an dem Rheynsprung"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="6" class="topological" start="175" end="177" ref="56" type="state" tense="unk" polarity="unk" modality="unk">
+          <eventGroup event_id="6" class="topological" start="112" end="116" ref="53" type="state" tense="unk" polarity="unk" modality="unk">
             <event event_id="6.0">
-              <role role="location-a" ref="50" text="die vordere an dem Rheynsprung"/>
-              <role role="location-b" ref="57" text="dem Rheynsprung"/>
+              <role role="location-a" ref="47" text="die vordere an dem Rheynsprung"/>
+              <role role="location-b" ref="54" text="dem Rheynsprung"/>
+            </event>
+          </eventGroup>
+          <eventGroup event_id="sale_1" type="event" polarity="pos" tense="pres" modality="ass" ref="" class="property-purchase" start="78" end="174">
+            <event event_id="sale_1.0">
+              <role role="buyer" ref="6" confidence="gpt-5.5" text="denen Herren am Bau Ambt"/>
+              <role role="seller" ref="8" confidence="gpt-5.5" text="Hans Lux Jselin"/>
+              <role role="seller" ref="9" confidence="gpt-5.5" text="seiner Ehefraw"/>
+              <role role="property" ref="10" confidence="gpt-5.5" text="Ihre hindere Wohnbehausung by dem Brunnen oben und hart neben dem dartigen Pfarrhaus sant Martin gelegen allermassen sie Ehegemächten die vordere an dem Rheynsprung"/>
+              <role role="date" ref="15" confidence="gpt-5.5" text="23 . Septembris"/>
+              <role role="date" ref="16" confidence="gpt-5.5" text="1692 Jahrs"/>
+              <role role="price" ref="18" confidence="gpt-5.5" text="566"/>
+              <role role="detail" ref="19" confidence="gpt-5.5" text="℔ getraffenen Rhaufschilling und 10 Ro Ihr der frawen anbedingen Trinckgeld"/>
+            </event>
+          </eventGroup>
+          <eventGroup event_id="due_1" type="state" polarity="pos" tense="pres" modality="ass" ref="" class="due-obligation" start="78" end="135">
+            <event event_id="due_1.0">
+              <role role="property" ref="11" confidence="gpt-5.5" text="des volligen von beyden Häusern"/>
+              <role role="interval" ref="12" confidence="gpt-5.5" text="järlichen"/>
+              <role role="interest" ref="13" confidence="gpt-5.5" text="14ß gelts"/>
+              <role role="interest" ref="14" confidence="gpt-5.5" text="2 ring brodts"/>
+              <role role="payer" ref="6" confidence="gpt-5.5" text="denen Herren am Bau Ambt"/>
+            </event>
+          </eventGroup>
+          <eventGroup event_id="payment_1" type="event" polarity="pos" tense="pres" modality="ass" ref="" class="payment" start="71" end="72">
+            <event event_id="payment_1.0">
+              <role role="payer" ref="5" confidence="gpt-5.5" text="vom Directorio"/>
+              <role role="cause" ref="sale_1" confidence="gpt-5.5"/>
             </event>
           </eventGroup>
         </eventGroups>
