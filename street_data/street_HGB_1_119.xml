@@ -4845,6 +4845,7 @@
           <eventGroup event_id="0" class="due-payment" start="1" end="31" ref="" type="event" tense="unk" polarity="unk" modality="unk">
             <trigger ref="3" text="gibt"/>
             <event event_id="0.0">
+              <role role="date" inferred="true" text="1557"/>
               <role role="place" confidence="1.0" ref="0" text="sant Ulrich"/>
               <role role="date" confidence="1.0" ref="1" text="1557"/>
               <role role="payer" confidence="1.0" ref="2" text="Gregorins Dürr der Papyrer"/>
@@ -4974,6 +4975,7 @@
           <eventGroup event_id="0" class="due-payment" start="1" end="35" ref="" type="event" tense="unk" polarity="unk" modality="unk">
             <trigger ref="3" text="gibt"/>
             <event event_id="0.0">
+              <role role="date" inferred="true" text="1561"/>
               <role role="place" confidence="0.99" ref="0" text="sant Ulrin"/>
               <role role="date" confidence="1.0" ref="1" text="1561"/>
               <role role="payer" confidence="1.0" ref="2" text="Gregorius Dürr der Papierer"/>
@@ -5144,6 +5146,7 @@
           <eventGroup event_id="0" class="due-payment" start="1" end="43" ref="" type="event" tense="unk" polarity="unk" modality="unk">
             <trigger ref="3" text="gibt"/>
             <event event_id="0.0">
+              <role role="date" inferred="true" text="1565"/>
               <role role="place" confidence="1.0" ref="0" text="sant Ulrici"/>
               <role role="date" confidence="1.0" ref="1" text="1565"/>
               <role role="payer" confidence="1.0" ref="2" text="Bläsin Schenckhlein , genannt Gerster"/>
@@ -5747,6 +5750,7 @@
           <eventGroup event_id="0" class="due-payment" start="1" end="32" ref="" type="event" tense="unk" polarity="unk" modality="unk">
             <trigger ref="3" text="gibt"/>
             <event event_id="0.0">
+              <role role="date" inferred="true" text="1571"/>
               <role role="place" confidence="0.99" ref="0" text="sant Ulrici"/>
               <role role="date" confidence="1.0" ref="1" text="1571"/>
               <role role="payer" confidence="1.0" ref="2" text="Basilins Emanuel Herold der Zeit Oberschreiber im Spittal"/>

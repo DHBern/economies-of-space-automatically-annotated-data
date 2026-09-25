@@ -242,7 +242,7 @@
             </span>
             <span id="28" start="97" end="98" element="attr" class="dues" confidence="1.0" text="ist frey"/>
           </span>
-          <span id="6" start="101" end="103" element="value" class="money" confidence="1.0" text="1900 ℔ ." norm="1900.0 Pfund"/>
+          <span id="6" start="101" end="103" element="value" class="money" confidence="1.0" text="190 ℔." norm="190.0 Pfund" orig_norm="1900.0 Pfund" orig_text="1900 ℔ ." status="corrected" resp="#human_editor"/>
         </spans>
         <relations>
           <relation id="1" from="14" to="0" class="coref"/>

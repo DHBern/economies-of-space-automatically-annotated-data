@@ -805,8 +805,9 @@
               <role role="location-b" ref="13" text="der Spiegelgassen"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="2" class_="due-obligation" type="event" polarity="pos" tense="pres" modality="ass" start="0" end="19" ref="">
+          <eventGroup event_id="2" type="event" polarity="pos" tense="pres" modality="ass" start="0" end="19" ref="" class="due-payment">
             <event event_id="2.0">
+              <role role="date" inferred="true" text="1526"/>
               <role role="date" ref="0" text="1526" confidence="0.9977"/>
               <role role="payer" ref="1" text="Die Augustinern" confidence="0.5832"/>
               <role role="property" ref="2" text="Irem Huss Rossberg genannt in der Spiegelgassen" confidence="0.9924"/>
@@ -1225,6 +1226,7 @@
           <eventGroup event_id="0" class="due-payment" start="0" end="21" ref="" type="event" tense="unk" polarity="unk" modality="unk">
             <trigger ref="1" text="gibt"/>
             <event event_id="0.0">
+              <role role="date" inferred="true" text="1530"/>
               <role role="property" confidence="1.0" ref="0" text="Das Orthus am Rossberg"/>
               <role role="interval" confidence="1.0" ref="2" text="jerlich"/>
               <role role="interest" confidence="0.99" ref="3" text="5 Gld . 15ß ."/>
@@ -5119,7 +5121,7 @@
             </span>
             <span id="17" start="53" end="55" element="attr" class="dues" confidence="0.99" text="ist zins frey"/>
           </span>
-          <span id="5" start="58" end="60" element="value" class="money" confidence="1.0" text="300 ℔ ." norm="300.0 Pfund"/>
+          <span id="5" start="58" end="60" element="value" class="money" confidence="1.0" text="300 ℔." norm="300.0 Pfund" orig_text="300 ℔ ." status="corrected" resp="#human_editor"/>
         </spans>
         <relations>
           <relation id="1" from="13" to="2" class="coref"/>
@@ -5307,7 +5309,7 @@
             </span>
             <span id="19" start="62" end="64" element="attr" class="dues" confidence="1.0" text="ist zins frei"/>
           </span>
-          <span id="5" start="67" end="69" element="value" class="money" confidence="1.0" text="350 ℔ ." norm="350.0 Pfund"/>
+          <span id="5" start="67" end="69" element="value" class="money" confidence="1.0" text="350 ℔." norm="350.0 Pfund" orig_text="350 ℔ ." status="corrected" resp="#human_editor"/>
         </spans>
         <relations>
           <relation id="1" from="12" to="0" class="coref"/>

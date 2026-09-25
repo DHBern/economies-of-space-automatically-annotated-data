@@ -1111,7 +1111,7 @@
             </span>
             <span id="41" start="56" end="58" element="attr" class="dues" confidence="0.84" text="sind erb et"/>
           </span>
-          <span id="7" start="61" end="63" element="value" class="money" confidence="1.0" text="1200 fl ." norm="1200.0 Gulden"/>
+          <span id="7" start="61" end="63" element="value" class="money" confidence="1.0" text="120 fl ." norm="120.0 Gulden" orig_norm="1200.0 Gulden" orig_text="1200 fl ." status="corrected" resp="#human_editor"/>
           <span id="8" start="65" end="68" element="reference" class="org" confidence="0.95" text="den frowen ze Clingental" numerus="sgl" specificity="spc" subclass="rel">
             <span id="50" start="66" end="68" element="head" class="nam" confidence="0.78" text="frowen ze Clingental" norm="Kloster Klingental"/>
           </span>
@@ -2682,6 +2682,7 @@
           <eventGroup event_id="0" class="due-payment" start="1" end="63" ref="" type="event" tense="unk" polarity="unk" modality="unk">
             <trigger ref="4" text="gibt"/>
             <event event_id="0.0">
+              <role role="date" inferred="true" text="1621"/>
               <role role="place" confidence="0.99" ref="0" text="sant Martini"/>
               <role role="date" confidence="1.0" ref="1" text="1621"/>
               <role role="payer" confidence="1.0" ref="2" text="Daniel Haag der Pedell"/>

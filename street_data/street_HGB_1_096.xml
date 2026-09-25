@@ -15111,7 +15111,6 @@
           <eventGroup event_id="1" class="due-payment" start="35" end="46" ref="" type="event" tense="unk" polarity="unk" modality="unk">
             <trigger ref="12" text="giebt"/>
             <event event_id="1.0">
-              <role role="date" text="1604" inferred="True"/>
               <role role="payer" confidence="1.0" ref="13" text="Jacob Keller"/>
               <role role="interest" confidence="0.99" ref="14" text="5ß 1 / 2 hun"/>
               <role role="date" confidence="0.97" ref="15" text="1608 = 10"/>

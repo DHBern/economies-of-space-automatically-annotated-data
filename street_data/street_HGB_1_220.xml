@@ -1172,6 +1172,7 @@
           <eventGroup event_id="0" class="due-payment" start="0" end="18" ref="" type="event" tense="unk" polarity="unk" modality="unk">
             <trigger ref="4" text="gent"/>
             <event event_id="0.0">
+              <role role="date" inferred="true" text="1567"/>
               <role role="date" confidence="0.98" ref="0" text="1564"/>
               <role role="place" confidence="0.92" ref="2" text="der Statt"/>
               <role role="payer" confidence="1.0" ref="3" text="Lux von Bruns erben"/>
@@ -1500,8 +1501,9 @@
               <role role="owner" ref="20" text="irem"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="3" class_="due-obligation" type="event" polarity="pos" tense="pres" modality="ass" start="4" end="36" ref="">
+          <eventGroup event_id="3" type="event" polarity="pos" tense="pres" modality="ass" start="4" end="36" ref="" class="due-payment">
             <event event_id="3.0">
+              <role role="date" inferred="true" text="1588"/>
               <role role="payer" ref="1" text="her burgermeisters von Bruns seligeerben" confidence="0.9978"/>
               <role role="property" ref="2" text="irem stal2" confidence="0.9756"/>
               <role role="date" ref="4" text="1589" confidence="0.9929"/>
@@ -11540,9 +11542,10 @@
           <relation id="2" from="23" to="5" class="coref"/>
         </relations>
         <eventGroups>
-          <eventGroup event_id="0" class="due-obligation" start="2" end="40" ref="" type="state" tense="unk" polarity="unk" modality="unk">
+          <eventGroup event_id="0" class="due-payment" start="2" end="40" ref="" type="state" tense="unk" polarity="unk" modality="unk">
             <trigger ref="0" text="git"/>
             <event event_id="0.0">
+              <role role="date" inferred="true" text="1493"/>
               <role role="payer" confidence="1.0" ref="1" text="Heman Langboum"/>
               <role role="interest" confidence="0.99" ref="2" text="5ß"/>
               <role role="payer" confidence="0.54" ref="3" text="sim lihen"/>
@@ -14449,6 +14452,7 @@
           <eventGroup event_id="0" class="due-payment" start="9" end="31" ref="" type="event" tense="unk" polarity="unk" modality="unk">
             <trigger ref="3" text="soll"/>
             <event event_id="0.0">
+              <role role="date" inferred="true" text="1667"/>
               <role role="date" confidence="0.99" ref="1" text="1669"/>
               <role role="payer" confidence="1.0" ref="2" text="Emanuel Hoffmann der Passamenter"/>
               <role role="interest" confidence="0.99" ref="4" text="℔ 5ß - ȡ"/>

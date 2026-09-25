@@ -3267,6 +3267,7 @@
           <eventGroup event_id="0" class="due-payment" start="0" end="13" ref="" type="event" tense="unk" polarity="unk" modality="unk">
             <trigger ref="2" text="gibt"/>
             <event event_id="0.0">
+              <role role="date" inferred="true" text="1601"/>
               <role role="date" confidence="1.0" ref="0" text="1601"/>
               <role role="payer" confidence="1.0" ref="1" text="Johann Werdenberg"/>
               <role role="due-date" confidence="1.0" ref="3" text="uf Maria Magdalena"/>
@@ -4838,7 +4839,7 @@
               <span id="55" start="76" end="78" element="value" class="money" confidence="1.0" text="4 sh ." norm="4.0 Schilling"/>
             </span>
           </span>
-          <span id="6" start="82" end="84" element="value" class="money" confidence="1.0" text="40 fl ." norm="40.0 Gulden"/>
+          <span id="6" start="82" end="84" element="value" class="money" confidence="1.0" text="40 fl ." norm="40.0 Gulden" status="corrected" resp="#human_editor"/>
           <span id="7" start="85" end="90" element="reference" class="fac" confidence="0.84" text="Heini Hürtzins wis under dem Thor" numerus="sgl" specificity="spc" subclass="">
             <span id="60" start="85" end="87" element="attr" class="owner" confidence="0.98" text="Heini Hürtzins wis">
               <span id="62" start="85" end="87" element="reference" class="per" confidence="0.99" text="Heini Hürtzins wis" numerus="sgl" specificity="spc" subclass="">
@@ -5139,7 +5140,7 @@
               </span>
             </span>
             <span id="28" start="57" end="78" element="attr" class="dues" confidence="0.97" text="sist erb ett um 14 ℔ . fertigungsbuch pg . 415 . 3 von der brud . s . Joh . Burg">
-              <span id="48" start="61" end="63" element="value" class="money" confidence="0.99" text="14 ℔ ." norm="14.0 Pfund"/>
+              <span id="48" start="61" end="63" element="value" class="money" confidence="0.99" text="14 ℔." norm="14.0 Pfund" orig_text="14 ℔ ." status="corrected" resp="#human_editor"/>
               <span id="49" start="71" end="78" element="reference" class="org" confidence="0.94" text="der brud . s . Joh . Burg" numerus="sgl" specificity="spc" subclass="rel">
                 <span id="50" start="72" end="78" element="head" class="nam" confidence="0.98" text="brud . s . Joh . Burg" norm="Bruderschaft St. Johann"/>
               </span>
@@ -11425,7 +11426,7 @@
             </span>
             <span id="29" start="83" end="84" element="attr" class="dues" confidence="1.0" text="ist zinsfrei"/>
           </span>
-          <span id="6" start="87" end="89" element="value" class="money" confidence="1.0" text="30 ℔ ." norm="30.0 Pfund"/>
+          <span id="6" start="87" end="89" element="value" class="money" confidence="1.0" text="70 ℔." norm="70.0 Pfund" orig_norm="30.0 Pfund" orig_text="30 ℔ ." status="corrected" resp="#human_editor"/>
         </spans>
         <relations>
           <relation id="1" from="15" to="0" class="coref"/>
@@ -11723,7 +11724,7 @@
             </span>
             <span id="33" start="98" end="100" element="attr" class="dues" confidence="0.99" text="ist zins frei"/>
           </span>
-          <span id="8" start="103" end="105" element="value" class="money" confidence="1.0" text="85 ℔ ." norm="85.0 Pfund"/>
+          <span id="8" start="103" end="105" element="value" class="money" confidence="1.0" text="85 ℔." norm="85.0 Pfund" orig_text="85 ℔ ." status="corrected" resp="#human_editor"/>
         </spans>
         <relations>
           <relation id="1" from="21" to="0" class="coref"/>
@@ -12815,8 +12816,8 @@
           <span id="6" start="97" end="98" element="reference" class="fac" confidence="0.86" text="andere güter" numerus="sgl" specificity="spc" subclass="">
             <span id="75" start="98" end="98" element="head" class="type" confidence="0.98" text="güter" norm="Güter"/>
           </span>
-          <span id="7" start="101" end="101" element="value" class="money" confidence="1.0" text="20fl" norm="20.0 Gulden"/>
-          <span id="8" start="104" end="106" element="value" class="money" confidence="0.99" text="24 ℔ ." norm="24.0 Pfund"/>
+          <span id="7" start="101" end="101" element="value" class="money" confidence="1.0" text="20fl" norm="20.0 Gulden" status="corrected" resp="#human_editor"/>
+          <span id="8" start="104" end="106" element="value" class="money" confidence="0.99" text="24 ℔." norm="" orig_norm="24.0 Pfund" orig_text="24 ℔ ." status="corrected" resp="#human_editor"/>
           <span id="9" start="108" end="108" element="trigger" class="due" confidence="0.64" text="sollent"/>
           <span id="10" start="109" end="110" element="reference" class="per" confidence="0.88" text="der Köffer" numerus="sgl" specificity="spc" subclass="">
             <span id="76" start="110" end="110" element="head" class="role" confidence="1.0" text="Köffer"/>
@@ -13105,7 +13106,7 @@
               <span id="41" start="56" end="60" element="value" class="money" confidence="1.0" text="2 1 / 2sh ." norm="2.5 Schilling"/>
             </span>
           </span>
-          <span id="6" start="64" end="66" element="value" class="money" confidence="1.0" text="22 ℔ ." norm="22.0 Pfund"/>
+          <span id="6" start="64" end="66" element="value" class="money" confidence="1.0" text="22 ℔." norm="22.0 Pfund" orig_text="22 ℔ ." status="corrected" resp="#human_editor"/>
         </spans>
         <relations>
           <relation id="1" from="12" to="0" class="coref"/>

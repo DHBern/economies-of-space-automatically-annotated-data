@@ -1001,6 +1001,7 @@
           <eventGroup event_id="0" class="due-payment" start="1" end="27" ref="" type="event" tense="unk" polarity="unk" modality="unk">
             <trigger ref="3" text="git"/>
             <event event_id="0.0">
+              <role role="date" inferred="true" text="1507"/>
               <role role="date" confidence="0.89" ref="0" text="1507"/>
               <role role="payer" confidence="0.99" ref="2" text="Die ellend Herberg"/>
               <role role="interval" confidence="1.0" ref="4" text="jerlich"/>
@@ -1410,6 +1411,7 @@
           <eventGroup event_id="0" class="due-payment" start="0" end="29" ref="" type="event" tense="unk" polarity="unk" modality="unk">
             <trigger ref="4" text="gitt"/>
             <event event_id="0.0">
+              <role role="date" inferred="true" text="1548"/>
               <role role="date" confidence="1.0" ref="0" text="1548"/>
               <role role="date" confidence="1.0" ref="1" text="9"/>
               <role role="payer" confidence="0.98" ref="2" text="Mathis Zimmermann"/>
@@ -4052,7 +4054,7 @@
             </span>
             <span id="26" start="78" end="80" element="attr" class="dues" confidence="0.99" text="ist zins frey"/>
           </span>
-          <span id="7" start="83" end="87" element="value" class="money" confidence="1.0" text="31 / 2 ℔ ." norm="15.5 Pfund"/>
+          <span id="7" start="83" end="87" element="value" class="money" confidence="1.0" text="312 ℔." norm="312 Pfund" orig_norm="15.5 Pfund" orig_text="31 / 2 ℔ ." status="corrected" resp="#human_editor"/>
         </spans>
         <relations>
           <relation id="1" from="20" to="3" class="coref"/>
@@ -4307,7 +4309,7 @@
             </span>
             <span id="33" start="88" end="89" element="attr" class="dues" confidence="1.0" text="ist zinsfrey"/>
           </span>
-          <span id="7" start="92" end="94" element="value" class="money" confidence="1.0" text="300 fl ." norm="300.0 Gulden"/>
+          <span id="7" start="92" end="94" element="value" class="money" confidence="1.0" text="300 fl ." norm="300.0 Gulden" status="corrected" resp="#human_editor"/>
         </spans>
         <relations>
           <relation id="1" from="15" to="2" class="coref"/>
@@ -4565,7 +4567,7 @@
             </span>
             <span id="31" start="85" end="87" element="attr" class="dues" confidence="0.99" text="ist zins frey"/>
           </span>
-          <span id="5" start="90" end="92" element="value" class="money" confidence="1.0" text="480 fl ." norm="480.0 Gulden"/>
+          <span id="5" start="90" end="92" element="value" class="money" confidence="1.0" text="480 fl ." norm="480.0 Gulden" status="corrected" resp="#human_editor"/>
         </spans>
         <relations>
           <relation id="1" from="26" to="2" class="coref"/>
@@ -5806,8 +5808,9 @@
         </spans>
         <relations/>
         <eventGroups>
-          <eventGroup event_id="0" class_="due-obligation" type="event" polarity="pos" tense="pres" modality="ass" start="1" end="54" ref="">
+          <eventGroup event_id="0" type="event" polarity="pos" tense="pres" modality="ass" start="1" end="54" ref="" class="due-payment">
             <event event_id="0.0">
+              <role role="date" inferred="true" text="1540"/>
               <role role="payer" ref="0" text="Liepollt . Rumpell der Fuchman" confidence="0.9981"/>
               <role role="due-date" ref="1" text="uff Thome" confidence="0.996"/>
               <role role="date" ref="3" text="1541" confidence="0.9978"/>
@@ -6015,8 +6018,9 @@
         </spans>
         <relations/>
         <eventGroups>
-          <eventGroup event_id="0" class_="due-obligation" type="event" polarity="pos" tense="pres" modality="ass" start="1" end="18" ref="">
+          <eventGroup event_id="0" type="event" polarity="pos" tense="pres" modality="ass" start="1" end="18" ref="" class="due-payment">
             <event event_id="0.0">
+              <role role="date" inferred="true" text="1550"/>
               <role role="payer" ref="0" text="Marty Hagenbacht" confidence="0.9824"/>
               <role role="due-date" ref="1" text="uff Thome apli" confidence="0.9978"/>
               <role role="date" ref="3" text="1551" confidence="0.9979"/>
@@ -6074,8 +6078,9 @@
         </spans>
         <relations/>
         <eventGroups>
-          <eventGroup event_id="0" class_="due-obligation" type="event" polarity="pos" tense="pres" modality="ass" start="1" end="18" ref="">
+          <eventGroup event_id="0" type="event" polarity="pos" tense="pres" modality="ass" start="1" end="18" ref="" class="due-payment">
             <event event_id="0.0">
+              <role role="date" inferred="true" text="1554"/>
               <role role="payer" ref="0" text="Virgilins Warischlagner" confidence="0.9855"/>
               <role role="date" ref="2" text="1555" confidence="0.9977"/>
               <role role="date" ref="3" text="1556" confidence="0.9984"/>
@@ -13788,7 +13793,7 @@
               </span>
             </span>
           </span>
-          <span id="4" start="30" end="31" element="value" class="money" confidence="0.99" text="100 Pfund" norm="100.0 Pfund"/>
+          <span id="4" start="30" end="31" element="value" class="money" confidence="0.99" text="100 Pfund" norm="100.0 Pfund" status="corrected" resp="#human_editor"/>
           <span id="5" start="32" end="34" element="value" class="date" confidence="0.88" text="an Martini 1572"/>
           <span id="6" start="37" end="38" element="value" class="money" confidence="1.0" text="100 ℔" norm="100.0 Pfund"/>
           <span id="7" start="39" end="44" element="value" class="date" confidence="0.68" text="an Martini der beiden folgenden Jahre"/>
@@ -13955,7 +13960,7 @@
             </span>
             <span id="21" start="58" end="59" element="attr" class="dues" confidence="0.99" text="ist zinsfrey"/>
           </span>
-          <span id="6" start="62" end="64" element="value" class="money" confidence="1.0" text="300 ℔ ." norm="300.0 Pfund"/>
+          <span id="6" start="62" end="64" element="value" class="money" confidence="1.0" text="300 ℔." norm="300.0 Pfund" orig_text="300 ℔ ." status="corrected" resp="#human_editor"/>
         </spans>
         <relations>
           <relation id="1" from="16" to="3" class="coref"/>
@@ -15952,7 +15957,7 @@
               <span id="49" start="97" end="97" element="value" class="money" confidence="0.93" text="ß" norm="0.0 Schilling"/>
             </span>
           </span>
-          <span id="4" start="101" end="103" element="value" class="money" confidence="0.99" text="220 gulden ." norm="220.0 Gulden"/>
+          <span id="4" start="101" end="103" element="value" class="money" confidence="0.99" text="220 gulden ." norm="220.0 Gulden" status="corrected" resp="#human_editor"/>
         </spans>
         <relations/>
         <eventGroups>
@@ -16218,7 +16223,7 @@
               <span id="48" start="108" end="110" element="other" class="other" confidence="0.76" text="von eins selgeret"/>
             </span>
           </span>
-          <span id="4" start="113" end="115" element="value" class="money" confidence="1.0" text="220 fl ." norm="220.0 Gulden"/>
+          <span id="4" start="113" end="115" element="value" class="money" confidence="1.0" text="220 fl ." norm="220.0 Gulden" status="corrected" resp="#human_editor"/>
         </spans>
         <relations/>
         <eventGroups>
@@ -18700,7 +18705,7 @@
               <span id="54" start="79" end="81" element="head" class="nam" confidence="1.0" text="zum schwartzen Beren"/>
             </span>
           </span>
-          <span id="6" start="86" end="88" element="value" class="money" confidence="1.0" text="440 fl ." norm="440.0 Gulden"/>
+          <span id="6" start="86" end="88" element="value" class="money" confidence="1.0" text="440 fl ." norm="440.0 Gulden" status="corrected" resp="#human_editor"/>
           <span id="7" start="89" end="89" element="trigger" class="due" confidence="1.0" text="zinst"/>
           <span id="8" start="90" end="90" element="value" class="time" confidence="1.0" text="jährl"/>
           <span id="9" start="91" end="93" element="other" class="other" confidence="0.8" text="von eig ."/>
@@ -19220,6 +19225,7 @@
           <eventGroup event_id="0" class="due-payment" start="0" end="55" ref="" type="event" tense="unk" polarity="unk" modality="unk">
             <trigger ref="4" text="git"/>
             <event event_id="0.0">
+              <role role="date" inferred="true" text="1559"/>
               <role role="date" confidence="0.99" ref="0" text="1559"/>
               <role role="payer" confidence="1.0" ref="2" text="Jocob Strus"/>
               <role role="previous-payer" confidence="0.99" ref="3" text="Mychel Jsengrn"/>
@@ -21983,7 +21989,7 @@
             </span>
             <span id="15" start="50" end="51" element="attr" class="dues" confidence="1.0" text="ist zinsfrey"/>
           </span>
-          <span id="4" start="54" end="56" element="value" class="money" confidence="1.0" text="120 ℔ ." norm="120.0 Pfund"/>
+          <span id="4" start="54" end="56" element="value" class="money" confidence="1.0" text="120 ℔." norm="120.0 Pfund" orig_text="120 ℔ ." status="corrected" resp="#human_editor"/>
         </spans>
         <relations/>
         <eventGroups>
@@ -23798,6 +23804,7 @@
           <eventGroup event_id="0" class="due-payment" start="3" end="27" ref="" type="event" tense="unk" polarity="unk" modality="unk">
             <trigger ref="3" text="git"/>
             <event event_id="0.0">
+              <role role="date" inferred="true" text="1454"/>
               <role role="date" confidence="1.0" ref="1" text="1454"/>
               <role role="payer" confidence="1.0" ref="2" text="Herr Ludwig Ertrich"/>
               <role role="interest" confidence="0.98" ref="4" text="3½ sh . 3dn ."/>
@@ -23928,6 +23935,7 @@
           <eventGroup event_id="0" class="due-payment" start="3" end="31" ref="" type="event" tense="unk" polarity="unk" modality="unk">
             <trigger ref="3" text="git"/>
             <event event_id="0.0">
+              <role role="date" inferred="true" text="1458"/>
               <role role="date" confidence="1.0" ref="1" text="1458"/>
               <role role="payer" confidence="1.0" ref="2" text="Meister Lienhart zu sant Peter"/>
               <role role="interest" confidence="0.99" ref="4" text="3½ sh . 3dn ."/>
@@ -24063,6 +24071,7 @@
           <eventGroup event_id="0" class="due-payment" start="0" end="15" ref="" type="event" tense="unk" polarity="unk" modality="unk">
             <trigger ref="3" text="gitzt"/>
             <event event_id="0.0">
+              <role role="date" inferred="true" text="1463"/>
               <role role="place" confidence="0.94" ref="0" text="sant Peters Kilchspiel"/>
               <role role="date" confidence="1.0" ref="1" text="1463"/>
               <role role="payer" confidence="1.0" ref="2" text="Herr Burckhart Hauffstengel"/>
@@ -24204,6 +24213,7 @@
           <eventGroup event_id="0" class="due-payment" start="1" end="25" ref="" type="event" tense="unk" polarity="unk" modality="unk">
             <trigger ref="3" text="git"/>
             <event event_id="0.0">
+              <role role="date" inferred="true" text="1468"/>
               <role role="place" confidence="0.99" ref="0" text="sant Peters Kilchspiel"/>
               <role role="date" confidence="1.0" ref="1" text="1468"/>
               <role role="payer" confidence="1.0" ref="2" text="Herr Heinrich Gumpa zu sant Martin"/>
@@ -24333,6 +24343,7 @@
           <eventGroup event_id="0" class="due-payment" start="1" end="42" ref="" type="event" tense="unk" polarity="unk" modality="unk">
             <trigger ref="3" text="git"/>
             <event event_id="0.0">
+              <role role="date" inferred="true" text="1469"/>
               <role role="place" confidence="0.99" ref="0" text="sant Peters Kilchspiel"/>
               <role role="date" confidence="1.0" ref="1" text="1469"/>
               <role role="payer" confidence="1.0" ref="2" text="Herr Johanns Eberlin Caplan zu sant Peter"/>
@@ -24503,6 +24514,7 @@
           <eventGroup event_id="0" class="due-payment" start="1" end="79" ref="" type="event" tense="unk" polarity="unk" modality="unk">
             <trigger ref="3" text="gibt"/>
             <event event_id="0.0">
+              <role role="date" inferred="true" text="1477"/>
               <role role="place" confidence="0.99" ref="0" text="sant Petri"/>
               <role role="date" confidence="1.0" ref="1" text="1477"/>
               <role role="payer" confidence="1.0" ref="2" text="Herr Hanns Eberlin , Caplan zu sannt Peter"/>
@@ -26057,7 +26069,7 @@
             </span>
             <span id="25" start="63" end="64" element="attr" class="dues" confidence="0.99" text="ist zinsfrei"/>
           </span>
-          <span id="6" start="67" end="69" element="value" class="money" confidence="1.0" text="65 ℔ ." norm="65.0 Pfund"/>
+          <span id="6" start="67" end="69" element="value" class="money" confidence="1.0" text="65 ℔." norm="65.0 Pfund" orig_text="65 ℔ ." status="corrected" resp="#human_editor"/>
         </spans>
         <relations>
           <relation id="1" from="13" to="0" class="coref"/>
@@ -26256,7 +26268,7 @@
             </span>
             <span id="24" start="61" end="62" element="attr" class="dues" confidence="1.0" text="ist zinsfrei"/>
           </span>
-          <span id="6" start="65" end="67" element="value" class="money" confidence="1.0" text="80 ℔ ." norm="80.0 Pfund"/>
+          <span id="6" start="65" end="67" element="value" class="money" confidence="1.0" text="80 ℔." norm="80.0 Pfund" orig_text="80 ℔ ." status="corrected" resp="#human_editor"/>
         </spans>
         <relations>
           <relation id="1" from="12" to="0" class="coref"/>
@@ -27525,8 +27537,8 @@
             </span>
             <span id="20" start="53" end="57" element="attr" class="dues" confidence="0.95" text="so frey , ledig eigen"/>
           </span>
-          <span id="4" start="60" end="62" element="value" class="money" confidence="1.0" text="350 ℔ ." norm="350.0 Pfund"/>
-          <span id="5" start="65" end="66" element="value" class="money" confidence="0.98" text="10 ℔" norm="10.0 Pfund"/>
+          <span id="4" start="60" end="62" element="value" class="money" confidence="1.0" text="350 ℔." norm="350.0 Pfund" orig_text="350 ℔ ." status="corrected" resp="#human_editor"/>
+          <span id="5" start="65" end="66" element="value" class="money" confidence="0.98" text="10 ℔" norm="" orig_norm="10.0 Pfund" status="corrected" resp="#human_editor"/>
         </spans>
         <relations/>
         <eventGroups>
@@ -27847,7 +27859,7 @@
               </span>
             </span>
           </span>
-          <span id="5" start="52" end="54" element="value" class="money" confidence="0.99" text="170 ℔ ." norm="170.0 Pfund"/>
+          <span id="5" start="52" end="54" element="value" class="money" confidence="0.99" text="170 ℔." norm="170.0 Pfund" orig_text="170 ℔ ." status="corrected" resp="#human_editor"/>
           <span id="6" start="57" end="58" element="reference" class="per" confidence="0.99" text="Johann Stehelin" numerus="sgl" specificity="spc" subclass="">
             <span id="35" start="57" end="58" element="head" class="nam" confidence="1.0" text="Johann Stehelin"/>
           </span>
@@ -28191,7 +28203,7 @@
               </span>
             </span>
           </span>
-          <span id="6" start="70" end="72" element="value" class="money" confidence="0.98" text="475 ℔ ." norm="475.0 Pfund"/>
+          <span id="6" start="70" end="72" element="value" class="money" confidence="0.98" text="475 ℔." norm="475.0 Pfund" orig_text="475 ℔ ." status="corrected" resp="#human_editor"/>
         </spans>
         <relations>
           <relation id="1" from="15" to="0" class="coref"/>
@@ -30015,7 +30027,7 @@
               <span id="45" start="73" end="73" element="other" class="other" confidence="1.0" text="erschatz"/>
             </span>
           </span>
-          <span id="4" start="78" end="80" element="value" class="money" confidence="1.0" text="165 fl ." norm="165.0 Gulden"/>
+          <span id="4" start="78" end="80" element="value" class="money" confidence="1.0" text="165 fl ." norm="165.0 Gulden" status="corrected" resp="#human_editor"/>
         </spans>
         <relations/>
         <eventGroups>
@@ -30249,7 +30261,7 @@
               </span>
             </span>
           </span>
-          <span id="4" start="77" end="79" element="value" class="money" confidence="1.0" text="1655 fl ." norm="1655.0 Gulden"/>
+          <span id="4" start="77" end="79" element="value" class="money" confidence="1.0" text="165 fl ." norm="165.0 Gulden" orig_norm="1655.0 Gulden" orig_text="1655 fl ." status="corrected" resp="#human_editor"/>
         </spans>
         <relations/>
         <eventGroups>
@@ -30539,7 +30551,7 @@
               <span id="58" start="104" end="104" element="other" class="other" confidence="1.0" text="erschatz"/>
             </span>
           </span>
-          <span id="6" start="107" end="109" element="value" class="money" confidence="1.0" text="150 fl ." norm="150.0 Gulden"/>
+          <span id="6" start="107" end="109" element="value" class="money" confidence="1.0" text="150 fl ." norm="150.0 Gulden" status="corrected" resp="#human_editor"/>
         </spans>
         <relations>
           <relation id="1" from="49" to="45" class="coref"/>
@@ -30848,7 +30860,7 @@
               <span id="33" start="78" end="80" element="value" class="money" confidence="1.0" text="120 fl ." norm="120.0 Gulden"/>
             </span>
           </span>
-          <span id="4" start="84" end="85" element="value" class="money" confidence="1.0" text="35 fl" norm="35.0 Gulden"/>
+          <span id="4" start="84" end="85" element="value" class="money" confidence="1.0" text="35 fl" norm="35.0 Gulden" status="corrected" resp="#human_editor"/>
         </spans>
         <relations/>
         <eventGroups>
@@ -31806,6 +31818,7 @@
           <eventGroup event_id="0" class="due-payment" start="19" end="22" ref="" type="event" tense="unk" polarity="unk" modality="unk">
             <trigger ref="7" text="gibt"/>
             <event event_id="0.0">
+              <role role="date" inferred="true" text="1526"/>
               <role role="date" confidence="0.93" ref="6" text="1527"/>
               <role role="interest" confidence="0.81" ref="8" text="10ß ."/>
             </event>
@@ -32126,8 +32139,9 @@
               <role role="family-b" ref="26" text="sin"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="2" class_="due-obligation" type="event" polarity="pos" tense="pres" modality="ass" start="5" end="55" ref="">
+          <eventGroup event_id="2" type="event" polarity="pos" tense="pres" modality="ass" start="5" end="55" ref="" class="due-payment">
             <event event_id="2.0">
+              <role role="date" inferred="true" text="1536"/>
               <role role="payer" ref="1" text="Jacob Schultheis" confidence="0.9961"/>
               <role role="payer" ref="2" text="sin hussfrow" confidence="0.979"/>
               <role role="property" ref="3" text="huß Bittenhen" confidence="0.9709"/>
@@ -35080,7 +35094,7 @@
             </span>
             <span id="20" start="65" end="68" element="attr" class="dues" confidence="0.95" text="ist zinsty lidig eigen"/>
           </span>
-          <span id="5" start="71" end="73" element="value" class="money" confidence="1.0" text="1 ℔ ." norm="1.0 Pfund"/>
+          <span id="5" start="71" end="73" element="value" class="money" confidence="1.0" text="75 ℔." norm="75.0 Pfund" orig_norm="1.0 Pfund" orig_text="1 ℔ ." status="corrected" resp="#human_editor"/>
         </spans>
         <relations/>
         <eventGroups>
@@ -35714,7 +35728,7 @@
         </spans>
         <relations/>
         <eventGroups>
-          <eventGroup event_id="0" class="due-obligation" start="34" end="49" ref="" type="state" tense="unk" polarity="unk" modality="unk">
+          <eventGroup event_id="0" class="due-payment" start="34" end="49" ref="" type="state" tense="unk" polarity="unk" modality="unk">
             <trigger ref="9" text="zins"/>
             <event event_id="0.0">
               <role role="due-date" confidence="0.99" ref="10" text="zu Pfinsten"/>
@@ -35931,7 +35945,7 @@
               <span id="50" start="84" end="84" element="head" class="nam" confidence="1.0" text="Müseck"/>
             </span>
           </span>
-          <span id="7" start="89" end="91" element="value" class="money" confidence="1.0" text="160 ℔ ." norm="160.0 Pfund"/>
+          <span id="7" start="89" end="91" element="value" class="money" confidence="1.0" text="160 ℔." norm="160.0 Pfund" orig_text="160 ℔ ." status="corrected" resp="#human_editor"/>
           <span id="8" start="92" end="92" element="trigger" class="due" confidence="1.0" text="zinst"/>
           <span id="9" start="93" end="94" element="value" class="time" confidence="1.0" text="jährl ."/>
           <span id="10" start="95" end="99" element="reference" class="org" confidence="0.99" text="den Herren zu sant Peter" numerus="sgl" specificity="spc" subclass="rel">
@@ -36753,6 +36767,7 @@
           <eventGroup event_id="0" class="due-payment" start="0" end="44" ref="" type="event" tense="unk" polarity="unk" modality="unk">
             <trigger ref="4" text="git"/>
             <event event_id="0.0">
+              <role role="date" inferred="true" text="1559"/>
               <role role="date" confidence="0.97" ref="0" text="1559"/>
               <role role="payer" confidence="1.0" ref="2" text="Frantz Ulrych Waßerhum"/>
               <role role="previous-payer" confidence="0.99" ref="3" text="Thorode Reinharttin"/>
@@ -39891,7 +39906,7 @@
             </span>
             <span id="27" start="54" end="56" element="attr" class="dues" confidence="0.99" text="ist zins frey"/>
           </span>
-          <span id="5" start="59" end="61" element="value" class="money" confidence="1.0" text="228 ℔ ." norm="228.0 Pfund"/>
+          <span id="5" start="59" end="61" element="value" class="money" confidence="1.0" text="228 ℔." norm="228.0 Pfund" orig_text="228 ℔ ." status="corrected" resp="#human_editor"/>
         </spans>
         <relations>
           <relation id="1" from="22" to="2" class="coref"/>
@@ -40178,7 +40193,7 @@
               </span>
             </span>
           </span>
-          <span id="7" start="116" end="118" element="value" class="money" confidence="1.0" text="45 ℔ ." norm="45.0 Pfund"/>
+          <span id="7" start="116" end="118" element="value" class="money" confidence="1.0" text="45 ℔." norm="45.0 Pfund" orig_text="45 ℔ ." status="corrected" resp="#human_editor"/>
         </spans>
         <relations>
           <relation id="1" from="17" to="0" class="coref"/>
@@ -40392,7 +40407,7 @@
               <span id="37" start="50" end="51" element="head" class="nam" confidence="0.99" text="hochen Windeck"/>
             </span>
           </span>
-          <span id="6" start="56" end="58" element="value" class="money" confidence="1.0" text="80 ℔ ." norm="80.0 Pfund"/>
+          <span id="6" start="56" end="58" element="value" class="money" confidence="1.0" text="90 ℔." norm="90.0 Pfund" orig_norm="80.0 Pfund" orig_text="80 ℔ ." status="corrected" resp="#human_editor"/>
           <span id="7" start="59" end="59" element="trigger" class="due" confidence="1.0" text="zinst"/>
           <span id="8" start="60" end="61" element="value" class="time" confidence="1.0" text="jährl ."/>
           <span id="9" start="62" end="63" element="reference" class="per" confidence="0.99" text="Lienhart Elpsen" numerus="sgl" specificity="spc" subclass="">
@@ -40762,7 +40777,7 @@
             </span>
             <span id="29" start="67" end="70" element="attr" class="dues" confidence="0.95" text="so ledig , eigen"/>
           </span>
-          <span id="6" start="73" end="75" element="value" class="money" confidence="1.0" text="458 ℔ ." norm="458.0 Pfund"/>
+          <span id="6" start="73" end="75" element="value" class="money" confidence="1.0" text="458 ℔." norm="458.0 Pfund" orig_text="458 ℔ ." status="corrected" resp="#human_editor"/>
         </spans>
         <relations>
           <relation id="1" from="12" to="0" class="coref"/>
@@ -41748,7 +41763,7 @@
               </span>
             </span>
           </span>
-          <span id="5" start="90" end="91" element="value" class="money" confidence="1.0" text="40fl ." norm="40.0 Gulden"/>
+          <span id="5" start="90" end="91" element="value" class="money" confidence="1.0" text="40fl ." norm="40.0 Gulden" status="corrected" resp="#human_editor"/>
         </spans>
         <relations>
           <relation id="1" from="10" to="2" class="coref"/>
@@ -43333,7 +43348,7 @@
               <span id="50" start="61" end="63" element="value" class="money" confidence="0.98" text="40 fl ." norm="40.0 Gulden"/>
             </span>
           </span>
-          <span id="6" start="67" end="68" element="value" class="money" confidence="1.0" text="2fl ." norm="2.0 Gulden"/>
+          <span id="6" start="67" end="68" element="value" class="money" confidence="1.0" text="2fl ." norm="2.0 Gulden" status="corrected" resp="#human_editor"/>
         </spans>
         <relations>
           <relation id="1" from="15" to="0" class="coref"/>
@@ -43815,8 +43830,9 @@
         </spans>
         <relations/>
         <eventGroups>
-          <eventGroup event_id="0" class_="due-obligation" type="event" polarity="pos" tense="pres" modality="ass" start="1" end="66" ref="">
+          <eventGroup event_id="0" type="event" polarity="pos" tense="pres" modality="ass" start="1" end="66" ref="" class="due-payment">
             <event event_id="0.0">
+              <role role="date" inferred="true" text="1522"/>
               <role role="payer" ref="0" text="Hans Schörendorf der Schwertfeger" confidence="0.9989"/>
               <role role="due-date" ref="2" text="uf Pfingsten" confidence="0.9954"/>
               <role role="date-missing" ref="3" text="1523" confidence="0.9977"/>
@@ -44013,8 +44029,9 @@
         </spans>
         <relations/>
         <eventGroups>
-          <eventGroup event_id="0" class_="due-obligation" type="event" polarity="pos" tense="pres" modality="ass" start="1" end="41" ref="">
+          <eventGroup event_id="0" type="event" polarity="pos" tense="pres" modality="ass" start="1" end="41" ref="" class="due-payment">
             <event event_id="0.0">
+              <role role="date" inferred="true" text="1536"/>
               <role role="payer" ref="0" text="Hans Frowenknecht" confidence="0.9942"/>
               <role role="due-date" ref="1" text="uff Pfingsten" confidence="0.9976"/>
               <role role="payer" ref="2" text="der Weber" confidence="0.7648"/>
@@ -45001,7 +45018,7 @@
               </span>
             </span>
           </span>
-          <span id="7" start="107" end="112" element="value" class="money" confidence="1.0" text="47 1 / 2 ℔ ." norm="47.5 Pfund"/>
+          <span id="7" start="107" end="112" element="value" class="money" confidence="1.0" text="47 1 / 2 ℔." norm="47.5 Pfund" orig_text="47 1 / 2 ℔ ." status="corrected" resp="#human_editor"/>
           <span id="8" start="113" end="113" element="trigger" class="due" confidence="1.0" text="zinset"/>
           <span id="9" start="114" end="115" element="value" class="time" confidence="1.0" text="jährl ."/>
           <span id="10" start="116" end="119" element="reference" class="org" confidence="0.94" text="dem gottshus zum Predigern" numerus="sgl" specificity="spc" subclass="rel">
@@ -45182,8 +45199,9 @@
         </spans>
         <relations/>
         <eventGroups>
-          <eventGroup event_id="0" class_="due-obligation" type="event" polarity="pos" tense="pres" modality="ass" start="1" end="16" ref="">
+          <eventGroup event_id="0" type="event" polarity="pos" tense="pres" modality="ass" start="1" end="16" ref="" class="due-payment">
             <event event_id="0.0">
+              <role role="date" inferred="true" text="1562"/>
               <role role="payer" ref="0" text="Hans Strauß der Sischmacher" confidence="0.9983"/>
               <role role="date" ref="2" text="1563" confidence="0.998"/>
               <role role="date" ref="3" text="1564" confidence="0.9992"/>
@@ -45471,7 +45489,7 @@
               </span>
             </span>
           </span>
-          <span id="6" start="115" end="117" element="value" class="money" confidence="0.99" text="107 ℔ ." norm="107.0 Pfund"/>
+          <span id="6" start="115" end="117" element="value" class="money" confidence="0.99" text="107 ℔." norm="107.0 Pfund" orig_text="107 ℔ ." status="corrected" resp="#human_editor"/>
           <span id="7" start="118" end="118" element="trigger" class="due" confidence="1.0" text="zinst"/>
           <span id="8" start="119" end="120" element="value" class="time" confidence="1.0" text="jährl ."/>
           <span id="9" start="121" end="124" element="reference" class="org" confidence="0.96" text="dem gottshus zu Predigern" numerus="sgl" specificity="spc" subclass="rel">
@@ -48275,8 +48293,9 @@
               <role role="owner" ref="23" text="her Ludwig Eichachs"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="2" class_="due-obligation" type="event" polarity="pos" tense="pres" modality="ass" start="0" end="42" ref="">
+          <eventGroup event_id="2" type="event" polarity="pos" tense="pres" modality="ass" start="0" end="42" ref="" class="due-payment">
             <event event_id="2.0">
+              <role role="date" inferred="true" text="1527"/>
               <role role="payer" ref="0" text="die capplannen jeder in sinders" confidence="0.4779"/>
               <role role="payer" ref="1" text="her Ludwig Eichach" confidence="0.9779"/>
               <role role="previous-payer" ref="2" text="her Lienhart Rephan" confidence="0.7779"/>
@@ -49937,7 +49956,7 @@
               <span id="40" start="59" end="59" element="other" class="other" confidence="0.91" text="abl"/>
             </span>
           </span>
-          <span id="6" start="61" end="64" element="value" class="money" confidence="1.0" text="300 ℔ 10sh ." norm="300.0 Pfund|10.0 Schilling"/>
+          <span id="6" start="61" end="64" element="value" class="money" confidence="1.0" text="30 ℔ 10sh ." norm="30.0 Pfund|10.0 Schilling" orig_norm="300.0 Pfund|10.0 Schilling" orig_text="300 ℔ 10sh ." status="corrected" resp="#human_editor"/>
         </spans>
         <relations>
           <relation id="1" from="12" to="0" class="coref"/>
@@ -50257,7 +50276,7 @@
               <span id="42" start="65" end="66" element="other" class="other" confidence="0.96" text="abl ."/>
             </span>
           </span>
-          <span id="6" start="71" end="73" element="value" class="money" confidence="1.0" text="34 fl ." norm="34.0 Gulden"/>
+          <span id="6" start="71" end="73" element="value" class="money" confidence="1.0" text="34 fl ." norm="34.0 Gulden" status="corrected" resp="#human_editor"/>
         </spans>
         <relations>
           <relation id="1" from="12" to="0" class="coref"/>
@@ -51645,6 +51664,7 @@
           <eventGroup event_id="0" class="due-payment" start="1" end="65" ref="" type="event" tense="unk" polarity="unk" modality="unk">
             <trigger ref="3" text="gibt"/>
             <event event_id="0.0">
+              <role role="date" inferred="true" text="1583"/>
               <role role="place" confidence="0.94" ref="0" text="sant Leonhardi"/>
               <role role="date" confidence="1.0" ref="1" text="1583"/>
               <role role="payer" confidence="1.0" ref="2" text="Wilhelm Umber der Welsch"/>
@@ -52091,6 +52111,7 @@
           <eventGroup event_id="0" class="due-payment" start="1" end="59" ref="" type="event" tense="unk" polarity="unk" modality="unk">
             <trigger ref="3" text="gibt"/>
             <event event_id="0.0">
+              <role role="date" inferred="true" text="1601"/>
               <role role="place" confidence="0.94" ref="0" text="sant Leonhardi"/>
               <role role="date" confidence="1.0" ref="1" text="1601"/>
               <role role="payer" confidence="1.0" ref="2" text="Wilhelm Humberg , genannt Welschwilhe Wittib"/>
@@ -52520,6 +52541,7 @@
           <eventGroup event_id="0" class="due-payment" start="1" end="37" ref="" type="event" tense="unk" polarity="unk" modality="unk">
             <trigger ref="3" text="gibt"/>
             <event event_id="0.0">
+              <role role="date" inferred="true" text="1616"/>
               <role role="place" confidence="0.93" ref="0" text="sant Leonhardi"/>
               <role role="date" confidence="1.0" ref="1" text="1616"/>
               <role role="payer" confidence="1.0" ref="2" text="Hans Herschins sel . Wittib"/>
@@ -52656,6 +52678,7 @@
           <eventGroup event_id="0" class="due-payment" start="1" end="33" ref="" type="event" tense="unk" polarity="unk" modality="unk">
             <trigger ref="3" text="gibt"/>
             <event event_id="0.0">
+              <role role="date" inferred="true" text="1621"/>
               <role role="place" confidence="0.92" ref="0" text="sant Leonhardi"/>
               <role role="date" confidence="1.0" ref="1" text="1621"/>
               <role role="payer" confidence="1.0" ref="2" text="Andres Ritter der Leistmacher"/>
@@ -52820,6 +52843,7 @@
           <eventGroup event_id="0" class="due-payment" start="1" end="63" ref="" type="event" tense="unk" polarity="unk" modality="unk">
             <trigger ref="3" text="gibt"/>
             <event event_id="0.0">
+              <role role="date" inferred="true" text="1624"/>
               <role role="place" confidence="0.92" ref="0" text="sant Leonhardi"/>
               <role role="date" confidence="1.0" ref="1" text="1624"/>
               <role role="payer" confidence="1.0" ref="2" text="Hans Heinrich Frey"/>
@@ -53020,6 +53044,7 @@
           <eventGroup event_id="0" class="due-payment" start="1" end="82" ref="" type="event" tense="unk" polarity="unk" modality="unk">
             <trigger ref="4" text="gibt"/>
             <event event_id="0.0">
+              <role role="date" inferred="true" text="1641"/>
               <role role="place" confidence="0.91" ref="0" text="sant Leonhardi"/>
               <role role="date" confidence="1.0" ref="1" text="1641"/>
               <role role="payer" confidence="1.0" ref="2" text="Andres Ritter der Leistmacher"/>
@@ -53182,6 +53207,7 @@
           <eventGroup event_id="0" class="due-payment" start="1" end="41" ref="" type="event" tense="unk" polarity="unk" modality="unk">
             <trigger ref="3" text="gibt"/>
             <event event_id="0.0">
+              <role role="date" inferred="true" text="1661"/>
               <role role="place" confidence="0.9" ref="0" text="sant Leonhardi"/>
               <role role="date" confidence="1.0" ref="1" text="1661"/>
               <role role="payer" confidence="1.0" ref="2" text="Andrees Ritter der Seistmacher"/>
@@ -53374,6 +53400,7 @@
           <eventGroup event_id="0" class="due-payment" start="1" end="49" ref="" type="event" tense="unk" polarity="unk" modality="unk">
             <trigger ref="3" text="gibt"/>
             <event event_id="0.0">
+              <role role="date" inferred="true" text="1664"/>
               <role role="place" confidence="0.9" ref="0" text="sant Leonhardi"/>
               <role role="date" confidence="1.0" ref="1" text="1664"/>
               <role role="payer" confidence="1.0" ref="2" text="Rudolff Oswaldt der Kübler"/>
@@ -53560,6 +53587,7 @@
           <eventGroup event_id="0" class="due-payment" start="1" end="62" ref="" type="event" tense="unk" polarity="unk" modality="unk">
             <trigger ref="3" text="gibt"/>
             <event event_id="0.0">
+              <role role="date" inferred="true" text="1673"/>
               <role role="place" confidence="0.9" ref="0" text="sant Leonhardi"/>
               <role role="date" confidence="1.0" ref="1" text="1673"/>
               <role role="payer" confidence="1.0" ref="2" text="Heinrich Weisslin der Kübler"/>
@@ -54142,6 +54170,7 @@
           <eventGroup event_id="0" class="due-payment" start="1" end="83" ref="" type="event" tense="unk" polarity="unk" modality="unk">
             <trigger ref="3" text="gibt"/>
             <event event_id="0.0">
+              <role role="date" inferred="true" text="1681"/>
               <role role="place" confidence="0.91" ref="0" text="sant Leonhardi"/>
               <role role="date" confidence="1.0" ref="1" text="1681"/>
               <role role="payer" confidence="1.0" ref="2" text="Hans Heinrich Frey der Passamenter"/>
@@ -64336,6 +64365,7 @@
           <eventGroup event_id="0" class="due-payment" start="9" end="55" ref="" type="event" tense="unk" polarity="unk" modality="unk">
             <trigger ref="4" text="zinst"/>
             <event event_id="0.0">
+              <role role="date" inferred="true" text="1611"/>
               <role role="date" confidence="1.0" ref="1" text="1613"/>
               <role role="date" confidence="1.0" ref="2" text="4"/>
               <role role="payer" confidence="1.0" ref="3" text="Niclaus Schröte bym schwartzen Pfohl"/>
@@ -67051,7 +67081,6 @@
           <eventGroup event_id="5" class="due-payment" start="124" end="153" ref="" type="event" tense="unk" polarity="unk" modality="unk">
             <trigger ref="16" text="gib"/>
             <event event_id="5.0">
-              <role role="date" text="1581" inferred="True"/>
               <role role="previous-due" confidence="1.0" ref="15" text="zins"/>
               <role role="payer" confidence="1.0" ref="17" text="Hans Jacob Höberlin"/>
               <role role="interest" confidence="0.98" ref="18" text="1 ℔ ."/>
@@ -68003,8 +68032,8 @@
               </span>
             </span>
           </span>
-          <span id="5" start="52" end="53" element="value" class="money" confidence="0.99" text="350 ℔" norm="350.0 Pfund"/>
-          <span id="6" start="56" end="59" element="value" class="money" confidence="0.9" text="5 ℔ Drinckgelt ." norm="unk unk"/>
+          <span id="5" start="52" end="53" element="value" class="money" confidence="0.99" text="350 ℔" norm="350.0 Pfund" status="corrected" resp="#human_editor"/>
+          <span id="6" start="56" end="59" element="value" class="money" confidence="0.9" text="5 ℔ Drinckgelt" norm="5.0 Pfund" status="corrected" resp="#human_editor" orig_norm="unk unk" orig_text="5 ℔ Drinckgelt ."/>
           <span id="7" start="65" end="65" element="value" class="money" confidence="0.86" text="1" norm="unk unk"/>
           <span id="8" start="66" end="68" element="reference" class="org" confidence="0.86" text="das Gottshaus Predigern" numerus="sgl" specificity="spc" subclass="rel">
             <span id="41" start="67" end="68" element="head" class="nam" confidence="0.91" text="Gottshaus Predigern" norm="Predigerkloster"/>
@@ -68262,7 +68291,7 @@
               </span>
             </span>
           </span>
-          <span id="5" start="57" end="63" element="value" class="money" confidence="1.0" text="77 ℔ 17 sh . 6dn ." norm="77.0 Pfund|17.0 Schilling|6.0 Denare"/>
+          <span id="5" start="57" end="63" element="value" class="money" confidence="1.0" text="77 ℔ 17 sh . 6dn ." norm="77.0 Pfund|17.0 Schilling|6.0 Denare" status="corrected" resp="#human_editor"/>
           <span id="6" start="65" end="65" element="trigger" class="due" confidence="0.85" text="hatten"/>
           <span id="7" start="66" end="69" element="reference" class="org" confidence="0.98" text="das Closter zum Predigern" numerus="sgl" specificity="spc" subclass="">
             <span id="45" start="67" end="69" element="head" class="nam" confidence="0.91" text="Closter zum Predigern" norm="Predigerkloster"/>
@@ -68462,8 +68491,9 @@
         </spans>
         <relations/>
         <eventGroups>
-          <eventGroup event_id="0" class_="due-obligation" type="event" polarity="pos" tense="pres" modality="ass" start="1" end="50" ref="">
+          <eventGroup event_id="0" type="event" polarity="pos" tense="pres" modality="ass" start="1" end="50" ref="" class="due-payment">
             <event event_id="0.0">
+              <role role="date" inferred="true" text="1630"/>
               <role role="payer" ref="0" text="Jacob Spörle" confidence="0.9865"/>
               <role role="date" ref="2" text="1631" confidence="0.9991"/>
               <role role="date" ref="3" text="1632" confidence="0.9996"/>
@@ -68584,8 +68614,9 @@
         </spans>
         <relations/>
         <eventGroups>
-          <eventGroup event_id="0" class_="due-obligation" type="event" polarity="pos" tense="pres" modality="ass" start="1" end="56" ref="">
+          <eventGroup event_id="0" type="event" polarity="pos" tense="pres" modality="ass" start="1" end="56" ref="" class="due-payment">
             <event event_id="0.0">
+              <role role="date" inferred="true" text="1646"/>
               <role role="payer" ref="0" text="Jacob Spärlin" confidence="0.9875"/>
               <role role="date" ref="2" text="1647" confidence="0.9975"/>
               <role role="date-missing" ref="3" text="1648" confidence="0.9996"/>
@@ -68665,8 +68696,9 @@
         </spans>
         <relations/>
         <eventGroups>
-          <eventGroup event_id="0" class_="due-obligation" type="event" polarity="pos" tense="pres" modality="ass" start="1" end="22" ref="">
+          <eventGroup event_id="0" type="event" polarity="pos" tense="pres" modality="ass" start="1" end="22" ref="" class="due-payment">
             <event event_id="0.0">
+              <role role="date" inferred="true" text="1661"/>
               <role role="payer" ref="0" text="Juni Liesmacher" confidence="0.9607"/>
               <role role="date" ref="2" text="1662" confidence="0.9987"/>
               <role role="date" ref="3" text="1663" confidence="0.9993"/>
@@ -70168,7 +70200,7 @@
             </span>
             <span id="24" start="46" end="47" element="attr" class="dues" confidence="1.0" text="ist frei"/>
           </span>
-          <span id="6" start="50" end="52" element="value" class="money" confidence="0.99" text="1 fl ." norm="1.0 Gulden"/>
+          <span id="6" start="50" end="52" element="value" class="money" confidence="0.99" text="12 fl ." norm="12.0 Gulden" orig_norm="1.0 Gulden" orig_text="1 fl ." status="corrected" resp="#human_editor"/>
           <span id="7" start="53" end="53" element="reference" class="unk" confidence="0.83" text="dero" numerus="sgl" specificity="spc" subclass="">
             <span id="7_head" start="53" end="53" element="head" class="pro" confidence="0.83" text="dero"/>
           </span>
@@ -70302,7 +70334,7 @@
               </span>
             </span>
           </span>
-          <span id="4" start="22" end="24" element="value" class="money" confidence="1.0" text="60 gulden ." norm="unk unk"/>
+          <span id="4" start="22" end="24" element="value" class="money" confidence="1.0" text="60 gulden" norm="60.0 Gulden" orig_norm="unk unk" orig_text="60 gulden ." status="corrected" resp="#human_editor"/>
         </spans>
         <relations>
           <relation id="1" from="20" to="0" class="coref"/>
@@ -72164,7 +72196,7 @@
               </span>
             </span>
           </span>
-          <span id="8" start="88" end="90" element="value" class="money" confidence="1.0" text="14 fl ." norm="14.0 Gulden"/>
+          <span id="8" start="88" end="90" element="value" class="money" confidence="1.0" text="14 fl ." norm="14.0 Gulden" status="corrected" resp="#human_editor"/>
           <span id="9" start="91" end="91" element="trigger" class="due" confidence="1.0" text="zinset"/>
           <span id="10" start="92" end="93" element="value" class="time" confidence="1.0" text="jährl ."/>
           <span id="11" start="94" end="95" element="reference" class="per" confidence="0.99" text="Niclaus Werenfels" numerus="sgl" specificity="spc" subclass="">
@@ -72471,7 +72503,7 @@
               </span>
             </span>
           </span>
-          <span id="6" start="84" end="86" element="value" class="money" confidence="1.0" text="64 fl ." norm="64.0 Gulden"/>
+          <span id="6" start="84" end="86" element="value" class="money" confidence="1.0" text="64 fl ." norm="64.0 Gulden" status="corrected" resp="#human_editor"/>
           <span id="7" start="87" end="87" element="trigger" class="due" confidence="1.0" text="zinst"/>
           <span id="8" start="88" end="89" element="value" class="time" confidence="1.0" text="jährl ."/>
           <span id="9" start="90" end="93" element="reference" class="per" confidence="0.99" text="Niclaus Werenfels dem appotecker" numerus="sgl" specificity="spc" subclass="">
@@ -72783,7 +72815,7 @@
               <span id="58" start="109" end="111" element="value" class="money" confidence="0.98" text="10 Gld ." norm="10.0 Gulden"/>
             </span>
           </span>
-          <span id="6" start="115" end="120" element="value" class="money" confidence="0.98" text="6d Gulden B . W ." norm="unk unk"/>
+          <span id="6" start="115" end="120" element="value" class="money" confidence="0.98" text="64 Gulden" norm="64.0 Gulden" orig_norm="unk unk" orig_text="6d Gulden B . W ." status="corrected" resp="#human_editor"/>
         </spans>
         <relations>
           <relation id="1" from="21" to="3" class="coref"/>
@@ -76590,6 +76622,7 @@
           <eventGroup event_id="0" class="due-payment" start="7" end="37" ref="" type="event" tense="unk" polarity="unk" modality="unk">
             <trigger ref="5" text="zinst"/>
             <event event_id="0.0">
+              <role role="date" inferred="true" text="1617"/>
               <role role="date" confidence="0.97" ref="2" text="9"/>
               <role role="property" confidence="1.0" ref="4" text="sines Huss bim Schwartzen Pfohl"/>
               <role role="interval" confidence="1.0" ref="6" text="jehrlich"/>
@@ -76947,6 +76980,7 @@
           <eventGroup event_id="0" class="due-payment" start="3" end="60" ref="" type="event" tense="unk" polarity="unk" modality="unk">
             <trigger ref="7" text="zinst"/>
             <event event_id="0.0">
+              <role role="date" inferred="true" text="1620"/>
               <role role="date" confidence="0.99" ref="1" text="1621"/>
               <role role="date" confidence="1.0" ref="2" text="2"/>
               <role role="payer" confidence="0.99" ref="3" text="Anthony Cappa Wittib"/>
@@ -81483,8 +81517,9 @@
         </spans>
         <relations/>
         <eventGroups>
-          <eventGroup event_id="0" class_="due-obligation" type="event" polarity="pos" tense="pres" modality="ass" start="13" end="59" ref="">
+          <eventGroup event_id="0" type="event" polarity="pos" tense="pres" modality="ass" start="13" end="59" ref="" class="due-payment">
             <event event_id="0.0">
+              <role role="date" inferred="true" text="1632"/>
               <role role="date" ref="4" text="1633" confidence="0.996"/>
               <role role="payer" ref="5" text="Heinrich Ritter" confidence="0.9945"/>
               <role role="due-date" ref="6" text="uf Weihnachten" confidence="0.9915"/>
@@ -81890,6 +81925,7 @@
           <eventGroup event_id="0" class="due-payment" start="8" end="43" ref="" type="event" tense="unk" polarity="unk" modality="unk">
             <trigger ref="4" text="von"/>
             <event event_id="0.0">
+              <role role="date" inferred="true" text="1666"/>
               <role role="date" confidence="1.0" ref="2" text="1667"/>
               <role role="payer" confidence="1.0" ref="3" text="Hans Jacob Hertenstein"/>
               <role role="property" confidence="1.0" ref="5" text="seinem Hauss hinder dem Hauss zum schwartzen Pfohl"/>
@@ -83462,6 +83498,7 @@
           <eventGroup event_id="0" class="due-payment" start="1" end="74" ref="" type="event" tense="unk" polarity="unk" modality="unk">
             <trigger ref="3" text="von"/>
             <event event_id="0.0">
+              <role role="date" inferred="true" text="1695"/>
               <role role="place" confidence="0.62" ref="0" text="dem Schwartzen Pfohl"/>
               <role role="previous-payer" confidence="0.78" ref="1" text="Herr Mathias Ehinger"/>
               <role role="previous-payer" confidence="1.0" ref="2" text="Hans Jacob Hertenstein"/>
@@ -83676,7 +83713,7 @@
             </span>
             <span id="27" start="63" end="65" element="attr" class="dues" confidence="0.96" text="131 zins frei"/>
           </span>
-          <span id="5" start="68" end="70" element="value" class="money" confidence="1.0" text="126 fl ." norm="126.0 Gulden"/>
+          <span id="5" start="68" end="70" element="value" class="money" confidence="1.0" text="126 fl ." norm="126.0 Gulden" status="corrected" resp="#human_editor"/>
           <span id="6" start="71" end="74" element="value" class="date" confidence="0.99" text="Domstag vor Jaheine ."/>
         </spans>
         <relations>
@@ -83902,7 +83939,7 @@
             </span>
             <span id="24" start="65" end="66" element="attr" class="dues" confidence="0.99" text="ist zinsfrei"/>
           </span>
-          <span id="5" start="69" end="71" element="value" class="money" confidence="1.0" text="10 fl ." norm="10.0 Gulden"/>
+          <span id="5" start="69" end="71" element="value" class="money" confidence="1.0" text="130 fl ." norm="130.0 Gulden" orig_norm="10.0 Gulden" orig_text="10 fl ." status="corrected" resp="#human_editor"/>
         </spans>
         <relations>
           <relation id="1" from="13" to="0" class="coref"/>
@@ -85039,7 +85076,7 @@
               <span id="48" start="65" end="66" element="head" class="nam" confidence="1.0" text="hinder Epttingen"/>
             </span>
           </span>
-          <span id="6" start="71" end="73" element="value" class="money" confidence="1.0" text="94 fl ." norm="94.0 Gulden"/>
+          <span id="6" start="71" end="73" element="value" class="money" confidence="1.0" text="94 fl ." norm="94.0 Gulden" status="corrected" resp="#human_editor"/>
           <span id="7" start="74" end="74" element="trigger" class="due" confidence="1.0" text="zinst"/>
           <span id="8" start="75" end="76" element="value" class="time" confidence="1.0" text="jährl ."/>
           <span id="9" start="77" end="81" element="reference" class="org" confidence="0.97" text="der Stift s . Peter" numerus="sgl" specificity="spc" subclass="rel">
@@ -85302,7 +85339,7 @@
               <span id="46" start="61" end="62" element="head" class="nam" confidence="1.0" text="hinder eptingen"/>
             </span>
           </span>
-          <span id="5" start="67" end="69" element="value" class="money" confidence="1.0" text="286 fl ." norm="286.0 Gulden"/>
+          <span id="5" start="67" end="69" element="value" class="money" confidence="1.0" text="286 fl ." norm="286.0 Gulden" status="corrected" resp="#human_editor"/>
           <span id="6" start="70" end="70" element="trigger" class="due" confidence="1.0" text="zinset"/>
           <span id="7" start="71" end="72" element="value" class="time" confidence="1.0" text="jährl ."/>
           <span id="8" start="73" end="77" element="reference" class="org" confidence="0.98" text="der stift s . Peter" numerus="sgl" specificity="spc" subclass="rel">
@@ -85481,6 +85518,7 @@
           <eventGroup event_id="0" class="due-payment" start="0" end="30" ref="" type="event" tense="unk" polarity="unk" modality="unk">
             <trigger ref="4" text="git"/>
             <event event_id="0.0">
+              <role role="date" inferred="true" text="1559"/>
               <role role="date" confidence="0.92" ref="0" text="1559"/>
               <role role="payer" confidence="1.0" ref="2" text="her Hans Frycker"/>
               <role role="previous-payer" confidence="1.0" ref="3" text="Anderes Bletz"/>
@@ -94875,8 +94913,9 @@
         </spans>
         <relations/>
         <eventGroups>
-          <eventGroup event_id="0" class_="due-obligation" type="event" polarity="pos" tense="pres" modality="ass" start="2" end="60" ref="">
+          <eventGroup event_id="0" type="event" polarity="pos" tense="pres" modality="ass" start="2" end="60" ref="" class="due-payment">
             <event event_id="0.0">
+              <role role="date" inferred="true" text="1700"/>
               <role role="payer" ref="0" text="Barban vom Kohler hoff" confidence="0.9224"/>
               <role role="interest" ref="1" text="2 ℔ ." confidence="1.0"/>
             </event>
@@ -95125,7 +95164,7 @@
               </span>
             </span>
           </span>
-          <span id="4" start="57" end="59" element="value" class="money" confidence="1.0" text="450 fl ." norm="450.0 Gulden"/>
+          <span id="4" start="57" end="59" element="value" class="money" confidence="1.0" text="450 fl ." norm="450.0 Gulden" status="corrected" resp="#human_editor"/>
           <span id="5" start="63" end="63" element="trigger" class="other" confidence="0.91" text="Bezalung"/>
         </spans>
         <relations/>
@@ -96002,6 +96041,7 @@
           <eventGroup event_id="0" class="due-payment" start="9" end="37" ref="" type="event" tense="unk" polarity="unk" modality="unk">
             <trigger ref="4" text="git"/>
             <event event_id="0.0">
+              <role role="date" inferred="true" text="1492"/>
               <role role="date" confidence="1.0" ref="3" text="1493"/>
               <role role="payer" confidence="1.0" ref="5" text="junker Friderich von Lowenberg"/>
               <role role="interest" confidence="0.99" ref="6" text="2ß"/>
@@ -96224,8 +96264,9 @@
         </spans>
         <relations/>
         <eventGroups>
-          <eventGroup event_id="0" class_="due-obligation" type="event" polarity="pos" tense="pres" modality="ass" start="1" end="38" ref="">
+          <eventGroup event_id="0" type="event" polarity="pos" tense="pres" modality="ass" start="1" end="38" ref="" class="due-payment">
             <event event_id="0.0">
+              <role role="date" inferred="true" text="1512"/>
               <role role="payer" ref="0" text="junker Cunrat von Pfirt" confidence="0.9591"/>
               <role role="property" ref="2" text="vom graben" confidence="0.8628"/>
               <role role="date-missing" ref="3" text="1513" confidence="0.9968"/>
@@ -106930,9 +106971,10 @@
         </spans>
         <relations/>
         <eventGroups>
-          <eventGroup event_id="0" class="due-obligation" start="4" end="34" ref="" type="state" tense="unk" polarity="unk" modality="unk">
+          <eventGroup event_id="0" class="due-payment" start="4" end="34" ref="" type="state" tense="unk" polarity="unk" modality="unk">
             <trigger ref="2" text="zinßt"/>
             <event event_id="0.0">
+              <role role="date" inferred="true" text="1666"/>
               <role role="payer" confidence="1.0" ref="0" text="herrn Peter Thierri"/>
               <role role="previous-payer" confidence="1.0" ref="1" text="herr Albrecht fertig Pasch selig"/>
               <role role="interval" confidence="1.0" ref="3" text="jährlich"/>
@@ -113694,6 +113736,7 @@
           <eventGroup event_id="0" class="due-payment" start="0" end="59" ref="" type="event" tense="unk" polarity="unk" modality="unk">
             <trigger ref="3" text="git"/>
             <event event_id="0.0">
+              <role role="date" inferred="true" text="1507"/>
               <role role="date" confidence="0.99" ref="0" text="1507"/>
               <role role="place" confidence="0.99" ref="1" text="sant Petter kilchspell"/>
               <role role="payer" confidence="1.0" ref="2" text="die ellend herberg"/>
@@ -117262,8 +117305,9 @@
               <role role="owner" ref="22" text="Offenburgers"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="1" class_="due-obligation" type="event" polarity="pos" tense="pres" modality="ass" start="1" end="38" ref="">
+          <eventGroup event_id="1" type="event" polarity="pos" tense="pres" modality="ass" start="1" end="38" ref="" class="due-payment">
             <event event_id="1.0">
+              <role role="date" inferred="true" text="1585"/>
               <role role="payer" ref="0" text="junckher Jacob Offenburgers hoffgibt" confidence="0.9973"/>
               <role role="due-date" ref="1" text="uf Marthini" confidence="0.9958"/>
               <role role="date" ref="3" text="1586" confidence="0.9894"/>
@@ -118007,6 +118051,7 @@
           <eventGroup event_id="0" class="due-payment" start="0" end="32" ref="" type="event" tense="unk" polarity="unk" modality="unk">
             <trigger ref="2" text="gibt"/>
             <event event_id="0.0">
+              <role role="date" inferred="true" text="1612"/>
               <role role="date" confidence="1.0" ref="0" text="1612"/>
               <role role="payer" confidence="1.0" ref="1" text="Der Offenburgerhoff zu St . Petter"/>
               <role role="interval" confidence="1.0" ref="3" text="jehrlich"/>
@@ -118345,8 +118390,9 @@
               <role role="location-b" ref="18" text="St . Petter"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="1" class_="due-obligation" type="event" polarity="pos" tense="pres" modality="ass" start="0" end="33" ref="">
+          <eventGroup event_id="1" type="event" polarity="pos" tense="pres" modality="ass" start="0" end="33" ref="" class="due-payment">
             <event event_id="1.0">
+              <role role="date" inferred="true" text="1623"/>
               <role role="date" ref="0" text="1623" confidence="0.9754"/>
               <role role="payer" ref="1" text="Der Offenburgerhoff" confidence="0.5672"/>
               <role role="date" ref="2" text="1624" confidence="0.9995"/>
@@ -118628,8 +118674,9 @@
               <role role="location-b" ref="34" text="St . Peter"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="2" class_="due-obligation" type="event" polarity="pos" tense="pres" modality="ass" start="0" end="52" ref="">
+          <eventGroup event_id="2" type="event" polarity="pos" tense="pres" modality="ass" start="0" end="52" ref="" class="due-payment">
             <event event_id="2.0">
+              <role role="date" inferred="true" text="1629"/>
               <role role="date" ref="0" text="1629" confidence="0.9769"/>
               <role role="date" ref="1" text="1633" confidence="0.9965"/>
               <role role="payer" ref="2" text="Wittib" confidence="0.9262"/>
@@ -118835,7 +118882,6 @@
           <eventGroup event_id="2" class="due-payment" start="32" end="74" ref="" type="event" tense="unk" polarity="unk" modality="unk">
             <trigger ref="12" text="gibt"/>
             <event event_id="2.0">
-              <role role="date" text="1630" inferred="True"/>
               <role role="payer" confidence="0.99" ref="13" text="er"/>
               <role role="property" confidence="0.97" ref="14" text="gedachten Hof"/>
               <role role="due-date" confidence="0.74" ref="15" text="uf Andrea"/>
@@ -119408,8 +119454,9 @@
               <role role="owner" ref="32" text="seinem"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="1" class_="due-obligation" type="event" polarity="pos" tense="pres" modality="ass" start="0" end="76" ref="">
+          <eventGroup event_id="1" type="event" polarity="pos" tense="pres" modality="ass" start="0" end="76" ref="" class="due-payment">
             <event event_id="1.0">
+              <role role="date" inferred="true" text="1646"/>
               <role role="date" ref="2" text="1647" confidence="0.702"/>
               <role role="date" ref="3" text="649" confidence="0.9185"/>
               <role role="payer" ref="4" text="vom Offenburger" confidence="0.8396"/>
@@ -119643,8 +119690,9 @@
         </spans>
         <relations/>
         <eventGroups>
-          <eventGroup event_id="0" class_="due-obligation" type="event" polarity="pos" tense="pres" modality="ass" start="0" end="105" ref="">
+          <eventGroup event_id="0" type="event" polarity="pos" tense="pres" modality="ass" start="0" end="105" ref="" class="due-payment">
             <event event_id="0.0">
+              <role role="date" inferred="true" text="1653"/>
               <role role="place" ref="0" text="St . Petersberg" confidence="0.9943"/>
               <role role="payer" ref="1" text="Herr Philipp Adam Faber" confidence="0.9889"/>
               <role role="previous-payer" ref="2" text="Junker Henmann von Offenburg" confidence="0.4673"/>
@@ -120240,6 +120288,7 @@
           <eventGroup event_id="0" class="due-payment" start="0" end="70" ref="" type="event" tense="unk" polarity="unk" modality="unk">
             <trigger ref="0" text="Jahrzins"/>
             <event event_id="0.0">
+              <role role="date" inferred="true" text="1654"/>
               <role role="date" confidence="0.99" ref="2" text="1654"/>
               <role role="payer" confidence="0.99" ref="3" text="Herr Philipp Adam Faber"/>
               <role role="previous-payer" confidence="0.98" ref="4" text="Junckher Henman von Offenburg gewesener Landvogt zu Rötelen sel . Erben"/>
@@ -120457,9 +120506,10 @@
           <relation id="1" from="9" to="8" class="coref"/>
         </relations>
         <eventGroups>
-          <eventGroup event_id="0" class="due-obligation" start="4" end="25" ref="" type="state" tense="unk" polarity="unk" modality="unk">
+          <eventGroup event_id="0" class="due-payment" start="4" end="25" ref="" type="state" tense="unk" polarity="unk" modality="unk">
             <trigger ref="1" text="zinßt"/>
             <event event_id="0.0">
+              <role role="date" inferred="true" text="1666"/>
               <role role="payer" confidence="1.0" ref="0" text="herr Philip Adam Faber"/>
               <role role="interval" confidence="1.0" ref="2" text="jahrs"/>
               <role role="due-date" confidence="1.0" ref="3" text="uff Michaeli"/>
@@ -120616,8 +120666,9 @@
               <role role="location-b" ref="26" text="St . Peter"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="3" class_="due-obligation" type="event" polarity="pos" tense="pres" modality="ass" start="0" end="45" ref="">
+          <eventGroup event_id="3" type="event" polarity="pos" tense="pres" modality="ass" start="0" end="45" ref="" class="due-payment">
             <event event_id="3.0">
+              <role role="date" inferred="true" text="1674"/>
               <role role="date" ref="0" text="1674" confidence="0.9989"/>
               <role role="payer" ref="1" text="Herr Philipp Adam Faber" confidence="0.9962"/>
               <role role="previous-payer" ref="2" text="Juncker Heanan von Offenburg , gewesench Landvogt zu Röselen sel . Erben" confidence="0.3491"/>
@@ -120977,6 +121028,7 @@
           <eventGroup event_id="0" class="due-payment" start="0" end="60" ref="" type="event" tense="unk" polarity="unk" modality="unk">
             <trigger ref="0" text="Jahrzins"/>
             <event event_id="0.0">
+              <role role="date" inferred="true" text="1678"/>
               <role role="place" confidence="0.91" ref="1" text="Gross - - Basel"/>
               <role role="date" confidence="1.0" ref="2" text="1678"/>
               <role role="date-missing" confidence="1.0" ref="3" text="1679"/>
@@ -121189,8 +121241,9 @@
         </spans>
         <relations/>
         <eventGroups>
-          <eventGroup event_id="0" class_="due-obligation" type="event" polarity="pos" tense="pres" modality="ass" start="0" end="103" ref="">
+          <eventGroup event_id="0" type="event" polarity="pos" tense="pres" modality="ass" start="0" end="103" ref="" class="due-payment">
             <event event_id="0.0">
+              <role role="date" inferred="true" text="1678"/>
               <role role="payer" ref="1" text="Herr Philipp Adam Faber" confidence="0.6615"/>
               <role role="date" ref="2" text="1679" confidence="0.9955"/>
               <role role="payer" ref="3" text="Herr Lucas Bulacher" confidence="0.9959"/>
@@ -121789,8 +121842,9 @@
         </spans>
         <relations/>
         <eventGroups>
-          <eventGroup event_id="0" class_="due-obligation" type="event" polarity="pos" tense="pres" modality="ass" start="0" end="41" ref="">
+          <eventGroup event_id="0" type="event" polarity="pos" tense="pres" modality="ass" start="0" end="41" ref="" class="due-payment">
             <event event_id="0.0">
+              <role role="date" inferred="true" text="1695"/>
               <role role="place" ref="0" text="St . Peters Berg" confidence="0.9942"/>
               <role role="payer" ref="1" text="Herr Lux Bulacher" confidence="0.9737"/>
               <role role="previous-payer" ref="2" text="Herr Philipp Adam Faber" confidence="0.8777"/>
@@ -121956,8 +122010,9 @@
         </spans>
         <relations/>
         <eventGroups>
-          <eventGroup event_id="0" class_="due-obligation" type="event" polarity="pos" tense="pres" modality="ass" start="0" end="78" ref="">
+          <eventGroup event_id="0" type="event" polarity="pos" tense="pres" modality="ass" start="0" end="78" ref="" class="due-payment">
             <event event_id="0.0">
+              <role role="date" inferred="true" text="1698"/>
               <role role="place" ref="0" text="St . Petersberg" confidence="0.8825"/>
               <role role="date" ref="2" text="1699" confidence="0.9953"/>
               <role role="payer" ref="3" text="Herr N . Stupanus" confidence="0.9973"/>
@@ -124181,7 +124236,7 @@
             </span>
             <span id="51" start="104" end="105" element="attr" class="loc" confidence="0.77" text="geslagen sint"/>
           </span>
-          <span id="8" start="107" end="109" element="value" class="money" confidence="1.0" text="160 fl ." norm="160.0 Gulden"/>
+          <span id="8" start="107" end="109" element="value" class="money" confidence="1.0" text="160 fl ." norm="160.0 Gulden" status="corrected" resp="#human_editor"/>
         </spans>
         <relations>
           <relation id="1" from="19" to="2" class="coref"/>
@@ -124407,7 +124462,7 @@
             </span>
             <span id="21" start="72" end="73" element="attr" class="dues" confidence="1.0" text="ist frei"/>
           </span>
-          <span id="5" start="76" end="78" element="value" class="money" confidence="1.0" text="350 fl ." norm="350.0 Gulden"/>
+          <span id="5" start="76" end="78" element="value" class="money" confidence="1.0" text="350 fl ." norm="350.0 Gulden" status="corrected" resp="#human_editor"/>
         </spans>
         <relations>
           <relation id="1" from="13" to="0" class="coref"/>
@@ -126072,9 +126127,10 @@
         </spans>
         <relations/>
         <eventGroups>
-          <eventGroup event_id="0" class="due-obligation" start="5" end="41" ref="" type="state" tense="unk" polarity="unk" modality="unk">
+          <eventGroup event_id="0" class="due-payment" start="5" end="41" ref="" type="state" tense="unk" polarity="unk" modality="unk">
             <trigger ref="2" text="git"/>
             <event event_id="0.0">
+              <role role="date" inferred="true" text="1466"/>
               <role role="property" confidence="1.0" ref="0" text="einem hus gelegen uff sant Pettersberg ein syt neben her Hansen von Flachsland ritter"/>
               <role role="interest" confidence="1.0" ref="1" text="2 ℔"/>
               <role role="payer" confidence="1.0" ref="3" text="her Cunrat Krapsser der Capplon"/>
@@ -128871,6 +128927,7 @@
           <eventGroup event_id="0" class="due-payment" start="3" end="72" ref="" type="event" tense="unk" polarity="unk" modality="unk">
             <trigger ref="3" text="gitt"/>
             <event event_id="0.0">
+              <role role="date" inferred="true" text="1454"/>
               <role role="date" confidence="1.0" ref="1" text="1454"/>
               <role role="payer" confidence="1.0" ref="2" text="Herr Eberhart"/>
               <role role="interest" confidence="0.99" ref="4" text="5sh ."/>
@@ -129015,6 +129072,7 @@
           <eventGroup event_id="0" class="due-payment" start="1" end="34" ref="" type="event" tense="unk" polarity="unk" modality="unk">
             <trigger ref="3" text="gibt"/>
             <event event_id="0.0">
+              <role role="date" inferred="true" text="1477"/>
               <role role="place" confidence="0.99" ref="0" text="sannt Petri"/>
               <role role="date" confidence="1.0" ref="1" text="1477"/>
               <role role="payer" confidence="1.0" ref="2" text="Herr Friederich vonn Minderstatz sin"/>
@@ -129176,6 +129234,7 @@
           <eventGroup event_id="0" class="due-payment" start="1" end="47" ref="" type="event" tense="unk" polarity="unk" modality="unk">
             <trigger ref="3" text="gibt"/>
             <event event_id="0.0">
+              <role role="date" inferred="true" text="1485"/>
               <role role="place" confidence="0.99" ref="0" text="sannt Peter"/>
               <role role="date" confidence="1.0" ref="1" text="1485"/>
               <role role="payer" confidence="1.0" ref="2" text="Herr Hanns und Lutpriester zu sannt Peter"/>
@@ -129285,6 +129344,7 @@
           <eventGroup event_id="0" class="due-payment" start="1" end="22" ref="" type="event" tense="unk" polarity="unk" modality="unk">
             <trigger ref="3" text="gibt"/>
             <event event_id="0.0">
+              <role role="date" inferred="true" text="1497"/>
               <role role="place" confidence="0.99" ref="0" text="sannt Peter"/>
               <role role="date" confidence="1.0" ref="1" text="1497"/>
               <role role="payer" confidence="1.0" ref="2" text="Ursula Steinmetzin"/>
@@ -129375,6 +129435,7 @@
           <eventGroup event_id="0" class="due-payment" start="1" end="29" ref="" type="event" tense="unk" polarity="unk" modality="unk">
             <trigger ref="3" text="gibt"/>
             <event event_id="0.0">
+              <role role="date" inferred="true" text="1501"/>
               <role role="place" confidence="0.99" ref="0" text="sant Petri"/>
               <role role="date" confidence="1.0" ref="1" text="1501"/>
               <role role="payer" confidence="1.0" ref="2" text="Ursula Steinmetzin"/>
@@ -130096,8 +130157,9 @@
               <role role="location-b" ref="21" text="im Eck"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="2" class_="due-obligation" type="event" polarity="pos" tense="pres" modality="ass" start="0" end="47" ref="">
+          <eventGroup event_id="2" type="event" polarity="pos" tense="pres" modality="ass" start="0" end="47" ref="" class="due-payment">
             <event event_id="2.0">
+              <role role="date" inferred="true" text="1534"/>
               <role role="grantor" ref="0" text="die chor herren zu sant Petter in sunderst" confidence="0.4269"/>
               <role role="payer" ref="1" text="herr Jacob Müller" confidence="0.7065"/>
               <role role="property" ref="2" text="vom hus im Eck" confidence="0.9919"/>
@@ -130233,7 +130295,6 @@
           <eventGroup event_id="1" class="due-payment" start="11" end="54" ref="" type="event" tense="unk" polarity="unk" modality="unk">
             <trigger ref="4" text="git"/>
             <event event_id="1.0">
-              <role role="date" text="1540" inferred="True"/>
               <role role="payer" confidence="0.96" ref="3" text="herr Jacob Müller schuler"/>
               <role role="property" confidence="0.98" ref="5" text="vom eck hins"/>
               <role role="interval" confidence="0.99" ref="6" text="angl"/>

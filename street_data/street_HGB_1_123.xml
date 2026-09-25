@@ -6610,9 +6610,10 @@
         </spans>
         <relations/>
         <eventGroups>
-          <eventGroup event_id="0" class="due-obligation" start="1" end="17" ref="" type="state" tense="unk" polarity="unk" modality="unk">
+          <eventGroup event_id="0" class="due-payment" start="1" end="17" ref="" type="state" tense="unk" polarity="unk" modality="unk">
             <trigger ref="1" text="geben"/>
             <event event_id="0.0">
+              <role role="date" inferred="true" text="1587"/>
               <role role="payer" confidence="1.0" ref="0" text="junckher Jacob Rychen erben"/>
               <role role="interval" confidence="1.0" ref="2" text="jerlich"/>
               <role role="due-date" confidence="1.0" ref="3" text="uff Pfingsten"/>
@@ -6870,6 +6871,7 @@
           <eventGroup event_id="0" class="due-payment" start="0" end="16" ref="" type="event" tense="unk" polarity="unk" modality="unk">
             <trigger ref="3" text="geben"/>
             <event event_id="0.0">
+              <role role="date" inferred="true" text="1597"/>
               <role role="date" confidence="1.0" ref="0" text="1597"/>
               <role role="date" confidence="1.0" ref="1" text="1598"/>
               <role role="payer" confidence="1.0" ref="2" text="junckher Jacob Rüchen erben"/>
@@ -6955,6 +6957,7 @@
           <eventGroup event_id="0" class="due-payment" start="0" end="26" ref="" type="event" tense="unk" polarity="unk" modality="unk">
             <trigger ref="3" text="geben"/>
             <event event_id="0.0">
+              <role role="date" inferred="true" text="1599"/>
               <role role="date" confidence="1.0" ref="0" text="1599"/>
               <role role="due-date" confidence="0.99" ref="1" text="uff Pffingsten"/>
               <role role="payer" confidence="1.0" ref="2" text="junckhar Jacob Rychen erben"/>
@@ -7571,8 +7574,9 @@
               <role role="location-b" ref="21" text="Reichenstein"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="2" class_="due-obligation" type="event" polarity="pos" tense="pres" modality="ass" start="1" end="46" ref="">
+          <eventGroup event_id="2" type="event" polarity="pos" tense="pres" modality="ass" start="1" end="46" ref="" class="due-payment">
             <event event_id="2.0">
+              <role role="date" inferred="true" text="1680"/>
               <role role="payer" ref="0" text="Jr . Jacob Reich von Reichenstein seeligen erben" confidence="0.9702"/>
               <role role="date" ref="2" text="1681" confidence="0.9976"/>
               <role role="date" ref="3" text="1682" confidence="0.9982"/>
@@ -7723,8 +7727,9 @@
               <role role="location-b" ref="26" text="Reichenstein"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="1" class_="due-obligation" type="event" polarity="pos" tense="pres" modality="ass" start="1" end="74" ref="">
+          <eventGroup event_id="1" type="event" polarity="pos" tense="pres" modality="ass" start="1" end="74" ref="" class="due-payment">
             <event event_id="1.0">
+              <role role="date" inferred="true" text="1693"/>
               <role role="payer" ref="0" text="herr Jacob Reich von Reichenstein" confidence="0.9986"/>
               <role role="date" ref="2" text="1694" confidence="0.9967"/>
               <role role="date" ref="3" text="1695" confidence="0.9975"/>
@@ -12215,7 +12220,7 @@
               <span id="55" start="107" end="109" element="value" class="money" confidence="1.0" text="9 sh ." norm="9.0 Schilling"/>
             </span>
           </span>
-          <span id="4" start="112" end="114" element="value" class="money" confidence="1.0" text="8 ℔ ." norm="8.0 Pfund"/>
+          <span id="4" start="112" end="114" element="value" class="money" confidence="1.0" text="85 ℔." norm="85.0 Pfund" orig_norm="8.0 Pfund" orig_text="8 ℔ ." status="corrected" resp="#human_editor"/>
         </spans>
         <relations/>
         <eventGroups>
@@ -12501,7 +12506,7 @@
               <span id="43" start="88" end="89" element="value" class="money" confidence="1.0" text="1 ℔" norm="1.0 Pfund"/>
             </span>
           </span>
-          <span id="4" start="96" end="98" element="value" class="money" confidence="1.0" text="100 ℔ ." norm="100.0 Pfund"/>
+          <span id="4" start="96" end="98" element="value" class="money" confidence="1.0" text="100 ℔." norm="100.0 Pfund" orig_text="100 ℔ ." status="corrected" resp="#human_editor"/>
         </spans>
         <relations/>
         <eventGroups>
@@ -14563,7 +14568,7 @@
             </span>
             <span id="24" start="97" end="99" element="attr" class="dues" confidence="0.99" text="für lidig eigen"/>
           </span>
-          <span id="4" start="102" end="110" element="value" class="money" confidence="0.93" text="450 Guldin quoter und genemer an Golde und Gewichte" norm="unk unk"/>
+          <span id="4" start="102" end="110" element="value" class="money" confidence="0.93" text="450 Guldin quoter und genemer an Golde" norm="450.0 Gulden" orig_norm="unk unk" orig_text="450 Guldin quoter und genemer an Golde und Gewichte" status="corrected" resp="#human_editor"/>
           <span id="5" start="112" end="112" element="reference" class="unk" confidence="0.79" text="deren" numerus="sgl" specificity="spc" subclass="">
             <span id="5_head" start="112" end="112" element="head" class="pro" confidence="0.79" text="deren"/>
           </span>
@@ -14797,7 +14802,7 @@
             </span>
             <span id="25" start="68" end="69" element="attr" class="dues" confidence="1.0" text="ist frei"/>
           </span>
-          <span id="5" start="72" end="74" element="value" class="money" confidence="1.0" text="500 fl ." norm="500.0 Gulden"/>
+          <span id="5" start="72" end="74" element="value" class="money" confidence="1.0" text="550 fl ." norm="550.0 Gulden" orig_norm="500.0 Gulden" orig_text="500 fl ." status="corrected" resp="#human_editor"/>
         </spans>
         <relations>
           <relation id="1" from="13" to="1" class="coref"/>
@@ -15070,7 +15075,7 @@
             </span>
             <span id="42" start="95" end="96" element="attr" class="dues" confidence="1.0" text="ist frei"/>
           </span>
-          <span id="9" start="99" end="101" element="value" class="money" confidence="1.0" text="530 fl ." norm="530.0 Gulden"/>
+          <span id="9" start="99" end="101" element="value" class="money" confidence="1.0" text="530 fl ." norm="530.0 Gulden" status="corrected" resp="#human_editor"/>
         </spans>
         <relations>
           <relation id="1" from="37" to="4" class="coref"/>
@@ -15455,7 +15460,7 @@
             </span>
             <span id="58" start="134" end="137" element="attr" class="dues" confidence="0.9" text="forz , lidig eygen"/>
           </span>
-          <span id="10" start="140" end="147" element="value" class="money" confidence="0.97" text="530 Gullin Rynscher guter und imener in Gold" norm="530.0 Gulden"/>
+          <span id="10" start="140" end="147" element="value" class="money" confidence="0.97" text="530 Gullin Rynscher guter und imener in Gold" norm="530.0 Gulden" status="corrected" resp="#human_editor"/>
           <span id="11" start="153" end="153" element="trigger" class="other" confidence="0.77" text="bezalt"/>
         </spans>
         <relations>
@@ -15763,7 +15768,7 @@
             </span>
             <span id="30" start="79" end="80" element="attr" class="dues" confidence="1.0" text="ist frei"/>
           </span>
-          <span id="8" start="83" end="85" element="value" class="money" confidence="1.0" text="400 fl ." norm="400.0 Gulden"/>
+          <span id="8" start="83" end="85" element="value" class="money" confidence="1.0" text="400 fl ." norm="400.0 Gulden" status="corrected" resp="#human_editor"/>
         </spans>
         <relations>
           <relation id="1" from="14" to="0" class="coref"/>
@@ -16047,7 +16052,7 @@
             </span>
             <span id="36" start="98" end="102" element="attr" class="dues" confidence="0.96" text="ist frey , ledig eygen"/>
           </span>
-          <span id="8" start="105" end="110" element="value" class="money" confidence="0.98" text="400 Guldin gütter , Rinischer ," norm="400.0 Gulden"/>
+          <span id="8" start="105" end="110" element="value" class="money" confidence="0.98" text="400 Guldin gütter , Rinischer ," norm="400.0 Gulden" status="corrected" resp="#human_editor"/>
         </spans>
         <relations>
           <relation id="1" from="14" to="0" class="coref"/>
@@ -16311,7 +16316,7 @@
             </span>
             <span id="23" start="96" end="97" element="attr" class="dues" confidence="1.0" text="ist frei"/>
           </span>
-          <span id="6" start="100" end="102" element="value" class="money" confidence="1.0" text="300 fl ." norm="300.0 Gulden"/>
+          <span id="6" start="100" end="102" element="value" class="money" confidence="1.0" text="300 fl ." norm="300 Gulden" orig_norm="300.0 Gulden" status="corrected" resp="#human_editor"/>
         </spans>
         <relations>
           <relation id="1" from="10" to="0" class="coref"/>
@@ -19130,7 +19135,7 @@
             <span id="54" start="75" end="75" element="head" class="type" confidence="0.99" text="Garten" norm="Garten"/>
             <span id="55" start="76" end="84" element="attr" class="dues" confidence="0.81" text="ist frey . Lidig eigen aller Zinsen gentzlich entaden"/>
           </span>
-          <span id="6" start="87" end="89" element="value" class="money" confidence="0.99" text="550 gld ." norm="550.0 Gulden"/>
+          <span id="6" start="87" end="89" element="value" class="money" confidence="0.99" text="550 gld ." norm="550.0 Gulden" status="corrected" resp="#human_editor"/>
         </spans>
         <relations>
           <relation id="1" from="17" to="0" class="coref"/>
@@ -19400,7 +19405,7 @@
             </span>
             <span id="28" start="88" end="89" element="attr" class="dues" confidence="1.0" text="ist frei"/>
           </span>
-          <span id="5" start="92" end="94" element="value" class="money" confidence="1.0" text="50 fl ." norm="50.0 Gulden"/>
+          <span id="5" start="92" end="94" element="value" class="money" confidence="1.0" text="550 fl ." norm="550.0 Gulden" orig_norm="50.0 Gulden" orig_text="50 fl ." status="corrected" resp="#human_editor"/>
         </spans>
         <relations>
           <relation id="1" from="13" to="0" class="coref"/>
@@ -19671,7 +19676,7 @@
             </span>
             <span id="29" start="96" end="97" element="attr" class="dues" confidence="1.0" text="ist frei"/>
           </span>
-          <span id="5" start="100" end="102" element="value" class="money" confidence="1.0" text="600 fl ." norm="600.0 Gulden"/>
+          <span id="5" start="100" end="102" element="value" class="money" confidence="1.0" text="600 fl ." norm="600.0 Gulden" status="corrected" resp="#human_editor"/>
         </spans>
         <relations/>
         <eventGroups>
@@ -20326,7 +20331,7 @@
             </span>
             <span id="16" start="75" end="76" element="attr" class="dues" confidence="1.0" text="ist frei"/>
           </span>
-          <span id="5" start="79" end="81" element="value" class="money" confidence="1.0" text="480 fl ." norm="480.0 Gulden"/>
+          <span id="5" start="79" end="81" element="value" class="money" confidence="1.0" text="480 fl ." norm="480.0 Gulden" status="corrected" resp="#human_editor"/>
         </spans>
         <relations>
           <relation id="1" from="10" to="2" class="coref"/>
@@ -23092,7 +23097,7 @@
             <span id="20" start="53" end="53" element="attr" class="dues" confidence="0.91" text="daz"/>
             <span id="21" start="54" end="55" element="attr" class="dues" confidence="0.98" text="ist frei"/>
           </span>
-          <span id="5" start="58" end="60" element="value" class="money" confidence="1.0" text="1000 fl ." norm="1000.0 Gulden"/>
+          <span id="5" start="58" end="60" element="value" class="money" confidence="1.0" text="1000 fl ." norm="1000.0 Gulden" status="corrected" resp="#human_editor"/>
         </spans>
         <relations>
           <relation id="1" from="12" to="2" class="coref"/>
@@ -23745,7 +23750,7 @@
             </span>
             <span id="25" start="64" end="64" element="attr" class="dues" confidence="0.67" text="zinsfrei"/>
           </span>
-          <span id="5" start="67" end="69" element="value" class="money" confidence="1.0" text="320 fl ." norm="320.0 Gulden"/>
+          <span id="5" start="67" end="69" element="value" class="money" confidence="1.0" text="320 fl ." norm="320.0 Gulden" status="corrected" resp="#human_editor"/>
           <span id="6" start="70" end="73" element="value" class="date" confidence="1.0" text="Zinstag nach Letare ."/>
         </spans>
         <relations>
@@ -24118,7 +24123,7 @@
             </span>
             <span id="32" start="91" end="93" element="attr" class="dues" confidence="0.99" text="ist zins frei"/>
           </span>
-          <span id="8" start="96" end="101" element="value" class="money" confidence="1.0" text="11 1 / 2 fl ." norm="11.5 Gulden"/>
+          <span id="8" start="96" end="101" element="value" class="money" confidence="1.0" text="311 1 / 2 fl ." norm="311.5 Gulden" orig_norm="11.5 Gulden" orig_text="11 1 / 2 fl ." status="corrected" resp="#human_editor"/>
         </spans>
         <relations>
           <relation id="1" from="18" to="0" class="coref"/>
@@ -24353,7 +24358,7 @@
               <span id="45" start="63" end="63" element="head" class="nam" confidence="1.0" text="Ysenburg"/>
             </span>
           </span>
-          <span id="6" start="68" end="70" element="value" class="money" confidence="1.0" text="475 ℔ ." norm="475.0 Pfund"/>
+          <span id="6" start="68" end="70" element="value" class="money" confidence="1.0" text="475 ℔." norm="475.0 Pfund" orig_text="475 ℔ ." status="corrected" resp="#human_editor"/>
           <span id="7" start="71" end="71" element="trigger" class="due" confidence="1.0" text="zinst"/>
           <span id="8" start="72" end="73" element="value" class="time" confidence="1.0" text="jährl ."/>
           <span id="9" start="75" end="77" element="other" class="other" confidence="0.75" text="abl . Gülten"/>

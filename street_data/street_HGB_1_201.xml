@@ -6312,6 +6312,7 @@
           <eventGroup event_id="0" class="due-payment" start="1" end="27" ref="" type="event" tense="unk" polarity="unk" modality="unk">
             <trigger ref="3" text="gibt"/>
             <event event_id="0.0">
+              <role role="date" inferred="true" text="1528"/>
               <role role="place" confidence="1.0" ref="0" text="sannt Lienhardt"/>
               <role role="date" confidence="1.0" ref="1" text="1528"/>
               <role role="payer" confidence="1.0" ref="2" text="Jacob Baumgartter"/>
@@ -7015,8 +7016,9 @@
               <role role="location-b" ref="20" text="der Lottergaßen"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="1" class_="due-obligation" type="event" polarity="pos" tense="pres" modality="ass" start="5" end="47" ref="">
+          <eventGroup event_id="1" type="event" polarity="pos" tense="pres" modality="ass" start="5" end="47" ref="" class="due-payment">
             <event event_id="1.0">
+              <role role="date" inferred="true" text="1532"/>
               <role role="payer" ref="1" text="Andereas Krattander" confidence="0.9869"/>
               <role role="payer" ref="2" text="Jacob Boumgarter" confidence="0.7137"/>
               <role role="property" ref="3" text="dem garten in der Lottergaßen" confidence="0.9995"/>
@@ -7410,6 +7412,7 @@
           <eventGroup event_id="0" class="due-payment" start="0" end="45" ref="" type="event" tense="unk" polarity="unk" modality="unk">
             <trigger ref="2" text="git"/>
             <event event_id="0.0">
+              <role role="date" inferred="true" text="1534"/>
               <role role="date" confidence="1.0" ref="0" text="1534"/>
               <role role="payer" confidence="1.0" ref="1" text="Andress Cratander , der Trucker"/>
               <role role="due-date" confidence="1.0" ref="3" text="uf Mathie"/>
@@ -7723,6 +7726,7 @@
           <eventGroup event_id="0" class="due-payment" start="0" end="50" ref="" type="event" tense="unk" polarity="unk" modality="unk">
             <trigger ref="4" text="gendt"/>
             <event event_id="0.0">
+              <role role="date" inferred="true" text="1559"/>
               <role role="date" confidence="1.0" ref="0" text="1559"/>
               <role role="payer" confidence="1.0" ref="3" text="herr Anderes Kardanders erben"/>
               <role role="property" confidence="1.0" ref="5" text="vom gartten im Lotter geßlin"/>
@@ -14065,7 +14069,7 @@
             </span>
             <span id="24" start="56" end="57" element="attr" class="dues" confidence="0.98" text="sind frei"/>
           </span>
-          <span id="6" start="60" end="62" element="value" class="money" confidence="1.0" text="118 fl ." norm="118.0 Gulden"/>
+          <span id="6" start="60" end="62" element="value" class="money" confidence="1.0" text="115 fl ." norm="115.0 Gulden" orig_norm="118.0 Gulden" orig_text="118 fl ." status="corrected" resp="#human_editor"/>
         </spans>
         <relations>
           <relation id="1" from="13" to="0" class="coref"/>
@@ -14522,7 +14526,7 @@
             </span>
             <span id="20" start="72" end="73" element="attr" class="dues" confidence="0.97" text="sind ganzfrei"/>
           </span>
-          <span id="5" start="76" end="78" element="value" class="money" confidence="1.0" text="46 fl ." norm="46.0 Gulden"/>
+          <span id="5" start="76" end="78" element="value" class="money" confidence="1.0" text="46 fl ." norm="46.0 Gulden" status="corrected" resp="#human_editor"/>
         </spans>
         <relations>
           <relation id="1" from="13" to="2" class="coref"/>
@@ -17259,8 +17263,9 @@
               <role role="location-b" ref="16" text="des Eck Lottergassen"/>
             </event>
           </eventGroup>
-          <eventGroup event_id="1" class_="due-obligation" type="event" polarity="pos" tense="pres" modality="ass" start="2" end="28" ref="">
+          <eventGroup event_id="1" type="event" polarity="pos" tense="pres" modality="ass" start="2" end="28" ref="" class="due-payment">
             <event event_id="1.0">
+              <role role="date" inferred="true" text="1519"/>
               <role role="payer" ref="0" text="herr Fridersch zu Ryn" confidence="0.8945"/>
               <role role="payer" ref="1" text="Othmar Gras der Tuchman Hs eyner Schurer in des Eck Lottergassen" confidence="0.5241"/>
               <role role="date" ref="3" text="1510" confidence="0.9969"/>

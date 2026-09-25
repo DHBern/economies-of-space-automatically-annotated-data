@@ -3435,7 +3435,7 @@
               <span id="71" start="105" end="106" element="head" class="nam" confidence="0.99" text="Eremanns hus"/>
             </span>
           </span>
-          <span id="7" start="111" end="113" element="value" class="money" confidence="0.99" text="600 ℔ ." norm="600.0 Pfund"/>
+          <span id="7" start="111" end="113" element="value" class="money" confidence="0.99" text="600 ℔." norm="600.0 Pfund" orig_text="600 ℔ ." status="corrected" resp="#human_editor"/>
           <span id="8" start="114" end="114" element="trigger" class="due" confidence="1.0" text="zinst"/>
           <span id="9" start="115" end="115" element="value" class="time" confidence="1.0" text="jährl"/>
           <span id="10" start="116" end="120" element="reference" class="org" confidence="0.99" text="der Stift s . Peter" numerus="sgl" specificity="spc" subclass="rel">
@@ -3860,7 +3860,7 @@
               <span id="80" start="138" end="140" element="value" class="money" confidence="1.0" text="2 sh ." norm="2.0 Schilling"/>
             </span>
           </span>
-          <span id="8" start="142" end="146" element="value" class="money" confidence="0.98" text="600 lb . Bat ." norm="unk unk"/>
+          <span id="8" start="142" end="146" element="value" class="money" confidence="0.98" text="600 lb ." norm="600.0 Pfund" orig_norm="unk unk" orig_text="600 lb . Bat ." status="corrected" resp="#human_editor"/>
           <span id="9" start="152" end="153" element="reference" class="per" confidence="0.76" text="Hl Stückelberg" numerus="sgl" specificity="spc" subclass="">
             <span id="83" start="152" end="153" element="head" class="nam" confidence="0.59" text="Hl Stückelberg"/>
           </span>
@@ -4509,7 +4509,7 @@
             </span>
             <span id="44" start="51" end="52" element="head" class="nam" confidence="1.0" text="Eremans Huss"/>
           </span>
-          <span id="6" start="57" end="62" element="value" class="money" confidence="0.92" text="1380 Gulldin D . W ." norm="unk unk"/>
+          <span id="6" start="57" end="62" element="value" class="money" confidence="0.92" text="1300 Gulldin D . W" norm="1300.0 Gulden" orig_norm="unk unk" orig_text="1380 Gulldin D . W ." status="corrected" resp="#human_editor"/>
           <span id="7" start="72" end="74" element="reference" class="per" confidence="0.84" text="Hanns Rudolph Obermeiger" numerus="sgl" specificity="spc" subclass="">
             <span id="45" start="72" end="74" element="head" class="nam" confidence="1.0" text="Hanns Rudolph Obermeiger"/>
           </span>
@@ -5022,7 +5022,7 @@
               <span id="56" start="100" end="101" element="head" class="nam" confidence="1.0" text="Eremans hus"/>
             </span>
           </span>
-          <span id="7" start="106" end="108" element="value" class="money" confidence="1.0" text="824 fl ." norm="824.0 Gulden"/>
+          <span id="7" start="106" end="108" element="value" class="money" confidence="1.0" text="824 fl ." norm="824.0 Gulden" status="corrected" resp="#human_editor"/>
           <span id="8" start="109" end="109" element="trigger" class="due" confidence="1.0" text="zinst"/>
           <span id="9" start="110" end="111" element="value" class="time" confidence="1.0" text="jährl ."/>
           <span id="10" start="112" end="113" element="value" class="money" confidence="0.99" text="2sh ." norm="2.0 Schilling"/>
@@ -11879,7 +11879,7 @@
             </span>
             <span id="50" start="131" end="132" element="attr" class="dues" confidence="1.0" text="ist zinsfrei"/>
           </span>
-          <span id="9" start="135" end="137" element="value" class="money" confidence="1.0" text="400 fl ." norm="400.0 Gulden"/>
+          <span id="9" start="135" end="137" element="value" class="money" confidence="1.0" text="700 fl ." norm="700.0 Gulden" orig_norm="400.0 Gulden" orig_text="400 fl ." status="corrected" resp="#human_editor"/>
           <span id="10" start="139" end="140" element="reference" class="per" confidence="0.8" text="des Berenfelder" numerus="sgl" specificity="spc" subclass="">
             <span id="81" start="140" end="140" element="head" class="nam" confidence="0.97" text="Berenfelder"/>
           </span>
@@ -12318,7 +12318,7 @@
             </span>
             <span id="47" start="115" end="116" element="attr" class="dues" confidence="1.0" text="ist zinsfrey"/>
           </span>
-          <span id="11" start="119" end="121" element="value" class="money" confidence="1.0" text="2350 fl ." norm="2350.0 Gulden"/>
+          <span id="11" start="119" end="121" element="value" class="money" confidence="1.0" text="2350 fl ." norm="2350.0 Gulden" status="corrected" resp="#human_editor"/>
         </spans>
         <relations>
           <relation id="1" from="4" to="0" class="coref"/>
@@ -15893,6 +15893,7 @@
           <eventGroup event_id="0" class="due-payment" start="1" end="23" ref="" type="event" tense="unk" polarity="unk" modality="unk">
             <trigger ref="3" text="gibt"/>
             <event event_id="0.0">
+              <role role="date" inferred="true" text="1521"/>
               <role role="place" confidence="0.99" ref="0" text="sant Petri"/>
               <role role="date" confidence="1.0" ref="1" text="1521"/>
               <role role="payer" confidence="1.0" ref="2" text="Meister Bartholomer"/>
@@ -16178,6 +16179,7 @@
           <eventGroup event_id="0" class="due-payment" start="1" end="41" ref="" type="event" tense="unk" polarity="unk" modality="unk">
             <trigger ref="3" text="gibt"/>
             <event event_id="0.0">
+              <role role="date" inferred="true" text="1526"/>
               <role role="place" confidence="1.0" ref="0" text="sant Pettri"/>
               <role role="date" confidence="1.0" ref="1" text="1526"/>
               <role role="payer" confidence="1.0" ref="2" text="Der Lütpriester zu sant Peter"/>
@@ -16535,7 +16537,7 @@
             </span>
             <span id="17" start="62" end="64" element="attr" class="dues" confidence="0.99" text="ist zins frei"/>
           </span>
-          <span id="5" start="67" end="69" element="value" class="money" confidence="1.0" text="125 ℔ ." norm="125.0 Pfund"/>
+          <span id="5" start="67" end="69" element="value" class="money" confidence="1.0" text="125 ℔." norm="125.0 Pfund" orig_text="125 ℔ ." status="corrected" resp="#human_editor"/>
         </spans>
         <relations>
           <relation id="1" from="12" to="2" class="coref"/>
@@ -17138,7 +17140,7 @@
               <span id="54" start="92" end="92" element="trigger" class="other" confidence="0.49" text="abgelöst"/>
             </span>
           </span>
-          <span id="6" start="102" end="104" element="value" class="money" confidence="1.0" text="35 ℔ ." norm="35.0 Pfund"/>
+          <span id="6" start="102" end="104" element="value" class="money" confidence="1.0" text="35 ℔." norm="35.0 Pfund" orig_text="35 ℔ ." status="corrected" resp="#human_editor"/>
         </spans>
         <relations>
           <relation from="53" to="3" class="coref"/>
@@ -19731,6 +19733,7 @@
           <eventGroup event_id="0" class="due-payment" start="3" end="62" ref="" type="event" tense="unk" polarity="unk" modality="unk">
             <trigger ref="4" text="soll"/>
             <event event_id="0.0">
+              <role role="date" inferred="true" text="1645"/>
               <role role="date" confidence="1.0" ref="1" text="1646"/>
               <role role="date" confidence="1.0" ref="2" text="7"/>
               <role role="payer" confidence="1.0" ref="3" text="Davidt Morloth"/>
@@ -20332,6 +20335,7 @@
           <eventGroup event_id="0" class="due-payment" start="12" end="24" ref="" type="event" tense="unk" polarity="unk" modality="unk">
             <trigger ref="5" text="soll"/>
             <event event_id="0.0">
+              <role role="date" inferred="true" text="1671"/>
               <role role="date" confidence="0.98" ref="2" text="1672"/>
               <role role="date" confidence="1.0" ref="3" text="3"/>
               <role role="payer" confidence="1.0" ref="4" text="Frau Catherina Schnellin"/>
@@ -22876,6 +22880,7 @@
           <eventGroup event_id="0" class="due-payment" start="1" end="27" ref="" type="event" tense="unk" polarity="unk" modality="unk">
             <trigger ref="3" text="gitt"/>
             <event event_id="0.0">
+              <role role="date" inferred="true" text="1454"/>
               <role role="place" confidence="0.9" ref="0" text="dem Platz in der nüwen Vorstatt"/>
               <role role="date" confidence="1.0" ref="1" text="1454"/>
               <role role="payer" confidence="0.99" ref="2" text="Luchreden von Hessingen"/>
@@ -23065,6 +23070,7 @@
           <eventGroup event_id="0" class="due-payment" start="11" end="74" ref="" type="event" tense="unk" polarity="unk" modality="unk">
             <trigger ref="5" text="git"/>
             <event event_id="0.0">
+              <role role="date" inferred="true" text="1456"/>
               <role role="date" confidence="1.0" ref="3" text="1457"/>
               <role role="payer" confidence="1.0" ref="4" text="Ullrich Schmid der Schnider"/>
               <role role="interest" confidence="0.99" ref="6" text="18 dn ."/>
@@ -23612,6 +23618,7 @@
           <eventGroup event_id="0" class="due-payment" start="1" end="68" ref="" type="event" tense="unk" polarity="unk" modality="unk">
             <trigger ref="3" text="gend"/>
             <event event_id="0.0">
+              <role role="date" inferred="true" text="1477"/>
               <role role="place" confidence="0.99" ref="0" text="sannt Petri"/>
               <role role="date" confidence="1.0" ref="1" text="1477"/>
               <role role="payer" confidence="1.0" ref="2" text="Ulrich Schmidts sel . Erben"/>
@@ -23749,6 +23756,7 @@
           <eventGroup event_id="0" class="due-payment" start="1" end="30" ref="" type="event" tense="unk" polarity="unk" modality="unk">
             <trigger ref="3" text="geben"/>
             <event event_id="0.0">
+              <role role="date" inferred="true" text="1501"/>
               <role role="place" confidence="0.99" ref="0" text="sannt Petri"/>
               <role role="date" confidence="1.0" ref="1" text="1501"/>
               <role role="payer" confidence="1.0" ref="2" text="Ulrich Schmitt des Schniders sel . Erben"/>
@@ -23868,6 +23876,7 @@
           <eventGroup event_id="0" class="due-payment" start="1" end="21" ref="" type="event" tense="unk" polarity="unk" modality="unk">
             <trigger ref="3" text="gibt"/>
             <event event_id="0.0">
+              <role role="date" inferred="true" text="1504"/>
               <role role="place" confidence="0.99" ref="0" text="sannt Petri"/>
               <role role="date" confidence="1.0" ref="1" text="1504"/>
               <role role="payer" confidence="1.0" ref="2" text="Else Wolffers"/>
@@ -23995,6 +24004,7 @@
           <eventGroup event_id="0" class="due-payment" start="1" end="31" ref="" type="event" tense="unk" polarity="unk" modality="unk">
             <trigger ref="3" text="gibt"/>
             <event event_id="0.0">
+              <role role="date" inferred="true" text="1507"/>
               <role role="place" confidence="1.0" ref="0" text="sant Schi"/>
               <role role="date" confidence="1.0" ref="1" text="1507"/>
               <role role="payer" confidence="1.0" ref="2" text="Hanns Krebs von Waltkirch der Schnider"/>
@@ -24219,6 +24229,7 @@
           <eventGroup event_id="0" class="due-payment" start="1" end="36" ref="" type="event" tense="unk" polarity="unk" modality="unk">
             <trigger ref="3" text="gibt"/>
             <event event_id="0.0">
+              <role role="date" inferred="true" text="1512"/>
               <role role="place" confidence="1.0" ref="0" text="sant Petri"/>
               <role role="date" confidence="1.0" ref="1" text="1512"/>
               <role role="payer" confidence="1.0" ref="2" text="Herr Jörg Verster"/>

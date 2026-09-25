@@ -3685,7 +3685,7 @@
               </span>
             </span>
           </span>
-          <span id="5" start="67" end="69" element="value" class="money" confidence="1.0" text="45 fl ." norm="45.0 Gulden"/>
+          <span id="5" start="67" end="69" element="value" class="money" confidence="1.0" text="45 fl ." norm="45.0 Gulden" status="corrected" resp="#human_editor"/>
         </spans>
         <relations>
           <relation id="1" from="16" to="2" class="coref"/>
@@ -3976,7 +3976,7 @@
               </span>
             </span>
           </span>
-          <span id="7" start="107" end="109" element="value" class="money" confidence="1.0" text="80 fl ." norm="80.0 Gulden"/>
+          <span id="7" start="107" end="109" element="value" class="money" confidence="1.0" text="80 fl ." norm="80.0 Gulden" status="corrected" resp="#human_editor"/>
         </spans>
         <relations>
           <relation id="1" from="11" to="0" class="coref"/>
@@ -6263,8 +6263,8 @@
             <span id="39" start="31" end="32" element="attr" class="dead" confidence="0.99" text="sel ."/>
           </span>
           <span id="7" start="33" end="33" element="trigger" class="other" confidence="0.73" text="ererbt"/>
-          <span id="8" start="37" end="39" element="value" class="money" confidence="1.0" text="10 fl ." norm="10.0 Gulden"/>
-          <span id="9" start="44" end="45" element="value" class="money" confidence="0.99" text="6 flegelts" norm="6.0 UNKNOWN"/>
+          <span id="8" start="37" end="39" element="value" class="money" confidence="1.0" text="120 fl ." norm="120.0 Gulden" orig_norm="10.0 Gulden" orig_text="10 fl ." status="corrected" resp="#human_editor"/>
+          <span id="9" start="44" end="45" element="value" class="money" confidence="0.99" text="6 flegelts" norm="" orig_norm="6.0 UNKNOWN" status="corrected" resp="#human_editor"/>
           <span id="10" start="48" end="52" element="reference" class="per" confidence="0.72" text="die Verkäufenn hat zu Belligken" numerus="grp" specificity="spc" subclass="">
             <span id="40" start="49" end="49" element="head" class="role" confidence="0.97" text="Verkäufenn"/>
             <span id="41" start="50" end="52" element="attr" class="loc" confidence="0.79" text="hat zu Belligken">
@@ -6774,7 +6774,7 @@
             </span>
             <span id="28" start="79" end="81" element="attr" class="dues" confidence="1.0" text="ist zins frei"/>
           </span>
-          <span id="6" start="84" end="86" element="value" class="money" confidence="1.0" text="1400 fl ." norm="1400.0 Gulden"/>
+          <span id="6" start="84" end="86" element="value" class="money" confidence="1.0" text="140 fl ." norm="140.0 Gulden" orig_norm="1400.0 Gulden" orig_text="1400 fl ." status="corrected" resp="#human_editor"/>
         </spans>
         <relations>
           <relation id="1" from="17" to="0" class="coref"/>
@@ -8494,7 +8494,7 @@
               <span id="84" start="179" end="183" element="value" class="money" confidence="1.0" text="1 ℔ 3 sh ." norm="1.0 Pfund|3.0 Schilling"/>
             </span>
           </span>
-          <span id="5" start="185" end="188" element="value" class="money" confidence="1.0" text="517 ½ fl ." norm="517.5 Gulden"/>
+          <span id="5" start="185" end="188" element="value" class="money" confidence="1.0" text="517 ½ fl ." norm="517.5 Gulden" status="corrected" resp="#human_editor"/>
         </spans>
         <relations>
           <relation id="1" from="13" to="0" class="coref"/>
@@ -9066,7 +9066,7 @@
             </span>
             <span id="77" start="185" end="187" element="attr" class="dues" confidence="0.96" text="alles zins frei"/>
           </span>
-          <span id="7" start="190" end="192" element="value" class="money" confidence="1.0" text="1200 fl ." norm="1200.0 Gulden"/>
+          <span id="7" start="190" end="192" element="value" class="money" confidence="1.0" text="1200 fl ." norm="1200.0 Gulden" status="corrected" resp="#human_editor"/>
         </spans>
         <relations>
           <relation id="1" from="11" to="0" class="coref"/>
@@ -9428,7 +9428,7 @@
             </span>
             <span id="37" start="107" end="109" element="attr" class="dues" confidence="0.99" text="ist zins frey"/>
           </span>
-          <span id="8" start="112" end="114" element="value" class="money" confidence="1.0" text="300 ℔ ." norm="300.0 Pfund"/>
+          <span id="8" start="112" end="114" element="value" class="money" confidence="1.0" text="300 ℔." norm="300.0 Pfund" orig_text="300 ℔ ." status="corrected" resp="#human_editor"/>
         </spans>
         <relations>
           <relation id="1" from="17" to="0" class="coref"/>
@@ -9656,7 +9656,7 @@
             </span>
             <span id="22" start="53" end="54" element="attr" class="dues" confidence="1.0" text="ist zinsfrey"/>
           </span>
-          <span id="6" start="57" end="59" element="value" class="money" confidence="1.0" text="110 ℔ ." norm="110.0 Pfund"/>
+          <span id="6" start="57" end="59" element="value" class="money" confidence="1.0" text="110 ℔." norm="110.0 Pfund" orig_text="110 ℔ ." status="corrected" resp="#human_editor"/>
         </spans>
         <relations>
           <relation id="1" from="10" to="0" class="coref"/>
@@ -10616,7 +10616,7 @@
               <span id="46" start="57" end="61" element="value" class="money" confidence="1.0" text="1 1 / 2sh ." norm="1.5 Schilling"/>
             </span>
           </span>
-          <span id="7" start="65" end="67" element="value" class="money" confidence="1.0" text="30 ℔ ." norm="30.0 Pfund"/>
+          <span id="7" start="65" end="67" element="value" class="money" confidence="1.0" text="30 ℔." norm="30.0 Pfund" orig_text="30 ℔ ." status="corrected" resp="#human_editor"/>
         </spans>
         <relations>
           <relation id="1" from="11" to="0" class="coref"/>
@@ -11056,7 +11056,7 @@
               </span>
             </span>
           </span>
-          <span id="6" start="60" end="62" element="value" class="money" confidence="1.0" text="48 fl ." norm="48.0 Gulden"/>
+          <span id="6" start="60" end="62" element="value" class="money" confidence="1.0" text="48 fl ." norm="48.0 Gulden" status="corrected" resp="#human_editor"/>
         </spans>
         <relations>
           <relation id="1" from="12" to="0" class="coref"/>
